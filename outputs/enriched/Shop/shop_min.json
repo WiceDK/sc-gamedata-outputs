@@ -2651,7 +2651,7 @@
                           },
                           {
                               "itemRef":  "80ab18bb-9bc2-4e4f-a407-06c28e69bea7",
-                              "itemCodeName":  "entityclassdefinition.vncl_lasercannon_s2",
+                              "itemCodeName":  "vncl_lasercannon_s2",
                               "itemDisplayName":  "'WASP' Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -2673,7 +2673,7 @@
                           },
                           {
                               "itemRef":  "34bc9924-3f20-4bc9-a6cf-81335a0608fe",
-                              "itemCodeName":  "asad_distortionrepeater_s1",
+                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s1",
                               "itemDisplayName":  "DR Model-XJ1 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -2695,7 +2695,7 @@
                           },
                           {
                               "itemRef":  "76706adf-4687-4a7a-aaf1-c44af0a5d2ca",
-                              "itemCodeName":  "entityclassdefinition.prar_distortionscattergun_s4",
+                              "itemCodeName":  "prar_distortionscattergun_s4",
                               "itemDisplayName":  "Salvation Distortion Scattergun",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -2739,7 +2739,7 @@
                           },
                           {
                               "itemRef":  "1754a3d4-4aa9-469d-8fb7-d8611bd3e9a1",
-                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_vncl_bullet",
+                              "itemCodeName":  "misl_s02_ir_vncl_bullet",
                               "itemDisplayName":  "'Bullet' II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -2750,7 +2750,7 @@
                           },
                           {
                               "itemRef":  "dee6efca-71ef-438c-b762-624f9ce649f3",
-                              "itemCodeName":  "entityclassdefinition.misl_s03_cs_fski_arrester",
+                              "itemCodeName":  "misl_s03_cs_fski_arrester",
                               "itemDisplayName":  "Arrester III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -2761,7 +2761,7 @@
                           },
                           {
                               "itemRef":  "9a741b0a-200d-4f1a-92a8-f917510804e1",
-                              "itemCodeName":  "misl_s03_em_fski_thunderbolt",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_em_fski_thunderbolt",
                               "itemDisplayName":  "Thunderbolt III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -2772,7 +2772,7 @@
                           },
                           {
                               "itemRef":  "e5aa84b6-9b14-4eb3-949f-10e1cc8cd6cf",
-                              "itemCodeName":  "misl_s03_ir_novp_viper",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_novp_viper",
                               "itemDisplayName":  "Viper III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -2783,7 +2783,7 @@
                           },
                           {
                               "itemRef":  "d4408421-e939-4e34-9902-0644fa6934be",
-                              "itemCodeName":  "misl_s03_ir_vncl_chaos",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_vncl_chaos",
                               "itemDisplayName":  "'Chaos' III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -2794,7 +2794,7 @@
                           },
                           {
                               "itemRef":  "bc9adaf0-90a2-45e8-ba1d-5e0b56a76c92",
-                              "itemCodeName":  "misl_s04_ir_vncl_dragon",
+                              "itemCodeName":  "entityclassdefinition.misl_s04_ir_vncl_dragon",
                               "itemDisplayName":  "'Dragon' IV Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -2860,7 +2860,7 @@
                           },
                           {
                               "itemRef":  "a117d541-aa61-49fd-ae53-469b0fdf7ccd",
-                              "itemCodeName":  "powr_sasu_s01_lightblossom_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s01_lightblossom_scitem",
                               "itemDisplayName":  "LightBlossom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -2871,7 +2871,7 @@
                           },
                           {
                               "itemRef":  "13880fbe-7295-4f55-886d-251ad01e2677",
-                              "itemCodeName":  "powr_amrs_s01_overdrive_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_amrs_s01_overdrive_scitem",
                               "itemDisplayName":  "OverDrive",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -2904,7 +2904,7 @@
                           },
                           {
                               "itemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
-                              "itemCodeName":  "powr_sasu_s02_daybreak_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s02_daybreak_scitem",
                               "itemDisplayName":  "DayBreak",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -2959,7 +2959,7 @@
                           },
                           {
                               "itemRef":  "b64ab3f3-4b44-418c-a438-57a04a1cf1b2",
-                              "itemCodeName":  "entityclassdefinition.shld_yorm_s01_falco_scitem",
+                              "itemCodeName":  "shld_yorm_s01_falco_scitem",
                               "itemDisplayName":  "Falco",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -2981,7 +2981,7 @@
                           },
                           {
                               "itemRef":  "37ae6971-46d1-4021-bb9f-353813df8e9f",
-                              "itemCodeName":  "shld_basl_s02_aspis_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_basl_s02_aspis_scitem",
                               "itemDisplayName":  "Aspis",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -3003,7 +3003,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -3025,7 +3025,7 @@
                           },
                           {
                               "itemRef":  "4702547f-fa0f-4f6c-b2ed-9782ee9f518b",
-                              "itemCodeName":  "qdrv_tars_s01_expedition_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_tars_s01_expedition_scitem",
                               "itemDisplayName":  "Expedition",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -3036,7 +3036,7 @@
                           },
                           {
                               "itemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s01_goliath_scitem",
+                              "itemCodeName":  "qdrv_just_s01_goliath_scitem",
                               "itemDisplayName":  "Goliath",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -3047,7 +3047,7 @@
                           },
                           {
                               "itemRef":  "74cc0d0b-1bf5-436c-a38c-1baf93962b89",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s02_bolon_scitem",
+                              "itemCodeName":  "qdrv_just_s02_bolon_scitem",
                               "itemDisplayName":  "Bolon",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -3080,7 +3080,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -3091,7 +3091,7 @@
                           },
                           {
                               "itemRef":  "662e4a88-d893-46fd-9fcc-e33e4b783fae",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s02_maelstrom_scitem",
+                              "itemCodeName":  "powr_aegs_s02_maelstrom_scitem",
                               "itemDisplayName":  "Maelstrom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -3102,7 +3102,7 @@
                           },
                           {
                               "itemRef":  "387da568-31d2-4479-81da-21dd015db668",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s00_froststarsl_scitem",
+                              "itemCodeName":  "cool_jspn_s00_froststarsl_scitem",
                               "itemDisplayName":  "Frost-Star SL",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -3113,7 +3113,7 @@
                           },
                           {
                               "itemRef":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
-                              "itemCodeName":  "cool_wcpr_s00_fridan_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s00_fridan_scitem",
                               "itemDisplayName":  "Fridan",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -3135,7 +3135,7 @@
                           },
                           {
                               "itemRef":  "5f474dec-75e8-4626-9c0a-f5a48f841f33",
-                              "itemCodeName":  "cool_tydt_s01_vaporblock_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_tydt_s01_vaporblock_scitem",
                               "itemDisplayName":  "VaporBlock",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -3146,7 +3146,7 @@
                           },
                           {
                               "itemRef":  "bba050c3-1348-45a8-91c6-73e4ecf5082f",
-                              "itemCodeName":  "entityclassdefinition.cool_just_s01_thermax_scitem",
+                              "itemCodeName":  "cool_just_s01_thermax_scitem",
                               "itemDisplayName":  "Thermax",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -3179,7 +3179,7 @@
                           },
                           {
                               "itemRef":  "866c76c0-8c22-44ad-b1dc-167ee5fbe347",
-                              "itemCodeName":  "cool_just_s02_hydrojet_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_just_s02_hydrojet_scitem",
                               "itemDisplayName":  "HydroJet",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -3201,7 +3201,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -3212,7 +3212,7 @@
                           },
                           {
                               "itemRef":  "ec636cbd-21c6-4b9c-a095-c8ef04f1a9fa",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s01_winterstar_scitem",
+                              "itemCodeName":  "cool_jspn_s01_winterstar_scitem",
                               "itemDisplayName":  "Winter-Star",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -13888,7 +13888,7 @@
                           },
                           {
                               "itemRef":  "80ab18bb-9bc2-4e4f-a407-06c28e69bea7",
-                              "itemCodeName":  "entityclassdefinition.vncl_lasercannon_s2",
+                              "itemCodeName":  "vncl_lasercannon_s2",
                               "itemDisplayName":  "'WASP' Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -13910,7 +13910,7 @@
                           },
                           {
                               "itemRef":  "34bc9924-3f20-4bc9-a6cf-81335a0608fe",
-                              "itemCodeName":  "asad_distortionrepeater_s1",
+                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s1",
                               "itemDisplayName":  "DR Model-XJ1 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -13932,7 +13932,7 @@
                           },
                           {
                               "itemRef":  "76706adf-4687-4a7a-aaf1-c44af0a5d2ca",
-                              "itemCodeName":  "entityclassdefinition.prar_distortionscattergun_s4",
+                              "itemCodeName":  "prar_distortionscattergun_s4",
                               "itemDisplayName":  "Salvation Distortion Scattergun",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -13976,7 +13976,7 @@
                           },
                           {
                               "itemRef":  "1754a3d4-4aa9-469d-8fb7-d8611bd3e9a1",
-                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_vncl_bullet",
+                              "itemCodeName":  "misl_s02_ir_vncl_bullet",
                               "itemDisplayName":  "'Bullet' II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -13987,7 +13987,7 @@
                           },
                           {
                               "itemRef":  "dee6efca-71ef-438c-b762-624f9ce649f3",
-                              "itemCodeName":  "entityclassdefinition.misl_s03_cs_fski_arrester",
+                              "itemCodeName":  "misl_s03_cs_fski_arrester",
                               "itemDisplayName":  "Arrester III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -13998,7 +13998,7 @@
                           },
                           {
                               "itemRef":  "9a741b0a-200d-4f1a-92a8-f917510804e1",
-                              "itemCodeName":  "misl_s03_em_fski_thunderbolt",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_em_fski_thunderbolt",
                               "itemDisplayName":  "Thunderbolt III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -14009,7 +14009,7 @@
                           },
                           {
                               "itemRef":  "e5aa84b6-9b14-4eb3-949f-10e1cc8cd6cf",
-                              "itemCodeName":  "misl_s03_ir_novp_viper",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_novp_viper",
                               "itemDisplayName":  "Viper III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -14020,7 +14020,7 @@
                           },
                           {
                               "itemRef":  "d4408421-e939-4e34-9902-0644fa6934be",
-                              "itemCodeName":  "misl_s03_ir_vncl_chaos",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_vncl_chaos",
                               "itemDisplayName":  "'Chaos' III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -14031,7 +14031,7 @@
                           },
                           {
                               "itemRef":  "bc9adaf0-90a2-45e8-ba1d-5e0b56a76c92",
-                              "itemCodeName":  "misl_s04_ir_vncl_dragon",
+                              "itemCodeName":  "entityclassdefinition.misl_s04_ir_vncl_dragon",
                               "itemDisplayName":  "'Dragon' IV Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -14097,7 +14097,7 @@
                           },
                           {
                               "itemRef":  "a117d541-aa61-49fd-ae53-469b0fdf7ccd",
-                              "itemCodeName":  "powr_sasu_s01_lightblossom_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s01_lightblossom_scitem",
                               "itemDisplayName":  "LightBlossom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -14108,7 +14108,7 @@
                           },
                           {
                               "itemRef":  "13880fbe-7295-4f55-886d-251ad01e2677",
-                              "itemCodeName":  "powr_amrs_s01_overdrive_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_amrs_s01_overdrive_scitem",
                               "itemDisplayName":  "OverDrive",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -14141,7 +14141,7 @@
                           },
                           {
                               "itemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
-                              "itemCodeName":  "powr_sasu_s02_daybreak_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s02_daybreak_scitem",
                               "itemDisplayName":  "DayBreak",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -14196,7 +14196,7 @@
                           },
                           {
                               "itemRef":  "b64ab3f3-4b44-418c-a438-57a04a1cf1b2",
-                              "itemCodeName":  "entityclassdefinition.shld_yorm_s01_falco_scitem",
+                              "itemCodeName":  "shld_yorm_s01_falco_scitem",
                               "itemDisplayName":  "Falco",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -14218,7 +14218,7 @@
                           },
                           {
                               "itemRef":  "37ae6971-46d1-4021-bb9f-353813df8e9f",
-                              "itemCodeName":  "shld_basl_s02_aspis_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_basl_s02_aspis_scitem",
                               "itemDisplayName":  "Aspis",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -14240,7 +14240,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -14262,7 +14262,7 @@
                           },
                           {
                               "itemRef":  "4702547f-fa0f-4f6c-b2ed-9782ee9f518b",
-                              "itemCodeName":  "qdrv_tars_s01_expedition_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_tars_s01_expedition_scitem",
                               "itemDisplayName":  "Expedition",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -14273,7 +14273,7 @@
                           },
                           {
                               "itemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s01_goliath_scitem",
+                              "itemCodeName":  "qdrv_just_s01_goliath_scitem",
                               "itemDisplayName":  "Goliath",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -14284,7 +14284,7 @@
                           },
                           {
                               "itemRef":  "74cc0d0b-1bf5-436c-a38c-1baf93962b89",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s02_bolon_scitem",
+                              "itemCodeName":  "qdrv_just_s02_bolon_scitem",
                               "itemDisplayName":  "Bolon",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -14317,7 +14317,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -14328,7 +14328,7 @@
                           },
                           {
                               "itemRef":  "662e4a88-d893-46fd-9fcc-e33e4b783fae",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s02_maelstrom_scitem",
+                              "itemCodeName":  "powr_aegs_s02_maelstrom_scitem",
                               "itemDisplayName":  "Maelstrom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -14339,7 +14339,7 @@
                           },
                           {
                               "itemRef":  "387da568-31d2-4479-81da-21dd015db668",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s00_froststarsl_scitem",
+                              "itemCodeName":  "cool_jspn_s00_froststarsl_scitem",
                               "itemDisplayName":  "Frost-Star SL",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -14350,7 +14350,7 @@
                           },
                           {
                               "itemRef":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
-                              "itemCodeName":  "cool_wcpr_s00_fridan_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s00_fridan_scitem",
                               "itemDisplayName":  "Fridan",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -14372,7 +14372,7 @@
                           },
                           {
                               "itemRef":  "5f474dec-75e8-4626-9c0a-f5a48f841f33",
-                              "itemCodeName":  "cool_tydt_s01_vaporblock_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_tydt_s01_vaporblock_scitem",
                               "itemDisplayName":  "VaporBlock",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -14383,7 +14383,7 @@
                           },
                           {
                               "itemRef":  "bba050c3-1348-45a8-91c6-73e4ecf5082f",
-                              "itemCodeName":  "entityclassdefinition.cool_just_s01_thermax_scitem",
+                              "itemCodeName":  "cool_just_s01_thermax_scitem",
                               "itemDisplayName":  "Thermax",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -14416,7 +14416,7 @@
                           },
                           {
                               "itemRef":  "866c76c0-8c22-44ad-b1dc-167ee5fbe347",
-                              "itemCodeName":  "cool_just_s02_hydrojet_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_just_s02_hydrojet_scitem",
                               "itemDisplayName":  "HydroJet",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -14438,7 +14438,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -14449,7 +14449,7 @@
                           },
                           {
                               "itemRef":  "ec636cbd-21c6-4b9c-a095-c8ef04f1a9fa",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s01_winterstar_scitem",
+                              "itemCodeName":  "cool_jspn_s01_winterstar_scitem",
                               "itemDisplayName":  "Winter-Star",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -16443,7 +16443,7 @@
         "inventory":  [
                           {
                               "itemRef":  "e5b42569-10da-40a5-a16f-497f5b84cf3c",
-                              "itemCodeName":  "ksar_shotgun_energy_01",
+                              "itemCodeName":  "entityclassdefinition.ksar_shotgun_energy_01",
                               "itemDisplayName":  "Devastator Shotgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Medium",
@@ -16520,7 +16520,7 @@
                           },
                           {
                               "itemRef":  "699db405-4ca1-4993-ba58-a9f90001ae6b",
-                              "itemCodeName":  "apar_special_ballistic_01",
+                              "itemCodeName":  "entityclassdefinition.apar_special_ballistic_01",
                               "itemDisplayName":  "Scourge Railgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Large",
@@ -17297,7 +17297,7 @@
                           },
                           {
                               "itemRef":  "e5b42569-10da-40a5-a16f-497f5b84cf3c",
-                              "itemCodeName":  "ksar_shotgun_energy_01",
+                              "itemCodeName":  "entityclassdefinition.ksar_shotgun_energy_01",
                               "itemDisplayName":  "Devastator Shotgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Medium",
@@ -19448,7 +19448,7 @@
                           },
                           {
                               "itemRef":  "e5b42569-10da-40a5-a16f-497f5b84cf3c",
-                              "itemCodeName":  "ksar_shotgun_energy_01",
+                              "itemCodeName":  "entityclassdefinition.ksar_shotgun_energy_01",
                               "itemDisplayName":  "Devastator Shotgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Medium",
@@ -21957,7 +21957,7 @@
         "inventory":  [
                           {
                               "itemRef":  "86630fcf-09c3-4def-a7b4-9385cbc05a42",
-                              "itemCodeName":  "apar_massdriver_s2",
+                              "itemCodeName":  "entityclassdefinition.apar_massdriver_s2",
                               "itemDisplayName":  "Strife Mass Driver Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -21990,7 +21990,7 @@
                           },
                           {
                               "itemRef":  "596ced46-195e-4f60-826a-7cc5bb2e2f02",
-                              "itemCodeName":  "entityclassdefinition.mxox_neutroncannon_s2",
+                              "itemCodeName":  "mxox_neutroncannon_s2",
                               "itemDisplayName":  "NN-14 Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -22078,7 +22078,7 @@
                           },
                           {
                               "itemRef":  "8acc8f1f-47cb-46e4-bf58-bea2ac5ff52e",
-                              "itemCodeName":  "misl_s02_ir_novp_rattler",
+                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_novp_rattler",
                               "itemDisplayName":  "Rattler II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22089,7 +22089,7 @@
                           },
                           {
                               "itemRef":  "1754a3d4-4aa9-469d-8fb7-d8611bd3e9a1",
-                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_vncl_bullet",
+                              "itemCodeName":  "misl_s02_ir_vncl_bullet",
                               "itemDisplayName":  "'Bullet' II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22100,7 +22100,7 @@
                           },
                           {
                               "itemRef":  "d4408421-e939-4e34-9902-0644fa6934be",
-                              "itemCodeName":  "misl_s03_ir_vncl_chaos",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_vncl_chaos",
                               "itemDisplayName":  "'Chaos' III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22166,7 +22166,7 @@
                           },
                           {
                               "itemRef":  "f68e5fb2-2388-43d1-9aab-bed82da648c8",
-                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s01_berian_scitem",
+                              "itemCodeName":  "cool_wcpr_s01_berian_scitem",
                               "itemDisplayName":  "Berian",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -22188,7 +22188,7 @@
                           },
                           {
                               "itemRef":  "ec636cbd-21c6-4b9c-a095-c8ef04f1a9fa",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s01_winterstar_scitem",
+                              "itemCodeName":  "cool_jspn_s01_winterstar_scitem",
                               "itemDisplayName":  "Winter-Star",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -22199,7 +22199,7 @@
                           },
                           {
                               "itemRef":  "94ea5bb5-070c-4c75-b90d-66c26c38bb2a",
-                              "itemCodeName":  "cool_lplt_s01_blastchill_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_lplt_s01_blastchill_scitem",
                               "itemDisplayName":  "BlastChill",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -22210,7 +22210,7 @@
                           },
                           {
                               "itemRef":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
-                              "itemCodeName":  "cool_wcpr_s00_fridan_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s00_fridan_scitem",
                               "itemDisplayName":  "Fridan",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -22232,7 +22232,7 @@
                           },
                           {
                               "itemRef":  "08a5bfdb-1972-421f-83fe-be03b7ac5222",
-                              "itemCodeName":  "entityclassdefinition.qdrv_rsi_s01_eos_scitem",
+                              "itemCodeName":  "qdrv_rsi_s01_eos_scitem",
                               "itemDisplayName":  "Eos",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -22243,7 +22243,7 @@
                           },
                           {
                               "itemRef":  "4702547f-fa0f-4f6c-b2ed-9782ee9f518b",
-                              "itemCodeName":  "qdrv_tars_s01_expedition_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_tars_s01_expedition_scitem",
                               "itemDisplayName":  "Expedition",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -22265,7 +22265,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -22276,7 +22276,7 @@
                           },
                           {
                               "itemRef":  "6be9c02c-ff32-483f-a6f8-d984dcb97c40",
-                              "itemCodeName":  "shld_seco_s01_web_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s01_web_scitem",
                               "itemDisplayName":  "WEB",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -22298,7 +22298,7 @@
                           },
                           {
                               "itemRef":  "b66a64ca-9c53-40e7-8618-3b66b10a021c",
-                              "itemCodeName":  "shld_godi_s01_forcewall_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_godi_s01_forcewall_scitem",
                               "itemDisplayName":  "ForceWall",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -22320,7 +22320,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -22364,7 +22364,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22397,7 +22397,7 @@
                           },
                           {
                               "itemRef":  "0a713a9d-7e70-4586-87a6-ce08c337a8ea",
-                              "itemCodeName":  "entityclassdefinition.powr_tydt_s01_deltamax_scitem",
+                              "itemCodeName":  "powr_tydt_s01_deltamax_scitem",
                               "itemDisplayName":  "DeltaMax",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22430,7 +22430,7 @@
                           },
                           {
                               "itemRef":  "a1108d40-080d-4087-b5e2-5030336ee180",
-                              "itemCodeName":  "powr_just_s01_fortitude_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_just_s01_fortitude_scitem",
                               "itemDisplayName":  "Fortitude",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22452,7 +22452,7 @@
                           },
                           {
                               "itemRef":  "aa15e2df-d7b1-4e97-9e0d-7623a3a096b0",
-                              "itemCodeName":  "entityclassdefinition.powr_just_s02_trommel_scitem",
+                              "itemCodeName":  "powr_just_s02_trommel_scitem",
                               "itemDisplayName":  "Trommel",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22463,7 +22463,7 @@
                           },
                           {
                               "itemRef":  "662e4a88-d893-46fd-9fcc-e33e4b783fae",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s02_maelstrom_scitem",
+                              "itemCodeName":  "powr_aegs_s02_maelstrom_scitem",
                               "itemDisplayName":  "Maelstrom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22485,7 +22485,7 @@
                           },
                           {
                               "itemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s01_goliath_scitem",
+                              "itemCodeName":  "qdrv_just_s01_goliath_scitem",
                               "itemDisplayName":  "Goliath",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -22496,7 +22496,7 @@
                           },
                           {
                               "itemRef":  "95a43815-970e-4a70-87df-0658c32495d8",
-                              "itemCodeName":  "qdrv_wetk_s01_siren_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_wetk_s01_siren_scitem",
                               "itemDisplayName":  "Siren",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -22562,7 +22562,7 @@
                           },
                           {
                               "itemRef":  "86bfeaef-e0e2-4373-9dca-47e193c0b203",
-                              "itemCodeName":  "entityclassdefinition.shld_seco_s02_stop_scitem",
+                              "itemCodeName":  "shld_seco_s02_stop_scitem",
                               "itemDisplayName":  "STOP",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -22667,7 +22667,7 @@
                           },
                           {
                               "itemRef":  "80ab18bb-9bc2-4e4f-a407-06c28e69bea7",
-                              "itemCodeName":  "entityclassdefinition.vncl_lasercannon_s2",
+                              "itemCodeName":  "vncl_lasercannon_s2",
                               "itemDisplayName":  "'WASP' Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -22689,7 +22689,7 @@
                           },
                           {
                               "itemRef":  "34bc9924-3f20-4bc9-a6cf-81335a0608fe",
-                              "itemCodeName":  "asad_distortionrepeater_s1",
+                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s1",
                               "itemDisplayName":  "DR Model-XJ1 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -22711,7 +22711,7 @@
                           },
                           {
                               "itemRef":  "76706adf-4687-4a7a-aaf1-c44af0a5d2ca",
-                              "itemCodeName":  "entityclassdefinition.prar_distortionscattergun_s4",
+                              "itemCodeName":  "prar_distortionscattergun_s4",
                               "itemDisplayName":  "Salvation Distortion Scattergun",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -22755,7 +22755,7 @@
                           },
                           {
                               "itemRef":  "1754a3d4-4aa9-469d-8fb7-d8611bd3e9a1",
-                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_vncl_bullet",
+                              "itemCodeName":  "misl_s02_ir_vncl_bullet",
                               "itemDisplayName":  "'Bullet' II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22766,7 +22766,7 @@
                           },
                           {
                               "itemRef":  "dee6efca-71ef-438c-b762-624f9ce649f3",
-                              "itemCodeName":  "entityclassdefinition.misl_s03_cs_fski_arrester",
+                              "itemCodeName":  "misl_s03_cs_fski_arrester",
                               "itemDisplayName":  "Arrester III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22777,7 +22777,7 @@
                           },
                           {
                               "itemRef":  "9a741b0a-200d-4f1a-92a8-f917510804e1",
-                              "itemCodeName":  "misl_s03_em_fski_thunderbolt",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_em_fski_thunderbolt",
                               "itemDisplayName":  "Thunderbolt III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22788,7 +22788,7 @@
                           },
                           {
                               "itemRef":  "e5aa84b6-9b14-4eb3-949f-10e1cc8cd6cf",
-                              "itemCodeName":  "misl_s03_ir_novp_viper",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_novp_viper",
                               "itemDisplayName":  "Viper III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22799,7 +22799,7 @@
                           },
                           {
                               "itemRef":  "d4408421-e939-4e34-9902-0644fa6934be",
-                              "itemCodeName":  "misl_s03_ir_vncl_chaos",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_vncl_chaos",
                               "itemDisplayName":  "'Chaos' III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22810,7 +22810,7 @@
                           },
                           {
                               "itemRef":  "bc9adaf0-90a2-45e8-ba1d-5e0b56a76c92",
-                              "itemCodeName":  "misl_s04_ir_vncl_dragon",
+                              "itemCodeName":  "entityclassdefinition.misl_s04_ir_vncl_dragon",
                               "itemDisplayName":  "'Dragon' IV Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -22876,7 +22876,7 @@
                           },
                           {
                               "itemRef":  "a117d541-aa61-49fd-ae53-469b0fdf7ccd",
-                              "itemCodeName":  "powr_sasu_s01_lightblossom_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s01_lightblossom_scitem",
                               "itemDisplayName":  "LightBlossom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22887,7 +22887,7 @@
                           },
                           {
                               "itemRef":  "13880fbe-7295-4f55-886d-251ad01e2677",
-                              "itemCodeName":  "powr_amrs_s01_overdrive_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_amrs_s01_overdrive_scitem",
                               "itemDisplayName":  "OverDrive",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22920,7 +22920,7 @@
                           },
                           {
                               "itemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
-                              "itemCodeName":  "powr_sasu_s02_daybreak_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s02_daybreak_scitem",
                               "itemDisplayName":  "DayBreak",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -22975,7 +22975,7 @@
                           },
                           {
                               "itemRef":  "b64ab3f3-4b44-418c-a438-57a04a1cf1b2",
-                              "itemCodeName":  "entityclassdefinition.shld_yorm_s01_falco_scitem",
+                              "itemCodeName":  "shld_yorm_s01_falco_scitem",
                               "itemDisplayName":  "Falco",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -22997,7 +22997,7 @@
                           },
                           {
                               "itemRef":  "37ae6971-46d1-4021-bb9f-353813df8e9f",
-                              "itemCodeName":  "shld_basl_s02_aspis_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_basl_s02_aspis_scitem",
                               "itemDisplayName":  "Aspis",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -23019,7 +23019,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -23041,7 +23041,7 @@
                           },
                           {
                               "itemRef":  "4702547f-fa0f-4f6c-b2ed-9782ee9f518b",
-                              "itemCodeName":  "qdrv_tars_s01_expedition_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_tars_s01_expedition_scitem",
                               "itemDisplayName":  "Expedition",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23052,7 +23052,7 @@
                           },
                           {
                               "itemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s01_goliath_scitem",
+                              "itemCodeName":  "qdrv_just_s01_goliath_scitem",
                               "itemDisplayName":  "Goliath",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23063,7 +23063,7 @@
                           },
                           {
                               "itemRef":  "74cc0d0b-1bf5-436c-a38c-1baf93962b89",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s02_bolon_scitem",
+                              "itemCodeName":  "qdrv_just_s02_bolon_scitem",
                               "itemDisplayName":  "Bolon",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23096,7 +23096,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23107,7 +23107,7 @@
                           },
                           {
                               "itemRef":  "662e4a88-d893-46fd-9fcc-e33e4b783fae",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s02_maelstrom_scitem",
+                              "itemCodeName":  "powr_aegs_s02_maelstrom_scitem",
                               "itemDisplayName":  "Maelstrom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23118,7 +23118,7 @@
                           },
                           {
                               "itemRef":  "387da568-31d2-4479-81da-21dd015db668",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s00_froststarsl_scitem",
+                              "itemCodeName":  "cool_jspn_s00_froststarsl_scitem",
                               "itemDisplayName":  "Frost-Star SL",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23129,7 +23129,7 @@
                           },
                           {
                               "itemRef":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
-                              "itemCodeName":  "cool_wcpr_s00_fridan_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s00_fridan_scitem",
                               "itemDisplayName":  "Fridan",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23151,7 +23151,7 @@
                           },
                           {
                               "itemRef":  "5f474dec-75e8-4626-9c0a-f5a48f841f33",
-                              "itemCodeName":  "cool_tydt_s01_vaporblock_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_tydt_s01_vaporblock_scitem",
                               "itemDisplayName":  "VaporBlock",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23162,7 +23162,7 @@
                           },
                           {
                               "itemRef":  "bba050c3-1348-45a8-91c6-73e4ecf5082f",
-                              "itemCodeName":  "entityclassdefinition.cool_just_s01_thermax_scitem",
+                              "itemCodeName":  "cool_just_s01_thermax_scitem",
                               "itemDisplayName":  "Thermax",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23195,7 +23195,7 @@
                           },
                           {
                               "itemRef":  "866c76c0-8c22-44ad-b1dc-167ee5fbe347",
-                              "itemCodeName":  "cool_just_s02_hydrojet_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_just_s02_hydrojet_scitem",
                               "itemDisplayName":  "HydroJet",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23217,7 +23217,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23228,7 +23228,7 @@
                           },
                           {
                               "itemRef":  "ec636cbd-21c6-4b9c-a095-c8ef04f1a9fa",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s01_winterstar_scitem",
+                              "itemCodeName":  "cool_jspn_s01_winterstar_scitem",
                               "itemDisplayName":  "Winter-Star",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23278,7 +23278,7 @@
                           },
                           {
                               "itemRef":  "2a787ee5-d720-4490-8823-65a0f8578f4b",
-                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s3",
+                              "itemCodeName":  "asad_distortionrepeater_s3",
                               "itemDisplayName":  "DR Model-XJ3 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23322,7 +23322,7 @@
                           },
                           {
                               "itemRef":  "76706adf-4687-4a7a-aaf1-c44af0a5d2ca",
-                              "itemCodeName":  "entityclassdefinition.prar_distortionscattergun_s4",
+                              "itemCodeName":  "prar_distortionscattergun_s4",
                               "itemDisplayName":  "Salvation Distortion Scattergun",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23355,7 +23355,7 @@
                           },
                           {
                               "itemRef":  "8acc8f1f-47cb-46e4-bf58-bea2ac5ff52e",
-                              "itemCodeName":  "misl_s02_ir_novp_rattler",
+                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_novp_rattler",
                               "itemDisplayName":  "Rattler II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -23366,7 +23366,7 @@
                           },
                           {
                               "itemRef":  "e5aa84b6-9b14-4eb3-949f-10e1cc8cd6cf",
-                              "itemCodeName":  "misl_s03_ir_novp_viper",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_novp_viper",
                               "itemDisplayName":  "Viper III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -23432,7 +23432,7 @@
                           },
                           {
                               "itemRef":  "ec636cbd-21c6-4b9c-a095-c8ef04f1a9fa",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s01_winterstar_scitem",
+                              "itemCodeName":  "cool_jspn_s01_winterstar_scitem",
                               "itemDisplayName":  "Winter-Star",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23454,7 +23454,7 @@
                           },
                           {
                               "itemRef":  "bba050c3-1348-45a8-91c6-73e4ecf5082f",
-                              "itemCodeName":  "entityclassdefinition.cool_just_s01_thermax_scitem",
+                              "itemCodeName":  "cool_just_s01_thermax_scitem",
                               "itemDisplayName":  "Thermax",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23465,7 +23465,7 @@
                           },
                           {
                               "itemRef":  "387da568-31d2-4479-81da-21dd015db668",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s00_froststarsl_scitem",
+                              "itemCodeName":  "cool_jspn_s00_froststarsl_scitem",
                               "itemDisplayName":  "Frost-Star SL",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23476,7 +23476,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23498,7 +23498,7 @@
                           },
                           {
                               "itemRef":  "866c76c0-8c22-44ad-b1dc-167ee5fbe347",
-                              "itemCodeName":  "cool_just_s02_hydrojet_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_just_s02_hydrojet_scitem",
                               "itemDisplayName":  "HydroJet",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -23520,7 +23520,7 @@
                           },
                           {
                               "itemRef":  "8e828c4f-b435-4db5-aab4-318dead98403",
-                              "itemCodeName":  "powr_acom_s01_sunflare_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_acom_s01_sunflare_scitem",
                               "itemDisplayName":  "SunFlare",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23542,7 +23542,7 @@
                           },
                           {
                               "itemRef":  "a1108d40-080d-4087-b5e2-5030336ee180",
-                              "itemCodeName":  "powr_just_s01_fortitude_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_just_s01_fortitude_scitem",
                               "itemDisplayName":  "Fortitude",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23564,7 +23564,7 @@
                           },
                           {
                               "itemRef":  "aa15e2df-d7b1-4e97-9e0d-7623a3a096b0",
-                              "itemCodeName":  "entityclassdefinition.powr_just_s02_trommel_scitem",
+                              "itemCodeName":  "powr_just_s02_trommel_scitem",
                               "itemDisplayName":  "Trommel",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23608,7 +23608,7 @@
                           },
                           {
                               "itemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s01_goliath_scitem",
+                              "itemCodeName":  "qdrv_just_s01_goliath_scitem",
                               "itemDisplayName":  "Goliath",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23619,7 +23619,7 @@
                           },
                           {
                               "itemRef":  "4702547f-fa0f-4f6c-b2ed-9782ee9f518b",
-                              "itemCodeName":  "qdrv_tars_s01_expedition_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_tars_s01_expedition_scitem",
                               "itemDisplayName":  "Expedition",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23641,7 +23641,7 @@
                           },
                           {
                               "itemRef":  "95a43815-970e-4a70-87df-0658c32495d8",
-                              "itemCodeName":  "qdrv_wetk_s01_siren_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_wetk_s01_siren_scitem",
                               "itemDisplayName":  "Siren",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23652,7 +23652,7 @@
                           },
                           {
                               "itemRef":  "74cc0d0b-1bf5-436c-a38c-1baf93962b89",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s02_bolon_scitem",
+                              "itemCodeName":  "qdrv_just_s02_bolon_scitem",
                               "itemDisplayName":  "Bolon",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -23696,7 +23696,7 @@
                           },
                           {
                               "itemRef":  "b66a64ca-9c53-40e7-8618-3b66b10a021c",
-                              "itemCodeName":  "shld_godi_s01_forcewall_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_godi_s01_forcewall_scitem",
                               "itemDisplayName":  "ForceWall",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -23729,7 +23729,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -23751,7 +23751,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23762,7 +23762,7 @@
                           },
                           {
                               "itemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
-                              "itemCodeName":  "powr_sasu_s02_daybreak_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s02_daybreak_scitem",
                               "itemDisplayName":  "DayBreak",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -23779,7 +23779,7 @@
         "inventory":  [
                           {
                               "itemRef":  "86630fcf-09c3-4def-a7b4-9385cbc05a42",
-                              "itemCodeName":  "apar_massdriver_s2",
+                              "itemCodeName":  "entityclassdefinition.apar_massdriver_s2",
                               "itemDisplayName":  "Strife Mass Driver Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23812,7 +23812,7 @@
                           },
                           {
                               "itemRef":  "596ced46-195e-4f60-826a-7cc5bb2e2f02",
-                              "itemCodeName":  "entityclassdefinition.mxox_neutroncannon_s2",
+                              "itemCodeName":  "mxox_neutroncannon_s2",
                               "itemDisplayName":  "NN-14 Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23823,7 +23823,7 @@
                           },
                           {
                               "itemRef":  "816aa854-7615-4add-a2ca-2d39ada7fea7",
-                              "itemCodeName":  "entityclassdefinition.vncl_neutroncannon_s5",
+                              "itemCodeName":  "vncl_neutroncannon_s5",
                               "itemDisplayName":  "'WAR' Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23856,7 +23856,7 @@
                           },
                           {
                               "itemRef":  "34bc9924-3f20-4bc9-a6cf-81335a0608fe",
-                              "itemCodeName":  "asad_distortionrepeater_s1",
+                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s1",
                               "itemDisplayName":  "DR Model-XJ1 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23878,7 +23878,7 @@
                           },
                           {
                               "itemRef":  "2a787ee5-d720-4490-8823-65a0f8578f4b",
-                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s3",
+                              "itemCodeName":  "asad_distortionrepeater_s3",
                               "itemDisplayName":  "DR Model-XJ3 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -23966,7 +23966,7 @@
                           },
                           {
                               "itemRef":  "dee6efca-71ef-438c-b762-624f9ce649f3",
-                              "itemCodeName":  "entityclassdefinition.misl_s03_cs_fski_arrester",
+                              "itemCodeName":  "misl_s03_cs_fski_arrester",
                               "itemDisplayName":  "Arrester III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -23977,7 +23977,7 @@
                           },
                           {
                               "itemRef":  "9a741b0a-200d-4f1a-92a8-f917510804e1",
-                              "itemCodeName":  "misl_s03_em_fski_thunderbolt",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_em_fski_thunderbolt",
                               "itemDisplayName":  "Thunderbolt III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -23988,7 +23988,7 @@
                           },
                           {
                               "itemRef":  "bc9adaf0-90a2-45e8-ba1d-5e0b56a76c92",
-                              "itemCodeName":  "misl_s04_ir_vncl_dragon",
+                              "itemCodeName":  "entityclassdefinition.misl_s04_ir_vncl_dragon",
                               "itemDisplayName":  "'Dragon' IV Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -24087,7 +24087,7 @@
                           },
                           {
                               "itemRef":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
-                              "itemCodeName":  "cool_wcpr_s00_fridan_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s00_fridan_scitem",
                               "itemDisplayName":  "Fridan",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -24098,7 +24098,7 @@
                           },
                           {
                               "itemRef":  "387da568-31d2-4479-81da-21dd015db668",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s00_froststarsl_scitem",
+                              "itemCodeName":  "cool_jspn_s00_froststarsl_scitem",
                               "itemDisplayName":  "Frost-Star SL",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -24120,7 +24120,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -24142,7 +24142,7 @@
                           },
                           {
                               "itemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
-                              "itemCodeName":  "powr_sasu_s02_daybreak_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s02_daybreak_scitem",
                               "itemDisplayName":  "DayBreak",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -24153,7 +24153,7 @@
                           },
                           {
                               "itemRef":  "662e4a88-d893-46fd-9fcc-e33e4b783fae",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s02_maelstrom_scitem",
+                              "itemCodeName":  "powr_aegs_s02_maelstrom_scitem",
                               "itemDisplayName":  "Maelstrom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -24175,7 +24175,7 @@
                           },
                           {
                               "itemRef":  "6be9c02c-ff32-483f-a6f8-d984dcb97c40",
-                              "itemCodeName":  "shld_seco_s01_web_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s01_web_scitem",
                               "itemDisplayName":  "WEB",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -24219,7 +24219,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -24241,7 +24241,7 @@
                           },
                           {
                               "itemRef":  "b66a64ca-9c53-40e7-8618-3b66b10a021c",
-                              "itemCodeName":  "shld_godi_s01_forcewall_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_godi_s01_forcewall_scitem",
                               "itemDisplayName":  "ForceWall",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -24252,7 +24252,7 @@
                           },
                           {
                               "itemRef":  "37ae6971-46d1-4021-bb9f-353813df8e9f",
-                              "itemCodeName":  "shld_basl_s02_aspis_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_basl_s02_aspis_scitem",
                               "itemDisplayName":  "Aspis",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -24307,7 +24307,7 @@
                           },
                           {
                               "itemRef":  "08a5bfdb-1972-421f-83fe-be03b7ac5222",
-                              "itemCodeName":  "entityclassdefinition.qdrv_rsi_s01_eos_scitem",
+                              "itemCodeName":  "qdrv_rsi_s01_eos_scitem",
                               "itemDisplayName":  "Eos",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -24318,7 +24318,7 @@
                           },
                           {
                               "itemRef":  "74cc0d0b-1bf5-436c-a38c-1baf93962b89",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s02_bolon_scitem",
+                              "itemCodeName":  "qdrv_just_s02_bolon_scitem",
                               "itemDisplayName":  "Bolon",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -24340,7 +24340,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -24351,7 +24351,7 @@
                           },
                           {
                               "itemRef":  "8e828c4f-b435-4db5-aab4-318dead98403",
-                              "itemCodeName":  "powr_acom_s01_sunflare_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_acom_s01_sunflare_scitem",
                               "itemDisplayName":  "SunFlare",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -24362,7 +24362,7 @@
                           },
                           {
                               "itemRef":  "41a56edf-ce69-4638-9c80-1692c3d345c6",
-                              "itemCodeName":  "entityclassdefinition.powr_acom_s01_starheart_scitem",
+                              "itemCodeName":  "powr_acom_s01_starheart_scitem",
                               "itemDisplayName":  "StarHeart",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -24384,7 +24384,7 @@
                           },
                           {
                               "itemRef":  "688aab9c-bc62-4774-be7d-065dee7e2187",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s01_regulus_scitem",
+                              "itemCodeName":  "powr_aegs_s01_regulus_scitem",
                               "itemDisplayName":  "Regulus",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -39330,7 +39330,7 @@
                           },
                           {
                               "itemRef":  "71ffee18-c359-4809-a4d0-3cb79bc32d30",
-                              "itemCodeName":  "entityclassdefinition.ksar_smg_energy_01",
+                              "itemCodeName":  "ksar_smg_energy_01",
                               "itemDisplayName":  "Custodian SMG",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Medium",
@@ -47059,7 +47059,7 @@
                           },
                           {
                               "itemRef":  "80ab18bb-9bc2-4e4f-a407-06c28e69bea7",
-                              "itemCodeName":  "entityclassdefinition.vncl_lasercannon_s2",
+                              "itemCodeName":  "vncl_lasercannon_s2",
                               "itemDisplayName":  "'WASP' Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -47081,7 +47081,7 @@
                           },
                           {
                               "itemRef":  "34bc9924-3f20-4bc9-a6cf-81335a0608fe",
-                              "itemCodeName":  "asad_distortionrepeater_s1",
+                              "itemCodeName":  "entityclassdefinition.asad_distortionrepeater_s1",
                               "itemDisplayName":  "DR Model-XJ1 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -47103,7 +47103,7 @@
                           },
                           {
                               "itemRef":  "76706adf-4687-4a7a-aaf1-c44af0a5d2ca",
-                              "itemCodeName":  "entityclassdefinition.prar_distortionscattergun_s4",
+                              "itemCodeName":  "prar_distortionscattergun_s4",
                               "itemDisplayName":  "Salvation Distortion Scattergun",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -47147,7 +47147,7 @@
                           },
                           {
                               "itemRef":  "1754a3d4-4aa9-469d-8fb7-d8611bd3e9a1",
-                              "itemCodeName":  "entityclassdefinition.misl_s02_ir_vncl_bullet",
+                              "itemCodeName":  "misl_s02_ir_vncl_bullet",
                               "itemDisplayName":  "'Bullet' II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -47158,7 +47158,7 @@
                           },
                           {
                               "itemRef":  "dee6efca-71ef-438c-b762-624f9ce649f3",
-                              "itemCodeName":  "entityclassdefinition.misl_s03_cs_fski_arrester",
+                              "itemCodeName":  "misl_s03_cs_fski_arrester",
                               "itemDisplayName":  "Arrester III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -47169,7 +47169,7 @@
                           },
                           {
                               "itemRef":  "9a741b0a-200d-4f1a-92a8-f917510804e1",
-                              "itemCodeName":  "misl_s03_em_fski_thunderbolt",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_em_fski_thunderbolt",
                               "itemDisplayName":  "Thunderbolt III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -47180,7 +47180,7 @@
                           },
                           {
                               "itemRef":  "e5aa84b6-9b14-4eb3-949f-10e1cc8cd6cf",
-                              "itemCodeName":  "misl_s03_ir_novp_viper",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_novp_viper",
                               "itemDisplayName":  "Viper III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -47191,7 +47191,7 @@
                           },
                           {
                               "itemRef":  "d4408421-e939-4e34-9902-0644fa6934be",
-                              "itemCodeName":  "misl_s03_ir_vncl_chaos",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_ir_vncl_chaos",
                               "itemDisplayName":  "'Chaos' III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -47202,7 +47202,7 @@
                           },
                           {
                               "itemRef":  "bc9adaf0-90a2-45e8-ba1d-5e0b56a76c92",
-                              "itemCodeName":  "misl_s04_ir_vncl_dragon",
+                              "itemCodeName":  "entityclassdefinition.misl_s04_ir_vncl_dragon",
                               "itemDisplayName":  "'Dragon' IV Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -47268,7 +47268,7 @@
                           },
                           {
                               "itemRef":  "a117d541-aa61-49fd-ae53-469b0fdf7ccd",
-                              "itemCodeName":  "powr_sasu_s01_lightblossom_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s01_lightblossom_scitem",
                               "itemDisplayName":  "LightBlossom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -47279,7 +47279,7 @@
                           },
                           {
                               "itemRef":  "13880fbe-7295-4f55-886d-251ad01e2677",
-                              "itemCodeName":  "powr_amrs_s01_overdrive_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_amrs_s01_overdrive_scitem",
                               "itemDisplayName":  "OverDrive",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -47312,7 +47312,7 @@
                           },
                           {
                               "itemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
-                              "itemCodeName":  "powr_sasu_s02_daybreak_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_sasu_s02_daybreak_scitem",
                               "itemDisplayName":  "DayBreak",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -47367,7 +47367,7 @@
                           },
                           {
                               "itemRef":  "b64ab3f3-4b44-418c-a438-57a04a1cf1b2",
-                              "itemCodeName":  "entityclassdefinition.shld_yorm_s01_falco_scitem",
+                              "itemCodeName":  "shld_yorm_s01_falco_scitem",
                               "itemDisplayName":  "Falco",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -47389,7 +47389,7 @@
                           },
                           {
                               "itemRef":  "37ae6971-46d1-4021-bb9f-353813df8e9f",
-                              "itemCodeName":  "shld_basl_s02_aspis_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_basl_s02_aspis_scitem",
                               "itemDisplayName":  "Aspis",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -47411,7 +47411,7 @@
                           },
                           {
                               "itemRef":  "ffede9a8-3c50-4b9e-be0f-9d93e5a26f29",
-                              "itemCodeName":  "shld_seco_s00_pin_scitem",
+                              "itemCodeName":  "entityclassdefinition.shld_seco_s00_pin_scitem",
                               "itemDisplayName":  "PIN",
                               "itemType":  "Shield",
                               "itemSubType":  "UNDEFINED",
@@ -47433,7 +47433,7 @@
                           },
                           {
                               "itemRef":  "4702547f-fa0f-4f6c-b2ed-9782ee9f518b",
-                              "itemCodeName":  "qdrv_tars_s01_expedition_scitem",
+                              "itemCodeName":  "entityclassdefinition.qdrv_tars_s01_expedition_scitem",
                               "itemDisplayName":  "Expedition",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -47444,7 +47444,7 @@
                           },
                           {
                               "itemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s01_goliath_scitem",
+                              "itemCodeName":  "qdrv_just_s01_goliath_scitem",
                               "itemDisplayName":  "Goliath",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -47455,7 +47455,7 @@
                           },
                           {
                               "itemRef":  "74cc0d0b-1bf5-436c-a38c-1baf93962b89",
-                              "itemCodeName":  "entityclassdefinition.qdrv_just_s02_bolon_scitem",
+                              "itemCodeName":  "qdrv_just_s02_bolon_scitem",
                               "itemDisplayName":  "Bolon",
                               "itemType":  "QuantumDrive",
                               "itemSubType":  "UNDEFINED",
@@ -47488,7 +47488,7 @@
                           },
                           {
                               "itemRef":  "c46f3fb8-12f8-4c85-b4ac-0850b1e0d17d",
-                              "itemCodeName":  "entityclassdefinition.powr_lplt_s00_radix_scitem",
+                              "itemCodeName":  "powr_lplt_s00_radix_scitem",
                               "itemDisplayName":  "Radix",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -47499,7 +47499,7 @@
                           },
                           {
                               "itemRef":  "662e4a88-d893-46fd-9fcc-e33e4b783fae",
-                              "itemCodeName":  "entityclassdefinition.powr_aegs_s02_maelstrom_scitem",
+                              "itemCodeName":  "powr_aegs_s02_maelstrom_scitem",
                               "itemDisplayName":  "Maelstrom",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -47510,7 +47510,7 @@
                           },
                           {
                               "itemRef":  "387da568-31d2-4479-81da-21dd015db668",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s00_froststarsl_scitem",
+                              "itemCodeName":  "cool_jspn_s00_froststarsl_scitem",
                               "itemDisplayName":  "Frost-Star SL",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -47521,7 +47521,7 @@
                           },
                           {
                               "itemRef":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
-                              "itemCodeName":  "cool_wcpr_s00_fridan_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s00_fridan_scitem",
                               "itemDisplayName":  "Fridan",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -47543,7 +47543,7 @@
                           },
                           {
                               "itemRef":  "5f474dec-75e8-4626-9c0a-f5a48f841f33",
-                              "itemCodeName":  "cool_tydt_s01_vaporblock_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_tydt_s01_vaporblock_scitem",
                               "itemDisplayName":  "VaporBlock",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -47554,7 +47554,7 @@
                           },
                           {
                               "itemRef":  "bba050c3-1348-45a8-91c6-73e4ecf5082f",
-                              "itemCodeName":  "entityclassdefinition.cool_just_s01_thermax_scitem",
+                              "itemCodeName":  "cool_just_s01_thermax_scitem",
                               "itemDisplayName":  "Thermax",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -47587,7 +47587,7 @@
                           },
                           {
                               "itemRef":  "866c76c0-8c22-44ad-b1dc-167ee5fbe347",
-                              "itemCodeName":  "cool_just_s02_hydrojet_scitem",
+                              "itemCodeName":  "entityclassdefinition.cool_just_s02_hydrojet_scitem",
                               "itemDisplayName":  "HydroJet",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -47609,7 +47609,7 @@
                           },
                           {
                               "itemRef":  "59a37716-f4d3-4dcb-a41e-0f2c3064e169",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s02_froststarex_scitem",
+                              "itemCodeName":  "cool_jspn_s02_froststarex_scitem",
                               "itemDisplayName":  "Frost-Star EX",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -47620,7 +47620,7 @@
                           },
                           {
                               "itemRef":  "ec636cbd-21c6-4b9c-a095-c8ef04f1a9fa",
-                              "itemCodeName":  "entityclassdefinition.cool_jspn_s01_winterstar_scitem",
+                              "itemCodeName":  "cool_jspn_s01_winterstar_scitem",
                               "itemDisplayName":  "Winter-Star",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -48721,7 +48721,7 @@
                           },
                           {
                               "itemRef":  "f68e5fb2-2388-43d1-9aab-bed82da648c8",
-                              "itemCodeName":  "entityclassdefinition.cool_wcpr_s01_berian_scitem",
+                              "itemCodeName":  "cool_wcpr_s01_berian_scitem",
                               "itemDisplayName":  "Berian",
                               "itemType":  "Cooler",
                               "itemSubType":  "UNDEFINED",
@@ -48743,7 +48743,7 @@
                           },
                           {
                               "itemRef":  "41a56edf-ce69-4638-9c80-1692c3d345c6",
-                              "itemCodeName":  "entityclassdefinition.powr_acom_s01_starheart_scitem",
+                              "itemCodeName":  "powr_acom_s01_starheart_scitem",
                               "itemDisplayName":  "StarHeart",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -48754,7 +48754,7 @@
                           },
                           {
                               "itemRef":  "8e828c4f-b435-4db5-aab4-318dead98403",
-                              "itemCodeName":  "powr_acom_s01_sunflare_scitem",
+                              "itemCodeName":  "entityclassdefinition.powr_acom_s01_sunflare_scitem",
                               "itemDisplayName":  "SunFlare",
                               "itemType":  "PowerPlant",
                               "itemSubType":  "Power",
@@ -49305,7 +49305,7 @@
                           },
                           {
                               "itemRef":  "992e922f-8c21-41dd-b1b6-c2753c74c97b",
-                              "itemCodeName":  "entityclassdefinition.behr_rifle_ballistic_01_green01",
+                              "itemCodeName":  "behr_rifle_ballistic_01_green01",
                               "itemDisplayName":  "P4-AR \"Warhawk\" Rifle",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Medium",
@@ -49349,7 +49349,7 @@
                           },
                           {
                               "itemRef":  "b15f7736-0010-4c85-b684-85118761d124",
-                              "itemCodeName":  "entityclassdefinition.gmni_pistol_ballistic_01",
+                              "itemCodeName":  "gmni_pistol_ballistic_01",
                               "itemDisplayName":  "LH86 Pistol",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Small",
@@ -49591,7 +49591,7 @@
                           },
                           {
                               "itemRef":  "26838ca7-418a-47d2-8429-7339ebbb8993",
-                              "itemCodeName":  "amrs_lasercannon_s1",
+                              "itemCodeName":  "entityclassdefinition.amrs_lasercannon_s1",
                               "itemDisplayName":  "Omnisky III Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49635,7 +49635,7 @@
                           },
                           {
                               "itemRef":  "c778d7c0-116a-4597-a32e-2bbf7f6b7c17",
-                              "itemCodeName":  "amrs_lasercannon_s5",
+                              "itemCodeName":  "entityclassdefinition.amrs_lasercannon_s5",
                               "itemDisplayName":  "Omnisky XV Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49646,7 +49646,7 @@
                           },
                           {
                               "itemRef":  "1901415b-cfbd-49fb-82f8-42eff2c11f01",
-                              "itemCodeName":  "entityclassdefinition.amrs_lasercannon_s6",
+                              "itemCodeName":  "amrs_lasercannon_s6",
                               "itemDisplayName":  "Omnisky XVIII Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49668,7 +49668,7 @@
                           },
                           {
                               "itemRef":  "42e2ddb1-7397-4299-88ee-2ddfaa0efc67",
-                              "itemCodeName":  "behr_lasercannon_s1",
+                              "itemCodeName":  "entityclassdefinition.behr_lasercannon_s1",
                               "itemDisplayName":  "M3A Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49679,7 +49679,7 @@
                           },
                           {
                               "itemRef":  "2756f5f1-ef1e-454a-a171-9a5bd40e3a9d",
-                              "itemCodeName":  "behr_lasercannon_s2",
+                              "itemCodeName":  "entityclassdefinition.behr_lasercannon_s2",
                               "itemDisplayName":  "M4A Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49800,7 +49800,7 @@
                           },
                           {
                               "itemRef":  "c657c03c-6ac6-4da6-ab70-bfab52804444",
-                              "itemCodeName":  "klwe_massdriver_s2",
+                              "itemCodeName":  "entityclassdefinition.klwe_massdriver_s2",
                               "itemDisplayName":  "Sledge II Mass Driver Cannon",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49910,7 +49910,7 @@
                           },
                           {
                               "itemRef":  "c9c2bb19-3298-448e-a117-043e082a1c74",
-                              "itemCodeName":  "entityclassdefinition.klwe_laserrepeater_s1",
+                              "itemCodeName":  "klwe_laserrepeater_s1",
                               "itemDisplayName":  "CF-117 Bulldog Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49932,7 +49932,7 @@
                           },
                           {
                               "itemRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
-                              "itemCodeName":  "entityclassdefinition.klwe_laserrepeater_s3",
+                              "itemCodeName":  "klwe_laserrepeater_s3",
                               "itemDisplayName":  "CF-337 Panther Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49943,7 +49943,7 @@
                           },
                           {
                               "itemRef":  "ecac1df2-4f6f-49df-9cce-f188d118a789",
-                              "itemCodeName":  "entityclassdefinition.klwe_laserrepeater_s4",
+                              "itemCodeName":  "klwe_laserrepeater_s4",
                               "itemDisplayName":  "CF-447 Rhino Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -49954,7 +49954,7 @@
                           },
                           {
                               "itemRef":  "4170fcb0-0cef-4228-a3d5-7efc41ba4ea3",
-                              "itemCodeName":  "entityclassdefinition.klwe_laserrepeater_s5",
+                              "itemCodeName":  "klwe_laserrepeater_s5",
                               "itemDisplayName":  "CF-557 Galdereen Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -50020,7 +50020,7 @@
                           },
                           {
                               "itemRef":  "9b2c25cb-fc57-42b5-95cd-1ae89a622bd7",
-                              "itemCodeName":  "misl_s02_cs_thcn_strikeforce",
+                              "itemCodeName":  "entityclassdefinition.misl_s02_cs_thcn_strikeforce",
                               "itemDisplayName":  "StrikeForce II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -50031,7 +50031,7 @@
                           },
                           {
                               "itemRef":  "67d6efbd-6b65-49d9-b319-041dc6a2675a",
-                              "itemCodeName":  "misl_s02_em_taln_dominator",
+                              "itemCodeName":  "entityclassdefinition.misl_s02_em_taln_dominator",
                               "itemDisplayName":  "Dominator II Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -50053,7 +50053,7 @@
                           },
                           {
                               "itemRef":  "e1659bcf-0595-43ad-9376-386e4ca875e0",
-                              "itemCodeName":  "entityclassdefinition.misl_s04_em_taln_raptor",
+                              "itemCodeName":  "misl_s04_em_taln_raptor",
                               "itemDisplayName":  "Raptor IV Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -50086,7 +50086,7 @@
                           },
                           {
                               "itemRef":  "918ad61c-ea99-4040-b05a-a42cd5436aed",
-                              "itemCodeName":  "misl_s05_em_taln_reaper",
+                              "itemCodeName":  "entityclassdefinition.misl_s05_em_taln_reaper",
                               "itemDisplayName":  "Reaper V Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Torpedo",
@@ -50097,7 +50097,7 @@
                           },
                           {
                               "itemRef":  "b74c05cb-0f60-403a-92cf-663a12268830",
-                              "itemCodeName":  "entityclassdefinition.misl_s05_ir_taln_valkyrie",
+                              "itemCodeName":  "misl_s05_ir_taln_valkyrie",
                               "itemDisplayName":  "Valkyrie V Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Torpedo",
@@ -50130,7 +50130,7 @@
                           },
                           {
                               "itemRef":  "e26d0f6d-4ada-4eb0-9843-1b4d03178f90",
-                              "itemCodeName":  "misl_s09_ir_taln_typhoon",
+                              "itemCodeName":  "entityclassdefinition.misl_s09_ir_taln_typhoon",
                               "itemDisplayName":  "Typhoon IX Torpedo",
                               "itemType":  "Missile",
                               "itemSubType":  "Torpedo",
@@ -50394,7 +50394,7 @@
                           },
                           {
                               "itemRef":  "dee6efca-71ef-438c-b762-624f9ce649f3",
-                              "itemCodeName":  "entityclassdefinition.misl_s03_cs_fski_arrester",
+                              "itemCodeName":  "misl_s03_cs_fski_arrester",
                               "itemDisplayName":  "Arrester III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -50405,7 +50405,7 @@
                           },
                           {
                               "itemRef":  "9a741b0a-200d-4f1a-92a8-f917510804e1",
-                              "itemCodeName":  "misl_s03_em_fski_thunderbolt",
+                              "itemCodeName":  "entityclassdefinition.misl_s03_em_fski_thunderbolt",
                               "itemDisplayName":  "Thunderbolt III Missile",
                               "itemType":  "Missile",
                               "itemSubType":  "Missile",
@@ -50444,7 +50444,7 @@
                           },
                           {
                               "itemRef":  "c526f686-a3da-48fa-b9c3-d58fb8e31dc5",
-                              "itemCodeName":  "entityclassdefinition.hrst_laserrepeater_s3",
+                              "itemCodeName":  "hrst_laserrepeater_s3",
                               "itemDisplayName":  "Attrition-3 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -50455,7 +50455,7 @@
                           },
                           {
                               "itemRef":  "8d868b78-eccd-4ba5-a4a5-57e2f20bdc35",
-                              "itemCodeName":  "entityclassdefinition.hrst_laserrepeater_s4",
+                              "itemCodeName":  "hrst_laserrepeater_s4",
                               "itemDisplayName":  "Attrition-4 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -50466,7 +50466,7 @@
                           },
                           {
                               "itemRef":  "2c9b3880-a108-4746-a6cd-7e2b04feee36",
-                              "itemCodeName":  "hrst_laserrepeater_s5",
+                              "itemCodeName":  "entityclassdefinition.hrst_laserrepeater_s5",
                               "itemDisplayName":  "Attrition-5 Repeater",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -50488,7 +50488,7 @@
                           },
                           {
                               "itemRef":  "beabe016-3fb4-4e3f-b464-374076d91f04",
-                              "itemCodeName":  "entityclassdefinition.hrst_laserscattergun_s1",
+                              "itemCodeName":  "hrst_laserscattergun_s1",
                               "itemDisplayName":  "Dominance-1 Scattergun",
                               "itemType":  "WeaponGun",
                               "itemSubType":  "Gun",
@@ -50918,7 +50918,7 @@
                           },
                           {
                               "itemRef":  "b15f7736-0010-4c85-b684-85118761d124",
-                              "itemCodeName":  "entityclassdefinition.gmni_pistol_ballistic_01",
+                              "itemCodeName":  "gmni_pistol_ballistic_01",
                               "itemDisplayName":  "LH86 Pistol",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Small",
@@ -50962,7 +50962,7 @@
                           },
                           {
                               "itemRef":  "699db405-4ca1-4993-ba58-a9f90001ae6b",
-                              "itemCodeName":  "apar_special_ballistic_01",
+                              "itemCodeName":  "entityclassdefinition.apar_special_ballistic_01",
                               "itemDisplayName":  "Scourge Railgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Large",
@@ -53454,7 +53454,7 @@
                           },
                           {
                               "itemRef":  "b15f7736-0010-4c85-b684-85118761d124",
-                              "itemCodeName":  "entityclassdefinition.gmni_pistol_ballistic_01",
+                              "itemCodeName":  "gmni_pistol_ballistic_01",
                               "itemDisplayName":  "LH86 Pistol",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Small",
@@ -53498,7 +53498,7 @@
                           },
                           {
                               "itemRef":  "699db405-4ca1-4993-ba58-a9f90001ae6b",
-                              "itemCodeName":  "apar_special_ballistic_01",
+                              "itemCodeName":  "entityclassdefinition.apar_special_ballistic_01",
                               "itemDisplayName":  "Scourge Railgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Large",
@@ -69766,7 +69766,7 @@
                           },
                           {
                               "itemRef":  "b15f7736-0010-4c85-b684-85118761d124",
-                              "itemCodeName":  "entityclassdefinition.gmni_pistol_ballistic_01",
+                              "itemCodeName":  "gmni_pistol_ballistic_01",
                               "itemDisplayName":  "LH86 Pistol",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Small",
@@ -69810,7 +69810,7 @@
                           },
                           {
                               "itemRef":  "699db405-4ca1-4993-ba58-a9f90001ae6b",
-                              "itemCodeName":  "apar_special_ballistic_01",
+                              "itemCodeName":  "entityclassdefinition.apar_special_ballistic_01",
                               "itemDisplayName":  "Scourge Railgun",
                               "itemType":  "WeaponPersonal",
                               "itemSubType":  "Large",
