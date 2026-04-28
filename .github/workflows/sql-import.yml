@@ -1,6 +1,7 @@
 name: Import game data to MySQL
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
