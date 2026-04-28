@@ -1,0 +1,353 @@
+[
+    {
+        "ref":  "d1269fc9-c2cc-45e5-a819-1db6a39d4639",
+        "codeName":  "Appointment",
+        "localizedName":  "Appointment",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Appointment",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_appointment.svg",
+        "missionCount":  3
+    },
+    {
+        "ref":  "8e5c6f5f-f882-4e31-945b-31ae88db5c0a",
+        "codeName":  "BountyHunter",
+        "localizedName":  "Bounty Hunter",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_BountyHunter",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_bountyhunter.svg",
+        "missionCount":  367
+    },
+    {
+        "ref":  "4823e235-5206-452f-6977-b6c26cc47486",
+        "codeName":  "Collection",
+        "localizedName":  "Collection",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Collection",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_collection.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "9d6b8464-4eda-48e1-ad20-d5f21c70c446",
+        "codeName":  "Collector",
+        "localizedName":  "Kill Collected",
+        "nameSource":  "localization",
+        "rawToken":  "@ea_ui_scoring_KillCollected",
+        "svgIconPath":  null,
+        "missionCount":  0
+    },
+    {
+        "ref":  "c25e5b20-1d2a-457d-9883-7d480010ad15",
+        "codeName":  "Courier",
+        "localizedName":  "Courier",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Courier",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "8abbd704-6207-4ca4-9cd4-d9f0362cec64",
+        "codeName":  "Delivery",
+        "localizedName":  "Delivery",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Delivery",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  354
+    },
+    {
+        "ref":  "559f4a80-a51e-4954-9141-0067c1cbf31c",
+        "codeName":  "ECN",
+        "localizedName":  "ECN Alert",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_ECN",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_ecn.svg",
+        "missionCount":  9
+    },
+    {
+        "ref":  "5fb4bfd0-7212-4920-aa17-84c6ef2aaf37",
+        "codeName":  "Escort",
+        "localizedName":  "Escort",
+        "nameSource":  "codeName",
+        "rawToken":  "@LOC_UNINITIALIZED",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_escort.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "22cf7d08-4bdc-49b8-b765-5af174a0a68e",
+        "codeName":  "FPSMining",
+        "localizedName":  "Hand Mining",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_FPSMining",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/icon_mobiglas_mining_hand.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "c4d26408-7679-46ce-9c4e-cd6a840485e3",
+        "codeName":  "GroundMining",
+        "localizedName":  "Ground Vehicle Mining",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_GroundMining",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/icon_mobiglas_mining_groundvehicle.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "93f265dd-c971-49fe-b87b-96cccaae9362",
+        "codeName":  "Hauling",
+        "localizedName":  "Hauling",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Hauling",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  159
+    },
+    {
+        "ref":  "fbb195ed-26ce-44fb-ad6c-aafac5006237",
+        "codeName":  "Hauling_Interstellar",
+        "localizedName":  "Hauling - Interstellar",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Hauling_Interstellar",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  18
+    },
+    {
+        "ref":  "b857132f-147f-4c2d-b317-68adeee61bbb",
+        "codeName":  "Hauling_Local",
+        "localizedName":  "Hauling - Local",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Hauling_Local",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  29
+    },
+    {
+        "ref":  "ae6021b6-6a62-470e-9cc2-025f1e44ade2",
+        "codeName":  "Hauling_Planetary",
+        "localizedName":  "Hauling - Planetary",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Hauling_Planetary",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  477
+    },
+    {
+        "ref":  "67d6f865-1e95-4652-91ba-6cbdc720c7fe",
+        "codeName":  "Hauling_Solar",
+        "localizedName":  "Hauling - Stellar",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Hauling_Solar",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg",
+        "missionCount":  166
+    },
+    {
+        "ref":  "0505e20d-d7d9-482e-ba79-875d3c3a03b2",
+        "codeName":  "Investigation",
+        "localizedName":  "Investigation",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Investigation",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_investigation.svg",
+        "missionCount":  120
+    },
+    {
+        "ref":  "da636837-7db3-4ef6-8a9c-502b3d38a91b",
+        "codeName":  "Job",
+        "localizedName":  "Job",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Job",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_job.svg",
+        "missionCount":  5
+    },
+    {
+        "ref":  "c3f8b2c8-1ee8-4c89-aa0a-e7707e5cca72",
+        "codeName":  "Local",
+        "localizedName":  "local",
+        "nameSource":  "localization",
+        "rawToken":  "@chat_command_local",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_job.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "fdade1c8-6b0c-444d-9209-33d922a8ca78",
+        "codeName":  "Maintenance",
+        "localizedName":  "Maintenance",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Maintenance",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_maintenance.svg",
+        "missionCount":  20
+    },
+    {
+        "ref":  "62f92440-202a-43d3-9cb8-b917d4e4a102",
+        "codeName":  "Mercenary",
+        "localizedName":  "Mercenary",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Mercenary",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_mercenary.svg",
+        "missionCount":  780
+    },
+    {
+        "ref":  "38a47499-69f3-4e20-abc1-a9af83a2351e",
+        "codeName":  "Mining",
+        "localizedName":  "Mining",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Mining",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_mining.svg",
+        "missionCount":  1
+    },
+    {
+        "ref":  "9c585972-95b7-4408-ad72-aa9858545958",
+        "codeName":  "Priority",
+        "localizedName":  "Priority",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Priority",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  95
+    },
+    {
+        "ref":  "5e727c38-d43e-445f-95b2-a971428dd06d",
+        "codeName":  "Priority_ArcCorp",
+        "localizedName":  "Resource Drive - ArcCorp",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Priority_ArcCorp",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "111dba90-4fb2-48da-a03c-2dde82f94551",
+        "codeName":  "Priority_CFP",
+        "localizedName":  "Priority - CFP",
+        "nameSource":  "localization",
+        "rawToken":  "@FFFinale_mobiglas_ui_Priority_CFP",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "01566d0c-a3f8-4c4e-a084-5438ea676b28",
+        "codeName":  "Priority_Crusader",
+        "localizedName":  "Resource Drive - Crusader",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Priority_Crusader",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "495680ec-5227-44eb-8af7-1629b8b4fd93",
+        "codeName":  "Priority_HH",
+        "localizedName":  "Priority - HH",
+        "nameSource":  "localization",
+        "rawToken":  "@FFFinale_mobiglas_ui_Priority_HH",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "8251b278-ffc5-49e2-8cea-2ffa8007e4a1",
+        "codeName":  "Priority_Hurston",
+        "localizedName":  "Resource Drive - Hurston",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Priority_Hurston",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "eaad408b-c8fb-4a5b-a5c3-1ea37091b62d",
+        "codeName":  "Priority_MicroTech",
+        "localizedName":  "Resource Drive - MicroTech",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Priority_MicroTech",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "0d4fe28c-c16b-446b-ab96-af4c5df26c46",
+        "codeName":  "PVPMission",
+        "localizedName":  "PvP Missions",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_PVPMissions",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_bountyhunter.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "dd2a34c9-3ec1-4a99-b98b-1fa718f3ef6d",
+        "codeName":  "Race",
+        "localizedName":  "Racing",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Race",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_race.svg",
+        "missionCount":  42
+    },
+    {
+        "ref":  "80f3c6da-28cd-48b7-a429-3995b15c1f23",
+        "codeName":  "Rescue",
+        "localizedName":  "Rescue",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Rescue",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_rescue.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "6371c758-63a2-4734-95e6-a098233f8b32",
+        "codeName":  "Research",
+        "localizedName":  "Research",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Research",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_research.svg",
+        "missionCount":  4
+    },
+    {
+        "ref":  "655cbe6e-19df-4757-8a05-a4cbd2bae78f",
+        "codeName":  "Salvage",
+        "localizedName":  "Salvage",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_Salvage",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_salvage.svg",
+        "missionCount":  30
+    },
+    {
+        "ref":  "730479ef-64de-42e5-9869-87bfb9a15c3e",
+        "codeName":  "Search",
+        "localizedName":  "Search",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Search",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/ContractsMgr_SearchIcon.svg",
+        "missionCount":  17
+    },
+    {
+        "ref":  "731e275b-81ab-467e-a738-528d5173c758",
+        "codeName":  "ServiceBeacon",
+        "localizedName":  "Service Beacons",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_ServiceBeacon",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_service_beacon.svg",
+        "missionCount":  19
+    },
+    {
+        "ref":  "bf96d1b1-3704-44d3-9e08-51a0362472ec",
+        "codeName":  "ShipMining",
+        "localizedName":  "Ship Mining",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiglas_ui_ShipMining",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/icon_mobiglas_mining_spaceship.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "5a91990a-e059-4103-a43b-a26a07081310",
+        "codeName":  "Survival",
+        "localizedName":  "Survival",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Survival",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_survival.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "218523ca-53d5-4e51-b611-0c3909dd6d42",
+        "codeName":  "WIkelo_Ships",
+        "localizedName":  "Wikelo - Vehicles",
+        "nameSource":  "localization",
+        "rawToken":  "@ContractManager_TempTab_Vehicles",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_appointment.svg",
+        "missionCount":  0
+    },
+    {
+        "ref":  "a52c9e2e-c694-4174-bfc7-19f7427ea7f0",
+        "codeName":  "WIkelo_SmallItems",
+        "localizedName":  "Wikelo - Other Items",
+        "nameSource":  "localization",
+        "rawToken":  "@ContractManager_TempTab_Small_Items",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_appointment.svg",
+        "missionCount":  0
+    }
+]

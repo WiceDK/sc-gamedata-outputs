@@ -1,0 +1,168 @@
+﻿[
+    {
+        "ref":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\clusteringpresets\\shipmineables\\commonshipmineable_cluster.xml",
+        "sourceDataPath":  "libs/foundry/records/harvestable/clusteringpresets/shipmineables/commonshipmineable_cluster.xml",
+        "fileName":  "commonshipmineable_cluster.xml",
+        "presetName":  "HarvestableClusterPreset.CommonShipMineable_Cluster",
+        "rarity":  "common",
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "relativeProbabilitySum":  1,
+        "expectedClusterSize":  4.5,
+        "clusters":  [
+                         {
+                             "index":  1,
+                             "relativeProbability":  0.1,
+                             "minSize":  6,
+                             "maxSize":  6,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "index":  2,
+                             "relativeProbability":  0.3,
+                             "minSize":  5,
+                             "maxSize":  5,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         },
+                         {
+                             "index":  3,
+                             "relativeProbability":  0.6,
+                             "minSize":  4,
+                             "maxSize":  4,
+                             "minProximity":  1,
+                             "maxProximity":  6
+                         }
+                     ]
+    },
+    {
+        "ref":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\clusteringpresets\\shipmineables\\uncommonshipmineable_cluster.xml",
+        "sourceDataPath":  "libs/foundry/records/harvestable/clusteringpresets/shipmineables/uncommonshipmineable_cluster.xml",
+        "fileName":  "uncommonshipmineable_cluster.xml",
+        "presetName":  "HarvestableClusterPreset.UncommonShipMineable_Cluster",
+        "rarity":  "uncommon",
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "relativeProbabilitySum":  1,
+        "expectedClusterSize":  3.5,
+        "clusters":  [
+                         {
+                             "index":  1,
+                             "relativeProbability":  0.1,
+                             "minSize":  5,
+                             "maxSize":  5,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "index":  2,
+                             "relativeProbability":  0.3,
+                             "minSize":  4,
+                             "maxSize":  4,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         },
+                         {
+                             "index":  3,
+                             "relativeProbability":  0.6,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  1,
+                             "maxProximity":  6
+                         }
+                     ]
+    },
+    {
+        "ref":  "cd074871-2f6d-45c1-a88f-38b21ef02309",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\clusteringpresets\\shipmineables\\rareshipmineable_cluster.xml",
+        "sourceDataPath":  "libs/foundry/records/harvestable/clusteringpresets/shipmineables/rareshipmineable_cluster.xml",
+        "fileName":  "rareshipmineable_cluster.xml",
+        "presetName":  "HarvestableClusterPreset.RareShipMineable_Cluster",
+        "rarity":  "rare",
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "relativeProbabilitySum":  1,
+        "expectedClusterSize":  2.5,
+        "clusters":  [
+                         {
+                             "index":  1,
+                             "relativeProbability":  0.1,
+                             "minSize":  4,
+                             "maxSize":  4,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "index":  2,
+                             "relativeProbability":  0.3,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         },
+                         {
+                             "index":  3,
+                             "relativeProbability":  0.6,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  1,
+                             "maxProximity":  6
+                         }
+                     ]
+    },
+    {
+        "ref":  "b097c899-4a14-4092-8d07-75c1cf9d05c2",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\clusteringpresets\\shipmineables\\epicshipmineable_cluster.xml",
+        "sourceDataPath":  "libs/foundry/records/harvestable/clusteringpresets/shipmineables/epicshipmineable_cluster.xml",
+        "fileName":  "epicshipmineable_cluster.xml",
+        "presetName":  "HarvestableClusterPreset.EpicShipMineable_Cluster",
+        "rarity":  "epic",
+        "probabilityOfClustering":  40,
+        "clusterTemplateCount":  2,
+        "relativeProbabilitySum":  0.4,
+        "expectedClusterSize":  2.25,
+        "clusters":  [
+                         {
+                             "index":  1,
+                             "relativeProbability":  0.1,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "index":  2,
+                             "relativeProbability":  0.3,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         }
+                     ]
+    },
+    {
+        "ref":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\clusteringpresets\\shipmineables\\legendaryshipmineable_cluster.xml",
+        "sourceDataPath":  "libs/foundry/records/harvestable/clusteringpresets/shipmineables/legendaryshipmineable_cluster.xml",
+        "fileName":  "legendaryshipmineable_cluster.xml",
+        "presetName":  "HarvestableClusterPreset.LegendaryShipMineable_Cluster",
+        "rarity":  "legendary",
+        "probabilityOfClustering":  25,
+        "clusterTemplateCount":  1,
+        "relativeProbabilitySum":  0.1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "index":  1,
+                             "relativeProbability":  0.1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         }
+                     ]
+    }
+]

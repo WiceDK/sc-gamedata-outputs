@@ -1,0 +1,232 @@
+[
+    {
+        "ref":  "30df0f6d-a58e-4e07-b554-11a275874604",
+        "codeName":  "NorthRock_Bounty",
+        "displayName":  null,
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "d84f1767-e406-448a-a413-9a526350c83f",
+        "factionName":  null,
+        "missionCount":  68
+    },
+    {
+        "ref":  "49c6aa72-0853-4b3e-b14b-1faca3bea512",
+        "codeName":  "LucaBrunt",
+        "displayName":  null,
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  0
+    },
+    {
+        "ref":  "0cc0391c-c1b3-4b56-8dce-5d06a18544a5",
+        "codeName":  "MissionGiver_LingFamilyHauling",
+        "displayName":  null,
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  9
+    },
+    {
+        "ref":  "e16755a8-165a-4ded-a899-cf333d85b4ef",
+        "codeName":  "MissionGiver_UnifiedDistributionManagement",
+        "displayName":  null,
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  29
+    },
+    {
+        "ref":  "a6fec633-57d5-4032-b739-bf3b0bc7c1b2",
+        "codeName":  "MissionGiver_RedWindLinehaul",
+        "displayName":  null,
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  58
+    },
+    {
+        "ref":  "75566702-b3b2-4cce-aa74-59706f461e9a",
+        "codeName":  "BlacJacBountyDepartment",
+        "displayName":  "ArcCorp",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "e0961a32-0833-4857-939d-abd18190b04f",
+        "factionName":  "ArcCorp",
+        "missionCount":  30
+    },
+    {
+        "ref":  "df1b2830-faa1-41f8-99e8-ab678622a52b",
+        "codeName":  "BountyHunterGuild",
+        "displayName":  "Bounty Hunters Guild",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "6fe6526a-4ae0-44ec-a5b7-4a1a7f8bdc97",
+        "factionName":  "Bounty Hunters Guild",
+        "missionCount":  21
+    },
+    {
+        "ref":  "e1c74485-d70f-45c5-be0f-f116011aab91",
+        "codeName":  "CDF",
+        "displayName":  "Civilian Defense Force",
+        "description":  "Created as part of the Militia Mobilization Initiative, the Civilian Defense Force (CDF) is a volunteer militia that can be called upon by the UEE to provide support during times of crisis and large scale threats. The group is not intended to replace existing security forces, but rather temporarily bolster efforts during emergencies. CDF volunteers are called upon to fulfill a variety of roles from combat to support positions.",
+        "headquarters":  "Stalford, Rytif, Bremen System",
+        "reputationRef":  "c618bb17-61cb-462c-8b51-8d4dfcb527de",
+        "factionName":  null,
+        "missionCount":  25
+    },
+    {
+        "ref":  "2f3e41cc-d01f-45f3-b6f3-80cf81691677",
+        "codeName":  "ClovusDarneely",
+        "displayName":  "Clovus Darneely",
+        "description":  "Clovus Darneely is a clerk at Reclamation & Disposal, Lorville's main salvage yard. With a reputation for being highly educated and a bit of an erudite, it is unclear among his clients why he works in such a remedial position.",
+        "headquarters":  "Lorville, Hurston, Stanton System",
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  6
+    },
+    {
+        "ref":  "d2461274-926e-46a4-bdeb-dc846f7d7148",
+        "codeName":  "ConstantineHurston",
+        "displayName":  "Constantine Hurston",
+        "description":  "A proud member of the Hurston family, Constantine Hurston has pledged himself to helping his family's legacy continue to grow. However, rather than rely on his name alone, Constantine claims that he prefers to earn any promotions by his own merit. While currently only a Jr. Outsourcing Agent, he firmly believes that he will soon prove his worth and quickly rise through the ranks of Hurston Dynamics.",
+        "headquarters":  "Lorville, Hurston, Stanton System",
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  6
+    },
+    {
+        "ref":  "68ed9226-f4a5-483c-ad36-77dd388253c9",
+        "codeName":  "MissionGiver_CovalexIndependentContractors",
+        "displayName":  "Covalex",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "3b2f7882-73cc-41a4-9dce-f188d927e905",
+        "factionName":  "Covalex",
+        "missionCount":  901
+    },
+    {
+        "ref":  "7f7b959a-0bea-4ac5-bd1e-a9fef0aefbb3",
+        "codeName":  "CrusaderBountyDepartment",
+        "displayName":  "Crusader Industries",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "e2de0b2b-a385-4734-9c41-fc429aec01f1",
+        "factionName":  "Crusader Industries",
+        "missionCount":  60
+    },
+    {
+        "ref":  "99181df2-4ae7-40bf-9c00-a3dffc472242",
+        "codeName":  "HeadHunters",
+        "displayName":  "Headhunters",
+        "description":  "One of the oldest gangs in the Pyro System, the Headhunters have earned themselves a reputation for being ruthless and respected. Unlike many outlaws, when the Headhunters strike a deal they're known for keeping their word. Especially if they promise to kill someone. They are currently seeking to wrest control of Ruin Station away from XenoThreat.",
+        "headquarters":  "N/A",
+        "reputationRef":  "09efeef4-c646-408d-a979-3ae56a3b1beb",
+        "factionName":  "Headhunters",
+        "missionCount":  9
+    },
+    {
+        "ref":  "0a675762-bb1f-4eb4-ad75-2f880e2e2518",
+        "codeName":  "HurstonBountyDepartment",
+        "displayName":  "Hurston Dynamics",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "66bfae03-86c1-4982-977b-09bfcfc05e1a",
+        "factionName":  "Hurston Dynamics",
+        "missionCount":  39
+    },
+    {
+        "ref":  "bfb177af-0724-47b6-b49e-62cf85300484",
+        "codeName":  "MicroTechBountyDepartment",
+        "displayName":  "microTech",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "306a1313-8638-431c-a9a9-d29302dc6a81",
+        "factionName":  "microTech",
+        "missionCount":  43
+    },
+    {
+        "ref":  "348cd4e6-4a44-45a3-b7fb-9134e772f9ef",
+        "codeName":  "MilesEckhart",
+        "displayName":  "Miles Eckhart",
+        "description":  "After leaving the Army, Miles Eckhart missed the excitement of his former life and decided to try mercenary work. He took to it so well that before long he started his own company, Eckhart Security. Specializing in operations in unclaimed and hostile systems like Nyx, Miles remains fully independent and unaffiliated with the Mercenary Guild.",
+        "headquarters":  "Lorville, Hurston, Stanton System",
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  38
+    },
+    {
+        "ref":  "00c73db5-ae97-4a02-b5f0-c87b64ed4535",
+        "codeName":  "ReccoBattaglia",
+        "displayName":  "Recco Battaglia",
+        "description":  "Recco Battaglia, the latest in a long line of miners, had continued the family tradition until an accident at a dig sit left her unable to continue the work. Frustrated with her post-accident treatment under the bureaucracy of the UEE and United Resource Workers, Recco moved out to Nyx where she now coordinates logistics for the local branch of Miners Amalgamated, an alternate union that focuses on helping independent miners.",
+        "headquarters":  "Levski, Delamar, Nyx",
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  15
+    },
+    {
+        "ref":  "e0c35a21-290d-4444-80ef-7f42da67b52f",
+        "codeName":  "Ruto",
+        "displayName":  "Ruto",
+        "description":  "One of the best known info brokers in Stanton, the true identity of Ruto remains a complete mystery. Only appearing as a hologram of the former Imperator, Kelos Costigan, Ruto manages a vast network of criminal activity, connections, and knowledge for clients such as the Nine Tails.",
+        "headquarters":  "Grim HEX, Stanton System",
+        "reputationRef":  "1ff5f2d5-e169-444f-a87e-3eea50c44933",
+        "factionName":  "Ruto",
+        "missionCount":  81
+    },
+    {
+        "ref":  "05e3f9ed-c38d-465b-be6d-8e2c5ccbcbfa",
+        "codeName":  "ShubinInterstellar",
+        "displayName":  "Shubin Interstellar",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "e4527dd7-f0eb-4342-afe8-5ded1fe428df",
+        "factionName":  "Shubin Interstellar",
+        "missionCount":  0
+    },
+    {
+        "ref":  "5fd52afe-490a-4b5c-9b06-e86553e5a7c8",
+        "codeName":  "TeciaPacheco",
+        "displayName":  "Tecia Pacheco",
+        "description":  "Tecia \"Twitch\" Pacheco came up as a soldier who transitioned into freelance security work after her service ended. Things were going well until she suffered nerve damage on a job for BlacJac and was fired. Left without employment but with a very specialized skillset, Twitch used her knowledge of the criminal underworld of ArcCorp to her advantage and began operating her own illegal enterprise.",
+        "headquarters":  "Area18, ArcCorp, Stanton System",
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  24
+    },
+    {
+        "ref":  "5c3c1c1f-3833-44f2-8ef1-879ff6fe1769",
+        "codeName":  "Vaughn",
+        "displayName":  "Vaughn",
+        "description":  null,
+        "headquarters":  null,
+        "reputationRef":  "a161c267-0253-48e5-be7a-dfa16c6cbebe",
+        "factionName":  "Vaughn",
+        "missionCount":  48
+    },
+    {
+        "ref":  "0ade7041-3bd1-499a-9ca6-1057c6276e66",
+        "codeName":  "WallaceKlim",
+        "displayName":  "Wallace Klim",
+        "description":  "After being terminated from his position as a chemical engineering instructor at the University of Rhetor, Wallace Klim is now one of the top producers of high-end drugs in the Stanton System. The quality of his product is apparent by his own frequent personal use.",
+        "headquarters":  "Grim HEX, Stanton System",
+        "reputationRef":  null,
+        "factionName":  null,
+        "missionCount":  6
+    },
+    {
+        "ref":  "7163220e-c791-4320-9eee-1ce632e2f491",
+        "codeName":  "Xenothreat",
+        "displayName":  "XenoThreat",
+        "description":  "XenoThreat believes that the UEE's continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
+        "headquarters":  "Pyro System",
+        "reputationRef":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
+        "factionName":  null,
+        "missionCount":  5
+    }
+]

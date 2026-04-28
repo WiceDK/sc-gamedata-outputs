@@ -1,0 +1,338 @@
+[
+    {
+        "categoryIndex":  2,
+        "displayName":  "Armor",
+        "displayNameToken":  "@itemPort_category_armor",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeChar_Armor_Arms",
+                          "type":  "Char_Armor_Arms",
+                          "displayName":  "Arms",
+                          "displayNameToken":  "@item_TypeChar_Armor_Arms"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Armor_Backpack",
+                          "type":  "Char_Armor_Backpack",
+                          "displayName":  "Backpack",
+                          "displayNameToken":  "@item_TypeChar_Armor_Backpack"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Armor_Helmet",
+                          "type":  "Char_Armor_Helmet",
+                          "displayName":  "Helmets",
+                          "displayNameToken":  "@item_TypeChar_Armor_Helmet"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Armor_Legs",
+                          "type":  "Char_Armor_Legs",
+                          "displayName":  "Legs",
+                          "displayNameToken":  "@item_TypeChar_Armor_Legs"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Armor_Torso",
+                          "type":  "Char_Armor_Torso",
+                          "displayName":  "Torso",
+                          "displayNameToken":  "@item_TypeChar_Armor_Torso"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  5,
+        "displayName":  "Avionics",
+        "displayNameToken":  "@itemPort_category_avionics",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeRadar",
+                          "type":  "Radar",
+                          "displayName":  "Radar",
+                          "displayNameToken":  "@item_TypeRadar"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  0,
+        "displayName":  "Clothing",
+        "displayNameToken":  "@itemPort_category_clothing",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeChar_Clothing_Feet",
+                          "type":  "Char_Clothing_Feet",
+                          "displayName":  "Footwear",
+                          "displayNameToken":  "@item_TypeChar_Clothing_Feet"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Clothing_Hands",
+                          "type":  "Char_Clothing_Hands",
+                          "displayName":  "Gloves",
+                          "displayNameToken":  "@item_TypeChar_Clothing_Hands"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Clothing_Hat",
+                          "type":  "Char_Clothing_Hat",
+                          "displayName":  "Hat",
+                          "displayNameToken":  "@item_TypeChar_Clothing_Hat"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Clothing_Torso_1",
+                          "type":  "Char_Clothing_Torso_1",
+                          "displayName":  "Jacket",
+                          "displayNameToken":  "@item_TypeChar_Clothing_Torso_1"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Clothing_Legs",
+                          "type":  "Char_Clothing_Legs",
+                          "displayName":  "Legwear",
+                          "displayNameToken":  "@item_TypeChar_Clothing_Legs"
+                      },
+                      {
+                          "typeToken":  "@item_TypeChar_Clothing_Torso_0",
+                          "type":  "Char_Clothing_Torso_0",
+                          "displayName":  "Shirt",
+                          "displayNameToken":  "@item_TypeChar_Clothing_Torso_0"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  12,
+        "displayName":  "Liveries",
+        "displayNameToken":  "@itemPort_Paint",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypePaints",
+                          "type":  "Paints",
+                          "displayName":  "Liveries",
+                          "displayNameToken":  "@item_TypePaints"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  11,
+        "displayName":  "Misc.",
+        "displayNameToken":  "@itemPort_category_misc",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeConsumable",
+                          "type":  "Consumable",
+                          "displayName":  "Consumable",
+                          "displayNameToken":  "@item_TypeConsumable"
+                      },
+                      {
+                          "typeToken":  "@item_TypeDrink",
+                          "type":  "Drink",
+                          "displayName":  "Drink",
+                          "displayNameToken":  "@item_TypeDrink"
+                      },
+                      {
+                          "typeToken":  "@item_TypeFood",
+                          "type":  "Food",
+                          "displayName":  "Food",
+                          "displayNameToken":  "@item_TypeFood"
+                      },
+                      {
+                          "typeToken":  "@item_TypeMisc",
+                          "type":  "Misc",
+                          "displayName":  "Misc.",
+                          "displayNameToken":  "@item_TypeMisc"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  3,
+        "displayName":  "Prsnl. Wpns.",
+        "displayNameToken":  "@itemPort_category_weapons",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeWeaponAttachment",
+                          "type":  "WeaponAttachment",
+                          "displayName":  "Attachment",
+                          "displayNameToken":  "@item_TypeWeaponAttachment"
+                      },
+                      {
+                          "typeToken":  "@item_TypeWeaponPersonal",
+                          "type":  "WeaponPersonal",
+                          "displayName":  "Prsnl. Wpn.",
+                          "displayNameToken":  "@item_TypeWeaponPersonal"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  8,
+        "displayName":  "Systems",
+        "displayNameToken":  "@itemPort_category_systems",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeCooler",
+                          "type":  "Cooler",
+                          "displayName":  "Cooler",
+                          "displayNameToken":  "@item_TypeCooler"
+                      },
+                      {
+                          "typeToken":  "@item_TypePowerPlant",
+                          "type":  "PowerPlant",
+                          "displayName":  "Power Plant",
+                          "displayNameToken":  "@item_TypePowerPlant"
+                      },
+                      {
+                          "typeToken":  "@item_TypeQuantumDrive",
+                          "type":  "QuantumDrive",
+                          "displayName":  "Quantum Drives",
+                          "displayNameToken":  "@item_TypeQuantumDrive"
+                      },
+                      {
+                          "typeToken":  "@item_TypeShield",
+                          "type":  "Shield",
+                          "displayName":  "Shield Generator",
+                          "displayNameToken":  "@item_TypeShield"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  4,
+        "displayName":  "Technology",
+        "displayNameToken":  "@itemPort_category_technology",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeMobiGlas",
+                          "type":  "MobiGlas",
+                          "displayName":  "mobiGlas",
+                          "displayNameToken":  "@item_TypeMobiGlas"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  1,
+        "displayName":  "Undersuits",
+        "displayNameToken":  "@itemPort_category_undersuit",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeChar_Armor_Undersuit",
+                          "type":  "Char_Armor_Undersuit",
+                          "displayName":  "Undersuit",
+                          "displayNameToken":  "@item_TypeChar_Armor_Undersuit"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  10,
+        "displayName":  "Utility",
+        "displayNameToken":  "@itemPort_category_utility",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeContainer",
+                          "type":  "Container",
+                          "displayName":  "Container",
+                          "displayNameToken":  "@item_TypeContainer"
+                      },
+                      {
+                          "typeToken":  "@item_TypeDockingCollar",
+                          "type":  "DockingCollar",
+                          "displayName":  "Docking Collar",
+                          "displayNameToken":  "@item_TypeDockingCollar"
+                      },
+                      {
+                          "typeToken":  "@item_TypeExternalFuelTank",
+                          "type":  "ExternalFuelTank",
+                          "displayName":  "External Fuel Tank",
+                          "displayNameToken":  "@item_TypeExternalFuelTank"
+                      },
+                      {
+                          "typeToken":  "@item_displayType_Crafter",
+                          "type":  null,
+                          "displayName":  "Fabricator",
+                          "displayNameToken":  "@item_displayType_Crafter"
+                      },
+                      {
+                          "typeToken":  "@item_TypeFuelNozzle",
+                          "type":  "FuelNozzle",
+                          "displayName":  "Fuel Nozzle",
+                          "displayNameToken":  "@item_TypeFuelNozzle"
+                      },
+                      {
+                          "typeToken":  "@item_TypeGadget",
+                          "type":  "Gadget",
+                          "displayName":  "Gadgets",
+                          "displayNameToken":  "@item_TypeGadget"
+                      },
+                      {
+                          "typeToken":  "@item_TypeWeaponMining",
+                          "type":  "WeaponMining",
+                          "displayName":  "Mining Laser Heads",
+                          "displayNameToken":  "@item_TypeWeaponMining"
+                      },
+                      {
+                          "typeToken":  "@item_TypeMiningModifier",
+                          "type":  "MiningModifier",
+                          "displayName":  "Mining Modules",
+                          "displayNameToken":  "@item_TypeMiningModifier"
+                      },
+                      {
+                          "typeToken":  "@item_TypeSalvageHead",
+                          "type":  "SalvageHead",
+                          "displayName":  "Salvage Beam",
+                          "displayNameToken":  "@item_TypeSalvageHead"
+                      },
+                      {
+                          "typeToken":  "@item_SubTypeScraperBeam",
+                          "type":  null,
+                          "displayName":  "Scraper Beam",
+                          "displayNameToken":  "@item_SubTypeScraperBeam"
+                      },
+                      {
+                          "typeToken":  "@item_TypeTractorBeam",
+                          "type":  "TractorBeam",
+                          "displayName":  "Tractor Beam",
+                          "displayNameToken":  "@item_TypeTractorBeam"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  14,
+        "displayName":  "Vehicles",
+        "displayNameToken":  "@ui_inventory_tab_vehicle",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeNOITEM_Vehicle",
+                          "type":  "NOITEM_Vehicle",
+                          "displayName":  "Vehicle",
+                          "displayNameToken":  "@item_TypeNOITEM_Vehicle"
+                      }
+                  ]
+    },
+    {
+        "categoryIndex":  9,
+        "displayName":  "Vhcl. Wpns.",
+        "displayNameToken":  "@itemPort_category_weaponry",
+        "types":  [
+                      {
+                          "typeToken":  "@item_TypeBomb",
+                          "type":  "Bomb",
+                          "displayName":  "Bombs",
+                          "displayNameToken":  "@item_TypeBomb"
+                      },
+                      {
+                          "typeToken":  "@item_TypeWeaponGun",
+                          "type":  "WeaponGun",
+                          "displayName":  "Gun",
+                          "displayNameToken":  "@item_TypeWeaponGun"
+                      },
+                      {
+                          "typeToken":  "@item_TypeMissile",
+                          "type":  "Missile",
+                          "displayName":  "Missile",
+                          "displayNameToken":  "@item_TypeMissile"
+                      },
+                      {
+                          "typeToken":  "@item_TypeMissileLauncher",
+                          "type":  "MissileLauncher",
+                          "displayName":  "Missile Rack",
+                          "displayNameToken":  "@item_TypeMissileLauncher"
+                      },
+                      {
+                          "typeToken":  "@item_TypeTurret",
+                          "type":  "Turret",
+                          "displayName":  "Turret",
+                          "displayNameToken":  "@item_TypeTurret"
+                      }
+                  ]
+    }
+]

@@ -1,0 +1,1534 @@
+[
+    {
+        "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_shatteredblade.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_shatteredblade.xml",
+        "rootElement":  "Faction.Faction_Unlawful_ShatteredBlade",
+        "rawNameToken":  "@ShatteredBlade_RepUI_Name",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@ShatteredBlade_RepUI_Decription",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
+                                 "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
+                                 "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_neutral_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_neutral_generic.xml",
+        "rootElement":  "Faction.Faction_Creature_Neutral_Generic",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "7dc282cc-80b1-42c3-a712-843203c53f9f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_hostiletoxt.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_hostiletoxt.xml",
+        "rootElement":  "Faction.Faction_Special_HostileToXT",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Friendly",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
+                                  "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
+                              ],
+        "enemyFactionRefs":  [
+                                 "14789370-bf3a-42b9-ac55-a49ee406e1f1"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Generic",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic_vlk_asd_align.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic_vlk_asd_align.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Generic_vlk_asd_align",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
+                                  "7535609a-6616-4992-9550-f8d2fd60f0d4"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "b46d74e1-44c3-479a-ba0f-ba3f07d66529",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Kopion",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "8f791865-9252-41d6-afd1-31783fd22674",
+                                 "6e3b98f1-4eb2-4128-958f-c550e418c5a6"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "5d0bf1c9-55be-458b-af62-13b5b420f9cf",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_hostiletoall.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_hostiletoall.xml",
+        "rootElement":  "Faction.Faction_Special_HostileToAll",
+        "rawNameToken":  "@Hostile_RepUI_Name",
+        "resolvedName":  "[PH] Hostile",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "4e429470-4d4e-4c2b-a4ac-4de42ada16e0",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_aciedo.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_aciedo.xml",
+        "rootElement":  "Faction.Faction_Lawful_Aciedo",
+        "rawNameToken":  "@Aciedo_RepUI_Name",
+        "resolvedName":  "Aciedo Communications",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Aciedo_RepUI_Description",
+        "resolvedDescription":  "Following the conclusion of the First Tevarin War, Humanity was eager to begin exploring the stars again. Aciedo began life as fledging ship manufacturer focused on creating long-range exploration vessels. While they saw moderate success with their initial ship design, it was the included communication drones that stood out for their reliability and transmission success. Captains across the newly formed Empire began asking Aciedo to sell them commdrones directly. Within the first year of offering them, sales skyrocketed, and it wasn't long before Aciedo decided to stop manufacturing ships entirely. Today, they are the UEE's largest communication service provider, handling over 70% of all comms, and operate commrelays, commarrays, and commdrones across the Empire.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "f088575d-92ea-40e4-8d52-ce83884a11dd",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Aciedo_256.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Quinton, Angeli, Croshaw System",
+                           "resolvedFounded":  "2565",
+                           "resolvedLeadership":  "Narumi Arai, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Communication Services"
+                       }
+    },
+    {
+        "ref":  "569f1e53-a971-462b-abe3-969a8e096ff5",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_adagioholdings.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_adagioholdings.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_AdagioHoldings",
+        "rawNameToken":  "@Adagio_RepUI_DisplayName",
+        "resolvedName":  "Adagio Holdings",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Adagio_RepUI_Description",
+        "resolvedDescription":  "Founded by retired Naval logistics personnel, Adagio found success supporting the voracious resource appetite of the Messer-era military-industrial complex through their salvaging operations. After the end of the Messer regime, Adagio, like many other military contractors, lost their contract, and the company was forced to find new sources of revenue. This ultimately led Adagio begin reselling salvage rights they’ve acquired to independent captains and other enterprises of various sizes.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "5f6a61ef-e9a4-427d-9358-2b38efe43d11",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_adagioholdings.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Keene, Killian System",
+                           "resolvedFounded":  "2577",
+                           "resolvedLeadership":  "Samoht Rhine, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Salvaging"
+                       }
+    },
+    {
+        "ref":  "f97f4726-6cdf-426e-b16c-4daf67e78faa",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_curelife.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_curelife.xml",
+        "rootElement":  "Faction.Faction_CureLife",
+        "rawNameToken":  "@ClearAir_Journal_Header",
+        "resolvedName":  "Alliance Aid",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_UNINITIALIZED",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "a8c566ff-2d4a-4eb0-a503-8e229f658d9c",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "d27efa13-7f10-4b3e-87aa-43759d9301da",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_arccorp.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_arccorp.xml",
+        "rootElement":  "Faction.Faction_Lawful_ArcCorp",
+        "rawNameToken":  "@ArcCorp_RepUI_Name",
+        "resolvedName":  "ArcCorp",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@ArcCorp_RepUI_Description",
+        "resolvedDescription":  "ArcCorp was previously known as the manufacturer of immensely popular quantum drives and thrusters, however, since their purchase of Stanton III from the UEE, their dedication to the creation of a privately-owned manufacturing world has overshadowed the company's other accomplishments.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "e0961a32-0833-4857-939d-abd18190b04f",
+        "alliedFactionRefs":  [
+                                  "01bcfe41-40d7-48a6-bab2-eac7d902e9b2"
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_arccorp.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Area01, ArcCorp",
+                           "resolvedFounded":  "2687",
+                           "resolvedLeadership":  "Bert Astacio, CEO",
+                           "resolvedArea":  "Stanton III",
+                           "resolvedFocus":  "Ship Components"
+                       }
+    },
+    {
+        "ref":  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_asd.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_asd.xml",
+        "rootElement":  "Faction.Faction_Unlawful_ASD",
+        "rawNameToken":  "@Factions_ASD_DisplayName",
+        "resolvedName":  "ASD",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_UNINITIALIZED",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
+                                  "7535609a-6616-4992-9550-f8d2fd60f0d4"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "5fb3c365-cf83-48d0-89a8-1cc539113b35",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_bitzeros.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_bitzeros.xml",
+        "rootElement":  "Faction.Faction_Reputation_Unlawful_BitZeros",
+        "rawNameToken":  "@BitZeros_RepUI_DisplayName",
+        "resolvedName":  "Bit Zeros",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@BitZeros_RepUI_Description",
+        "resolvedDescription":  "A brazen hacker collective rumored to have been started by a group disaffected teens on microTech who bonded over their affinity for old technology. Bored by more serious criminals, they are thrill seekers out to make some money, live large, and stick it to the major corporations in Stanton. With a strong preference for digital infiltration and subterfuge, they have been known to bring in outside help when jobs require a more direct approach.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "0ccbc88a-a578-460c-8a7f-9054fa84ee20",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_BitZeros_logo.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "microTech, Stanton System",
+                           "resolvedFounded":  "2951",
+                           "resolvedLeadership":  "Weevil",
+                           "resolvedArea":  "Stanton",
+                           "resolvedFocus":  "Espionage, Theft, Hacking"
+                       }
+    },
+    {
+        "ref":  "01bcfe41-40d7-48a6-bab2-eac7d902e9b2",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_blacjac.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_blacjac.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_BlacJac",
+        "rawNameToken":  "@BlacJac_RepUI_Name",
+        "resolvedName":  "BlacJac",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@BlacJac_RepUI_Description",
+        "resolvedDescription":  "BlacJac was founded on Tram by local Jac Ngo as a protection service for businesses struggling with the growing outlaw problem there. Before long, the security group earned a reputation for effectiveness and larger corporations began contracting BlacJac to look after matters on other worlds. At the same time, ArcCorp had tried to establish their own security force to look at their newly purchased world, Stanton III, but after a series of setbacks and budget issues, made the decision to employ BlacJac, who had assisted the company in several other security matters, to take over policing duties for the planet in 2906.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8"
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "29e65591-d776-49a4-9a98-eb1fd7c51fcc",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_bountyhuntersguild.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_bountyhuntersguild.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_BountyHuntersGuild",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Bounty Hunters Guild",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Operating for well over five centuries, the Bounty Hunters Guild has been active for almost as long as there have been outlaws in space. It is primarily a service union that provides its Bounty Hunter members with various resources and benefits such as discounts on supplies, vetting suitable contracts, and career training. Security forces tend to prefer using guild members for bounty work owing to the high standards maintained through their certification program.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "6fe6526a-4ae0-44ec-a5b7-4a1a7f8bdc97",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_bountyhunterguild.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "New York City, Earth, Sol System",
+                           "resolvedFounded":  "2387",
+                           "resolvedLeadership":  "Kristin Sobotka, President",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Service Union, Training, and Certification"
+                       }
+    },
+    {
+        "ref":  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_citizensforprosperity.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_citizensforprosperity.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_CitizensForProsperity",
+        "rawNameToken":  "@CitizensForPyro_RepUI_Name",
+        "resolvedName":  "Citizens For Prosperity",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@CitizensForPyro_RepUI_Description",
+        "resolvedDescription":  "Citizens for Prosperity is a concerned group of civilians who have taken it upon themselves to tame infamous outlaw systems once and for all. What started as a small posse making occasional forays into Pyro to hunt down criminals has grown into a full resettlement plan across multiple systems. Working closely with local residents, the group provides protection and logistical support to the survivors who call the unclaimed frontier home.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "5a6914c9-3d56-47e0-9fe2-b264ee17b992",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "14789370-bf3a-42b9-ac55-a49ee406e1f1",
+                                 "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_CitizensForPyro_Icon_1x1.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Lorville, Hurston",
+                           "resolvedFounded":  "2950",
+                           "resolvedLeadership":  "Madge \"Dash\" Harford",
+                           "resolvedArea":  "Unclaimed Systems",
+                           "resolvedFocus":  "Security, Community Service"
+                       }
+    },
+    {
+        "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_civilian.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_civilian.xml",
+        "rootElement":  "Faction.Faction_Lawful_Civilian",
+        "rawNameToken":  "@Civilian_RepUI_Name",
+        "resolvedName":  "Civilian",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Civilian_RepUI_Description",
+        "resolvedDescription":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "52883600-6021-4407-8130-febb7dd42c63",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_civilian.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_civilian.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Civilian",
+        "rawNameToken":  "@Civilian_RepUI_Name",
+        "resolvedName":  "Civilian",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Civilian_RepUI_Description",
+        "resolvedDescription":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "82ecc51d-7df1-41ba-b678-aab3b8fdfad0",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_clovusdarneely.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_clovusdarneely.xml",
+        "rootElement":  "Faction.Faction_Lawful_ClovusDarneely",
+        "rawNameToken":  "@MissionGivers_ClovusDarneely",
+        "resolvedName":  "Clovus Darneely",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Clovus Darneely is a clerk at Reclamation & Disposal, Lorville's main salvage yard, with a reputation for being able to procure hard to find items.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "310b42d1-df0b-40fc-ae09-b7d7298a8480",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_clovusdarneely.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Lorville, Hurston, Stanton System",
+                           "resolvedFounded":  "N/A",
+                           "resolvedLeadership":  "N/A",
+                           "resolvedArea":  "Hurston",
+                           "resolvedFocus":  "Smuggling, Salvage"
+                       }
+    },
+    {
+        "ref":  "2640e0b2-54f3-4c29-9d5d-6f8f4fc49dbe",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_covalexshipping.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_covalexshipping.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_CovalexShipping",
+        "rawNameToken":  "@Covalex_RepUI_Name",
+        "resolvedName":  "Covalex",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Covalex_RepUI_Description",
+        "resolvedDescription":  "Covalex is one of the largest hauling companies in the ’verse; thanks to its policy of contracting with independent ship operators. They learned early on that owners who fly their own ships are more invested in the success of the company and this commitment ensures a higher level of performance. In most systems, at any given time, a large percentage of the ships flying are working under contract to Covalex.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  "3b2f7882-73cc-41a4-9dce-f188d927e905",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_covalex.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Angeli, Croshaw System",
+                           "resolvedFounded":  "2782",
+                           "resolvedLeadership":  "Gilbert Malagon, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Delivery, Hauling, Courier Services"
+                       }
+    },
+    {
+        "ref":  "b89d388c-622c-4c8b-8887-46681eb193c1",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_crusaderindustries.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_crusaderindustries.xml",
+        "rootElement":  "Faction.Faction_Lawful_CrusaderIndustries",
+        "rawNameToken":  "@Crusader_RepUI_Name",
+        "resolvedName":  "Crusader Industries",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Crusader_RepUI_Description",
+        "resolvedDescription":  "Makers of an extensive fleet of cutting edge vehicles, Crusader Industries is a titan of the aerospace industry. The prominent company purchased a gas giant in the Stanton system to house its current headquarters and is striving to expand its already prolific profile of ships while dedicating itself to numerous charitable works.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "e2de0b2b-a385-4734-9c41-fc429aec01f1",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/mfr_crusader_icon_white-blue.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Orison, Crusader, Stanton System",
+                           "resolvedFounded":  "2799",
+                           "resolvedLeadership":  "Kelly Caplan, CEO",
+                           "resolvedArea":  "Stanton II, UEE",
+                           "resolvedFocus":  "Vehicle Manufacturing"
+                       }
+    },
+    {
+        "ref":  "6e3b98f1-4eb2-4128-958f-c550e418c5a6",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_crusadersecurity.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_crusadersecurity.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_CrusaderSecurity",
+        "rawNameToken":  "@CrusaderSecurity_RepUI_Name",
+        "resolvedName":  "Crusader Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@CrusaderSecurity_RepUI_Description",
+        "resolvedDescription":  "A subdivision of Crusader Industries, Crusader Security was created after the company purchased Stanton II from UEE in 2865 to perform general policing duties for Orison and the surrounding sector. Preferring to maintain a streamlined protective force, Crusader Security relies heavily on security contractors to bolster their peacekeeping efforts. They strive to maintain a professional and courteous demeanor that will make Crusader employees and visitors feel safe and comfortable.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "8f791865-9252-41d6-afd1-31783fd22674",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_dusters.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_dusters.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Dusters",
+        "rawNameToken":  "@Dusters_RepUI_Name",
+        "resolvedName":  "Dusters",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Dusters_RepUI_Description",
+        "resolvedDescription":  "A criminal gang based in the Stanton System specializing in mining related crimes such as robbing miners and illegally operating on other people's claims.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "3ea7569e-c92f-4874-8ffa-12f0338e58b7"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "e2382ebf-f6cf-4603-b32d-e110b873c9bb",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_firerats.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_firerats.xml",
+        "rootElement":  "Faction.Faction_Unlawful_FireRats",
+        "rawNameToken":  "@Factions_FireRats_DisplayName",
+        "resolvedName":  "Fire Rats",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Outlaw_RepUI_Description",
+        "resolvedDescription":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "4dece609-0140-4a7b-8ea2-1c645e36ac3f"
+                              ],
+        "enemyFactionRefs":  [
+                                 "53c09a46-8238-4cf8-8a20-c4abd54c0b7b"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "21c61135-e8ee-459c-8f61-4550b8c02c58",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_foxwellenforcement.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_foxwellenforcement.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_FoxwellEnforcement",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Foxwell Enforcement",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Founded by retired police officers in Lo, Corel system, Foxwell Enforcement provides low-cost security consultancy to those who need it most. The company hoped this altruism would lead to financial reward, but instead they’ve been forced to cut corners and loosen hiring practices to survive. Many companies still hire Foxwell because they’re affordable, but their low wages makes it hard to retain skilled security contractors.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "016c2950-0292-468c-a408-a5283b52f158",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_foxwellenforcement.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Lo, Corel System",
+                           "resolvedFounded":  "2928",
+                           "resolvedLeadership":  "Banco Foxwell, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Private Security Firm"
+                       }
+    },
+    {
+        "ref":  "6468bbc3-d76c-4af5-a8df-57048aed7c8b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_frontierfighters.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_frontierfighters.xml",
+        "rootElement":  "Faction.Faction_Unlawful_FrontierFighters",
+        "rawNameToken":  "@FrontierFighters_from",
+        "resolvedName":  "Frontier Fighters",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "3ea7569e-c92f-4874-8ffa-12f0338e58b7",
+                                  "dd2db9b4-a41a-4aa0-bb6b-6c75c0c078b1",
+                                  "e2382ebf-f6cf-4603-b32d-e110b873c9bb",
+                                  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "9f89edc0-441b-4f40-a502-df12ebf3f1eb",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_headhunters.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_headhunters.xml",
+        "rootElement":  "Faction.Faction_Reputation_Unlawful_HeadHunters",
+        "rawNameToken":  "@HeadHunters_RepUI_Name",
+        "resolvedName":  "Headhunters",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@HeadHunters_RepUI_Description",
+        "resolvedDescription":  "One of the oldest gangs in the Pyro System, the Headhunters have earned themselves a reputation for being ruthless and respected. Unlike many outlaws, when the Headhunters strike a deal they're known for keeping their word. Especially if they promise to kill someone. They are currently seeking to wrest control of Ruin Station away from XenoThreat.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "09efeef4-c646-408d-a979-3ae56a3b1beb",
+        "alliedFactionRefs":  [
+                                  "3c9a42a9-a986-494f-b724-4d74415f6016"
+                              ],
+        "enemyFactionRefs":  [
+                                 "14789370-bf3a-42b9-ac55-a49ee406e1f1",
+                                 "cd2b32d1-0362-41fb-8cfd-d29781daf789"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_Headhunters_Icon_1x1.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "N/A",
+                           "resolvedFounded":  "27th Century",
+                           "resolvedLeadership":  "Kima \"Bats\" Farrell",
+                           "resolvedArea":  "Pyro",
+                           "resolvedFocus":  "Piracy, Racketeering"
+                       }
+    },
+    {
+        "ref":  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_horizon.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_horizon.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Horizon",
+        "rawNameToken":  "@Factions_Horizon_DisplayName",
+        "resolvedName":  "Horizon",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Outlaw_RepUI_Description",
+        "resolvedDescription":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "4dece609-0140-4a7b-8ea2-1c645e36ac3f"
+                              ],
+        "enemyFactionRefs":  [
+                                 "e2382ebf-f6cf-4603-b32d-e110b873c9bb"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_hurstondynamics.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_hurstondynamics.xml",
+        "rootElement":  "Faction.Faction_Lawful_HurstonDynamics",
+        "rawNameToken":  "@Hurston_RepUI_Name",
+        "resolvedName":  "Hurston Dynamics",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Hurston_RepUI_Description",
+        "resolvedDescription":  "With a history stretching back over five hundred years, Hurston Dynamics is noteworthy for being not only one of the oldest continuously-operated family businesses in the Empire, but more recently for owning its own planet in the Stanton system. Over the course of fifteen generations of Hurstons, the company made its fortune selling a wide range of weapons to the military and civilians. In addition, Hurston Dynamics produces many of the refined materials and components that other weapon manufacturers rely on.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "66bfae03-86c1-4982-977b-09bfcfc05e1a",
+        "alliedFactionRefs":  [
+                                  "d6810f9d-7d39-414f-b2e6-3a641add15cb"
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_hurstondynamics.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Lorville, Hurston, Stanton System",
+                           "resolvedFounded":  "2438",
+                           "resolvedLeadership":  "Gavin E. Hurston, CEO",
+                           "resolvedArea":  "Stanton I, UEE",
+                           "resolvedFocus":  "Arms Manufacturing"
+                       }
+    },
+    {
+        "ref":  "d6810f9d-7d39-414f-b2e6-3a641add15cb",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_hurstonsecurity.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_hurstonsecurity.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_HurstonSecurity",
+        "rawNameToken":  "@HurstonSecurity_RepUI_Name",
+        "resolvedName":  "Hurston Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@HurstonSecurity_RepUI_Description",
+        "resolvedDescription":  "As Hurston Dynamics continued to expand their manufacturing operations in the 25th century, it became necessary to hire more security personnel to protect valuable stock, monitor employee safety, and guard shipments. Rather than shoulder the continued expense of outsourcing, Hurston would create an internal security force to take over these duties. When Hurston acquired the rights to Stanton I in 2865, it was only natural for their own security personnel to take over the responsibility of ensuring the peace and safety of the planet. A common sight on the streets of Lorville, members of Hurston Security are an imposing presence able to quickly respond when the need arises.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8"
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "d67aa7d9-9948-4903-b162-e71869cae4e8",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_kleschersecurity.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_kleschersecurity.xml",
+        "rootElement":  "Faction.Faction_Special_KlescherSecurity",
+        "rawNameToken":  "@Klescher_RepUI_Name",
+        "resolvedName":  "Klescher Rehabilitation Facilities",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Klescher_RepUI_Description",
+        "resolvedDescription":  "Klescher Rehabilitation Facilities is a private corrections provider who's committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
+        "factionType":  "LawEnforcement",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "5a27ef3a-55c4-4822-b3f1-6506097d21de",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_lingfamilyhauling.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_lingfamilyhauling.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_LingFamilyHauling",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Ling Family Hauling",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Founded by Davi Ling, Ling Family Hauling has been making a name for itself delivering packages and hauling shipments in the greater Crusader area. An experienced hauling pilot with over 30 years of experience, Davi decided to start his own shipping company in Crusader in order to spend more time with his family and less time flying.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "8ca58dc2-ecec-49ea-bb62-39a56bb28420",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_lingfamily.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Daymar (Stanton 2b), Crusader, Stanton System",
+                           "resolvedFounded":  "2945",
+                           "resolvedLeadership":  "Davi Ling, Proprietor",
+                           "resolvedArea":  "Stanton II",
+                           "resolvedFocus":  "Delivery, Hauling, Courier Services"
+                       }
+    },
+    {
+        "ref":  "a04f2ed1-9e2b-4a31-abd3-a963e09e021f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_microtech.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_microtech.xml",
+        "rootElement":  "Faction.Faction_Lawful_MicroTech",
+        "rawNameToken":  "@microTech_RepUI_Name",
+        "resolvedName":  "microTech",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@microTech_RepUI_Description",
+        "resolvedDescription":  "Ubiquitous around the Empire, microTech and their range of electronics, datapads, mobile interfaces, handheld sensors and computer software upgrades for starships are used daily by almost everyone. Their line of mobiGlas personal computers have become an integral part of daily life for millions of people. Additionally, the company purchased the rights to planet Stanton IV and use the icy world as their current headquarters.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "306a1313-8638-431c-a9a9-d29302dc6a81",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "b46d74e1-44c3-479a-ba0f-ba3f07d66529"
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_microtech.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "New Babbage, microTech, Stanton System",
+                           "resolvedFounded":  "2782",
+                           "resolvedLeadership":  "El Filipiak, CEO",
+                           "resolvedArea":  "Stanton IV, UEE",
+                           "resolvedFocus":  "Computers, Electronics"
+                       }
+    },
+    {
+        "ref":  "705c3888-7126-48d7-8a7e-e1f5c76e0c3c",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_eckhartsecurity.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_eckhartsecurity.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_EckhartSecurity",
+        "rawNameToken":  "@MissionGivers_MilesEckhart",
+        "resolvedName":  "Miles Eckhart",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Founded by Army veteran Miles Eckhart, Eckhart Security offers a wide variety of mercenary services across multiple systems - from security escorts, to defensive outpost deployments, to theft prevention and recovery. With over two decades of experience, Eckhart Security has earned itself a reputation for taking on the jobs that other security firms would shy away from.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "2dc1b38c-cd5f-4d37-aea7-5453b609f61d",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_eckhart_a_diff.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Lorville, Hurston, Stanton System",
+                           "resolvedFounded":  "2929",
+                           "resolvedLeadership":  "Miles Eckhart, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Private Security Firm"
+                       }
+    },
+    {
+        "ref":  "9e304047-923c-4c8a-968b-20a40136bf8f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_microtechprotectionservices.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_microtechprotectionservices.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_MicroTechProtectionServices",
+        "rawNameToken":  "@MTProtection_RepUI_Name",
+        "resolvedName":  "MT Protection Services",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@MTProtection_RepUI_Description",
+        "resolvedDescription":  "When the city of New Babbage was first designed, microTech had hoped that they would be able to use advanced monitoring systems combined with automatic response units to handle most security issues that would arise. Unfortunately, as the city flourished so to did criminal elements looking to take advantage of the growing wealth and affluence there.  To more efficiently deal with this growing criminal trend, in 2891 MT Protection Services was formed. While they still rely heavily on tech and remote monitoring, MT Protection Services employs a small force of security professionals who are able to deal with matters requiring a more hands on approach.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "3ea7569e-c92f-4874-8ffa-12f0338e58b7",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_ninetails.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_ninetails.xml",
+        "rootElement":  "Faction.Faction_Unlawful_NineTails",
+        "rawNameToken":  "@NineTails_RepUI_Name",
+        "resolvedName":  "Nine Tails",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@NineTails_RepUI_Description",
+        "resolvedDescription":  "A criminal organization that has been gaining a larger foothold in the Stanton System from its base of operations, the infamous Grim HEX station near Crusader. They are organized and ruthless, but are willing to share the wealth as long as other outlaws contract with them.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "6468bbc3-d76c-4af5-a8df-57048aed7c8b"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "dd2db9b4-a41a-4aa0-bb6b-6c75c0c078b1",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_outlaws.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_outlaws.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Outlaws",
+        "rawNameToken":  "@Outlaw_RepUI_Name",
+        "resolvedName":  "Outlaws",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Outlaw_RepUI_Description",
+        "resolvedDescription":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "4dece609-0140-4a7b-8ea2-1c645e36ac3f"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "df6de824-9f7b-44d5-a98b-d6a099970b5f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_rayariinc.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_rayariinc.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_RayariInc",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Rayari Incorporated",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Rayari Incorporated is a Human research company that specializes in agriculture and bio-engineering. Founded in 2803, it first came to prominence when the founders recreated a complete line of plants from the genetic code of ones indigenous to the then recently-massacred planet Garron II. In 2863, the company expanded into social engineering, creating large arcologies such as Reza's Landing designed for planets with hostile environments. The company maintains many labs throughout the United Empire of Earth (UEE).",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "afc25254-554d-4409-8893-383a58eb7e8a",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_rayari_diff.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Vosca, Elysium System",
+                           "resolvedFounded":  "2803",
+                           "resolvedLeadership":  "Michael Vicar, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Scientific Research, Gathering, Crafting"
+                       }
+    },
+    {
+        "ref":  "3c9a42a9-a986-494f-b724-4d74415f6016",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_roughandready.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_roughandready.xml",
+        "rootElement":  "Faction.Faction_Unlawful_RoughAndReady",
+        "rawNameToken":  "@RoughAndReady_RepUI_Name",
+        "resolvedName":  "Rough & Ready",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@RoughAndReady_RepUI_Description",
+        "resolvedDescription":  "In a play off of the popular Rest & Relax stations found throughout the UEE, this gang has established itself by running the largest fuel operations in Pyro. While their prices may not be fair, you can at least count on them having fuel and services on offer. Individuals who cross them often find life in Pyro much harder than it already was.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "d7e05124-92df-4929-804a-d7a1b0fbfd93",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_ruto.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_ruto.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Ruto",
+        "rawNameToken":  "@MissionGivers_Ruto",
+        "resolvedName":  "Ruto",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "One of the best known criminal fixers in the Empire, the true identity of Ruto remains a complete mystery. Only appearing as a hologram of the former Imperator, Kelos Costigan, Ruto manages a vast network of criminal activity, connections, and knowledge for their clients.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "1ff5f2d5-e169-444f-a87e-3eea50c44933",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_ruto.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "Grim HEX, Stanton System",
+                           "resolvedFounded":  "N/A",
+                           "resolvedLeadership":  "N/A",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "InfoAgent"
+                       }
+    },
+    {
+        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_Generic",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
+        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_friendlytoall.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_friendlytoall.xml",
+        "rootElement":  "Faction.Faction_Special_FriendlyToAll",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Friendly",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawfulsecurity_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawfulsecurity_generic.xml",
+        "rootElement":  "Faction.Faction_UnlawfulSecurity_Generic",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
+        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "04b1380a-c598-4e3d-8ebf-debde07cfe3d",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_shubininterstellar.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_shubininterstellar.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_ShubinInterstellar",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Shubin Interstellar",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Shubin Interstellar is a massive corporation overseeing thousands of mining sites across dozens of star systems, a varitable army of contractors, and an entire manufacturing division that specializes in producing mining equipment.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "e4527dd7-f0eb-4342-afe8-5ded1fe428df",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_shubininterstellar.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "New Babbage, microTech, Stanton System",
+                           "resolvedFounded":  "2410",
+                           "resolvedLeadership":  "Gavin Arlington, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Mining"
+                       }
+    },
+    {
+        "ref":  "d1a42653-8c65-4d6b-9617-4049ca77d8d8",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_tarpits.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_tarpits.xml",
+        "rootElement":  "Faction.Faction_Reputation_Unlawful_TarPits",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Tar Pits",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Known for their namesake Tow And Repair scams, the Tar Pits run illegal salvage operations, stripping distressed or otherwise unattended ships before their rightful owners can reclaim them. By selling these stolen parts to other criminal groups, the Tar Pits have managed to maintain good relationships with the other larger gangs in Stanton.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "5ebbd81d-82cb-4534-81fc-db7a2c386f70",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_tarpits.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "N/A",
+                           "resolvedFounded":  "N/A",
+                           "resolvedLeadership":  "N/A",
+                           "resolvedArea":  "Stanton",
+                           "resolvedFocus":  "Piracy, Salvage"
+                       }
+    },
+    {
+        "ref":  "a676b2d5-0e88-4b0a-bce5-948367830b9e",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawenforcement_advocacy.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawenforcement_advocacy.xml",
+        "rootElement":  "Faction.Faction_LawEnforcement_Advocacy",
+        "rawNameToken":  "@Advocacy_RepUI_Name",
+        "resolvedName":  "UEE Advocacy",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Advocacy_RepUI_Description",
+        "resolvedDescription":  "he Advocacy is an inter-system police force overseeing law enforcement in the UEE. Advocacy agents are authorized pursue crimes across jurisdictions within the empire, and often coordinate large scale investigations targeting some of Humanity's worst offenders.",
+        "factionType":  "LawEnforcement",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawenforcement_ueenavy.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawenforcement_ueenavy.xml",
+        "rootElement":  "Faction.Faction_LawEnforcement_UEENavy",
+        "rawNameToken":  "@PU_UEE_Navy_RepUI_Name",
+        "resolvedName":  "UEE Navy",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@PU_UEE_Navy_RepUI_Description",
+        "resolvedDescription":  "The largest branch and public face of the UEE military. The Navy is responsible for transportation of military resources, maintaining the borders, waging security operations throughout the UEE, and are currently engaged in a war against the Vanduul.",
+        "factionType":  "LawEnforcement",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_vanduul.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_vanduul.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Vanduul",
+        "rawNameToken":  "@Vanduul_RepUI_Name",
+        "resolvedName":  "Vanduul",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Vanduul_RepUI_Description",
+        "resolvedDescription":  "[PH] Vanduul Description",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "95761a82-18f9-4e25-ba33-d4c47c689324",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_vaughn.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_vaughn.xml",
+        "rootElement":  "Faction.Faction_Reputation_Unlawful_Vaughn",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Vaughn",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Investigated by authorities in connection to dozens of assassinations, the identity of this shadowy individual or group of individuals known as Vaughn remains unknown. Vaughn keeps clients and contractors completely separate and deals with both only through spectrum, which has made it extremely difficult for law enforcement to learn the identity of the person(s) behind this broker service.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "a161c267-0253-48e5-be7a-dfa16c6cbebe",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_vaughn.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "Investigated by authorities in connection to dozens of assassinations, the identity of this shadowy individual or group of individuals known as Vaughn remains unknown. Vaughn keeps clients and contractors completely separate and deals with both only through spectrum, which has made it extremely difficult for law enforcement to learn the identity of the person(s) behind this broker service.",
+                           "resolvedFounded":  "Information Blocked",
+                           "resolvedLeadership":  "Information Blocked",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Assassination Broker"
+                       }
+    },
+    {
+        "ref":  "c088786f-db63-4598-9c1b-a71ff4831f79",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_wallaceklim.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_wallaceklim.xml",
+        "rootElement":  "Faction.Faction_Unlawful_WallaceKlim",
+        "rawNameToken":  "@MissionGivers_WallaceKlim",
+        "resolvedName":  "Wallace Klim",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Formerly a chemical engineering instructor at the University of Rhetor, Wallace Klim is now one of the top producers of high-end drugs in the Stanton System. Is known to frequently partake in his own product which speaks to its quality.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "1d52a0fd-705b-483d-9e9b-2f5c6f16959f",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_wallaceklim.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "Grim HEX, Stanton System",
+                           "resolvedFounded":  "N/A",
+                           "resolvedLeadership":  "N/A",
+                           "resolvedArea":  "Stanton System",
+                           "resolvedFocus":  "Drugs"
+                       }
+    },
+    {
+        "ref":  "35b0d342-8d8a-4b0e-adda-fc85cae49afd",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_wildstarracing.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_wildstarracing.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_WildstarRacing",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  "Wildstar Racing",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  "Wildstar Racing started as a small Spectrum channel where racing enthusiasts would share vids of themselves racing on their favorite local tracks. Since then, they have grown into a sanctioned racing organization specializing in rally tracks and are widely recognized as an affordable proving ground for amateur racers to work towards competing in higher-profile leagues.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "73d4112a-156c-44d5-81c0-1788ec543768",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_wildstarracing.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Reisse, Rhetor System",
+                           "resolvedFounded":  "2811",
+                           "resolvedLeadership":  "Tosko Nunnar, President",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Racing"
+                       }
+    },
+    {
+        "ref":  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_xenothreat.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_xenothreat.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Xenothreat",
+        "rawNameToken":  "@Xenothreat_RepUI_Name",
+        "resolvedName":  "XenoThreat",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Xenothreat_RepUI_Description",
+        "resolvedDescription":  "XenoThreat believes that the UEE's continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "cd2b32d1-0362-41fb-8cfd-d29781daf789",
+                                 "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
+                             ],
+        "reputation":  null
+    }
+]

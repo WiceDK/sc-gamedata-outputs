@@ -1,0 +1,93 @@
+[
+    {
+        "name":  "ArcCorp",
+        "is_prison":  false,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "Citizens For Prosperity",
+        "is_prison":  false,
+        "base_fine":  0,
+        "respects_parent_laws":  false,
+        "parent_name":  null
+    },
+    {
+        "name":  "Crusader Industries",
+        "is_prison":  false,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "Green",
+        "is_prison":  false,
+        "base_fine":  126,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "Headhunters",
+        "is_prison":  false,
+        "base_fine":  0,
+        "respects_parent_laws":  false,
+        "parent_name":  null
+    },
+    {
+        "name":  "Hurston Dynamics",
+        "is_prison":  false,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "Klescher Rehabilitation",
+        "is_prison":  true,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "microTech",
+        "is_prison":  false,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "People's Alliance",
+        "is_prison":  false,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  "UEE"
+    },
+    {
+        "name":  "Rough & Ready",
+        "is_prison":  false,
+        "base_fine":  0,
+        "respects_parent_laws":  false,
+        "parent_name":  null
+    },
+    {
+        "name":  "UEE",
+        "is_prison":  false,
+        "base_fine":  125,
+        "respects_parent_laws":  true,
+        "parent_name":  null
+    },
+    {
+        "name":  "Ungoverned",
+        "is_prison":  false,
+        "base_fine":  0,
+        "respects_parent_laws":  false,
+        "parent_name":  null
+    },
+    {
+        "name":  "XenoThreat",
+        "is_prison":  false,
+        "base_fine":  0,
+        "respects_parent_laws":  false,
+        "parent_name":  null
+    }
+]

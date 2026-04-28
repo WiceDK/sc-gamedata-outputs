@@ -1,0 +1,353 @@
+[
+    {
+        "ref":  "61e48e63-6822-4f67-9648-d7b884281bd4",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\stanton\\arccorp.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/stanton/arccorp.xml",
+        "rootElement":  "Jurisdiction.ArcCorp",
+        "rawNameToken":  "@Jurisdictions_Name_004",
+        "resolvedName":  "ArcCorp",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_arccorp.svg",
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  4,
+        "prohibitedGoodRefs":  [
+                                   "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                   "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                   "6007e444-0a50-483b-b787-59047e6b0121",
+                                   "0df1df2d-6b65-4331-9394-3908953cd279",
+                                   "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                   "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f"
+                               ],
+        "prohibitedResourceRefs":  [
+                                       "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                       "3871740a-f82f-445d-a2e5-8163d1405733",
+                                       "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                       "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                       "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                       "ea78052a-11b2-484e-a7ee-d19ed906a037"
+                                   ]
+    },
+    {
+        "ref":  "7e4d7293-c663-46cc-97d8-95a6b9eabe24",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\pyro\\citizensforprosperity.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/pyro/citizensforprosperity.xml",
+        "rootElement":  "Jurisdiction.CitizensForProsperity",
+        "rawNameToken":  "@CitizensForPyro_RepUI_Name",
+        "resolvedName":  "Citizens For Prosperity",
+        "logoPath":  null,
+        "parentRef":  null,
+        "parentName":  null,
+        "respectsParentLaws":  false,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  0,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "22c4672e-252d-4aab-91b3-ca1838c377a3",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\stanton\\crusaderindustries.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/stanton/crusaderindustries.xml",
+        "rootElement":  "Jurisdiction.CrusaderIndustries",
+        "rawNameToken":  "@Jurisdictions_Name_002",
+        "resolvedName":  "Crusader Industries",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_crusader.svg",
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  4,
+        "prohibitedGoodRefs":  [
+                                   "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                   "2d70b5eb-0691-4270-b173-f91b7f59ee88",
+                                   "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                   "b294c88b-b988-4413-94bc-70f71f9401f6",
+                                   "6007e444-0a50-483b-b787-59047e6b0121",
+                                   "0df1df2d-6b65-4331-9394-3908953cd279",
+                                   "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                   "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f"
+                               ],
+        "prohibitedResourceRefs":  [
+                                       "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                       "2ed08e8e-7d46-4056-b877-42809af9905b",
+                                       "3871740a-f82f-445d-a2e5-8163d1405733",
+                                       "460e7516-8162-4d02-bcbb-09deec89df1f",
+                                       "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                       "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                       "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                       "ea78052a-11b2-484e-a7ee-d19ed906a037"
+                                   ]
+    },
+    {
+        "ref":  "4ad3e0d8-5b7a-4f7c-a94c-f74be23b5ab1",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\ellis\\green.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/ellis/green.xml",
+        "rootElement":  "Jurisdiction.Green",
+        "rawNameToken":  "@Ellis3",
+        "resolvedName":  "Green",
+        "logoPath":  null,
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  126,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "b004dce7-7956-4661-b37c-db5250560897",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\pyro\\headhunters.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/pyro/headhunters.xml",
+        "rootElement":  "Jurisdiction.HeadHunters",
+        "rawNameToken":  "@HeadHunters_RepUI_Name",
+        "resolvedName":  "Headhunters",
+        "logoPath":  null,
+        "parentRef":  null,
+        "parentName":  null,
+        "respectsParentLaws":  false,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  0,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "94f43714-09f8-488e-b7a9-cbc2404fc408",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\stanton\\hurstondynamics.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/stanton/hurstondynamics.xml",
+        "rootElement":  "Jurisdiction.HurstonDynamics",
+        "rawNameToken":  "@Jurisdictions_Name_003",
+        "resolvedName":  "Hurston Dynamics",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_hurston_dynamics.svg",
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  4,
+        "prohibitedGoodRefs":  [
+                                   "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                   "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                   "0df1df2d-6b65-4331-9394-3908953cd279",
+                                   "1d33767e-d9af-449c-a717-7e4de02f00b3"
+                               ],
+        "prohibitedResourceRefs":  [
+                                       "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                       "3871740a-f82f-445d-a2e5-8163d1405733",
+                                       "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                       "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                   ]
+    },
+    {
+        "ref":  "4eb79151-607f-4a67-9e0f-498b6a1b4d35",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\klescherprison.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/klescherprison.xml",
+        "rootElement":  "Jurisdiction.KlescherPrison",
+        "rawNameToken":  "@Jurisdictions_Name_008",
+        "resolvedName":  "Klescher Rehabilitation",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_klescher.svg",
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  true,
+        "infractionCount":  5,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "596cdbc9-71a2-4e9a-9461-4e9fe0090bef",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\stanton\\microtech.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/stanton/microtech.xml",
+        "rootElement":  "Jurisdiction.Microtech",
+        "rawNameToken":  "@Jurisdictions_Name_005",
+        "resolvedName":  "microTech",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_microtech.svg",
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  4,
+        "prohibitedGoodRefs":  [
+                                   "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                   "2d70b5eb-0691-4270-b173-f91b7f59ee88",
+                                   "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                   "b294c88b-b988-4413-94bc-70f71f9401f6",
+                                   "6007e444-0a50-483b-b787-59047e6b0121",
+                                   "0df1df2d-6b65-4331-9394-3908953cd279",
+                                   "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                   "1da71ac6-b728-4a16-81ee-b5cedc465431",
+                                   "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f"
+                               ],
+        "prohibitedResourceRefs":  [
+                                       "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                       "2ed08e8e-7d46-4056-b877-42809af9905b",
+                                       "3871740a-f82f-445d-a2e5-8163d1405733",
+                                       "460e7516-8162-4d02-bcbb-09deec89df1f",
+                                       "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                       "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                       "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                       "5e079d07-630a-41d5-a314-16381f07e2c3",
+                                       "ea78052a-11b2-484e-a7ee-d19ed906a037"
+                                   ]
+    },
+    {
+        "ref":  "99d11f16-c2a6-4a5a-ab53-13c26a193c2e",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\nyx\\peoplesalliance.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/nyx/peoplesalliance.xml",
+        "rootElement":  "Jurisdiction.PeoplesAlliance",
+        "rawNameToken":  "@Jurisdictions_Name_007",
+        "resolvedName":  "People's Alliance",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_palevski.svg",
+        "parentRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "parentName":  "UEE",
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "5b5e4ff5-f153-4b56-9f07-987520d3ce62",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\pyro\\roughandready.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/pyro/roughandready.xml",
+        "rootElement":  "Jurisdiction.RoughAndReady",
+        "rawNameToken":  "@RoughAndReady_RepUI_Name",
+        "resolvedName":  "Rough & Ready",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/logo_rough_and_ready.svg",
+        "parentRef":  null,
+        "parentName":  null,
+        "respectsParentLaws":  false,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  0,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "87e3c2af-000c-412f-b4d9-220377908eba",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\uee.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/uee.xml",
+        "rootElement":  "Jurisdiction.UEE",
+        "rawNameToken":  "@Jurisdictions_Name_001",
+        "resolvedName":  "UEE",
+        "logoPath":  "UI/Textures/Vector/General/BrandLogos/icon_brand_uee.svg",
+        "parentRef":  null,
+        "parentName":  null,
+        "respectsParentLaws":  true,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  125,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  33,
+        "prohibitedGoodRefs":  [
+                                   "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                   "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                   "0df1df2d-6b65-4331-9394-3908953cd279",
+                                   "1d33767e-d9af-449c-a717-7e4de02f00b3"
+                               ],
+        "prohibitedResourceRefs":  [
+                                       "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                       "3871740a-f82f-445d-a2e5-8163d1405733",
+                                       "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                       "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                   ]
+    },
+    {
+        "ref":  "d574e48a-d8bd-47d5-8ffd-1210fea81a31",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\nyx\\unclaimedspace.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/nyx/unclaimedspace.xml",
+        "rootElement":  "Jurisdiction.UnclaimedSpace",
+        "rawNameToken":  "@Jurisdictions_Name_009",
+        "resolvedName":  "Ungoverned",
+        "logoPath":  null,
+        "parentRef":  null,
+        "parentName":  null,
+        "respectsParentLaws":  false,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  0,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    },
+    {
+        "ref":  "0d2e5d5e-a3d3-4a6d-869f-58dc705e7020",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\lawsystem\\jurisdictions\\pyro\\xenothreat.xml",
+        "sourceDataPath":  "libs/foundry/records/lawsystem/jurisdictions/pyro/xenothreat.xml",
+        "rootElement":  "Jurisdiction.XenoThreat",
+        "rawNameToken":  "@Xenothreat_RepUI_Name",
+        "resolvedName":  "XenoThreat",
+        "logoPath":  null,
+        "parentRef":  null,
+        "parentName":  null,
+        "respectsParentLaws":  false,
+        "maxStolenGoodsPossessionScu":  1,
+        "baseFine":  0,
+        "earlyPaymentPeriod":  -1,
+        "isPrison":  false,
+        "infractionCount":  0,
+        "prohibitedGoodRefs":  [
+
+                               ],
+        "prohibitedResourceRefs":  [
+
+                                   ]
+    }
+]

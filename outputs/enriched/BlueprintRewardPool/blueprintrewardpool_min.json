@@ -1,0 +1,272 @@
+[
+    {
+        "ref":  "5d78a8d6-6911-4eda-97b6-9e315025147d",
+        "codeName":  "BP_MISSIONREWARD_ASD2A",
+        "blueprintCount":  11,
+        "missionCount":  1
+    },
+    {
+        "ref":  "3ebf3bfa-dde3-4782-90f6-b003b5af1877",
+        "codeName":  "BP_MISSIONREWARD_ASD2B",
+        "blueprintCount":  11,
+        "missionCount":  1
+    },
+    {
+        "ref":  "a79a915d-5186-4f87-8140-69bca9fc335e",
+        "codeName":  "BP_MISSIONREWARD_ASD2C",
+        "blueprintCount":  14,
+        "missionCount":  1
+    },
+    {
+        "ref":  "e0c72a9a-38be-4850-bc0d-dc4f3ee687c2",
+        "codeName":  "BP_MISSIONREWARD_ASD2D",
+        "blueprintCount":  14,
+        "missionCount":  1
+    },
+    {
+        "ref":  "903fb48b-ea72-48c0-b6d1-ece7c7f1e2f3",
+        "codeName":  "BP_MISSIONREWARD_ASD3",
+        "blueprintCount":  7,
+        "missionCount":  0
+    },
+    {
+        "ref":  "f14e629c-3346-4ca8-9204-df523ae54822",
+        "codeName":  "BP_MISSIONREWARD_BHG_ASDFacilityDelving_EngineeringWing_EliminateSpecific",
+        "blueprintCount":  4,
+        "missionCount":  1
+    },
+    {
+        "ref":  "6d549de3-21d6-4c46-ba89-2970a4cf7286",
+        "codeName":  "BP_MISSIONREWARD_BHG_ASDFacilityDelving_ResearchWing_EliminateSpecific",
+        "blueprintCount":  8,
+        "missionCount":  1
+    },
+    {
+        "ref":  "4937f5e9-f42e-4d8a-a6c4-96517028c548",
+        "codeName":  "BP_MISSIONREWARD_BitZeros_BlackBoxRecovery",
+        "blueprintCount":  12,
+        "missionCount":  7
+    },
+    {
+        "ref":  "fa0be2ae-124b-4505-a45d-80175c8f0b37",
+        "codeName":  "BP_MISSIONREWARD_BitZeros_RecoverItem_PyroNyx",
+        "blueprintCount":  8,
+        "missionCount":  1
+    },
+    {
+        "ref":  "636a76a2-0fbb-4f7f-aa69-7187f84aa961",
+        "codeName":  "BP_MISSIONREWARD_BitZeros_RecoverItem_Stanton",
+        "blueprintCount":  9,
+        "missionCount":  1
+    },
+    {
+        "ref":  "0f03e098-cc68-4a14-abe8-7b17a8bec97e",
+        "codeName":  "BP_MISSIONREWARD_BountyHuntersGuild_PAF_EliminateSpecific",
+        "blueprintCount":  10,
+        "missionCount":  2
+    },
+    {
+        "ref":  "bd54c374-923e-4095-96c1-3a76e857c35a",
+        "codeName":  "BP_MISSIONREWARD_CFP_ChainElim_1and2",
+        "blueprintCount":  6,
+        "missionCount":  6
+    },
+    {
+        "ref":  "6a166ec8-afd6-4e50-82aa-8b7533f82b41",
+        "codeName":  "BP_MISSIONREWARD_CFP_ChainElim_3",
+        "blueprintCount":  4,
+        "missionCount":  6
+    },
+    {
+        "ref":  "633d4069-c160-43d2-892d-2d8222261c20",
+        "codeName":  "BP_MISSIONREWARD_CFP_Outpost_RegionAB",
+        "blueprintCount":  6,
+        "missionCount":  8
+    },
+    {
+        "ref":  "a2da9707-9859-4da0-9f4b-90e5afe45833",
+        "codeName":  "BP_MISSIONREWARD_CFP_Outpost_RegionC",
+        "blueprintCount":  6,
+        "missionCount":  6
+    },
+    {
+        "ref":  "e6bdf007-4469-46fd-88d7-8e139c59829a",
+        "codeName":  "BP_MISSIONREWARD_CFP_Outpost_RegionD",
+        "blueprintCount":  6,
+        "missionCount":  2
+    },
+    {
+        "ref":  "cf847b27-bf3b-4d50-87c0-de3c68e4e387",
+        "codeName":  "BP_MISSIONREWARD_CitizensForProsperityDestroyItems_AB",
+        "blueprintCount":  14,
+        "missionCount":  13
+    },
+    {
+        "ref":  "16948a53-7be2-4869-9b21-3af06e99f8b7",
+        "codeName":  "BP_MISSIONREWARD_CitizensForProsperityDestroyItems_CD",
+        "blueprintCount":  12,
+        "missionCount":  8
+    },
+    {
+        "ref":  "6ba44ab4-9681-4bbf-9fd6-475da08bafd5",
+        "codeName":  "BP_MISSIONREWARD_CitizensForProsperityRecoverCargo_Pyro",
+        "blueprintCount":  14,
+        "missionCount":  5
+    },
+    {
+        "ref":  "e489ca64-3152-4ef3-8e86-10e05120d84d",
+        "codeName":  "BP_MISSIONREWARD_Foxwell_DefendEntitiesAndEscort",
+        "blueprintCount":  6,
+        "missionCount":  4
+    },
+    {
+        "ref":  "af21edb5-3938-45ac-8a35-130e52463f44",
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_Ambush",
+        "blueprintCount":  6,
+        "missionCount":  6
+    },
+    {
+        "ref":  "ad7ee842-5a39-4f35-a337-91b8e274179f",
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_EscortShips",
+        "blueprintCount":  6,
+        "missionCount":  6
+    },
+    {
+        "ref":  "5b74b911-ef2e-4bcd-8767-84abdc6bf6f9",
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_Generator",
+        "blueprintCount":  8,
+        "missionCount":  24
+    },
+    {
+        "ref":  "2fefd608-1c2c-4b0f-9c48-24b797f3ba3f",
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_Patrol",
+        "blueprintCount":  6,
+        "missionCount":  6
+    },
+    {
+        "ref":  "e9947de1-6160-4d62-a319-2f4693140c88",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateALL_RegionAB",
+        "blueprintCount":  8,
+        "missionCount":  28
+    },
+    {
+        "ref":  "d10c81ec-fc38-4f3e-bb2d-ccea0d10c889",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateALL_RegionCD",
+        "blueprintCount":  8,
+        "missionCount":  10
+    },
+    {
+        "ref":  "b81b328f-28a5-4d76-b06a-604cc7d5f2b0",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateBoss",
+        "blueprintCount":  8,
+        "missionCount":  1
+    },
+    {
+        "ref":  "f05fa898-1580-4ce3-95e2-8f5c4a1d1891",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateSpecific_RegionAB",
+        "blueprintCount":  10,
+        "missionCount":  12
+    },
+    {
+        "ref":  "9cf3799c-2347-46a6-bd65-203f8a426f79",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateSpecific_RegionCD",
+        "blueprintCount":  8,
+        "missionCount":  6
+    },
+    {
+        "ref":  "c9b51f5a-6073-49f8-bd40-b240d7d35ceb",
+        "codeName":  "BP_MISSIONREWARD_IDS_RecoverEncryptedData",
+        "blueprintCount":  13,
+        "missionCount":  1
+    },
+    {
+        "ref":  "efacefc7-916b-4cd1-9f03-43053f6ae867",
+        "codeName":  "BP_MISSIONREWARD_InterSec_DefendShip",
+        "blueprintCount":  6,
+        "missionCount":  5
+    },
+    {
+        "ref":  "1fdd6657-5947-4f64-ab2b-3b001d88f1f7",
+        "codeName":  "BP_MISSIONREWARD_InterSec_Patrol",
+        "blueprintCount":  11,
+        "missionCount":  3
+    },
+    {
+        "ref":  "36e8ac4d-8962-4b03-89e7-cd7a06fc4adc",
+        "codeName":  "BP_MISSIONREWARD_InterSec_ResourceGathering",
+        "blueprintCount":  6,
+        "missionCount":  2
+    },
+    {
+        "ref":  "ce014e33-cfcb-45e9-a12f-06f9baff9db2",
+        "codeName":  "BP_MISSIONREWARD_NorthRockFPSKill_EliminateBoss",
+        "blueprintCount":  12,
+        "missionCount":  1
+    },
+    {
+        "ref":  "7c495074-f31a-4f52-bde2-c912b183ac81",
+        "codeName":  "BP_MISSIONREWARD_Rayari_RecoverItem_HathorLoot",
+        "blueprintCount":  9,
+        "missionCount":  2
+    },
+    {
+        "ref":  "5abbcbe8-8af1-4b76-8a85-631eeff5903d",
+        "codeName":  "BP_MISSIONREWARD_Rayari_RecoverItem_Irradiated",
+        "blueprintCount":  7,
+        "missionCount":  1
+    },
+    {
+        "ref":  "61b089a0-880c-41da-a2c2-482a1bffe96f",
+        "codeName":  "BP_MISSIONREWARD_RDC_Boss",
+        "blueprintCount":  11,
+        "missionCount":  2
+    },
+    {
+        "ref":  "1e31d7e8-3033-4c98-a477-c474810d48c1",
+        "codeName":  "BP_MISSIONREWARD_RDC_Exclusive",
+        "blueprintCount":  11,
+        "missionCount":  3
+    },
+    {
+        "ref":  "e52bf354-8918-474d-987e-55c01bfecdd3",
+        "codeName":  "BP_MISSIONREWARD_RDC_Generic",
+        "blueprintCount":  10,
+        "missionCount":  22
+    },
+    {
+        "ref":  "5e79204c-6d26-4ddb-95c8-6940028e4d89",
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_FPSMining_Pyro",
+        "blueprintCount":  7,
+        "missionCount":  4
+    },
+    {
+        "ref":  "ebe453ce-10cc-4811-8c68-217c5fecb79e",
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_FPSMining_Stanton",
+        "blueprintCount":  6,
+        "missionCount":  4
+    },
+    {
+        "ref":  "c2bd6ae6-c4a1-4fb1-8421-bd2979f39f77",
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_ShipMining_PyroNyx",
+        "blueprintCount":  7,
+        "missionCount":  7
+    },
+    {
+        "ref":  "40438f39-f78c-41bc-a8de-d6f4f4c2daec",
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_ShipMining_Stanton",
+        "blueprintCount":  7,
+        "missionCount":  7
+    },
+    {
+        "ref":  "6876ee7a-114b-4414-9af1-bfdcdd303204",
+        "codeName":  "BP_MISSIONREWARD_VaughnGenerator_EliminateBoss",
+        "blueprintCount":  11,
+        "missionCount":  2
+    },
+    {
+        "ref":  "67a07f1a-ca8c-400d-984a-6088ecd3b482",
+        "codeName":  "BP_MISSIONREWARD_VaughnGenerator_EliminateSpecific",
+        "blueprintCount":  12,
+        "missionCount":  2
+    }
+]

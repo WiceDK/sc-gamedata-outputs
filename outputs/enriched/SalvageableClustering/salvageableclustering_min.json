@@ -1,0 +1,239 @@
+﻿[
+    {
+        "ref":  "2fabb75c-c641-483e-a353-96dc83093132",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Poor_Common",
+        "presetType":  "ship",
+        "tier":  "poor",
+        "rarity":  "common",
+        "probabilityOfClustering":  0.5,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  2,
+                             "maxProximity":  5
+                         }
+                     ]
+    },
+    {
+        "ref":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Poor_Uncommon",
+        "presetType":  "ship",
+        "tier":  "poor",
+        "rarity":  "uncommon",
+        "probabilityOfClustering":  0.5,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  3,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  2,
+                             "maxProximity":  5
+                         }
+                     ]
+    },
+    {
+        "ref":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Poor_Rare",
+        "presetType":  "ship",
+        "tier":  "poor",
+        "rarity":  "rare",
+        "probabilityOfClustering":  0.4,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  3,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  2,
+                             "maxProximity":  5
+                         }
+                     ]
+    },
+    {
+        "ref":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Normal_Common",
+        "presetType":  "ship",
+        "tier":  "normal",
+        "rarity":  "common",
+        "probabilityOfClustering":  0.2,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  5,
+                             "maxProximity":  15
+                         }
+                     ]
+    },
+    {
+        "ref":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Normal_Uncommon",
+        "presetType":  "ship",
+        "tier":  "normal",
+        "rarity":  "uncommon",
+        "probabilityOfClustering":  0.15,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  5,
+                             "maxProximity":  15
+                         }
+                     ]
+    },
+    {
+        "ref":  "d822672a-2b30-4ad3-84c5-949047b978f0",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Normal_Rare",
+        "presetType":  "ship",
+        "tier":  "normal",
+        "rarity":  "rare",
+        "probabilityOfClustering":  0.1,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  5,
+                             "maxProximity":  15
+                         }
+                     ]
+    },
+    {
+        "ref":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Elite_Common",
+        "presetType":  "ship",
+        "tier":  "elite",
+        "rarity":  "common",
+        "probabilityOfClustering":  0.8,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  3,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  3,
+                             "maxProximity":  10
+                         }
+                     ]
+    },
+    {
+        "ref":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Elite_Uncommon",
+        "presetType":  "ship",
+        "tier":  "elite",
+        "rarity":  "uncommon",
+        "probabilityOfClustering":  0.75,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  3,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  3,
+                             "maxProximity":  10
+                         }
+                     ]
+    },
+    {
+        "ref":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
+        "presetName":  "HarvestableClusterPreset.Salvage_Cluster_Elite_Rare",
+        "presetType":  "ship",
+        "tier":  "elite",
+        "rarity":  "rare",
+        "probabilityOfClustering":  0.7,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  3,
+                             "maxProximity":  10
+                         }
+                     ]
+    },
+    {
+        "ref":  "ea8562fe-4d9f-4366-a5c2-114d18a2f7c3",
+        "presetName":  "HarvestableClusterPreset.SalvageScrap",
+        "presetType":  "scrap",
+        "tier":  null,
+        "rarity":  null,
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "expectedClusterSize":  6.166667,
+        "clusters":  [
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  15,
+                             "minProximity":  5,
+                             "maxProximity":  15
+                         },
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  8,
+                             "minProximity":  3,
+                             "maxProximity":  10
+                         },
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  3,
+                             "maxSize":  5,
+                             "minProximity":  2,
+                             "maxProximity":  5
+                         }
+                     ]
+    },
+    {
+        "ref":  "26f40438-7add-46ea-924a-2f3fd4acab7d",
+        "presetName":  "HarvestableClusterPreset.SalvageScrap_Pyro",
+        "presetType":  "scrap",
+        "tier":  null,
+        "rarity":  null,
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "expectedClusterSize":  7.1875,
+        "clusters":  [
+                         {
+                             "relativeProbability":  0.1,
+                             "minSize":  10,
+                             "maxSize":  15,
+                             "minProximity":  5,
+                             "maxProximity":  15
+                         },
+                         {
+                             "relativeProbability":  0.5,
+                             "minSize":  7,
+                             "maxSize":  10,
+                             "minProximity":  3,
+                             "maxProximity":  10
+                         },
+                         {
+                             "relativeProbability":  1,
+                             "minSize":  5,
+                             "maxSize":  7,
+                             "minProximity":  2,
+                             "maxProximity":  5
+                         }
+                     ]
+    }
+]

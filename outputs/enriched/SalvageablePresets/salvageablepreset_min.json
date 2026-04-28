@@ -1,0 +1,66 @@
+﻿[
+    {
+        "ref":  "57f32936-a5bd-4530-862e-c073b1678c12",
+        "presetName":  "HarvestablePreset.Salvage",
+        "entityClassRef":  "640e65d6-f526-4904-9842-7429d2739196",
+        "displayName":  "Crusader Ares Star Fighter Inferno",
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "c8486465-651a-4fc7-93cd-e109d235cce8",
+        "presetName":  "HarvestablePreset.Salvage_890",
+        "entityClassRef":  "582c9fd1-6fcb-4afd-8110-403de9cb4d92",
+        "displayName":  "Origin 890 Jump",
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "16bb2292-7c05-4f9d-868b-5651d3b0b17e",
+        "presetName":  "HarvestablePreset.Salvage_Ares_Inferno",
+        "entityClassRef":  "33c6feaa-fa47-4971-b075-8a9e783d15fc",
+        "displayName":  "Crusader Ares Star Fighter Inferno",
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "cc8cf0a2-17b0-4bd9-8c33-7705d6e701c1",
+        "presetName":  "HarvestablePreset.Salvage_AvengerTitan",
+        "entityClassRef":  "fd656e75-a7e2-4f58-8ec5-4203aa1ea5cf",
+        "displayName":  "Aegis Avenger Titan",
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "a5fd8ab3-c3ba-4be0-b66a-8c3e598d05f4",
+        "presetName":  "HarvestablePreset.Salvage_C2",
+        "entityClassRef":  "5b888034-677f-48e9-ad35-5cb582a26961",
+        "displayName":  "Crusader C2 Hercules 2951 BIS",
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "21049405-3b35-4a02-a987-331752d99195",
+        "presetName":  "HarvestablePreset.Salvage_Redeemer",
+        "entityClassRef":  "1abc5334-5998-467b-bf06-a75d1efcf289",
+        "displayName":  "Aegis Redeemer",
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "a6c61df1-6266-4124-809b-655a74e69863",
+        "presetName":  "HarvestablePreset.Salvage_ScrapPiece_BASE",
+        "entityClassRef":  "b2907a7a-20b3-44f3-b7d8-31778378a587",
+        "displayName":  null,
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    },
+    {
+        "ref":  "c1e8c6a9-a4be-4bd4-b917-075db0d02054",
+        "presetName":  "HarvestablePreset.Salvage_ScrapPiece_ReclaimerMultiGeo",
+        "entityClassRef":  "d6ed474d-aea8-4fc1-9052-7f6404fbb149",
+        "displayName":  null,
+        "respawnInSlotTime":  3600,
+        "despawnTimeSeconds":  600
+    }
+]

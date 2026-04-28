@@ -1,0 +1,86 @@
+﻿[
+    {
+        "name":  "Agricultural Supply",
+        "description":  "Items required for agricultural production. Includes fertilizers, feed, and pesticides."
+    },
+    {
+        "name":  "Alloy",
+        "description":  "Substances that are compounds of two or more metals or other materials with improved properties over the base ingredients."
+    },
+    {
+        "name":  "Consumer Goods",
+        "description":  "Commodities that are purchased by an individual to satisfy their wants or needs."
+    },
+    {
+        "name":  "Drink",
+        "description":  "Liquids intended for consumption."
+    },
+    {
+        "name":  "Food",
+        "description":  "Any substance that can be safely consumed by a living organism for the purpose of nutritional support."
+    },
+    {
+        "name":  "Gas",
+        "description":  "A substance that when under standard pressure has vast distance between particles with weaker intermolecular bonds than other phases of matter."
+    },
+    {
+        "name":  "HexaPolyMesh Coating",
+        "description":  "This liquid hexagonal lattice bonds readily to surfaces when electrically charged, solidifying almost instantaneously to create an incredibly strong and durable polymer mesh that maintains integrity at a range of temperatures and pressures."
+    },
+    {
+        "name":  "Hydrogen Fuel",
+        "description":  "Hydrogen that is energized and then used by thrusters to propel vehicles."
+    },
+    {
+        "name":  "Man-made",
+        "description":  "Commodities manufactured or constructed through industrial processes rather as opposed to being naturally occurring."
+    },
+    {
+        "name":  "Medical Supply",
+        "description":  "A variety of items produced primarily to treat injury or illness."
+    },
+    {
+        "name":  "Metal",
+        "description":  "A solid material that typically shiny and opaque and possesses good electrical and thermal conductivity."
+    },
+    {
+        "name":  "Military Supply",
+        "description":  "A variety of items assembled to support combat forces, including ammunition, structural repair tools and clothing."
+    },
+    {
+        "name":  "Mineral",
+        "description":  "Naturally occurring abiogenic compounds that are typically crystalline in nature with an ordered atomic arrangement."
+    },
+    {
+        "name":  "Natural Materials",
+        "description":  "Materials that are naturally occurring and can be extracted directly from the environment."
+    },
+    {
+        "name":  "Nonmetals",
+        "description":  "These elements do not display the properties of a metal and are generally poor conductors of heat and electricity."
+    },
+    {
+        "name":  "Processed Goods",
+        "description":  "Items that are manufactured or assembled from a conglomeration of components."
+    },
+    {
+        "name":  "Quantum Fuel",
+        "description":  "Fuel used by quantum drives to propel ships at high speeds or, if equipped with a jump module, through jump tunnels to other systems."
+    },
+    {
+        "name":  "Recycled Material Composite",
+        "description":  "Recycled Material Composite, commonly referred to as RMC, is the end result of low-tier salvaging where a myriad of alloys and polymers are mixed together during the collection process."
+    },
+    {
+        "name":  "Scrap",
+        "description":  "Waste that is ready to be converted into new materials for reuse."
+    },
+    {
+        "name":  "Vice",
+        "description":  "Items that are regarded as immoral or harmful by society."
+    },
+    {
+        "name":  "Waste",
+        "description":  "Unwanted and unusable materials that are designated to be discarded."
+    }
+]

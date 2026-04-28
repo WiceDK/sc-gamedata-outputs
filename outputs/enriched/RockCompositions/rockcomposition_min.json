@@ -1,0 +1,2088 @@
+﻿[
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Aluminum (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Aluminum (Ore)",
+        "secondaryOreResource":  "Corundum (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+                                     "oreResourceTypeName":  "Aluminum (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+                                     "oreResourceTypeName":  "Aluminum (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+                                     "oreResourceTypeName":  "Corundum (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Copper (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Copper (Ore)",
+        "secondaryOreResource":  "Tin (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+                                     "oreResourceTypeName":  "Copper (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+                                     "oreResourceTypeName":  "Copper (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+                                     "oreResourceTypeName":  "Tin (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Corundum (Raw)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Corundum (Raw)",
+        "secondaryOreResource":  "Aluminum (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+                                     "oreResourceTypeName":  "Corundum (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+                                     "oreResourceTypeName":  "Corundum (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+                                     "oreResourceTypeName":  "Aluminum (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Hephaestanite (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Hephaestanite (Raw)",
+        "secondaryOreResource":  "Quartz (Raw)",
+        "tertiaryOreResource":  "Raw Silicon",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+                                     "oreResourceTypeName":  "Quartz (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Iron (Ore)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Iron (Ore)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "05708bae-1cb1-4e63-bb95-ec7f4a3ef430",
+                                     "oreResourceTypeName":  "Iron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "05708bae-1cb1-4e63-bb95-ec7f4a3ef430",
+                                     "oreResourceTypeName":  "Iron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Quartz (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Quartz (Raw)",
+        "secondaryOreResource":  "Hephaestanite (Raw)",
+        "tertiaryOreResource":  "Raw Silicon",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+                                     "oreResourceTypeName":  "Quartz (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+                                     "oreResourceTypeName":  "Quartz (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Raw Ice",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Raw Ice",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "51745536-ff2b-4840-a6f8-b1ed498a77ff",
+                                     "oreResourceTypeName":  "Raw Ice",
+                                     "resourceTypeGroup":  "Natural Materials",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "51745536-ff2b-4840-a6f8-b1ed498a77ff",
+                                     "oreResourceTypeName":  "Raw Ice",
+                                     "resourceTypeGroup":  "Natural Materials",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Raw Silicon",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Raw Silicon",
+        "secondaryOreResource":  "Hephaestanite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "common",
+        "compositionName":  "Tin (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Tin (Ore)",
+        "secondaryOreResource":  "Copper (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+                                     "oreResourceTypeName":  "Tin (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+                                     "oreResourceTypeName":  "Tin (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+                                     "oreResourceTypeName":  "Copper (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "uncommon",
+        "compositionName":  "Agricium (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Agricium (Ore)",
+        "secondaryOreResource":  "Aslarite (Raw)",
+        "tertiaryOreResource":  "Titanium (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "uncommon",
+        "compositionName":  "Aslarite (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Aslarite (Raw)",
+        "secondaryOreResource":  "Agricium (Ore)",
+        "tertiaryOreResource":  "Titanium (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "uncommon",
+        "compositionName":  "Laranite (Raw)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Laranite (Raw)",
+        "secondaryOreResource":  "Tungsten (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "uncommon",
+        "compositionName":  "Titanium (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Titanium (Ore)",
+        "secondaryOreResource":  "Agricium (Ore)",
+        "tertiaryOreResource":  "Aslarite (Raw)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "uncommon",
+        "compositionName":  "Torite (Ore)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Torite (Ore)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
+                                     "oreResourceTypeName":  "Torite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
+                                     "oreResourceTypeName":  "Torite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "uncommon",
+        "compositionName":  "Tungsten (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Tungsten (Ore)",
+        "secondaryOreResource":  "Laranite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "rare",
+        "compositionName":  "Beryl (Raw)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Beryl (Raw)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+                                     "oreResourceTypeName":  "Beryl (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+                                     "oreResourceTypeName":  "Beryl (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "rare",
+        "compositionName":  "Bexalite (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Bexalite (Raw)",
+        "secondaryOreResource":  "Borase (Ore)",
+        "tertiaryOreResource":  "Gold (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "rare",
+        "compositionName":  "Borase (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Borase (Ore)",
+        "secondaryOreResource":  "Bexalite (Raw)",
+        "tertiaryOreResource":  "Gold (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "rare",
+        "compositionName":  "Gold (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Gold (Ore)",
+        "secondaryOreResource":  "Bexalite (Raw)",
+        "tertiaryOreResource":  "Borase (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "rare",
+        "compositionName":  "Taranite (Raw)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Taranite (Raw)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8893c670-f9f7-48df-a05b-e85764994256",
+                                     "oreResourceTypeName":  "Taranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8893c670-f9f7-48df-a05b-e85764994256",
+                                     "oreResourceTypeName":  "Taranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "epic",
+        "compositionName":  "Lindinium (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Lindinium (Ore)",
+        "secondaryOreResource":  "Tungsten (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "1ec31863-26a8-446e-9805-448bb50253ed",
+                                     "oreResourceTypeName":  "Lindinium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "1ec31863-26a8-446e-9805-448bb50253ed",
+                                     "oreResourceTypeName":  "Lindinium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "epic",
+        "compositionName":  "Ouratite",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Raw Ouratite",
+        "secondaryOreResource":  "Agricium (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8723956e-e947-4b84-9dcb-b2c6137895ab",
+                                     "oreResourceTypeName":  "Raw Ouratite",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8723956e-e947-4b84-9dcb-b2c6137895ab",
+                                     "oreResourceTypeName":  "Raw Ouratite",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "epic",
+        "compositionName":  "Riccite (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Riccite (Ore)",
+        "secondaryOreResource":  "Laranite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "905e9623-5e74-4a92-9cb1-72203ed8baad",
+                                     "oreResourceTypeName":  "Riccite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "905e9623-5e74-4a92-9cb1-72203ed8baad",
+                                     "oreResourceTypeName":  "Riccite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "legendary",
+        "compositionName":  "Quantainium (Raw)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Quantainium (Raw)",
+        "secondaryOreResource":  "Beryl (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "fc62043c-3f29-4fff-b754-2301762723f7",
+                                     "oreResourceTypeName":  "Quantainium (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "fc62043c-3f29-4fff-b754-2301762723f7",
+                                     "oreResourceTypeName":  "Quantainium (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+                                     "oreResourceTypeName":  "Beryl (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "legendary",
+        "compositionName":  "Savrilium (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Savrilium (Ore)",
+        "secondaryOreResource":  "Gold (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+                                     "oreResourceTypeName":  "Savrilium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+                                     "oreResourceTypeName":  "Savrilium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "legendary",
+        "compositionName":  "Savrilium (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Savrilium (Ore)",
+        "secondaryOreResource":  "Torite (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+                                     "oreResourceTypeName":  "Savrilium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+                                     "oreResourceTypeName":  "Savrilium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
+                                     "oreResourceTypeName":  "Torite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "asteroid",
+        "rarity":  "legendary",
+        "compositionName":  "Stileron",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Stileron (Ore)",
+        "secondaryOreResource":  "Taranite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "9498a080-84c0-41f4-b88f-71942c60c43f",
+                                     "oreResourceTypeName":  "Stileron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "9498a080-84c0-41f4-b88f-71942c60c43f",
+                                     "oreResourceTypeName":  "Stileron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8893c670-f9f7-48df-a05b-e85764994256",
+                                     "oreResourceTypeName":  "Taranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Aluminum (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Aluminum (Ore)",
+        "secondaryOreResource":  "Corundum (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+                                     "oreResourceTypeName":  "Aluminum (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+                                     "oreResourceTypeName":  "Aluminum (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+                                     "oreResourceTypeName":  "Corundum (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Copper (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Copper (Ore)",
+        "secondaryOreResource":  "Tin (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+                                     "oreResourceTypeName":  "Copper (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+                                     "oreResourceTypeName":  "Copper (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+                                     "oreResourceTypeName":  "Tin (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Corundum (Raw)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Corundum (Raw)",
+        "secondaryOreResource":  "Aluminum (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+                                     "oreResourceTypeName":  "Corundum (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+                                     "oreResourceTypeName":  "Corundum (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+                                     "oreResourceTypeName":  "Aluminum (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Hephaestanite (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Hephaestanite (Raw)",
+        "secondaryOreResource":  "Quartz (Raw)",
+        "tertiaryOreResource":  "Raw Silicon",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+                                     "oreResourceTypeName":  "Quartz (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Iron (Ore)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Iron (Ore)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "05708bae-1cb1-4e63-bb95-ec7f4a3ef430",
+                                     "oreResourceTypeName":  "Iron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "05708bae-1cb1-4e63-bb95-ec7f4a3ef430",
+                                     "oreResourceTypeName":  "Iron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Quartz (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Quartz (Raw)",
+        "secondaryOreResource":  "Hephaestanite (Raw)",
+        "tertiaryOreResource":  "Raw Silicon",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+                                     "oreResourceTypeName":  "Quartz (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+                                     "oreResourceTypeName":  "Quartz (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Raw Ice",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Raw Ice",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "51745536-ff2b-4840-a6f8-b1ed498a77ff",
+                                     "oreResourceTypeName":  "Raw Ice",
+                                     "resourceTypeGroup":  "Natural Materials",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "51745536-ff2b-4840-a6f8-b1ed498a77ff",
+                                     "oreResourceTypeName":  "Raw Ice",
+                                     "resourceTypeGroup":  "Natural Materials",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Raw Silicon",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Raw Silicon",
+        "secondaryOreResource":  "Hephaestanite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "219e8523-b953-4517-812a-0fb2eb023209",
+                                     "oreResourceTypeName":  "Raw Silicon",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "220c2e18-9324-4528-b399-2f908488b204",
+                                     "oreResourceTypeName":  "Hephaestanite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "common",
+        "compositionName":  "Tin (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Tin (Ore)",
+        "secondaryOreResource":  "Copper (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+                                     "oreResourceTypeName":  "Tin (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+                                     "oreResourceTypeName":  "Tin (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+                                     "oreResourceTypeName":  "Copper (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "uncommon",
+        "compositionName":  "Agricium (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Agricium (Ore)",
+        "secondaryOreResource":  "Aslarite (Raw)",
+        "tertiaryOreResource":  "Titanium (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "uncommon",
+        "compositionName":  "Aslarite (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Aslarite (Raw)",
+        "secondaryOreResource":  "Agricium (Ore)",
+        "tertiaryOreResource":  "Titanium (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "uncommon",
+        "compositionName":  "Laranite (Raw)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Laranite (Raw)",
+        "secondaryOreResource":  "Tungsten (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "uncommon",
+        "compositionName":  "Titanium (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Titanium (Ore)",
+        "secondaryOreResource":  "Agricium (Ore)",
+        "tertiaryOreResource":  "Aslarite (Raw)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+                                     "oreResourceTypeName":  "Titanium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+                                     "oreResourceTypeName":  "Aslarite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "uncommon",
+        "compositionName":  "Torite (Ore)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Torite (Ore)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
+                                     "oreResourceTypeName":  "Torite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
+                                     "oreResourceTypeName":  "Torite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "uncommon",
+        "compositionName":  "Tungsten (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Tungsten (Ore)",
+        "secondaryOreResource":  "Laranite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "rare",
+        "compositionName":  "Beryl (Raw)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Beryl (Raw)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+                                     "oreResourceTypeName":  "Beryl (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+                                     "oreResourceTypeName":  "Beryl (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "rare",
+        "compositionName":  "Bexalite (Raw)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Bexalite (Raw)",
+        "secondaryOreResource":  "Borase (Ore)",
+        "tertiaryOreResource":  "Gold (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "rare",
+        "compositionName":  "Borase (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Borase (Ore)",
+        "secondaryOreResource":  "Bexalite (Raw)",
+        "tertiaryOreResource":  "Gold (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "rare",
+        "compositionName":  "Gold (Ore)",
+        "minimumDistinctElements":  4,
+        "primaryOreResource":  "Gold (Ore)",
+        "secondaryOreResource":  "Bexalite (Raw)",
+        "tertiaryOreResource":  "Borase (Ore)",
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+                                     "oreResourceTypeName":  "Borase (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 },
+                                 {
+                                     "mineableElementRef":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+                                     "oreResourceTypeName":  "Bexalite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2,
+                                     "maxPercentage":  5,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "rare",
+        "compositionName":  "Taranite (Raw)",
+        "minimumDistinctElements":  2,
+        "primaryOreResource":  "Taranite (Raw)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8893c670-f9f7-48df-a05b-e85764994256",
+                                     "oreResourceTypeName":  "Taranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8893c670-f9f7-48df-a05b-e85764994256",
+                                     "oreResourceTypeName":  "Taranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  43.18,
+                                     "maxPercentage":  93.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "epic",
+        "compositionName":  "Lindinium (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Lindinium (Ore)",
+        "secondaryOreResource":  "Tungsten (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "1ec31863-26a8-446e-9805-448bb50253ed",
+                                     "oreResourceTypeName":  "Lindinium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "1ec31863-26a8-446e-9805-448bb50253ed",
+                                     "oreResourceTypeName":  "Lindinium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+                                     "oreResourceTypeName":  "Tungsten (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "epic",
+        "compositionName":  "Ouratite",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Raw Ouratite",
+        "secondaryOreResource":  "Agricium (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8723956e-e947-4b84-9dcb-b2c6137895ab",
+                                     "oreResourceTypeName":  "Raw Ouratite",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "8723956e-e947-4b84-9dcb-b2c6137895ab",
+                                     "oreResourceTypeName":  "Raw Ouratite",
+                                     "resourceTypeGroup":  "Nonmetals",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "d61d6c33-e428-4014-9326-0b06034de16a",
+                                     "oreResourceTypeName":  "Agricium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "epic",
+        "compositionName":  "Riccite (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Riccite (Ore)",
+        "secondaryOreResource":  "Laranite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "905e9623-5e74-4a92-9cb1-72203ed8baad",
+                                     "oreResourceTypeName":  "Riccite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "905e9623-5e74-4a92-9cb1-72203ed8baad",
+                                     "oreResourceTypeName":  "Riccite (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+                                     "oreResourceTypeName":  "Laranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "legendary",
+        "compositionName":  "Quantainium (Raw)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Quantainium (Raw)",
+        "secondaryOreResource":  "Beryl (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "fc62043c-3f29-4fff-b754-2301762723f7",
+                                     "oreResourceTypeName":  "Quantainium (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "fc62043c-3f29-4fff-b754-2301762723f7",
+                                     "oreResourceTypeName":  "Quantainium (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+                                     "oreResourceTypeName":  "Beryl (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "legendary",
+        "compositionName":  "Savrilium (Ore)",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Savrilium (Ore)",
+        "secondaryOreResource":  "Gold (Ore)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+                                     "oreResourceTypeName":  "Savrilium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+                                     "oreResourceTypeName":  "Savrilium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+                                     "oreResourceTypeName":  "Gold (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    },
+    {
+        "miningContext":  "surface",
+        "rarity":  "legendary",
+        "compositionName":  "Stileron",
+        "minimumDistinctElements":  3,
+        "primaryOreResource":  "Stileron (Ore)",
+        "secondaryOreResource":  "Taranite (Raw)",
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "9498a080-84c0-41f4-b88f-71942c60c43f",
+                                     "oreResourceTypeName":  "Stileron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  2.82,
+                                     "maxPercentage":  6.82,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 },
+                                 {
+                                     "mineableElementRef":  "9498a080-84c0-41f4-b88f-71942c60c43f",
+                                     "oreResourceTypeName":  "Stileron (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  39.18,
+                                     "maxPercentage":  83.18,
+                                     "probability":  1,
+                                     "qualityScale":  0.49
+                                 },
+                                 {
+                                     "mineableElementRef":  "8893c670-f9f7-48df-a05b-e85764994256",
+                                     "oreResourceTypeName":  "Taranite (Raw)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  5,
+                                     "maxPercentage":  10,
+                                     "probability":  1,
+                                     "qualityScale":  0.789
+                                 }
+                             ]
+    }
+]

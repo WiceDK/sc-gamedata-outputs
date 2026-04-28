@@ -1,0 +1,230 @@
+[
+    {
+        "displayName":  "Armor",
+        "types":  [
+                      {
+                          "type":  "Char_Armor_Arms",
+                          "displayName":  "Arms"
+                      },
+                      {
+                          "type":  "Char_Armor_Backpack",
+                          "displayName":  "Backpack"
+                      },
+                      {
+                          "type":  "Char_Armor_Helmet",
+                          "displayName":  "Helmets"
+                      },
+                      {
+                          "type":  "Char_Armor_Legs",
+                          "displayName":  "Legs"
+                      },
+                      {
+                          "type":  "Char_Armor_Torso",
+                          "displayName":  "Torso"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Avionics",
+        "types":  [
+                      {
+                          "type":  "Radar",
+                          "displayName":  "Radar"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Clothing",
+        "types":  [
+                      {
+                          "type":  "Char_Clothing_Feet",
+                          "displayName":  "Footwear"
+                      },
+                      {
+                          "type":  "Char_Clothing_Hands",
+                          "displayName":  "Gloves"
+                      },
+                      {
+                          "type":  "Char_Clothing_Hat",
+                          "displayName":  "Hat"
+                      },
+                      {
+                          "type":  "Char_Clothing_Torso_1",
+                          "displayName":  "Jacket"
+                      },
+                      {
+                          "type":  "Char_Clothing_Legs",
+                          "displayName":  "Legwear"
+                      },
+                      {
+                          "type":  "Char_Clothing_Torso_0",
+                          "displayName":  "Shirt"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Liveries",
+        "types":  [
+                      {
+                          "type":  "Paints",
+                          "displayName":  "Liveries"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Misc.",
+        "types":  [
+                      {
+                          "type":  "Consumable",
+                          "displayName":  "Consumable"
+                      },
+                      {
+                          "type":  "Drink",
+                          "displayName":  "Drink"
+                      },
+                      {
+                          "type":  "Food",
+                          "displayName":  "Food"
+                      },
+                      {
+                          "type":  "Misc",
+                          "displayName":  "Misc."
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Prsnl. Wpns.",
+        "types":  [
+                      {
+                          "type":  "WeaponAttachment",
+                          "displayName":  "Attachment"
+                      },
+                      {
+                          "type":  "WeaponPersonal",
+                          "displayName":  "Prsnl. Wpn."
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Systems",
+        "types":  [
+                      {
+                          "type":  "Cooler",
+                          "displayName":  "Cooler"
+                      },
+                      {
+                          "type":  "PowerPlant",
+                          "displayName":  "Power Plant"
+                      },
+                      {
+                          "type":  "QuantumDrive",
+                          "displayName":  "Quantum Drives"
+                      },
+                      {
+                          "type":  "Shield",
+                          "displayName":  "Shield Generator"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Technology",
+        "types":  [
+                      {
+                          "type":  "MobiGlas",
+                          "displayName":  "mobiGlas"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Undersuits",
+        "types":  [
+                      {
+                          "type":  "Char_Armor_Undersuit",
+                          "displayName":  "Undersuit"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Utility",
+        "types":  [
+                      {
+                          "type":  "Container",
+                          "displayName":  "Container"
+                      },
+                      {
+                          "type":  "DockingCollar",
+                          "displayName":  "Docking Collar"
+                      },
+                      {
+                          "type":  "ExternalFuelTank",
+                          "displayName":  "External Fuel Tank"
+                      },
+                      {
+                          "type":  null,
+                          "displayName":  "Fabricator"
+                      },
+                      {
+                          "type":  "FuelNozzle",
+                          "displayName":  "Fuel Nozzle"
+                      },
+                      {
+                          "type":  "Gadget",
+                          "displayName":  "Gadgets"
+                      },
+                      {
+                          "type":  "WeaponMining",
+                          "displayName":  "Mining Laser Heads"
+                      },
+                      {
+                          "type":  "MiningModifier",
+                          "displayName":  "Mining Modules"
+                      },
+                      {
+                          "type":  "SalvageHead",
+                          "displayName":  "Salvage Beam"
+                      },
+                      {
+                          "type":  null,
+                          "displayName":  "Scraper Beam"
+                      },
+                      {
+                          "type":  "TractorBeam",
+                          "displayName":  "Tractor Beam"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Vehicles",
+        "types":  [
+                      {
+                          "type":  "NOITEM_Vehicle",
+                          "displayName":  "Vehicle"
+                      }
+                  ]
+    },
+    {
+        "displayName":  "Vhcl. Wpns.",
+        "types":  [
+                      {
+                          "type":  "Bomb",
+                          "displayName":  "Bombs"
+                      },
+                      {
+                          "type":  "WeaponGun",
+                          "displayName":  "Gun"
+                      },
+                      {
+                          "type":  "Missile",
+                          "displayName":  "Missile"
+                      },
+                      {
+                          "type":  "MissileLauncher",
+                          "displayName":  "Missile Rack"
+                      },
+                      {
+                          "type":  "Turret",
+                          "displayName":  "Turret"
+                      }
+                  ]
+    }
+]

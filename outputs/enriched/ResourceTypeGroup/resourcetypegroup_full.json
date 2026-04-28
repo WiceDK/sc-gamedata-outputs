@@ -1,0 +1,487 @@
+﻿[
+    {
+        "ref":  "38518fe4-6737-4acd-a455-298853fd258f",
+        "codeName":  "Alloy",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.alloy.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_alloy",
+        "displayName":  "Alloy",
+        "description":  "Substances that are compounds of two or more metals or other materials with improved properties over the base ingredients.",
+        "parentGroupRef":  "9b28b2e4-7df3-43f3-a69a-d82b119e25bf",
+        "parentGroupName":  "Metal",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "ad752f96-3a1c-4ce7-9bde-fa847b7b2e48",
+                                 "53513e3d-93cc-4079-b87b-cf20a4692661",
+                                 "97f623df-e359-4d51-b819-91644b31ead2",
+                                 "91e0d004-ecd2-48b5-af06-5dbeed33460d"
+                             ]
+    },
+    {
+        "ref":  "1817e4e3-2b22-4c4a-b2db-c7afdb731e6a",
+        "codeName":  "CleanAir",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.cleanair.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "987d063b-b666-4871-9e05-4d286acb13ba",
+                                 "42bac39f-171f-4310-ba8a-f87cfb63b15c"
+                             ]
+    },
+    {
+        "ref":  "2a234e97-a4ba-46b3-a217-88e61863e4da",
+        "codeName":  "Food",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.food.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_food",
+        "displayName":  "Food",
+        "description":  "Any substance that can be safely consumed by a living organism for the purpose of nutritional support.",
+        "parentGroupRef":  "32a1c43c-ffdf-4b02-82a8-1d8b2d9f6666",
+        "parentGroupName":  "Natural Materials",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "d99498e8-1464-4ff7-8177-afd05d75c3d8",
+                                 "293cbddc-9515-456e-8090-bdc94f746619",
+                                 "1e4ca7fc-bb70-4080-b94f-7ad24ba4f520",
+                                 "306f93e6-a500-415b-b71b-631e8c93721c",
+                                 "6e0cd1d0-80ad-47c8-8692-461eebf24bc2",
+                                 "aaf46f4c-f8d8-4808-a39b-2b47de9b78fa",
+                                 "fc107c3a-6776-4b7d-bac2-f9ab869391a9",
+                                 "0e6aa9fc-00ba-4767-8727-33b6009e9933",
+                                 "3871740a-f82f-445d-a2e5-8163d1405733",
+                                 "ea78052a-11b2-484e-a7ee-d19ed906a037",
+                                 "096618a0-1f7d-48db-9c6a-9ac459386527"
+                             ]
+    },
+    {
+        "ref":  "3a31ccbf-bb2d-4a26-9b21-2f7d0222f4a6",
+        "codeName":  "Gas",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.gas.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_gas",
+        "displayName":  "Gas",
+        "description":  "A substance that when under standard pressure has vast distance between particles with weaker intermolecular bonds than other phases of matter.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "a11394c9-ad7c-404d-9209-3a5e57bb4aa4",
+                                 "0d41371c-3cde-4939-8583-cd718f5edd60",
+                                 "00686389-dfb8-49e4-9eea-66a4ebf24db2",
+                                 "530da47b-c6bb-4d95-a1ee-23a1e4e27b45",
+                                 "9e65a7bd-adcf-4129-9ef5-26f4fe13f85b",
+                                 "8ee121cc-aabb-4394-87dd-02552d228d0b",
+                                 "d24d3982-aba6-4e0e-803e-4839ceeef328",
+                                 "2fdf6809-4eba-4bed-b75c-09c9207fbc37",
+                                 "15fe1d6a-8e3e-41ad-b4b0-8a5960d75f2d",
+                                 "0efb796d-49c7-4f8f-8640-21ce6b1fbd97"
+                             ]
+    },
+    {
+        "ref":  "beae9970-314f-4920-9bc1-19c75798504e",
+        "codeName":  "Halogen",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.halogen.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  "4d3f31f7-feab-488c-8f36-ac7c8c4012b8",
+        "parentGroupName":  "Nonmetals",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "e821252d-9d3f-479d-aea3-6ac6cb835784",
+                                 "65fa8e9f-0413-46a6-a9cd-3fce91194f18",
+                                 "0e49f648-a7d0-4e5c-80e6-9636bd9a8ed6",
+                                 "a0db59ab-1497-47e4-b0cd-d205c0a4d2f5"
+                             ]
+    },
+    {
+        "ref":  "1676f718-39c2-45d7-be78-4023db6452ff",
+        "codeName":  "HeatPlaceholder",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.heatplaceholder.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "67914a88-252d-40b0-85cd-3dd260c9f080",
+                                 "c4aab556-6ac3-4c62-a81a-8608d2855f20"
+                             ]
+    },
+    {
+        "ref":  "4b058f8e-7a77-4c25-a22c-2708ce291705",
+        "codeName":  "LifeSupportPlaceholder",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.lifesupportplaceholder.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "250d5b5c-9699-4347-95e4-6bc436e8bf73"
+                             ]
+    },
+    {
+        "ref":  "9b28b2e4-7df3-43f3-a69a-d82b119e25bf",
+        "codeName":  "Metal",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.metal.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_metal",
+        "displayName":  "Metal",
+        "description":  "A solid material that typically shiny and opaque and possesses good electrical and thermal conductivity.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+                               "38518fe4-6737-4acd-a455-298853fd258f",
+                               "36623177-cbc4-48a2-b95e-f893a861ca42"
+                           ],
+        "resourceTypeRefs":  [
+                                 "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                                 "48c7080a-bbef-43d2-901a-698321ed4340",
+                                 "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                                 "c6b26962-9a6c-4ee8-b8cd-494828e0876f",
+                                 "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                                 "21825507-7923-4683-9bf3-9cfe316940e3",
+                                 "28611d12-4140-4488-9722-b61091cc2f7c",
+                                 "8dda1cf4-dc6c-4b31-93f2-8ca28ef6ec55",
+                                 "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                                 "60f116f4-c02a-45b2-9ded-333747795124",
+                                 "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                                 "86d00bd8-08f7-4231-b375-a609803fc46d",
+                                 "1b4c4042-5fdc-4b52-bec4-07085cb3520a",
+                                 "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                                 "4a47cad8-0271-4048-b19b-d9b52521fc20",
+                                 "75b37a54-45c9-4f27-ac09-9830f092dd86",
+                                 "392b4dca-449a-4d4d-8fef-beab024d9ee7"
+                             ]
+    },
+    {
+        "ref":  "8e17c99b-1bf6-49cb-838e-e7eb72a9088f",
+        "codeName":  "Mineral",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.mineral.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_Mineral",
+        "displayName":  "Mineral",
+        "description":  "Naturally occurring abiogenic compounds that are typically crystalline in nature with an ordered atomic arrangement.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+                               "81637dc5-e451-4e67-beb6-88d3c5db94e0"
+                           ],
+        "resourceTypeRefs":  [
+                                 "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                                 "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                                 "93c8b7df-d6ac-4b4f-a115-b0e3afc238b8",
+                                 "999e3149-fd10-49ac-914f-8911e61c6122",
+                                 "4236c16b-c47f-4083-9e26-4313733f2326",
+                                 "935255d1-2eda-414b-bdd7-207e57c26e36",
+                                 "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                                 "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                                 "61189578-ed7a-4491-9774-37ae2f82b8b0",
+                                 "b8029480-f171-4a88-a44d-4323e021f82a",
+                                 "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                                 "df2ef5ee-dbb1-404b-a1c9-fb9877ed1eba",
+                                 "bde5a2c8-2ef4-46ac-9403-2fcb79e4016c",
+                                 "35121003-f1af-481a-b16f-7f48d8af0efb",
+                                 "06cafea0-49fe-4dce-b0f0-dc583316c66d",
+                                 "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
+                                 "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                                 "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                                 "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                                 "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                                 "80dd9dd7-1a4e-41b9-9b3b-4f385b87396c",
+                                 "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                                 "fde0cd65-8827-4b23-804d-cc8845dfa7ac"
+                             ]
+    },
+    {
+        "ref":  "4d3f31f7-feab-488c-8f36-ac7c8c4012b8",
+        "codeName":  "Nonmetal",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.nonmetal.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_nonmetals",
+        "displayName":  "Nonmetals",
+        "description":  "These elements do not display the properties of a metal and are generally poor conductors of heat and electricity.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+                               "beae9970-314f-4920-9bc1-19c75798504e"
+                           ],
+        "resourceTypeRefs":  [
+                                 "9dc16af8-bfb9-4119-9e54-6db11b0a7ed2",
+                                 "d137b905-b3bc-4721-a790-830499263c0c",
+                                 "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
+                                 "ca3ae4c1-3483-4985-ba61-50412994dc83",
+                                 "989f9b73-f636-4f35-a81d-579dcbe3f0ab"
+                             ]
+    },
+    {
+        "ref":  "32a1c43c-ffdf-4b02-82a8-1d8b2d9f6666",
+        "codeName":  "Organic",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.organic.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_natural",
+        "displayName":  "Natural Materials",
+        "description":  "Materials that are naturally occurring and can be extracted directly from the environment.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+                               "2a234e97-a4ba-46b3-a217-88e61863e4da"
+                           ],
+        "resourceTypeRefs":  [
+                                 "9c09556c-a9c7-4af8-893d-7a3cd6152746",
+                                 "6c45b24e-bb2d-45f1-9622-f7ef9359dc77",
+                                 "7df4bf83-34e8-451b-bfb6-e17149daf57e",
+                                 "a0046f6f-ce84-4ca2-b5d1-d6598a9aad39",
+                                 "70684af3-55f1-43db-8aca-eae33cfac445",
+                                 "5cc98bf3-8edd-4184-9e47-2ff40e4c556b",
+                                 "75982fed-2b4b-4433-be1f-5657fb783918",
+                                 "ee845b46-a156-47f7-a58a-22f9b77b9c2b",
+                                 "469a34fe-2e37-4269-82eb-490eaed361a1",
+                                 "def044a7-a56a-4f99-a497-ef6022113922",
+                                 "b442105e-6eeb-46b7-b50b-15cb39918d09",
+                                 "2ed08e8e-7d46-4056-b877-42809af9905b",
+                                 "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                 "d9653427-af7f-4fea-bbd6-ae89393524b7",
+                                 "1d4bce93-f0a3-47f2-8885-195f906a32d1",
+                                 "0f7378e2-2106-4c40-abd6-927cb91ba60d",
+                                 "272539c8-e211-4c82-8bd0-6ecaabbc9c10",
+                                 "48bf58e1-8cba-469b-92ae-09dbc0acc645",
+                                 "8ba78e89-0832-48c2-b8ab-4eaa7d4bba42",
+                                 "70f388a3-a84c-44c6-be8b-3ed295d39e77",
+                                 "7f72bf18-3334-4e60-837d-d51d9fa745cd",
+                                 "c87a8d56-8998-46ba-b056-0ebd0b07eed6",
+                                 "1996b79b-14bc-42ad-9cc4-36b0705fd284",
+                                 "99df66b9-5cc2-4ddb-858f-f44e3fc22185",
+                                 "e81bb594-a380-49fb-a9e4-a6cf2c7f9fa0",
+                                 "08df1d49-3a9f-4697-b99f-1166742deaec"
+                             ]
+    },
+    {
+        "ref":  "5b8e6dc4-7d26-48b9-8672-8df44739d265",
+        "codeName":  "PowerPlaceholder",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.powerplaceholder.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "bcc8cde9-de58-4e6b-8ee9-37d4aaa507eb"
+                             ]
+    },
+    {
+        "ref":  "9379b129-8688-4777-9f65-9dc09ba935ee",
+        "codeName":  "ProcessedGoods",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.processedgoods.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_processedGoods",
+        "displayName":  "Processed Goods",
+        "description":  "Items that are manufactured or assembled from a conglomeration of components.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+                               "c1a21fd1-16e0-465f-9f51-f5f931de0dea",
+                               "361e993d-9b2e-450c-9315-0fd1bfd3af20"
+                           ],
+        "resourceTypeRefs":  [
+                                 "98aa6a70-80e7-41d7-9128-9692053d57a2",
+                                 "5f2d394d-6e69-4cb8-afb2-81a96544936e",
+                                 "167d6564-7325-49de-bc0a-406dbb54f5dc",
+                                 "ff8c1dbd-5ced-4f0a-8c47-0cf3b751722f",
+                                 "3702ad47-7681-452d-b92f-9372bc1e6a4e",
+                                 "d5506a24-5729-4354-81fb-0959173357c4",
+                                 "00f23f09-a8ae-4ccb-845f-accd63dd7906",
+                                 "de9f4d03-6b60-429d-9b26-9f2308bae973",
+                                 "accacd33-3a1a-4ec7-8b4a-14b9f028047c",
+                                 "d32df14b-43f3-44dc-a39c-124217fac045",
+                                 "47b8b3dc-5ad0-4780-8049-ad33f6a7d10b",
+                                 "1396faad-eb0c-4ed1-be34-571ca7ca159e",
+                                 "f4846780-182f-49d1-a711-f08c0172735e",
+                                 "a0e6c4cf-face-4f52-a020-dfa869607901",
+                                 "984c2ac5-70dc-43be-85a2-15b8db95dcd2",
+                                 "18671657-8b11-4407-b190-10c9f73661fe",
+                                 "5e079d07-630a-41d5-a314-16381f07e2c3",
+                                 "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                 "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                 "460e7516-8162-4d02-bcbb-09deec89df1f",
+                                 "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                 "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                 "91ad8b9e-426e-462a-a7f5-cf06eb79971a",
+                                 "14b738eb-fe9f-4822-953d-c00329bd7141",
+                                 "12181a14-034b-4deb-92b7-2faf2cfd182b",
+                                 "7abd6c08-3755-4a2a-ba3f-cb3019c2f213",
+                                 "08e3441f-2e05-49b8-b102-20b09e2a3e0f",
+                                 "83101c4a-baea-429f-b5db-2a439dabe963",
+                                 "344b54b4-e1c3-4863-b605-f4498b0a8a27",
+                                 "0de337b5-01ca-4fd7-afdf-b67cf598f3c3",
+                                 "ebacf963-517e-4b05-b6cd-ee135e04a1ae",
+                                 "990291f7-211f-4c04-914f-bc98385451be"
+                             ]
+    },
+    {
+        "ref":  "81637dc5-e451-4e67-beb6-88d3c5db94e0",
+        "codeName":  "Raw_Minerals",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.raw_minerals.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  "8e17c99b-1bf6-49cb-838e-e7eb72a9088f",
+        "parentGroupName":  "Mineral",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "eb503701-389a-48a1-af28-eb7374009d5d",
+                                 "3848c27d-49cc-4fdb-9a18-e93770bc8bc2",
+                                 "4ceb21c5-48f8-418a-8188-0b0196c33505",
+                                 "9491a4b4-7887-49fc-af04-e7f132078d0f",
+                                 "cad319d9-e0e5-420d-bbfd-dd62a0362d05",
+                                 "7b7178c1-b0f0-4760-89de-9a3e3851e7a8",
+                                 "501d9b2e-136c-483b-a4d9-282fe6a5d37a",
+                                 "8569b931-06bb-4d86-9f24-5e303e2ff3ee",
+                                 "b6175879-fc61-4600-b4a9-1e15f2c2ddd5",
+                                 "f0c1f30b-001c-4a80-ac20-27df27183056"
+                             ]
+    },
+    {
+        "ref":  "361e993d-9b2e-450c-9315-0fd1bfd3af20",
+        "codeName":  "SyntheticMaterials",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.syntheticmaterials.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_manmade",
+        "displayName":  "Man-made",
+        "description":  "Commodities manufactured or constructed through industrial processes rather as opposed to being naturally occurring.",
+        "parentGroupRef":  "9379b129-8688-4777-9f65-9dc09ba935ee",
+        "parentGroupName":  "Processed Goods",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "9c9b1fde-10ee-4707-a391-5ea8f03e8178",
+                                 "50ec433d-37a8-4123-a803-73a4b09a5e39",
+                                 "e25b7a4c-e642-44bb-8941-552ad9b9a875",
+                                 "a8d60f68-349e-4755-98fc-9a0a8dc349a5",
+                                 "ca524406-0e3e-4d5e-baad-8a6c7b42054b",
+                                 "16314a82-085d-415f-a4ae-f0a0c077022f",
+                                 "ac0c8daa-05d6-4000-a12d-5e0451da4aea",
+                                 "c184c595-78c9-4e19-8e27-5ae16e166f20",
+                                 "3274fabb-2dde-4291-b17f-c58a44090218",
+                                 "a3bff629-d9fb-4999-a5f8-410137e76324",
+                                 "1447fd18-aaac-4788-ae2f-55055dcc31cf",
+                                 "6e8c18c9-f6cd-4311-805e-6daeaef4a26d"
+                             ]
+    },
+    {
+        "ref":  "36623177-cbc4-48a2-b95e-f893a861ca42",
+        "codeName":  "UnrefinedOres",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.unrefinedores.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@LOC_PLACEHOLDER",
+        "displayName":  null,
+        "description":  null,
+        "parentGroupRef":  "9b28b2e4-7df3-43f3-a69a-d82b119e25bf",
+        "parentGroupName":  "Metal",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "32bafbd4-c52a-476d-b31c-97c4b3102471",
+                                 "c3697191-8ad0-43a9-af7a-29c0ad58de34",
+                                 "fc1ec740-3047-48d8-81f0-396f4c9a90ef",
+                                 "e30bdd32-8fd5-44b8-9994-5fd253a16c37",
+                                 "728a3d7e-9567-4e1c-87fd-2bd45b458aa6",
+                                 "d4ba4af8-80f1-4a8a-b8cd-5ba7e37c005c",
+                                 "57aba429-cf97-4fdd-8042-94b1d643f5bd",
+                                 "64978449-1d87-4a16-ba55-4b5f94fee217",
+                                 "addc9aa4-5d2d-4c0d-b01b-ad2b2e50a5d6",
+                                 "32c57a12-5de5-49b1-827a-9fd80278fbc4",
+                                 "551cf88d-c09f-46e3-99b3-66c60bb65af1",
+                                 "2c1e1693-4d19-446c-8224-ebad36feb618",
+                                 "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                                 "d76ea7ef-5116-488c-93d3-71e02bada13d",
+                                 "48b9b7ba-cd5e-458b-bb91-9b43eb46c568",
+                                 "87327e0c-86a7-4c6b-82c3-d0c8fe6bf15f"
+                             ]
+    },
+    {
+        "ref":  "c1a21fd1-16e0-465f-9f51-f5f931de0dea",
+        "codeName":  "Vice",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.vice.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_vice",
+        "displayName":  "Vice",
+        "description":  "Items that are regarded as immoral or harmful by society.",
+        "parentGroupRef":  "9379b129-8688-4777-9f65-9dc09ba935ee",
+        "parentGroupName":  "Processed Goods",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "6fc6df10-0267-4097-8233-67983e594669",
+                                 "e938ab24-2af8-48b5-9af7-8e82fb26dcb3",
+                                 "ba11589f-a278-44e9-9bd9-79552832fc94",
+                                 "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                 "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                 "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                 "3dc64c8c-8784-43e0-a003-3230b3ae680e",
+                                 "f4c68747-fa77-4c42-aff5-c3d72b8c8388",
+                                 "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                 "93d40906-a95a-4df5-9ac0-0a47c0d782b1",
+                                 "f1604838-e521-49e6-87d0-3ef4d02db4c0",
+                                 "bdeef09b-a4da-4b51-a7fa-54147871525e",
+                                 "801ba093-ccce-4514-9fff-212fdcce9397",
+                                 "4b904eb5-7e6b-4c18-914e-7735a4e8ed67",
+                                 "910562b9-93d9-4e46-af2d-ba0858f231d0",
+                                 "8bc60017-e4b6-47b1-bbe0-f2eb944fdeaf"
+                             ]
+    },
+    {
+        "ref":  "3492ff58-bd82-41f2-9af0-b13569e22ce6",
+        "codeName":  "Waste",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.waste.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_waste",
+        "displayName":  "Waste",
+        "description":  "Unwanted and unusable materials that are designated to be discarded.",
+        "parentGroupRef":  null,
+        "parentGroupName":  null,
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "9177e3bb-6714-49f5-8beb-46a981226ff6",
+                                 "dae3efcb-f82e-4c2a-b24b-81f2be8daa51",
+                                 "b999ef65-35be-45bf-908a-5eac6e06ba12"
+                             ]
+    }
+]

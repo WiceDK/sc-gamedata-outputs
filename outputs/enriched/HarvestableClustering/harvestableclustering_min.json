@@ -1,0 +1,126 @@
+﻿[
+    {
+        "rarity":  "common",
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "expectedClusterSize":  4.5,
+        "clusters":  [
+                         {
+                             "relativeProbability":  0.1,
+                             "minSize":  6,
+                             "maxSize":  6,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "relativeProbability":  0.3,
+                             "minSize":  5,
+                             "maxSize":  5,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         },
+                         {
+                             "relativeProbability":  0.6,
+                             "minSize":  4,
+                             "maxSize":  4,
+                             "minProximity":  1,
+                             "maxProximity":  6
+                         }
+                     ]
+    },
+    {
+        "rarity":  "uncommon",
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "expectedClusterSize":  3.5,
+        "clusters":  [
+                         {
+                             "relativeProbability":  0.1,
+                             "minSize":  5,
+                             "maxSize":  5,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "relativeProbability":  0.3,
+                             "minSize":  4,
+                             "maxSize":  4,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         },
+                         {
+                             "relativeProbability":  0.6,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  1,
+                             "maxProximity":  6
+                         }
+                     ]
+    },
+    {
+        "rarity":  "rare",
+        "probabilityOfClustering":  100,
+        "clusterTemplateCount":  3,
+        "expectedClusterSize":  2.5,
+        "clusters":  [
+                         {
+                             "relativeProbability":  0.1,
+                             "minSize":  4,
+                             "maxSize":  4,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "relativeProbability":  0.3,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         },
+                         {
+                             "relativeProbability":  0.6,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  1,
+                             "maxProximity":  6
+                         }
+                     ]
+    },
+    {
+        "rarity":  "epic",
+        "probabilityOfClustering":  40,
+        "clusterTemplateCount":  2,
+        "expectedClusterSize":  2.25,
+        "clusters":  [
+                         {
+                             "relativeProbability":  0.1,
+                             "minSize":  3,
+                             "maxSize":  3,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         },
+                         {
+                             "relativeProbability":  0.3,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  1,
+                             "maxProximity":  8
+                         }
+                     ]
+    },
+    {
+        "rarity":  "legendary",
+        "probabilityOfClustering":  25,
+        "clusterTemplateCount":  1,
+        "expectedClusterSize":  2,
+        "clusters":  [
+                         {
+                             "relativeProbability":  0.1,
+                             "minSize":  2,
+                             "maxSize":  2,
+                             "minProximity":  1,
+                             "maxProximity":  12
+                         }
+                     ]
+    }
+]

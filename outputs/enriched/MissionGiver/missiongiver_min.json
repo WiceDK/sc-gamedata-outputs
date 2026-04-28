@@ -1,0 +1,117 @@
+[
+    {
+        "ref":  "30df0f6d-a58e-4e07-b554-11a275874604",
+        "displayName":  null,
+        "factionName":  null
+    },
+    {
+        "ref":  "49c6aa72-0853-4b3e-b14b-1faca3bea512",
+        "displayName":  null,
+        "factionName":  null
+    },
+    {
+        "ref":  "0cc0391c-c1b3-4b56-8dce-5d06a18544a5",
+        "displayName":  null,
+        "factionName":  null
+    },
+    {
+        "ref":  "e16755a8-165a-4ded-a899-cf333d85b4ef",
+        "displayName":  null,
+        "factionName":  null
+    },
+    {
+        "ref":  "a6fec633-57d5-4032-b739-bf3b0bc7c1b2",
+        "displayName":  null,
+        "factionName":  null
+    },
+    {
+        "ref":  "75566702-b3b2-4cce-aa74-59706f461e9a",
+        "displayName":  "ArcCorp",
+        "factionName":  "ArcCorp"
+    },
+    {
+        "ref":  "df1b2830-faa1-41f8-99e8-ab678622a52b",
+        "displayName":  "Bounty Hunters Guild",
+        "factionName":  "Bounty Hunters Guild"
+    },
+    {
+        "ref":  "e1c74485-d70f-45c5-be0f-f116011aab91",
+        "displayName":  "Civilian Defense Force",
+        "factionName":  null
+    },
+    {
+        "ref":  "2f3e41cc-d01f-45f3-b6f3-80cf81691677",
+        "displayName":  "Clovus Darneely",
+        "factionName":  null
+    },
+    {
+        "ref":  "d2461274-926e-46a4-bdeb-dc846f7d7148",
+        "displayName":  "Constantine Hurston",
+        "factionName":  null
+    },
+    {
+        "ref":  "68ed9226-f4a5-483c-ad36-77dd388253c9",
+        "displayName":  "Covalex",
+        "factionName":  "Covalex"
+    },
+    {
+        "ref":  "7f7b959a-0bea-4ac5-bd1e-a9fef0aefbb3",
+        "displayName":  "Crusader Industries",
+        "factionName":  "Crusader Industries"
+    },
+    {
+        "ref":  "99181df2-4ae7-40bf-9c00-a3dffc472242",
+        "displayName":  "Headhunters",
+        "factionName":  "Headhunters"
+    },
+    {
+        "ref":  "0a675762-bb1f-4eb4-ad75-2f880e2e2518",
+        "displayName":  "Hurston Dynamics",
+        "factionName":  "Hurston Dynamics"
+    },
+    {
+        "ref":  "bfb177af-0724-47b6-b49e-62cf85300484",
+        "displayName":  "microTech",
+        "factionName":  "microTech"
+    },
+    {
+        "ref":  "348cd4e6-4a44-45a3-b7fb-9134e772f9ef",
+        "displayName":  "Miles Eckhart",
+        "factionName":  null
+    },
+    {
+        "ref":  "00c73db5-ae97-4a02-b5f0-c87b64ed4535",
+        "displayName":  "Recco Battaglia",
+        "factionName":  null
+    },
+    {
+        "ref":  "e0c35a21-290d-4444-80ef-7f42da67b52f",
+        "displayName":  "Ruto",
+        "factionName":  "Ruto"
+    },
+    {
+        "ref":  "05e3f9ed-c38d-465b-be6d-8e2c5ccbcbfa",
+        "displayName":  "Shubin Interstellar",
+        "factionName":  "Shubin Interstellar"
+    },
+    {
+        "ref":  "5fd52afe-490a-4b5c-9b06-e86553e5a7c8",
+        "displayName":  "Tecia Pacheco",
+        "factionName":  null
+    },
+    {
+        "ref":  "5c3c1c1f-3833-44f2-8ef1-879ff6fe1769",
+        "displayName":  "Vaughn",
+        "factionName":  "Vaughn"
+    },
+    {
+        "ref":  "0ade7041-3bd1-499a-9ca6-1057c6276e66",
+        "displayName":  "Wallace Klim",
+        "factionName":  null
+    },
+    {
+        "ref":  "7163220e-c791-4320-9eee-1ce632e2f491",
+        "displayName":  "XenoThreat",
+        "factionName":  null
+    }
+]

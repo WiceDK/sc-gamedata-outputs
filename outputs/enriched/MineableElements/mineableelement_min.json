@@ -1,0 +1,1092 @@
+﻿[
+    {
+        "ref":  "0a523c7c-6fa5-4061-81ce-f1537e255c3e",
+        "fileName":  "minableelement_fps_vlklimpet.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  null,
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Natural Materials",
+        "instabilityRating":  0,
+        "resistance":  -100,
+        "explosionMultiplier":  0,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.3,
+        "optimalWindowThinness":  5,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "d61d6c33-e428-4014-9326-0b06034de16a",
+        "fileName":  "agricium_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Agricium (Ore)",
+        "refinedResourceTypeName":  "Agricium",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  350,
+        "resistance":  50,
+        "explosionMultiplier":  4,
+        "clusterFactor":  0.2,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.15,
+        "optimalWindowThinness":  2,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
+        "fileName":  "aluminium_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Aluminum (Ore)",
+        "refinedResourceTypeName":  "Aluminum",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  0,
+        "resistance":  -40,
+        "explosionMultiplier":  -36,
+        "clusterFactor":  0.7,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.15,
+        "optimalWindowThinness":  -0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "2ee59447-83e0-4f26-899e-df66780008e3",
+        "fileName":  "minableelement_fps_aphorite.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Aphorite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  0,
+        "resistance":  0,
+        "explosionMultiplier":  0,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.7,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "a2b247b4-f3a8-4f51-9690-9773a0ce3bd7",
+        "fileName":  "minableelement_fps_flowstone.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Aphorite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  0,
+        "resistance":  -100,
+        "explosionMultiplier":  -1000,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  1,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
+        "fileName":  "aslarite_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Aslarite (Raw)",
+        "refinedResourceTypeName":  "Aslarite",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  700,
+        "resistance":  50,
+        "explosionMultiplier":  240,
+        "clusterFactor":  0.1,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0.6,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "76e7e6e9-6508-47a1-a381-e34ec1c997ce",
+        "fileName":  "minableelement_groundvehicle_beradom.xml",
+        "miningMode":  "groundvehicle",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Beradom",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  0,
+        "resistance":  0,
+        "explosionMultiplier":  0,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.7,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
+        "fileName":  "beryl_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Beryl (Raw)",
+        "refinedResourceTypeName":  "Beryl",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  350,
+        "resistance":  65,
+        "explosionMultiplier":  20,
+        "clusterFactor":  0.4,
+        "optimalWindowMidpoint":  0.3,
+        "optimalWindowRandomness":  0.25,
+        "optimalWindowThinness":  1.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
+        "fileName":  "bexalite_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Bexalite (Raw)",
+        "refinedResourceTypeName":  "Bexalite",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  600,
+        "resistance":  60,
+        "explosionMultiplier":  100,
+        "clusterFactor":  0.05,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.3,
+        "optimalWindowThinness":  0.4,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
+        "fileName":  "borase_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Borase (Ore)",
+        "refinedResourceTypeName":  "Borase",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  40,
+        "resistance":  30,
+        "explosionMultiplier":  120,
+        "clusterFactor":  0.4,
+        "optimalWindowMidpoint":  0.3,
+        "optimalWindowRandomness":  0.3,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "169ed316-3944-432f-88fa-0a39c5e6d2de",
+        "fileName":  "minableelement_fps_carinite.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Carinite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  300,
+        "resistance":  50,
+        "explosionMultiplier":  0.5,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  10,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "c793af1c-7dab-457e-a74d-88c435c9708b",
+        "fileName":  "minableelement_groundvehicle_carinite.xml",
+        "miningMode":  "groundvehicle",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Carinite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  300,
+        "resistance":  50,
+        "explosionMultiplier":  0.5,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  10,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "60d46a41-5930-4a13-9c72-bd988192d3a1",
+        "fileName":  "minableelement_fps_carinitepure.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Carinite (Pure)",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  300,
+        "resistance":  50,
+        "explosionMultiplier":  0.5,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  10,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
+        "fileName":  "copper_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Copper (Ore)",
+        "refinedResourceTypeName":  "Copper",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  50,
+        "resistance":  -70,
+        "explosionMultiplier":  -20,
+        "clusterFactor":  0.6,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.15,
+        "optimalWindowThinness":  -0.9,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "b471b96c-efbb-4342-90de-cfa087604d8e",
+        "fileName":  "corundum_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Corundum (Raw)",
+        "refinedResourceTypeName":  "Corundum",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  50,
+        "resistance":  10,
+        "explosionMultiplier":  -36,
+        "clusterFactor":  0.7,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "efb89e24-486d-4eee-ab5c-85b90a3bdad1",
+        "fileName":  "diamond_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Diamond (Raw)",
+        "refinedResourceTypeName":  "Diamond",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  0.0625,
+        "resistance":  -6.875,
+        "explosionMultiplier":  8,
+        "clusterFactor":  0.5,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  0.25,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "c2a1ab26-6b2a-4258-8bae-b32cf08818bc",
+        "fileName":  "minableelement_fps_dolivine.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Dolivine",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  0,
+        "resistance":  10,
+        "explosionMultiplier":  0,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "7e0eaf11-77e6-48c9-a184-f88648e7c148",
+        "fileName":  "minableelement_groundvehicle_feynmaline.xml",
+        "miningMode":  "groundvehicle",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Feynmaline",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  200,
+        "resistance":  0,
+        "explosionMultiplier":  1,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "7e465c37-1d58-4533-a6e4-13abf1073554",
+        "fileName":  "minableelement_groundvehicle_glacosite.xml",
+        "miningMode":  "groundvehicle",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Glacosite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  0,
+        "resistance":  10,
+        "explosionMultiplier":  0,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
+        "fileName":  "gold_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Gold (Ore)",
+        "refinedResourceTypeName":  "Gold",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  550,
+        "resistance":  50,
+        "explosionMultiplier":  100,
+        "clusterFactor":  0.05,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.25,
+        "optimalWindowThinness":  2.1,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "3af2af8d-5850-4900-ac7a-f9b38a959a07",
+        "fileName":  "minableelement_fps_hadanite.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Hadanite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  200,
+        "resistance":  0,
+        "explosionMultiplier":  1,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "220c2e18-9324-4528-b399-2f908488b204",
+        "fileName":  "hephaestanite_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Hephaestanite (Raw)",
+        "refinedResourceTypeName":  "Hephaestanite",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  400,
+        "resistance":  -30,
+        "explosionMultiplier":  120,
+        "clusterFactor":  0.5,
+        "optimalWindowMidpoint":  0.7,
+        "optimalWindowRandomness":  0.15,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "05708bae-1cb1-4e63-bb95-ec7f4a3ef430",
+        "fileName":  "iron_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Iron (Ore)",
+        "refinedResourceTypeName":  "Iron",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  50,
+        "resistance":  -40,
+        "explosionMultiplier":  20,
+        "clusterFactor":  0.4,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  -0.9,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "f5b8c10a-521b-40f6-8761-1863e71fb8d4",
+        "fileName":  "minableelement_fps_jaclium.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Jaclium (Ore)",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  100,
+        "resistance":  50,
+        "explosionMultiplier":  1,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  3,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "7e324c5c-1b28-400a-ab66-290188ef282c",
+        "fileName":  "minableelement_fps_janalite.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Janalite",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  300,
+        "resistance":  30,
+        "explosionMultiplier":  1,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.3,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  10,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
+        "fileName":  "laranite_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Laranite (Raw)",
+        "refinedResourceTypeName":  "Laranite",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  400,
+        "resistance":  50,
+        "explosionMultiplier":  200,
+        "clusterFactor":  0.4,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "1ec31863-26a8-446e-9805-448bb50253ed",
+        "fileName":  "lindinium_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Lindinium (Ore)",
+        "refinedResourceTypeName":  "Lindinium",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  1000,
+        "resistance":  95,
+        "explosionMultiplier":  260,
+        "clusterFactor":  0.1,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0.23,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "fc62043c-3f29-4fff-b754-2301762723f7",
+        "fileName":  "quantainium_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Quantainium (Raw)",
+        "refinedResourceTypeName":  "Quantainium",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  1000,
+        "resistance":  95,
+        "explosionMultiplier":  260,
+        "clusterFactor":  0.1,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  2.3,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
+        "fileName":  "quartz_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Quartz (Raw)",
+        "refinedResourceTypeName":  "Quartz",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  50,
+        "resistance":  -70,
+        "explosionMultiplier":  -20,
+        "clusterFactor":  0.9,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "51745536-ff2b-4840-a6f8-b1ed498a77ff",
+        "fileName":  "ice_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Raw Ice",
+        "refinedResourceTypeName":  "Pressurized Ice",
+        "resourceTypeGroup":  "Natural Materials",
+        "instabilityRating":  0,
+        "resistance":  -50,
+        "explosionMultiplier":  -20,
+        "clusterFactor":  0.7,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "8723956e-e947-4b84-9dcb-b2c6137895ab",
+        "fileName":  "ouratite_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Raw Ouratite",
+        "refinedResourceTypeName":  "Ouratite",
+        "resourceTypeGroup":  "Nonmetals",
+        "instabilityRating":  600,
+        "resistance":  60,
+        "explosionMultiplier":  240,
+        "clusterFactor":  0.1,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0.6,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "219e8523-b953-4517-812a-0fb2eb023209",
+        "fileName":  "silicon_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Raw Silicon",
+        "refinedResourceTypeName":  "Silicon",
+        "resourceTypeGroup":  "Nonmetals",
+        "instabilityRating":  50,
+        "resistance":  -20,
+        "explosionMultiplier":  80,
+        "clusterFactor":  0.9,
+        "optimalWindowMidpoint":  0.3,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "905e9623-5e74-4a92-9cb1-72203ed8baad",
+        "fileName":  "riccite_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Riccite (Ore)",
+        "refinedResourceTypeName":  "Riccite",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  850,
+        "resistance":  95,
+        "explosionMultiplier":  260,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.7,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  2.3,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "af5ae7e0-467e-44c1-abd1-b5ce8ed63bcf",
+        "fileName":  "minableelement_fps_sadaryx.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Sadaryx",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  200,
+        "resistance":  0,
+        "explosionMultiplier":  1,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "8bb75cd2-f59d-40a5-9077-55089c1626c4",
+        "fileName":  "minableelement_fps_saldynium.xml",
+        "miningMode":  "fps",
+        "miningContexts":  [
+
+                           ],
+        "oreResourceTypeName":  "Saldynium (Ore)",
+        "refinedResourceTypeName":  null,
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  100,
+        "resistance":  0,
+        "explosionMultiplier":  1,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0,
+        "optimalWindowThinness":  5,
+        "densityProfiles":  [
+
+                            ]
+    },
+    {
+        "ref":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
+        "fileName":  "savrilium_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Savrilium (Ore)",
+        "refinedResourceTypeName":  "Savrilium",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  1000,
+        "resistance":  95,
+        "explosionMultiplier":  260,
+        "clusterFactor":  0.1,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  2.3,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "9498a080-84c0-41f4-b88f-71942c60c43f",
+        "fileName":  "sileron_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Stileron (Ore)",
+        "refinedResourceTypeName":  "Stileron",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  870,
+        "resistance":  60,
+        "explosionMultiplier":  260,
+        "clusterFactor":  0,
+        "optimalWindowMidpoint":  0.7,
+        "optimalWindowRandomness":  0.3,
+        "optimalWindowThinness":  0.6,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "8893c670-f9f7-48df-a05b-e85764994256",
+        "fileName":  "taranite_raw.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Taranite (Raw)",
+        "refinedResourceTypeName":  "Taranite",
+        "resourceTypeGroup":  "Mineral",
+        "instabilityRating":  700,
+        "resistance":  50,
+        "explosionMultiplier":  240,
+        "clusterFactor":  0.1,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.2,
+        "optimalWindowThinness":  0.6,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
+        "fileName":  "tin_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Tin (Ore)",
+        "refinedResourceTypeName":  "Tin",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  0,
+        "resistance":  -20,
+        "explosionMultiplier":  -36,
+        "clusterFactor":  0.6,
+        "optimalWindowMidpoint":  0.4,
+        "optimalWindowRandomness":  0.15,
+        "optimalWindowThinness":  0.5,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
+        "fileName":  "titanium_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Titanium (Ore)",
+        "refinedResourceTypeName":  "Titanium",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  0,
+        "resistance":  10,
+        "explosionMultiplier":  20,
+        "clusterFactor":  0.9,
+        "optimalWindowMidpoint":  0.6,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  -0.7,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
+        "fileName":  "torite_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Torite (Ore)",
+        "refinedResourceTypeName":  "Torite",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  550,
+        "resistance":  25,
+        "explosionMultiplier":  100,
+        "clusterFactor":  0.05,
+        "optimalWindowMidpoint":  0.5,
+        "optimalWindowRandomness":  0.25,
+        "optimalWindowThinness":  2.1,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    },
+    {
+        "ref":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
+        "fileName":  "tungsten_ore.xml",
+        "miningMode":  "ship",
+        "miningContexts":  [
+                               "asteroid",
+                               "surface"
+                           ],
+        "oreResourceTypeName":  "Tungsten (Ore)",
+        "refinedResourceTypeName":  "Tungsten",
+        "resourceTypeGroup":  "Metal",
+        "instabilityRating":  0,
+        "resistance":  -40,
+        "explosionMultiplier":  80,
+        "clusterFactor":  0.4,
+        "optimalWindowMidpoint":  0.3,
+        "optimalWindowRandomness":  0.1,
+        "optimalWindowThinness":  -0.7,
+        "densityProfiles":  [
+                                {
+                                    "miningContext":  "asteroid",
+                                    "massPerSCU":  142.857143
+                                },
+                                {
+                                    "miningContext":  "surface",
+                                    "massPerSCU":  142.857143
+                                }
+                            ]
+    }
+]

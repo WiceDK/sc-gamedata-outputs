@@ -1,0 +1,107 @@
+﻿[
+    {
+        "localizationKey":  "items_commodities_type_agriculturalSupply",
+        "name":  "Agricultural Supply",
+        "description":  "Items required for agricultural production. Includes fertilizers, feed, and pesticides."
+    },
+    {
+        "localizationKey":  "items_commodities_type_alloy",
+        "name":  "Alloy",
+        "description":  "Substances that are compounds of two or more metals or other materials with improved properties over the base ingredients."
+    },
+    {
+        "localizationKey":  "items_commodities_type_consumerGoods",
+        "name":  "Consumer Goods",
+        "description":  "Commodities that are purchased by an individual to satisfy their wants or needs."
+    },
+    {
+        "localizationKey":  "items_commodities_type_drink",
+        "name":  "Drink",
+        "description":  "Liquids intended for consumption."
+    },
+    {
+        "localizationKey":  "items_commodities_type_food",
+        "name":  "Food",
+        "description":  "Any substance that can be safely consumed by a living organism for the purpose of nutritional support."
+    },
+    {
+        "localizationKey":  "items_commodities_type_gas",
+        "name":  "Gas",
+        "description":  "A substance that when under standard pressure has vast distance between particles with weaker intermolecular bonds than other phases of matter."
+    },
+    {
+        "localizationKey":  "items_commodities_type_HPMC",
+        "name":  "HexaPolyMesh Coating",
+        "description":  "This liquid hexagonal lattice bonds readily to surfaces when electrically charged, solidifying almost instantaneously to create an incredibly strong and durable polymer mesh that maintains integrity at a range of temperatures and pressures."
+    },
+    {
+        "localizationKey":  "items_commodities_type_plasmaFuel",
+        "name":  "Hydrogen Fuel",
+        "description":  "Hydrogen that is energized and then used by thrusters to propel vehicles."
+    },
+    {
+        "localizationKey":  "items_commodities_type_manmade",
+        "name":  "Man-made",
+        "description":  "Commodities manufactured or constructed through industrial processes rather as opposed to being naturally occurring."
+    },
+    {
+        "localizationKey":  "items_commodities_type_medicalSupply",
+        "name":  "Medical Supply",
+        "description":  "A variety of items produced primarily to treat injury or illness."
+    },
+    {
+        "localizationKey":  "items_commodities_type_metal",
+        "name":  "Metal",
+        "description":  "A solid material that typically shiny and opaque and possesses good electrical and thermal conductivity."
+    },
+    {
+        "localizationKey":  "items_commodities_type_militarySupply",
+        "name":  "Military Supply",
+        "description":  "A variety of items assembled to support combat forces, including ammunition, structural repair tools and clothing."
+    },
+    {
+        "localizationKey":  "items_commodities_type_Mineral",
+        "name":  "Mineral",
+        "description":  "Naturally occurring abiogenic compounds that are typically crystalline in nature with an ordered atomic arrangement."
+    },
+    {
+        "localizationKey":  "items_commodities_type_natural",
+        "name":  "Natural Materials",
+        "description":  "Materials that are naturally occurring and can be extracted directly from the environment."
+    },
+    {
+        "localizationKey":  "items_commodities_type_nonmetals",
+        "name":  "Nonmetals",
+        "description":  "These elements do not display the properties of a metal and are generally poor conductors of heat and electricity."
+    },
+    {
+        "localizationKey":  "items_commodities_type_processedGoods",
+        "name":  "Processed Goods",
+        "description":  "Items that are manufactured or assembled from a conglomeration of components."
+    },
+    {
+        "localizationKey":  "items_commodities_type_quantumFuel",
+        "name":  "Quantum Fuel",
+        "description":  "Fuel used by quantum drives to propel ships at high speeds or, if equipped with a jump module, through jump tunnels to other systems."
+    },
+    {
+        "localizationKey":  "items_commodities_type_RMC",
+        "name":  "Recycled Material Composite",
+        "description":  "Recycled Material Composite, commonly referred to as RMC, is the end result of low-tier salvaging where a myriad of alloys and polymers are mixed together during the collection process."
+    },
+    {
+        "localizationKey":  "items_commodities_type_scrap",
+        "name":  "Scrap",
+        "description":  "Waste that is ready to be converted into new materials for reuse."
+    },
+    {
+        "localizationKey":  "items_commodities_type_vice",
+        "name":  "Vice",
+        "description":  "Items that are regarded as immoral or harmful by society."
+    },
+    {
+        "localizationKey":  "items_commodities_type_waste",
+        "name":  "Waste",
+        "description":  "Unwanted and unusable materials that are designated to be discarded."
+    }
+]
