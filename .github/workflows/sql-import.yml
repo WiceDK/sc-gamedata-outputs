@@ -1,0 +1,30 @@
+name: Import game data to MySQL
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'outputs/sql-ready/import.sql'
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Import SQL
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        run: |
+          mysql \
+            --host="$DB_HOST" \
+            --port="${DB_PORT:-3306}" \
+            --user="$DB_USER" \
+            --password="$DB_PASSWORD" \
+            --database="$DB_NAME" \
+            --ssl-mode=PREFERRED \
+            < outputs/sql-ready/import.sql
