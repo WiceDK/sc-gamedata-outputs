@@ -32,6 +32,15 @@ jobs:
             --database="$DB_NAME" \
             --connect-timeout=30 \
             < outputs/sql-ready/schema_full.sql
+          echo "Tables after schema:"
+          mysql \
+            --host="$DB_HOST" \
+            --port="${DB_PORT:-3306}" \
+            --user="$DB_USER" \
+            --password="$DB_PASSWORD" \
+            --database="$DB_NAME" \
+            --connect-timeout=30 \
+            --execute="SHOW TABLES;"
 
       - name: Import SQL
         env:
