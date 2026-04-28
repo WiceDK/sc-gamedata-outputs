@@ -16,6 +16,23 @@ jobs:
       - name: Install mysql client
         run: sudo apt-get install -y mysql-client
 
+      - name: Apply schema
+        env:
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        run: |
+          mysql \
+            --host="$DB_HOST" \
+            --port="${DB_PORT:-3306}" \
+            --user="$DB_USER" \
+            --password="$DB_PASSWORD" \
+            --database="$DB_NAME" \
+            --connect-timeout=30 \
+            < outputs/sql-ready/schema_full.sql
+
       - name: Import SQL
         env:
           DB_HOST: ${{ secrets.DB_HOST }}
