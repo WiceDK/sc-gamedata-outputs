@@ -702,6 +702,19 @@ CREATE TABLE `resource_type_prices` (
   CONSTRAINT `fk_resource_type_prices_terminal`      FOREIGN KEY (`terminal_id`)      REFERENCES `terminals`      (`terminal_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+CREATE TABLE `resource_type_price_history` (
+  `history_id`       INT           NOT NULL AUTO_INCREMENT,
+  `resource_type_id` INT           NOT NULL,
+  `terminal_id`      INT           NOT NULL,
+  `price_buy`        DECIMAL(14,4) DEFAULT NULL,
+  `price_sell`       DECIMAL(14,4) DEFAULT NULL,
+  `recorded_at`      INT           NOT NULL,
+  PRIMARY KEY (`history_id`),
+  KEY `idx_rt_price_history` (`resource_type_id`, `terminal_id`),
+  CONSTRAINT `fk_rt_price_history_resource_type` FOREIGN KEY (`resource_type_id`) REFERENCES `resource_types` (`resource_type_id`),
+  CONSTRAINT `fk_rt_price_history_terminal`      FOREIGN KEY (`terminal_id`)      REFERENCES `terminals`      (`terminal_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
 CREATE TABLE `resource_type_price_unit_sizes` (
   `price_id`      INT NOT NULL,
   `unit_size_scu` INT NOT NULL,
@@ -724,6 +737,19 @@ CREATE TABLE `item_prices` (
   CONSTRAINT `fk_item_prices_terminal` FOREIGN KEY (`terminal_id`) REFERENCES `terminals` (`terminal_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+CREATE TABLE `item_price_history` (
+  `history_id`  INT           NOT NULL AUTO_INCREMENT,
+  `item_id`     INT           NOT NULL,
+  `terminal_id` INT           NOT NULL,
+  `price_buy`   DECIMAL(14,4) DEFAULT NULL,
+  `price_sell`  DECIMAL(14,4) DEFAULT NULL,
+  `recorded_at` INT           NOT NULL,
+  PRIMARY KEY (`history_id`),
+  KEY `idx_item_price_history` (`item_id`, `terminal_id`),
+  CONSTRAINT `fk_item_price_history_item`     FOREIGN KEY (`item_id`)     REFERENCES `items`     (`item_id`),
+  CONSTRAINT `fk_item_price_history_terminal` FOREIGN KEY (`terminal_id`) REFERENCES `terminals` (`terminal_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
 CREATE TABLE `vehicle_purchase_prices` (
   `price_id`      INT           NOT NULL AUTO_INCREMENT,
   `vehicle_id`    INT           NOT NULL,
@@ -739,6 +765,19 @@ CREATE TABLE `vehicle_purchase_prices` (
   CONSTRAINT `fk_vehicle_purchase_prices_terminal` FOREIGN KEY (`terminal_id`) REFERENCES `terminals` (`terminal_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+CREATE TABLE `vehicle_purchase_price_history` (
+  `history_id`  INT           NOT NULL AUTO_INCREMENT,
+  `vehicle_id`  INT           NOT NULL,
+  `terminal_id` INT           NOT NULL,
+  `price_buy`   DECIMAL(14,4) DEFAULT NULL,
+  `price_sell`  DECIMAL(14,4) DEFAULT NULL,
+  `recorded_at` INT           NOT NULL,
+  PRIMARY KEY (`history_id`),
+  KEY `idx_vpp_history` (`vehicle_id`, `terminal_id`),
+  CONSTRAINT `fk_vpp_history_vehicle`  FOREIGN KEY (`vehicle_id`)  REFERENCES `vehicles`  (`vehicle_id`),
+  CONSTRAINT `fk_vpp_history_terminal` FOREIGN KEY (`terminal_id`) REFERENCES `terminals` (`terminal_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
 CREATE TABLE `vehicle_rental_prices` (
   `price_id`      INT           NOT NULL AUTO_INCREMENT,
   `vehicle_id`    INT           NOT NULL,
@@ -752,6 +791,19 @@ CREATE TABLE `vehicle_rental_prices` (
   KEY `idx_vehicle_rental_prices_terminal` (`terminal_id`),
   CONSTRAINT `fk_vehicle_rental_prices_vehicle`  FOREIGN KEY (`vehicle_id`)  REFERENCES `vehicles`  (`vehicle_id`),
   CONSTRAINT `fk_vehicle_rental_prices_terminal` FOREIGN KEY (`terminal_id`) REFERENCES `terminals` (`terminal_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+CREATE TABLE `vehicle_rental_price_history` (
+  `history_id`    INT           NOT NULL AUTO_INCREMENT,
+  `vehicle_id`    INT           NOT NULL,
+  `terminal_id`   INT           NOT NULL,
+  `duration_days` INT           NOT NULL DEFAULT 1,
+  `price_rent`    DECIMAL(14,4) DEFAULT NULL,
+  `recorded_at`   INT           NOT NULL,
+  PRIMARY KEY (`history_id`),
+  KEY `idx_vrp_history` (`vehicle_id`, `terminal_id`),
+  CONSTRAINT `fk_vrp_history_vehicle`  FOREIGN KEY (`vehicle_id`)  REFERENCES `vehicles`  (`vehicle_id`),
+  CONSTRAINT `fk_vrp_history_terminal` FOREIGN KEY (`terminal_id`) REFERENCES `terminals` (`terminal_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 CREATE TABLE `refinery_methods` (
