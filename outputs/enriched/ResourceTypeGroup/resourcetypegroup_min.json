@@ -1,126 +1,108 @@
 ﻿[
     {
         "ref":  "38518fe4-6737-4acd-a455-298853fd258f",
-        "codeName":  "Alloy",
         "displayName":  "Alloy",
         "parentGroupName":  "Metal",
         "resourceCount":  4
     },
     {
         "ref":  "1817e4e3-2b22-4c4a-b2db-c7afdb731e6a",
-        "codeName":  "CleanAir",
         "displayName":  null,
         "parentGroupName":  null,
         "resourceCount":  2
     },
     {
         "ref":  "2a234e97-a4ba-46b3-a217-88e61863e4da",
-        "codeName":  "Food",
         "displayName":  "Food",
         "parentGroupName":  "Natural Materials",
         "resourceCount":  11
     },
     {
         "ref":  "3a31ccbf-bb2d-4a26-9b21-2f7d0222f4a6",
-        "codeName":  "Gas",
         "displayName":  "Gas",
         "parentGroupName":  null,
         "resourceCount":  10
     },
     {
         "ref":  "beae9970-314f-4920-9bc1-19c75798504e",
-        "codeName":  "Halogen",
         "displayName":  null,
         "parentGroupName":  "Nonmetals",
         "resourceCount":  4
     },
     {
         "ref":  "1676f718-39c2-45d7-be78-4023db6452ff",
-        "codeName":  "HeatPlaceholder",
         "displayName":  null,
         "parentGroupName":  null,
         "resourceCount":  2
     },
     {
         "ref":  "4b058f8e-7a77-4c25-a22c-2708ce291705",
-        "codeName":  "LifeSupportPlaceholder",
         "displayName":  null,
         "parentGroupName":  null,
         "resourceCount":  1
     },
     {
         "ref":  "9b28b2e4-7df3-43f3-a69a-d82b119e25bf",
-        "codeName":  "Metal",
         "displayName":  "Metal",
         "parentGroupName":  null,
         "resourceCount":  17
     },
     {
         "ref":  "8e17c99b-1bf6-49cb-838e-e7eb72a9088f",
-        "codeName":  "Mineral",
         "displayName":  "Mineral",
         "parentGroupName":  null,
         "resourceCount":  23
     },
     {
         "ref":  "4d3f31f7-feab-488c-8f36-ac7c8c4012b8",
-        "codeName":  "Nonmetal",
         "displayName":  "Nonmetals",
         "parentGroupName":  null,
         "resourceCount":  5
     },
     {
         "ref":  "32a1c43c-ffdf-4b02-82a8-1d8b2d9f6666",
-        "codeName":  "Organic",
         "displayName":  "Natural Materials",
         "parentGroupName":  null,
         "resourceCount":  26
     },
     {
         "ref":  "5b8e6dc4-7d26-48b9-8672-8df44739d265",
-        "codeName":  "PowerPlaceholder",
         "displayName":  null,
         "parentGroupName":  null,
         "resourceCount":  1
     },
     {
         "ref":  "9379b129-8688-4777-9f65-9dc09ba935ee",
-        "codeName":  "ProcessedGoods",
         "displayName":  "Processed Goods",
         "parentGroupName":  null,
         "resourceCount":  32
     },
     {
         "ref":  "81637dc5-e451-4e67-beb6-88d3c5db94e0",
-        "codeName":  "Raw_Minerals",
         "displayName":  null,
         "parentGroupName":  "Mineral",
         "resourceCount":  10
     },
     {
         "ref":  "361e993d-9b2e-450c-9315-0fd1bfd3af20",
-        "codeName":  "SyntheticMaterials",
         "displayName":  "Man-made",
         "parentGroupName":  "Processed Goods",
         "resourceCount":  12
     },
     {
         "ref":  "36623177-cbc4-48a2-b95e-f893a861ca42",
-        "codeName":  "UnrefinedOres",
         "displayName":  null,
         "parentGroupName":  "Metal",
         "resourceCount":  16
     },
     {
         "ref":  "c1a21fd1-16e0-465f-9f51-f5f931de0dea",
-        "codeName":  "Vice",
         "displayName":  "Vice",
         "parentGroupName":  "Processed Goods",
         "resourceCount":  16
     },
     {
         "ref":  "3492ff58-bd82-41f2-9af0-b13569e22ce6",
-        "codeName":  "Waste",
         "displayName":  "Waste",
         "parentGroupName":  null,
         "resourceCount":  3

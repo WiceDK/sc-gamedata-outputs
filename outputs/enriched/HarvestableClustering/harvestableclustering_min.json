@@ -1,5 +1,6 @@
 ﻿[
     {
+        "ref":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
         "rarity":  "common",
         "probabilityOfClustering":  100,
         "clusterTemplateCount":  3,
@@ -29,6 +30,7 @@
                      ]
     },
     {
+        "ref":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
         "rarity":  "uncommon",
         "probabilityOfClustering":  100,
         "clusterTemplateCount":  3,
@@ -58,6 +60,7 @@
                      ]
     },
     {
+        "ref":  "cd074871-2f6d-45c1-a88f-38b21ef02309",
         "rarity":  "rare",
         "probabilityOfClustering":  100,
         "clusterTemplateCount":  3,
@@ -87,6 +90,7 @@
                      ]
     },
     {
+        "ref":  "b097c899-4a14-4092-8d07-75c1cf9d05c2",
         "rarity":  "epic",
         "probabilityOfClustering":  40,
         "clusterTemplateCount":  2,
@@ -109,6 +113,7 @@
                      ]
     },
     {
+        "ref":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
         "rarity":  "legendary",
         "probabilityOfClustering":  25,
         "clusterTemplateCount":  1,

@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-04-28T23:31:22",
+    "generatedAt":  "2026-05-08T23:45:58",
     "rulesPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\src\\contracts\\normalization-rules-v2.json",
     "mode":  "raw-first",
     "steps":  [
@@ -43,13 +43,6 @@
                       "minOutputPath":  "outputs\\enriched\\CommodityType\\commodity_type_min.json"
                   },
                   {
-                      "domain":  "commodity",
-                      "enabled":  true,
-                      "succeeded":  true,
-                      "fullOutputPath":  "outputs\\enriched\\Commodity\\commodity_full.json",
-                      "minOutputPath":  "outputs\\enriched\\Commodity\\commodity_min.json"
-                  },
-                  {
                       "domain":  "itemCategory",
                       "enabled":  true,
                       "succeeded":  true,
@@ -61,7 +54,9 @@
                       "enabled":  true,
                       "succeeded":  true,
                       "fullOutputPath":  "outputs\\enriched\\Item\\item_full.json",
-                      "minOutputPath":  "outputs\\enriched\\Item\\item_min.json"
+                      "minOutputPath":  "outputs\\enriched\\Item\\item_min.json",
+                      "manufacturerFullOutputPath":  "outputs\\enriched\\Manufacturer\\manufacturer_full.json",
+                      "manufacturerMinOutputPath":  "outputs\\enriched\\Manufacturer\\manufacturer_min.json"
                   },
                   {
                       "domain":  "shop",
@@ -78,32 +73,11 @@
                       "minOutputPath":  "outputs\\enriched\\Vehicle\\vehicle_min.json"
                   },
                   {
-                      "domain":  "vehicleArchitecture",
-                      "enabled":  true,
-                      "succeeded":  true,
-                      "fullOutputPath":  "outputs\\enriched\\VehicleArchitecture\\vehiclearchitecture_full.json",
-                      "minOutputPath":  "outputs\\enriched\\VehicleArchitecture\\vehiclearchitecture_min.json"
-                  },
-                  {
-                      "domain":  "blueprintRewardPool",
-                      "enabled":  true,
-                      "succeeded":  true,
-                      "fullOutputPath":  "outputs\\enriched\\BlueprintRewardPool\\blueprintrewardpool_full.json",
-                      "minOutputPath":  "outputs\\enriched\\BlueprintRewardPool\\blueprintrewardpool_min.json"
-                  },
-                  {
                       "domain":  "blueprint",
                       "enabled":  true,
                       "succeeded":  true,
                       "fullOutputPath":  "outputs\\enriched\\Blueprint\\blueprint_full.json",
                       "minOutputPath":  "outputs\\enriched\\Blueprint\\blueprint_min.json"
-                  },
-                  {
-                      "domain":  "missionReward",
-                      "enabled":  true,
-                      "succeeded":  true,
-                      "fullOutputPath":  "outputs\\enriched\\MissionRewards\\reward_full.json",
-                      "minOutputPath":  "outputs\\enriched\\MissionRewards\\reward_min.json"
                   },
                   {
                       "domain":  "missionType",

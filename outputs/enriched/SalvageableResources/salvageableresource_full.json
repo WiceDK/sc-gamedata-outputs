@@ -6,7 +6,7 @@
         "isSalvageable":  true,
         "isRefinable":  true,
         "refinedVersionRef":  "98aa6a70-80e7-41d7-9128-9692053d57a2",
-        "refinedVersionName":  "Construction Materials",
+        "refinedVersionName":  null,
         "salvageShips":  [
                              {
                                  "controllerRef":  "b9b21470-d973-4b8a-aa55-3b5a42506e88",
@@ -21,7 +21,7 @@
         "isSalvageable":  true,
         "isRefinable":  true,
         "refinedVersionRef":  "98aa6a70-80e7-41d7-9128-9692053d57a2",
-        "refinedVersionName":  "Construction Materials",
+        "refinedVersionName":  null,
         "salvageShips":  [
                              {
                                  "controllerRef":  "774ee326-7264-49da-9ddc-b324360f739d",
@@ -44,11 +44,50 @@
         "isSalvageable":  true,
         "isRefinable":  true,
         "refinedVersionRef":  "98aa6a70-80e7-41d7-9128-9692053d57a2",
-        "refinedVersionName":  "Construction Materials",
+        "refinedVersionName":  null,
         "salvageShips":  [
                              {
                                  "controllerRef":  "70c1c943-a363-420f-9e97-92d240f34a82",
                                  "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_aegs_reclaimer_armoperator.xml"
+                             }
+                         ]
+    },
+    {
+        "resourceTypeRef":  "a0e6c4cf-face-4f52-a020-dfa869607901",
+        "resourceTypeSourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetype.rmc.xml",
+        "displayName":  "Recycled Material Composite",
+        "isSalvageable":  true,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinedVersionName":  null,
+        "salvageShips":  [
+                             {
+                                 "controllerRef":  "56157788-054f-4994-b840-062c638023f9",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_drak_vulture.xml"
+                             },
+                             {
+                                 "controllerRef":  "eb314b77-43f2-4075-8947-a444be046726",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_misc_fortune.xml"
+                             },
+                             {
+                                 "controllerRef":  "774ee326-7264-49da-9ddc-b324360f739d",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_rsi_salvation.xml"
+                             },
+                             {
+                                 "controllerRef":  "8e922d42-1013-4cbf-841a-df057908df2b",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_right.xml"
+                             },
+                             {
+                                 "controllerRef":  "b16c9a55-8f9e-4fed-acee-52c8248cd9cd",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_aegs_reclaimer_turret.xml"
+                             },
+                             {
+                                 "controllerRef":  "c492c204-b7fa-4489-8db7-f5f1b6e8fdac",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_frontcab.xml"
+                             },
+                             {
+                                 "controllerRef":  "ba2a5625-c6ed-4bf1-bb39-20d0a08efb7a",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_left.xml"
                              }
                          ]
     }

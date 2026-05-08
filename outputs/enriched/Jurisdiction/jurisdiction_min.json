@@ -1,93 +1,840 @@
 [
     {
+        "ref":  "61e48e63-6822-4f67-9648-d7b884281bd4",
         "name":  "ArcCorp",
         "is_prison":  false,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+                                 {
+                                     "uuid":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "6007e444-0a50-483b-b787-59047e6b0121",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f",
+                                     "displayName":  null
+                                 }
+                             ],
+        "prohibited_resources":  [
+                                     {
+                                         "uuid":  "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                         "displayName":  "Osoian Hides"
+                                     },
+                                     {
+                                         "uuid":  "3871740a-f82f-445d-a2e5-8163d1405733",
+                                         "displayName":  "Gasping Weevil Eggs"
+                                     },
+                                     {
+                                         "uuid":  "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                         "displayName":  "RS1 Odysey Spacesuits"
+                                     },
+                                     {
+                                         "uuid":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                         "displayName":  "LifeCure Medsticks"
+                                     },
+                                     {
+                                         "uuid":  "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                         "displayName":  "Redfin Energy Modulators"
+                                     },
+                                     {
+                                         "uuid":  "ea78052a-11b2-484e-a7ee-d19ed906a037",
+                                         "displayName":  "Human Food Bars"
+                                     }
+                                 ],
+        "controlled_substance_classes":  [
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                       "displayName":  "SLAM"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                       "displayName":  "WiDoW"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                       "displayName":  "DCSR2"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "3dc64c8c-8784-43e0-a003-3230b3ae680e",
+                                                                       "displayName":  "Uncut SLAM"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                       "displayName":  "Maze"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                       "displayName":  "Neon"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ab0b493c-9faf-401e-a27b-a81998bf07a5",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "6fc6df10-0267-4097-8233-67983e594669",
+                                                                       "displayName":  "Altruciatoxin"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "ba11589f-a278-44e9-9bd9-79552832fc94",
+                                                                       "displayName":  "E'tam"
+                                                                   }
+                                                               ]
+                                             }
+                                         ]
     },
     {
+        "ref":  "7e4d7293-c663-46cc-97d8-95a6b9eabe24",
         "name":  "Citizens For Prosperity",
         "is_prison":  false,
         "base_fine":  0,
         "respects_parent_laws":  false,
-        "parent_name":  null
+        "parent_name":  null,
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "22c4672e-252d-4aab-91b3-ca1838c377a3",
         "name":  "Crusader Industries",
         "is_prison":  false,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+                                 {
+                                     "uuid":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "2d70b5eb-0691-4270-b173-f91b7f59ee88",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "b294c88b-b988-4413-94bc-70f71f9401f6",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "6007e444-0a50-483b-b787-59047e6b0121",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f",
+                                     "displayName":  null
+                                 }
+                             ],
+        "prohibited_resources":  [
+                                     {
+                                         "uuid":  "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                         "displayName":  "Osoian Hides"
+                                     },
+                                     {
+                                         "uuid":  "2ed08e8e-7d46-4056-b877-42809af9905b",
+                                         "displayName":  "CK13-GID Seed Blend"
+                                     },
+                                     {
+                                         "uuid":  "3871740a-f82f-445d-a2e5-8163d1405733",
+                                         "displayName":  "Gasping Weevil Eggs"
+                                     },
+                                     {
+                                         "uuid":  "460e7516-8162-4d02-bcbb-09deec89df1f",
+                                         "displayName":  "mobyGlass Personal Computers"
+                                     },
+                                     {
+                                         "uuid":  "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                         "displayName":  "RS1 Odysey Spacesuits"
+                                     },
+                                     {
+                                         "uuid":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                         "displayName":  "LifeCure Medsticks"
+                                     },
+                                     {
+                                         "uuid":  "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                         "displayName":  "Redfin Energy Modulators"
+                                     },
+                                     {
+                                         "uuid":  "ea78052a-11b2-484e-a7ee-d19ed906a037",
+                                         "displayName":  "Human Food Bars"
+                                     }
+                                 ],
+        "controlled_substance_classes":  [
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                       "displayName":  "SLAM"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                       "displayName":  "WiDoW"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                       "displayName":  "DCSR2"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "3dc64c8c-8784-43e0-a003-3230b3ae680e",
+                                                                       "displayName":  "Uncut SLAM"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                       "displayName":  "Maze"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ab0b493c-9faf-401e-a27b-a81998bf07a5",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                       "displayName":  "Neon"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "6fc6df10-0267-4097-8233-67983e594669",
+                                                                       "displayName":  "Altruciatoxin"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "ba11589f-a278-44e9-9bd9-79552832fc94",
+                                                                       "displayName":  "E'tam"
+                                                                   }
+                                                               ]
+                                             }
+                                         ]
     },
     {
+        "ref":  "4ad3e0d8-5b7a-4f7c-a94c-f74be23b5ab1",
         "name":  "Green",
         "is_prison":  false,
         "base_fine":  126,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "b004dce7-7956-4661-b37c-db5250560897",
         "name":  "Headhunters",
         "is_prison":  false,
         "base_fine":  0,
         "respects_parent_laws":  false,
-        "parent_name":  null
+        "parent_name":  null,
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "94f43714-09f8-488e-b7a9-cbc2404fc408",
         "name":  "Hurston Dynamics",
         "is_prison":  false,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+                                 {
+                                     "uuid":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                     "displayName":  null
+                                 }
+                             ],
+        "prohibited_resources":  [
+                                     {
+                                         "uuid":  "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                         "displayName":  "Osoian Hides"
+                                     },
+                                     {
+                                         "uuid":  "3871740a-f82f-445d-a2e5-8163d1405733",
+                                         "displayName":  "Gasping Weevil Eggs"
+                                     },
+                                     {
+                                         "uuid":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                         "displayName":  "LifeCure Medsticks"
+                                     },
+                                     {
+                                         "uuid":  "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                         "displayName":  "Redfin Energy Modulators"
+                                     }
+                                 ],
+        "controlled_substance_classes":  [
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                       "displayName":  "SLAM"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                       "displayName":  "WiDoW"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                       "displayName":  "DCSR2"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "3dc64c8c-8784-43e0-a003-3230b3ae680e",
+                                                                       "displayName":  "Uncut SLAM"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                       "displayName":  "Maze"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                       "displayName":  "Neon"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "6fc6df10-0267-4097-8233-67983e594669",
+                                                                       "displayName":  "Altruciatoxin"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "ab0b493c-9faf-401e-a27b-a81998bf07a5",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "ba11589f-a278-44e9-9bd9-79552832fc94",
+                                                                       "displayName":  "E'tam"
+                                                                   }
+                                                               ]
+                                             }
+                                         ]
     },
     {
+        "ref":  "4eb79151-607f-4a67-9e0f-498b6a1b4d35",
         "name":  "Klescher Rehabilitation",
         "is_prison":  true,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "596cdbc9-71a2-4e9a-9461-4e9fe0090bef",
         "name":  "microTech",
         "is_prison":  false,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+                                 {
+                                     "uuid":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "2d70b5eb-0691-4270-b173-f91b7f59ee88",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "b294c88b-b988-4413-94bc-70f71f9401f6",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "6007e444-0a50-483b-b787-59047e6b0121",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "1da71ac6-b728-4a16-81ee-b5cedc465431",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f",
+                                     "displayName":  null
+                                 }
+                             ],
+        "prohibited_resources":  [
+                                     {
+                                         "uuid":  "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                         "displayName":  "Osoian Hides"
+                                     },
+                                     {
+                                         "uuid":  "2ed08e8e-7d46-4056-b877-42809af9905b",
+                                         "displayName":  "CK13-GID Seed Blend"
+                                     },
+                                     {
+                                         "uuid":  "3871740a-f82f-445d-a2e5-8163d1405733",
+                                         "displayName":  "Gasping Weevil Eggs"
+                                     },
+                                     {
+                                         "uuid":  "460e7516-8162-4d02-bcbb-09deec89df1f",
+                                         "displayName":  "mobyGlass Personal Computers"
+                                     },
+                                     {
+                                         "uuid":  "03a947b5-8cb9-412e-908e-19ff41df4504",
+                                         "displayName":  "RS1 Odysey Spacesuits"
+                                     },
+                                     {
+                                         "uuid":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                         "displayName":  "LifeCure Medsticks"
+                                     },
+                                     {
+                                         "uuid":  "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                         "displayName":  "Redfin Energy Modulators"
+                                     },
+                                     {
+                                         "uuid":  "5e079d07-630a-41d5-a314-16381f07e2c3",
+                                         "displayName":  "HLX99 Hyperprocessors"
+                                     },
+                                     {
+                                         "uuid":  "ea78052a-11b2-484e-a7ee-d19ed906a037",
+                                         "displayName":  "Human Food Bars"
+                                     }
+                                 ],
+        "controlled_substance_classes":  [
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                       "displayName":  "SLAM"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                       "displayName":  "WiDoW"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                       "displayName":  "DCSR2"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "3dc64c8c-8784-43e0-a003-3230b3ae680e",
+                                                                       "displayName":  "Uncut SLAM"
+                                                                   }
+                                                               ]
+                                             },
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                       "displayName":  "Maze"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                       "displayName":  "Neon"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "6fc6df10-0267-4097-8233-67983e594669",
+                                                                       "displayName":  "Altruciatoxin"
+                                                                   }
+                                                               ]
+                                             }
+                                         ]
     },
     {
+        "ref":  "99d11f16-c2a6-4a5a-ab53-13c26a193c2e",
         "name":  "People's Alliance",
         "is_prison":  false,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  "UEE"
+        "parent_name":  "UEE",
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "5b5e4ff5-f153-4b56-9f07-987520d3ce62",
         "name":  "Rough & Ready",
         "is_prison":  false,
         "base_fine":  0,
         "respects_parent_laws":  false,
-        "parent_name":  null
+        "parent_name":  null,
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "87e3c2af-000c-412f-b4d9-220377908eba",
         "name":  "UEE",
         "is_prison":  false,
         "base_fine":  125,
         "respects_parent_laws":  true,
-        "parent_name":  null
+        "parent_name":  null,
+        "prohibited_goods":  [
+                                 {
+                                     "uuid":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                     "displayName":  null
+                                 },
+                                 {
+                                     "uuid":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                     "displayName":  null
+                                 }
+                             ],
+        "prohibited_resources":  [
+                                     {
+                                         "uuid":  "c93a256a-66eb-41ef-a4eb-f14972976694",
+                                         "displayName":  "Osoian Hides"
+                                     },
+                                     {
+                                         "uuid":  "3871740a-f82f-445d-a2e5-8163d1405733",
+                                         "displayName":  "Gasping Weevil Eggs"
+                                     },
+                                     {
+                                         "uuid":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
+                                         "displayName":  "LifeCure Medsticks"
+                                     },
+                                     {
+                                         "uuid":  "a1aac2a9-048d-43da-ba8e-5b090901e845",
+                                         "displayName":  "Redfin Energy Modulators"
+                                     }
+                                 ],
+        "controlled_substance_classes":  [
+                                             {
+                                                 "max_possession_scu":  0.125,
+                                                 "commodities":  [
+                                                                     {
+                                                                         "uuid":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                         "displayName":  null
+                                                                     },
+                                                                     {
+                                                                         "uuid":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                         "displayName":  null
+                                                                     }
+                                                                 ],
+                                                 "resources":  [
+                                                                   {
+                                                                       "uuid":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                       "displayName":  "SLAM"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                       "displayName":  "WiDoW"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                       "displayName":  "DCSR2"
+                                                                   },
+                                                                   {
+                                                                       "uuid":  "3dc64c8c-8784-43e0-a003-3230b3ae680e",
+                                                                       "displayName":  "Uncut SLAM"
+                                                                   }
+                                                               ]
+                                             }
+                                         ]
     },
     {
+        "ref":  "d574e48a-d8bd-47d5-8ffd-1210fea81a31",
         "name":  "Ungoverned",
         "is_prison":  false,
         "base_fine":  0,
         "respects_parent_laws":  false,
-        "parent_name":  null
+        "parent_name":  null,
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     },
     {
+        "ref":  "0d2e5d5e-a3d3-4a6d-869f-58dc705e7020",
         "name":  "XenoThreat",
         "is_prison":  false,
         "base_fine":  0,
         "respects_parent_laws":  false,
-        "parent_name":  null
+        "parent_name":  null,
+        "prohibited_goods":  [
+
+                             ],
+        "prohibited_resources":  [
+
+                                 ],
+        "controlled_substance_classes":  [
+
+                                         ]
     }
 ]

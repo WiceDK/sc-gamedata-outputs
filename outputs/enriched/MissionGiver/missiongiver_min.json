@@ -1,117 +1,140 @@
 [
     {
-        "ref":  "30df0f6d-a58e-4e07-b554-11a275874604",
+        "ref":  "0cc0391c-c1b3-4b56-8dce-5d06a18544a5",
         "displayName":  null,
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "49c6aa72-0853-4b3e-b14b-1faca3bea512",
         "displayName":  null,
-        "factionName":  null
-    },
-    {
-        "ref":  "0cc0391c-c1b3-4b56-8dce-5d06a18544a5",
-        "displayName":  null,
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "e16755a8-165a-4ded-a899-cf333d85b4ef",
         "displayName":  null,
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "a6fec633-57d5-4032-b739-bf3b0bc7c1b2",
         "displayName":  null,
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "75566702-b3b2-4cce-aa74-59706f461e9a",
         "displayName":  "ArcCorp",
+        "factionRef":  "d27efa13-7f10-4b3e-87aa-43759d9301da",
         "factionName":  "ArcCorp"
     },
     {
         "ref":  "df1b2830-faa1-41f8-99e8-ab678622a52b",
         "displayName":  "Bounty Hunters Guild",
+        "factionRef":  "29e65591-d776-49a4-9a98-eb1fd7c51fcc",
         "factionName":  "Bounty Hunters Guild"
     },
     {
         "ref":  "e1c74485-d70f-45c5-be0f-f116011aab91",
         "displayName":  "Civilian Defense Force",
-        "factionName":  null
+        "factionRef":  "c618bb17-61cb-462c-8b51-8d4dfcb527de",
+        "factionName":  "Civilian Defense Force"
     },
     {
         "ref":  "2f3e41cc-d01f-45f3-b6f3-80cf81691677",
         "displayName":  "Clovus Darneely",
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "d2461274-926e-46a4-bdeb-dc846f7d7148",
         "displayName":  "Constantine Hurston",
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "68ed9226-f4a5-483c-ad36-77dd388253c9",
         "displayName":  "Covalex",
+        "factionRef":  "2640e0b2-54f3-4c29-9d5d-6f8f4fc49dbe",
         "factionName":  "Covalex"
     },
     {
         "ref":  "7f7b959a-0bea-4ac5-bd1e-a9fef0aefbb3",
         "displayName":  "Crusader Industries",
+        "factionRef":  "b89d388c-622c-4c8b-8887-46681eb193c1",
         "factionName":  "Crusader Industries"
     },
     {
         "ref":  "99181df2-4ae7-40bf-9c00-a3dffc472242",
         "displayName":  "Headhunters",
+        "factionRef":  "9f89edc0-441b-4f40-a502-df12ebf3f1eb",
         "factionName":  "Headhunters"
     },
     {
         "ref":  "0a675762-bb1f-4eb4-ad75-2f880e2e2518",
         "displayName":  "Hurston Dynamics",
+        "factionRef":  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8",
         "factionName":  "Hurston Dynamics"
     },
     {
         "ref":  "bfb177af-0724-47b6-b49e-62cf85300484",
         "displayName":  "microTech",
+        "factionRef":  "a04f2ed1-9e2b-4a31-abd3-a963e09e021f",
         "factionName":  "microTech"
     },
     {
         "ref":  "348cd4e6-4a44-45a3-b7fb-9134e772f9ef",
         "displayName":  "Miles Eckhart",
+        "factionRef":  null,
         "factionName":  null
+    },
+    {
+        "ref":  "30df0f6d-a58e-4e07-b554-11a275874604",
+        "displayName":  "Northrock Service Group",
+        "factionRef":  "d84f1767-e406-448a-a413-9a526350c83f",
+        "factionName":  "Northrock Service Group"
     },
     {
         "ref":  "00c73db5-ae97-4a02-b5f0-c87b64ed4535",
         "displayName":  "Recco Battaglia",
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "e0c35a21-290d-4444-80ef-7f42da67b52f",
         "displayName":  "Ruto",
+        "factionRef":  "d7e05124-92df-4929-804a-d7a1b0fbfd93",
         "factionName":  "Ruto"
     },
     {
         "ref":  "05e3f9ed-c38d-465b-be6d-8e2c5ccbcbfa",
         "displayName":  "Shubin Interstellar",
+        "factionRef":  "04b1380a-c598-4e3d-8ebf-debde07cfe3d",
         "factionName":  "Shubin Interstellar"
     },
     {
         "ref":  "5fd52afe-490a-4b5c-9b06-e86553e5a7c8",
         "displayName":  "Tecia Pacheco",
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "5c3c1c1f-3833-44f2-8ef1-879ff6fe1769",
         "displayName":  "Vaughn",
+        "factionRef":  "95761a82-18f9-4e25-ba33-d4c47c689324",
         "factionName":  "Vaughn"
     },
     {
         "ref":  "0ade7041-3bd1-499a-9ca6-1057c6276e66",
         "displayName":  "Wallace Klim",
+        "factionRef":  null,
         "factionName":  null
     },
     {
         "ref":  "7163220e-c791-4320-9eee-1ce632e2f491",
         "displayName":  "XenoThreat",
-        "factionName":  null
+        "factionRef":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
+        "factionName":  "XenoThreat"
     }
 ]

@@ -4,7 +4,7 @@
         "displayName":  "Construction Pieces",
         "isSalvageable":  true,
         "isRefinable":  true,
-        "refinedVersionName":  "Construction Materials",
+        "refinedVersionName":  null,
         "salvageShipCount":  1
     },
     {
@@ -12,7 +12,7 @@
         "displayName":  "Construction Rubble",
         "isSalvageable":  true,
         "isRefinable":  true,
-        "refinedVersionName":  "Construction Materials",
+        "refinedVersionName":  null,
         "salvageShipCount":  3
     },
     {
@@ -20,7 +20,15 @@
         "displayName":  "Construction Salvage",
         "isSalvageable":  true,
         "isRefinable":  true,
-        "refinedVersionName":  "Construction Materials",
+        "refinedVersionName":  null,
         "salvageShipCount":  1
+    },
+    {
+        "resourceTypeRef":  "a0e6c4cf-face-4f52-a020-dfa869607901",
+        "displayName":  "Recycled Material Composite",
+        "isSalvageable":  true,
+        "isRefinable":  false,
+        "refinedVersionName":  null,
+        "salvageShipCount":  7
     }
 ]

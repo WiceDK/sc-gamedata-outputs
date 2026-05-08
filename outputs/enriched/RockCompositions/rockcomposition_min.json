@@ -1,5 +1,6 @@
 ﻿[
     {
+        "ref":  "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Aluminum (Ore)",
@@ -38,6 +39,7 @@
                              ]
     },
     {
+        "ref":  "f5bcbf37-d613-4b51-897f-a11572d5f575",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Copper (Ore)",
@@ -76,6 +78,7 @@
                              ]
     },
     {
+        "ref":  "f7959de5-2bd2-43ab-aae3-4d057d624852",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Corundum (Raw)",
@@ -114,6 +117,7 @@
                              ]
     },
     {
+        "ref":  "44035494-974e-47f5-98a2-79a1616b62a6",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Hephaestanite (Raw)",
@@ -161,6 +165,7 @@
                              ]
     },
     {
+        "ref":  "ece23c39-ebb8-4a72-871b-5413e70619bf",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Iron (Ore)",
@@ -190,6 +195,7 @@
                              ]
     },
     {
+        "ref":  "984fcc10-90b2-433f-ba95-79ce692d855b",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Quartz (Raw)",
@@ -237,6 +243,7 @@
                              ]
     },
     {
+        "ref":  "3fc54018-acc4-4b34-aac1-bb97aa2bbece",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Raw Ice",
@@ -266,6 +273,7 @@
                              ]
     },
     {
+        "ref":  "836eb20c-3a2e-422d-a797-27c2f0ed755d",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Raw Silicon",
@@ -313,6 +321,7 @@
                              ]
     },
     {
+        "ref":  "0739cc49-707f-4b00-91fa-f16f6eaadf90",
         "miningContext":  "asteroid",
         "rarity":  "common",
         "compositionName":  "Tin (Ore)",
@@ -351,6 +360,7 @@
                              ]
     },
     {
+        "ref":  "71c571c4-6af9-4327-83a6-e8fb0f11a6d3",
         "miningContext":  "asteroid",
         "rarity":  "uncommon",
         "compositionName":  "Agricium (Ore)",
@@ -398,6 +408,7 @@
                              ]
     },
     {
+        "ref":  "2b934c4b-f47c-46b4-bad0-be8a24d6b94a",
         "miningContext":  "asteroid",
         "rarity":  "uncommon",
         "compositionName":  "Aslarite (Raw)",
@@ -445,6 +456,7 @@
                              ]
     },
     {
+        "ref":  "1c258df0-10f5-4550-acc7-9b9b9ecb2d20",
         "miningContext":  "asteroid",
         "rarity":  "uncommon",
         "compositionName":  "Laranite (Raw)",
@@ -483,6 +495,7 @@
                              ]
     },
     {
+        "ref":  "d33a13d8-3b81-429d-bb3e-b3f7de912983",
         "miningContext":  "asteroid",
         "rarity":  "uncommon",
         "compositionName":  "Titanium (Ore)",
@@ -530,6 +543,7 @@
                              ]
     },
     {
+        "ref":  "ed5af002-dbbc-41aa-b5b3-44e686a83b36",
         "miningContext":  "asteroid",
         "rarity":  "uncommon",
         "compositionName":  "Torite (Ore)",
@@ -559,6 +573,7 @@
                              ]
     },
     {
+        "ref":  "4b7cb296-c7be-4d8b-9c3b-b4c3c3488193",
         "miningContext":  "asteroid",
         "rarity":  "uncommon",
         "compositionName":  "Tungsten (Ore)",
@@ -597,6 +612,7 @@
                              ]
     },
     {
+        "ref":  "918f0b57-632b-4f0c-b8b5-869333ba5613",
         "miningContext":  "asteroid",
         "rarity":  "rare",
         "compositionName":  "Beryl (Raw)",
@@ -626,6 +642,7 @@
                              ]
     },
     {
+        "ref":  "004c1ddd-ee4e-4c77-92bd-50739bb0e23e",
         "miningContext":  "asteroid",
         "rarity":  "rare",
         "compositionName":  "Bexalite (Raw)",
@@ -673,6 +690,7 @@
                              ]
     },
     {
+        "ref":  "b42b8e22-a4cb-4847-aaa4-f93e11fa97cb",
         "miningContext":  "asteroid",
         "rarity":  "rare",
         "compositionName":  "Borase (Ore)",
@@ -720,6 +738,7 @@
                              ]
     },
     {
+        "ref":  "5a862c96-f156-4dba-94fb-a159166100f3",
         "miningContext":  "asteroid",
         "rarity":  "rare",
         "compositionName":  "Gold (Ore)",
@@ -767,6 +786,7 @@
                              ]
     },
     {
+        "ref":  "9c41665b-1eb6-4f4e-ad1a-d01a0a41843e",
         "miningContext":  "asteroid",
         "rarity":  "rare",
         "compositionName":  "Taranite (Raw)",
@@ -796,6 +816,7 @@
                              ]
     },
     {
+        "ref":  "fd7dc10a-19a4-4f82-aae2-52ac35bda567",
         "miningContext":  "asteroid",
         "rarity":  "epic",
         "compositionName":  "Lindinium (Ore)",
@@ -834,6 +855,7 @@
                              ]
     },
     {
+        "ref":  "0880d6d0-bee5-41b1-9aef-cc040a539ecf",
         "miningContext":  "asteroid",
         "rarity":  "epic",
         "compositionName":  "Ouratite",
@@ -872,6 +894,7 @@
                              ]
     },
     {
+        "ref":  "cd1dfb3a-d5cb-4017-8135-3707b863ddf9",
         "miningContext":  "asteroid",
         "rarity":  "epic",
         "compositionName":  "Riccite (Ore)",
@@ -910,6 +933,7 @@
                              ]
     },
     {
+        "ref":  "46c05568-b83a-4e7b-862c-cc31be4bae50",
         "miningContext":  "asteroid",
         "rarity":  "legendary",
         "compositionName":  "Quantainium (Raw)",
@@ -948,6 +972,7 @@
                              ]
     },
     {
+        "ref":  "3375ee93-f695-40d2-b86c-1ad23802e59b",
         "miningContext":  "asteroid",
         "rarity":  "legendary",
         "compositionName":  "Savrilium (Ore)",
@@ -986,6 +1011,7 @@
                              ]
     },
     {
+        "ref":  "3932307e-996c-4809-8eac-39a568c736cc",
         "miningContext":  "asteroid",
         "rarity":  "legendary",
         "compositionName":  "Savrilium (Ore)",
@@ -1024,6 +1050,7 @@
                              ]
     },
     {
+        "ref":  "5ec37175-69bd-4d19-a40a-69e7b3eec354",
         "miningContext":  "asteroid",
         "rarity":  "legendary",
         "compositionName":  "Stileron",
@@ -1062,6 +1089,7 @@
                              ]
     },
     {
+        "ref":  "454fd533-5d95-4619-a345-b0379ce94a12",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Aluminum (Ore)",
@@ -1100,6 +1128,7 @@
                              ]
     },
     {
+        "ref":  "f9361e5b-fb9f-444f-8ed7-a4e5dd6fee81",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Copper (Ore)",
@@ -1138,6 +1167,7 @@
                              ]
     },
     {
+        "ref":  "0d5911b5-0eb3-47c4-a56f-89e4b1e82c1a",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Corundum (Raw)",
@@ -1176,6 +1206,7 @@
                              ]
     },
     {
+        "ref":  "becf21b0-3812-4e04-aeb5-031d61104fdd",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Hephaestanite (Raw)",
@@ -1223,6 +1254,7 @@
                              ]
     },
     {
+        "ref":  "6d8ce739-5180-4479-a43b-e1c2a580d72d",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Iron (Ore)",
@@ -1252,6 +1284,7 @@
                              ]
     },
     {
+        "ref":  "9b0c86e4-82bc-42d9-99ea-3201e6072553",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Quartz (Raw)",
@@ -1299,6 +1332,7 @@
                              ]
     },
     {
+        "ref":  "606cffd3-77a5-4d87-8927-049f1de6b686",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Raw Ice",
@@ -1328,6 +1362,7 @@
                              ]
     },
     {
+        "ref":  "eed529e2-a1c1-4227-b0a7-6c5b0acd7823",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Raw Silicon",
@@ -1375,6 +1410,7 @@
                              ]
     },
     {
+        "ref":  "64799ef4-d78d-4828-b039-73ffcf7470a4",
         "miningContext":  "surface",
         "rarity":  "common",
         "compositionName":  "Tin (Ore)",
@@ -1413,6 +1449,7 @@
                              ]
     },
     {
+        "ref":  "0a6060e6-261f-4f87-8fc9-07a6342d579e",
         "miningContext":  "surface",
         "rarity":  "uncommon",
         "compositionName":  "Agricium (Ore)",
@@ -1460,6 +1497,7 @@
                              ]
     },
     {
+        "ref":  "e2e4a538-7f96-4c9b-8136-fb961dd37cea",
         "miningContext":  "surface",
         "rarity":  "uncommon",
         "compositionName":  "Aslarite (Raw)",
@@ -1507,6 +1545,7 @@
                              ]
     },
     {
+        "ref":  "f69ad5eb-97f4-4623-ae8e-f7c12ba09598",
         "miningContext":  "surface",
         "rarity":  "uncommon",
         "compositionName":  "Laranite (Raw)",
@@ -1545,6 +1584,7 @@
                              ]
     },
     {
+        "ref":  "20724d8d-ab6e-4a69-8837-ebd850e2cfab",
         "miningContext":  "surface",
         "rarity":  "uncommon",
         "compositionName":  "Titanium (Ore)",
@@ -1592,6 +1632,7 @@
                              ]
     },
     {
+        "ref":  "98aa6986-1b1b-475b-8488-41ad6182d1da",
         "miningContext":  "surface",
         "rarity":  "uncommon",
         "compositionName":  "Torite (Ore)",
@@ -1621,6 +1662,7 @@
                              ]
     },
     {
+        "ref":  "2aaef6ae-ec1d-41f3-9c33-c6f37c4f4535",
         "miningContext":  "surface",
         "rarity":  "uncommon",
         "compositionName":  "Tungsten (Ore)",
@@ -1659,6 +1701,7 @@
                              ]
     },
     {
+        "ref":  "2c7237f3-4061-4379-a050-55f372dbbe00",
         "miningContext":  "surface",
         "rarity":  "rare",
         "compositionName":  "Beryl (Raw)",
@@ -1688,6 +1731,7 @@
                              ]
     },
     {
+        "ref":  "4e79ec1e-84ae-4f7c-a566-6e52aa5959ba",
         "miningContext":  "surface",
         "rarity":  "rare",
         "compositionName":  "Bexalite (Raw)",
@@ -1735,6 +1779,7 @@
                              ]
     },
     {
+        "ref":  "885a28d1-911c-4454-aef6-2ccad8bc6227",
         "miningContext":  "surface",
         "rarity":  "rare",
         "compositionName":  "Borase (Ore)",
@@ -1782,6 +1827,7 @@
                              ]
     },
     {
+        "ref":  "387cb792-f770-4eee-a525-e4cacd2cb2d1",
         "miningContext":  "surface",
         "rarity":  "rare",
         "compositionName":  "Gold (Ore)",
@@ -1829,6 +1875,7 @@
                              ]
     },
     {
+        "ref":  "926a392b-6d1f-4cb8-916c-427c7dcc3923",
         "miningContext":  "surface",
         "rarity":  "rare",
         "compositionName":  "Taranite (Raw)",
@@ -1858,6 +1905,7 @@
                              ]
     },
     {
+        "ref":  "ca4881b0-5183-4ca4-b0c2-8bcb2d5b3e55",
         "miningContext":  "surface",
         "rarity":  "epic",
         "compositionName":  "Lindinium (Ore)",
@@ -1896,6 +1944,7 @@
                              ]
     },
     {
+        "ref":  "9f6c0f45-2b55-4c5c-90d0-8f14b09a3149",
         "miningContext":  "surface",
         "rarity":  "epic",
         "compositionName":  "Ouratite",
@@ -1934,6 +1983,7 @@
                              ]
     },
     {
+        "ref":  "faf633b8-c425-4109-b20f-ccc8180b6bca",
         "miningContext":  "surface",
         "rarity":  "epic",
         "compositionName":  "Riccite (Ore)",
@@ -1972,6 +2022,7 @@
                              ]
     },
     {
+        "ref":  "f08cf919-8503-430e-9fe6-06e44f0fae31",
         "miningContext":  "surface",
         "rarity":  "legendary",
         "compositionName":  "Quantainium (Raw)",
@@ -2010,6 +2061,7 @@
                              ]
     },
     {
+        "ref":  "d19e906e-e262-4b4d-8713-5c52186f9d2f",
         "miningContext":  "surface",
         "rarity":  "legendary",
         "compositionName":  "Savrilium (Ore)",
@@ -2048,6 +2100,7 @@
                              ]
     },
     {
+        "ref":  "30dc2e47-7eb0-4a08-ad72-e943b72f8e3d",
         "miningContext":  "surface",
         "rarity":  "legendary",
         "compositionName":  "Stileron",

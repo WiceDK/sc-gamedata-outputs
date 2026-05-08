@@ -1,5 +1,6 @@
 [
     {
+        "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
         "name":  null,
         "description":  null,
         "faction_type":  "Unlawful",
@@ -9,6 +10,37 @@
         "logo":  null
     },
     {
+        "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
+        "name":  null,
+        "description":  null,
+        "faction_type":  "Unlawful",
+        "default_reaction":  "Hostile",
+        "able_to_arrest":  false,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
+        "ref":  "b46d74e1-44c3-479a-ba0f-ba3f07d66529",
+        "name":  null,
+        "description":  null,
+        "faction_type":  "Unlawful",
+        "default_reaction":  "Hostile",
+        "able_to_arrest":  false,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
+        "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "name":  null,
+        "description":  null,
+        "faction_type":  "Unlawful",
+        "default_reaction":  "Hostile",
+        "able_to_arrest":  false,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
+        "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
         "name":  null,
         "description":  null,
         "faction_type":  "Unlawful",
@@ -18,6 +50,7 @@
         "logo":  null
     },
     {
+        "ref":  "7dc282cc-80b1-42c3-a712-843203c53f9f",
         "name":  null,
         "description":  null,
         "faction_type":  "Lawful",
@@ -27,33 +60,7 @@
         "logo":  null
     },
     {
-        "name":  null,
-        "description":  null,
-        "faction_type":  "Unlawful",
-        "default_reaction":  "Hostile",
-        "able_to_arrest":  false,
-        "is_lawful":  null,
-        "logo":  null
-    },
-    {
-        "name":  null,
-        "description":  null,
-        "faction_type":  "Unlawful",
-        "default_reaction":  "Hostile",
-        "able_to_arrest":  false,
-        "is_lawful":  null,
-        "logo":  null
-    },
-    {
-        "name":  null,
-        "description":  null,
-        "faction_type":  "Unlawful",
-        "default_reaction":  "Hostile",
-        "able_to_arrest":  false,
-        "is_lawful":  null,
-        "logo":  null
-    },
-    {
+        "ref":  "5d0bf1c9-55be-458b-af62-13b5b420f9cf",
         "name":  "[PH] Hostile",
         "description":  null,
         "faction_type":  "Unlawful",
@@ -63,6 +70,27 @@
         "logo":  null
     },
     {
+        "ref":  "3afb087d-5e66-4f3f-996d-521bf48f6e1b",
+        "name":  "<= PLACEHOLDER =>",
+        "description":  "<= PLACEHOLDER =>",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  null
+    },
+    {
+        "ref":  "4cd28d63-24ba-4180-a881-86036c29cd64",
+        "name":  "<= PLACEHOLDER =>",
+        "description":  "<= PLACEHOLDER =>",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  null
+    },
+    {
+        "ref":  "4e429470-4d4e-4c2b-a4ac-4de42ada16e0",
         "name":  "Aciedo Communications",
         "description":  "Following the conclusion of the First Tevarin War, Humanity was eager to begin exploring the stars again. Aciedo began life as fledging ship manufacturer focused on creating long-range exploration vessels. While they saw moderate success with their initial ship design, it was the included communication drones that stood out for their reliability and transmission success. Captains across the newly formed Empire began asking Aciedo to sell them commdrones directly. Within the first year of offering them, sales skyrocketed, and it wasn't long before Aciedo decided to stop manufacturing ships entirely. Today, they are the UEE's largest communication service provider, handling over 70% of all comms, and operate commrelays, commarrays, and commdrones across the Empire.",
         "faction_type":  "Lawful",
@@ -72,6 +100,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/Aciedo_256.tif"
     },
     {
+        "ref":  "569f1e53-a971-462b-abe3-969a8e096ff5",
         "name":  "Adagio Holdings",
         "description":  "Founded by retired Naval logistics personnel, Adagio found success supporting the voracious resource appetite of the Messer-era military-industrial complex through their salvaging operations. After the end of the Messer regime, Adagio, like many other military contractors, lost their contract, and the company was forced to find new sources of revenue. This ultimately led Adagio begin reselling salvage rights they’ve acquired to independent captains and other enterprises of various sizes.",
         "faction_type":  "Lawful",
@@ -81,6 +110,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_adagioholdings.tif"
     },
     {
+        "ref":  "f97f4726-6cdf-426e-b16c-4daf67e78faa",
         "name":  "Alliance Aid",
         "description":  null,
         "faction_type":  "Lawful",
@@ -90,6 +120,7 @@
         "logo":  null
     },
     {
+        "ref":  "d27efa13-7f10-4b3e-87aa-43759d9301da",
         "name":  "ArcCorp",
         "description":  "ArcCorp was previously known as the manufacturer of immensely popular quantum drives and thrusters, however, since their purchase of Stanton III from the UEE, their dedication to the creation of a privately-owned manufacturing world has overshadowed the company's other accomplishments.",
         "faction_type":  "Lawful",
@@ -99,6 +130,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_arccorp.tif"
     },
     {
+        "ref":  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
         "name":  "ASD",
         "description":  null,
         "faction_type":  "Unlawful",
@@ -108,6 +140,7 @@
         "logo":  null
     },
     {
+        "ref":  "5fb3c365-cf83-48d0-89a8-1cc539113b35",
         "name":  "Bit Zeros",
         "description":  "A brazen hacker collective rumored to have been started by a group disaffected teens on microTech who bonded over their affinity for old technology. Bored by more serious criminals, they are thrill seekers out to make some money, live large, and stick it to the major corporations in Stanton. With a strong preference for digital infiltration and subterfuge, they have been known to bring in outside help when jobs require a more direct approach.",
         "faction_type":  "Unlawful",
@@ -117,6 +150,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/Branding_BitZeros_logo.tif"
     },
     {
+        "ref":  "01bcfe41-40d7-48a6-bab2-eac7d902e9b2",
         "name":  "BlacJac",
         "description":  "BlacJac was founded on Tram by local Jac Ngo as a protection service for businesses struggling with the growing outlaw problem there. Before long, the security group earned a reputation for effectiveness and larger corporations began contracting BlacJac to look after matters on other worlds. At the same time, ArcCorp had tried to establish their own security force to look at their newly purchased world, Stanton III, but after a series of setbacks and budget issues, made the decision to employ BlacJac, who had assisted the company in several other security matters, to take over policing duties for the planet in 2906.",
         "faction_type":  "PrivateSecurity",
@@ -126,6 +160,7 @@
         "logo":  null
     },
     {
+        "ref":  "29e65591-d776-49a4-9a98-eb1fd7c51fcc",
         "name":  "Bounty Hunters Guild",
         "description":  "Operating for well over five centuries, the Bounty Hunters Guild has been active for almost as long as there have been outlaws in space. It is primarily a service union that provides its Bounty Hunter members with various resources and benefits such as discounts on supplies, vetting suitable contracts, and career training. Security forces tend to prefer using guild members for bounty work owing to the high standards maintained through their certification program.",
         "faction_type":  "Lawful",
@@ -135,6 +170,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_bountyhunterguild.tif"
     },
     {
+        "ref":  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
         "name":  "Citizens For Prosperity",
         "description":  "Citizens for Prosperity is a concerned group of civilians who have taken it upon themselves to tame infamous outlaw systems once and for all. What started as a small posse making occasional forays into Pyro to hunt down criminals has grown into a full resettlement plan across multiple systems. Working closely with local residents, the group provides protection and logistical support to the survivors who call the unclaimed frontier home.",
         "faction_type":  "Lawful",
@@ -144,6 +180,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/Branding_CitizensForPyro_Icon_1x1.tif"
     },
     {
+        "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
         "name":  "Civilian",
         "description":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
         "faction_type":  "Lawful",
@@ -153,6 +190,7 @@
         "logo":  null
     },
     {
+        "ref":  "52883600-6021-4407-8130-febb7dd42c63",
         "name":  "Civilian",
         "description":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
         "faction_type":  "Unlawful",
@@ -162,6 +200,17 @@
         "logo":  null
     },
     {
+        "ref":  "c618bb17-61cb-462c-8b51-8d4dfcb527de",
+        "name":  "Civilian Defense Force",
+        "description":  "Created as part of the Militia Mobilization Initiative, the Civilian Defense Force (CDF) is a volunteer militia that can be called upon by the UEE to provide support during times of crisis and large scale threats. The group is not intended to replace existing security forces, but rather temporarily bolster efforts during emergencies. CDF volunteers are called upon to fulfill a variety of roles from combat to support positions.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/CivilianDefenseForce_256.tif"
+    },
+    {
+        "ref":  "82ecc51d-7df1-41ba-b678-aab3b8fdfad0",
         "name":  "Clovus Darneely",
         "description":  "Clovus Darneely is a clerk at Reclamation & Disposal, Lorville's main salvage yard, with a reputation for being able to procure hard to find items.",
         "faction_type":  "Lawful",
@@ -171,6 +220,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_clovusdarneely.tif"
     },
     {
+        "ref":  "2640e0b2-54f3-4c29-9d5d-6f8f4fc49dbe",
         "name":  "Covalex",
         "description":  "Covalex is one of the largest hauling companies in the ’verse; thanks to its policy of contracting with independent ship operators. They learned early on that owners who fly their own ships are more invested in the success of the company and this commitment ensures a higher level of performance. In most systems, at any given time, a large percentage of the ships flying are working under contract to Covalex.",
         "faction_type":  "Lawful",
@@ -180,6 +230,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_covalex.tif"
     },
     {
+        "ref":  "b89d388c-622c-4c8b-8887-46681eb193c1",
         "name":  "Crusader Industries",
         "description":  "Makers of an extensive fleet of cutting edge vehicles, Crusader Industries is a titan of the aerospace industry. The prominent company purchased a gas giant in the Stanton system to house its current headquarters and is striving to expand its already prolific profile of ships while dedicating itself to numerous charitable works.",
         "faction_type":  "Lawful",
@@ -189,6 +240,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/mfr_crusader_icon_white-blue.tif"
     },
     {
+        "ref":  "6e3b98f1-4eb2-4128-958f-c550e418c5a6",
         "name":  "Crusader Security",
         "description":  "A subdivision of Crusader Industries, Crusader Security was created after the company purchased Stanton II from UEE in 2865 to perform general policing duties for Orison and the surrounding sector. Preferring to maintain a streamlined protective force, Crusader Security relies heavily on security contractors to bolster their peacekeeping efforts. They strive to maintain a professional and courteous demeanor that will make Crusader employees and visitors feel safe and comfortable.",
         "faction_type":  "PrivateSecurity",
@@ -198,6 +250,17 @@
         "logo":  null
     },
     {
+        "ref":  "2da0657d-62dc-4f6c-8b25-fd88480d0834",
+        "name":  "Dead Saints",
+        "description":  "The Dead Saints are a notorious criminal organization involved in smuggling and drug trafficking throughout the UEE and beyond.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  false,
+        "logo":  null
+    },
+    {
+        "ref":  "8f791865-9252-41d6-afd1-31783fd22674",
         "name":  "Dusters",
         "description":  "A criminal gang based in the Stanton System specializing in mining related crimes such as robbing miners and illegally operating on other people's claims.",
         "faction_type":  "Unlawful",
@@ -207,6 +270,7 @@
         "logo":  null
     },
     {
+        "ref":  "e2382ebf-f6cf-4603-b32d-e110b873c9bb",
         "name":  "Fire Rats",
         "description":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
         "faction_type":  "Unlawful",
@@ -216,6 +280,7 @@
         "logo":  null
     },
     {
+        "ref":  "21c61135-e8ee-459c-8f61-4550b8c02c58",
         "name":  "Foxwell Enforcement",
         "description":  "Founded by retired police officers in Lo, Corel system, Foxwell Enforcement provides low-cost security consultancy to those who need it most. The company hoped this altruism would lead to financial reward, but instead they’ve been forced to cut corners and loosen hiring practices to survive. Many companies still hire Foxwell because they’re affordable, but their low wages makes it hard to retain skilled security contractors.",
         "faction_type":  "Lawful",
@@ -225,6 +290,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_foxwellenforcement.tif"
     },
     {
+        "ref":  "6468bbc3-d76c-4af5-a8df-57048aed7c8b",
         "name":  "Frontier Fighters",
         "description":  null,
         "faction_type":  "Unlawful",
@@ -234,6 +300,17 @@
         "logo":  null
     },
     {
+        "ref":  "66179ed2-c685-4df1-a3a4-e2a7a2da2df0",
+        "name":  "FTL Courier",
+        "description":  "<= PLACEHOLDER =>",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  null
+    },
+    {
+        "ref":  "9f89edc0-441b-4f40-a502-df12ebf3f1eb",
         "name":  "Headhunters",
         "description":  "One of the oldest gangs in the Pyro System, the Headhunters have earned themselves a reputation for being ruthless and respected. Unlike many outlaws, when the Headhunters strike a deal they're known for keeping their word. Especially if they promise to kill someone. They are currently seeking to wrest control of Ruin Station away from XenoThreat.",
         "faction_type":  "Unlawful",
@@ -243,6 +320,17 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/Branding_Headhunters_Icon_1x1.tif"
     },
     {
+        "ref":  "88bac9c7-0986-4945-8b72-c83657a1c8b9",
+        "name":  "Hockrow Agency",
+        "description":  "Formed by a group of former Advocacy Agents dissatisfied with the corrupt Messer regime, this investigation firm has built their reputation around refusing to back down no matter where the case leads, tackling everything from corrupt government officials to powerful criminal syndicates.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  null
+    },
+    {
+        "ref":  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b",
         "name":  "Horizon",
         "description":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
         "faction_type":  "Unlawful",
@@ -252,6 +340,7 @@
         "logo":  null
     },
     {
+        "ref":  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8",
         "name":  "Hurston Dynamics",
         "description":  "With a history stretching back over five hundred years, Hurston Dynamics is noteworthy for being not only one of the oldest continuously-operated family businesses in the Empire, but more recently for owning its own planet in the Stanton system. Over the course of fifteen generations of Hurstons, the company made its fortune selling a wide range of weapons to the military and civilians. In addition, Hurston Dynamics produces many of the refined materials and components that other weapon manufacturers rely on.",
         "faction_type":  "Lawful",
@@ -261,6 +350,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_hurstondynamics.tif"
     },
     {
+        "ref":  "d6810f9d-7d39-414f-b2e6-3a641add15cb",
         "name":  "Hurston Security",
         "description":  "As Hurston Dynamics continued to expand their manufacturing operations in the 25th century, it became necessary to hire more security personnel to protect valuable stock, monitor employee safety, and guard shipments. Rather than shoulder the continued expense of outsourcing, Hurston would create an internal security force to take over these duties. When Hurston acquired the rights to Stanton I in 2865, it was only natural for their own security personnel to take over the responsibility of ensuring the peace and safety of the planet. A common sight on the streets of Lorville, members of Hurston Security are an imposing presence able to quickly respond when the need arises.",
         "faction_type":  "PrivateSecurity",
@@ -270,6 +360,27 @@
         "logo":  null
     },
     {
+        "ref":  "a9ab3e4f-30a3-4816-a1dd-4df51fd6678c",
+        "name":  "InterSec Defense Solutions",
+        "description":  "This top-of-the-line defense contractor has a long history of working with the UEE military on a variety of operations.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_intersec.tif"
+    },
+    {
+        "ref":  "cfe06ba5-968d-4e27-b738-7cc7abfb511f",
+        "name":  "Klescher Rehabilitation Facilities",
+        "description":  "Klescher Rehabilitation Facilities is a private corrections provider who's committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_klesherrehabfacility.tif"
+    },
+    {
+        "ref":  "d67aa7d9-9948-4903-b162-e71869cae4e8",
         "name":  "Klescher Rehabilitation Facilities",
         "description":  "Klescher Rehabilitation Facilities is a private corrections provider who's committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
         "faction_type":  "LawEnforcement",
@@ -279,6 +390,7 @@
         "logo":  null
     },
     {
+        "ref":  "5a27ef3a-55c4-4822-b3f1-6506097d21de",
         "name":  "Ling Family Hauling",
         "description":  "Founded by Davi Ling, Ling Family Hauling has been making a name for itself delivering packages and hauling shipments in the greater Crusader area. An experienced hauling pilot with over 30 years of experience, Davi decided to start his own shipping company in Crusader in order to spend more time with his family and less time flying.",
         "faction_type":  "Lawful",
@@ -288,6 +400,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_lingfamily.tif"
     },
     {
+        "ref":  "a04f2ed1-9e2b-4a31-abd3-a963e09e021f",
         "name":  "microTech",
         "description":  "Ubiquitous around the Empire, microTech and their range of electronics, datapads, mobile interfaces, handheld sensors and computer software upgrades for starships are used daily by almost everyone. Their line of mobiGlas personal computers have become an integral part of daily life for millions of people. Additionally, the company purchased the rights to planet Stanton IV and use the icy world as their current headquarters.",
         "faction_type":  "Lawful",
@@ -297,6 +410,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_microtech.tif"
     },
     {
+        "ref":  "705c3888-7126-48d7-8a7e-e1f5c76e0c3c",
         "name":  "Miles Eckhart",
         "description":  "Founded by Army veteran Miles Eckhart, Eckhart Security offers a wide variety of mercenary services across multiple systems - from security escorts, to defensive outpost deployments, to theft prevention and recovery. With over two decades of experience, Eckhart Security has earned itself a reputation for taking on the jobs that other security firms would shy away from.",
         "faction_type":  "Lawful",
@@ -306,6 +420,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_eckhart_a_diff.tif"
     },
     {
+        "ref":  "9e304047-923c-4c8a-968b-20a40136bf8f",
         "name":  "MT Protection Services",
         "description":  "When the city of New Babbage was first designed, microTech had hoped that they would be able to use advanced monitoring systems combined with automatic response units to handle most security issues that would arise. Unfortunately, as the city flourished so to did criminal elements looking to take advantage of the growing wealth and affluence there.  To more efficiently deal with this growing criminal trend, in 2891 MT Protection Services was formed. While they still rely heavily on tech and remote monitoring, MT Protection Services employs a small force of security professionals who are able to deal with matters requiring a more hands on approach.",
         "faction_type":  "PrivateSecurity",
@@ -315,6 +430,7 @@
         "logo":  null
     },
     {
+        "ref":  "3ea7569e-c92f-4874-8ffa-12f0338e58b7",
         "name":  "Nine Tails",
         "description":  "A criminal organization that has been gaining a larger foothold in the Stanton System from its base of operations, the infamous Grim HEX station near Crusader. They are organized and ruthless, but are willing to share the wealth as long as other outlaws contract with them.",
         "faction_type":  "Unlawful",
@@ -324,6 +440,17 @@
         "logo":  null
     },
     {
+        "ref":  "d84f1767-e406-448a-a413-9a526350c83f",
+        "name":  "Northrock Service Group",
+        "description":  "Dedicated to sourcing only the most qualified, trained personnel, Northrock has a proven track record of providing the highest level of protection to their exclusive clientele. Started primarily as bodyguard service, Northrock has expanded their operations to also offer bounty hunting and mercenary services. Many police forces and corporations have come to trust Northrock to handle more difficult cases that they might not otherwise have the resources to deal with.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_northrock.tif"
+    },
+    {
+        "ref":  "dd2db9b4-a41a-4aa0-bb6b-6c75c0c078b1",
         "name":  "Outlaws",
         "description":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
         "faction_type":  "Unlawful",
@@ -333,6 +460,7 @@
         "logo":  null
     },
     {
+        "ref":  "df6de824-9f7b-44d5-a98b-d6a099970b5f",
         "name":  "Rayari Incorporated",
         "description":  "Rayari Incorporated is a Human research company that specializes in agriculture and bio-engineering. Founded in 2803, it first came to prominence when the founders recreated a complete line of plants from the genetic code of ones indigenous to the then recently-massacred planet Garron II. In 2863, the company expanded into social engineering, creating large arcologies such as Reza's Landing designed for planets with hostile environments. The company maintains many labs throughout the United Empire of Earth (UEE).",
         "faction_type":  "Lawful",
@@ -342,6 +470,17 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_rayari_diff.tif"
     },
     {
+        "ref":  "aa5f0bf8-f36f-423a-b9dd-73084139db23",
+        "name":  "Red Wind Linehaul",
+        "description":  "Red Wind Linehaul prides itself on its fleet of experienced pilots and contractors, many of who are Naval veterans, that is able to provide service to sectors other companies may shy away from. Because they don't restrict pick up and delivery locations, they have carved a unique niche for themselves in the competitive world of shipping as a company willing to deliver to locations that others won't.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_redwind.tif"
+    },
+    {
+        "ref":  "3c9a42a9-a986-494f-b724-4d74415f6016",
         "name":  "Rough & Ready",
         "description":  "In a play off of the popular Rest & Relax stations found throughout the UEE, this gang has established itself by running the largest fuel operations in Pyro. While their prices may not be fair, you can at least count on them having fuel and services on offer. Individuals who cross them often find life in Pyro much harder than it already was.",
         "faction_type":  "Unlawful",
@@ -351,6 +490,7 @@
         "logo":  null
     },
     {
+        "ref":  "d7e05124-92df-4929-804a-d7a1b0fbfd93",
         "name":  "Ruto",
         "description":  "One of the best known criminal fixers in the Empire, the true identity of Ruto remains a complete mystery. Only appearing as a hologram of the former Imperator, Kelos Costigan, Ruto manages a vast network of criminal activity, connections, and knowledge for their clients.",
         "faction_type":  "Unlawful",
@@ -360,6 +500,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_ruto.tif"
     },
     {
+        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
         "name":  "Security",
         "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
         "faction_type":  "PrivateSecurity",
@@ -369,6 +510,17 @@
         "logo":  null
     },
     {
+        "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
+        "name":  "Security",
+        "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "faction_type":  "PrivateSecurity",
+        "default_reaction":  "Neutral",
+        "able_to_arrest":  false,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
+        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
         "name":  "Security",
         "description":  null,
         "faction_type":  "Lawful",
@@ -378,15 +530,7 @@
         "logo":  null
     },
     {
-        "name":  "Security",
-        "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "faction_type":  "PrivateSecurity",
-        "default_reaction":  "Neutral",
-        "able_to_arrest":  false,
-        "is_lawful":  null,
-        "logo":  null
-    },
-    {
+        "ref":  "04b1380a-c598-4e3d-8ebf-debde07cfe3d",
         "name":  "Shubin Interstellar",
         "description":  "Shubin Interstellar is a massive corporation overseeing thousands of mining sites across dozens of star systems, a varitable army of contractors, and an entire manufacturing division that specializes in producing mining equipment.",
         "faction_type":  "Lawful",
@@ -396,6 +540,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_shubininterstellar.tif"
     },
     {
+        "ref":  "d1a42653-8c65-4d6b-9617-4049ca77d8d8",
         "name":  "Tar Pits",
         "description":  "Known for their namesake Tow And Repair scams, the Tar Pits run illegal salvage operations, stripping distressed or otherwise unattended ships before their rightful owners can reclaim them. By selling these stolen parts to other criminal groups, the Tar Pits have managed to maintain good relationships with the other larger gangs in Stanton.",
         "faction_type":  "Unlawful",
@@ -405,6 +550,17 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_tarpits.tif"
     },
     {
+        "ref":  "7e716658-9c65-4ebe-819e-8fffd8390e6a",
+        "name":  "Tecia \"Twitch\" Pacheco",
+        "description":  "After her military service ended, Tecia Pacheco transitioned to security work with BlacJac Security for several years until she suffered severe injuries sustained on the job. Left without employment but with a very specialized skillset, Twitch has used her knowledge of the criminal underworld of ArcCorp to operate her own illegal enterprise.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  false,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_teciapacheco.tif"
+    },
+    {
+        "ref":  "a676b2d5-0e88-4b0a-bce5-948367830b9e",
         "name":  "UEE Advocacy",
         "description":  "he Advocacy is an inter-system police force overseeing law enforcement in the UEE. Advocacy agents are authorized pursue crimes across jurisdictions within the empire, and often coordinate large scale investigations targeting some of Humanity's worst offenders.",
         "faction_type":  "LawEnforcement",
@@ -414,6 +570,7 @@
         "logo":  null
     },
     {
+        "ref":  "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd",
         "name":  "UEE Navy",
         "description":  "The largest branch and public face of the UEE military. The Navy is responsible for transportation of military resources, maintaining the borders, waging security operations throughout the UEE, and are currently engaged in a war against the Vanduul.",
         "faction_type":  "LawEnforcement",
@@ -423,6 +580,17 @@
         "logo":  null
     },
     {
+        "ref":  "7b2fbef9-bf19-4308-ab07-3cbf4fbc4d97",
+        "name":  "Unified Distribution Management",
+        "description":  "Winners of microTech's 2945 Young Innovators grant, Yan Linfeld and Kalee Ora developed Unified Distribution Management (UDM) as a software solution to improve shipping routes but soon transformed it into a full-fledged company handling most of the local deliveries on microTech and its moons thanks to its timely service that edged out most of the competition.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_udm.tif"
+    },
+    {
+        "ref":  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
         "name":  "Vanduul",
         "description":  "[PH] Vanduul Description",
         "faction_type":  "Unlawful",
@@ -432,6 +600,7 @@
         "logo":  null
     },
     {
+        "ref":  "95761a82-18f9-4e25-ba33-d4c47c689324",
         "name":  "Vaughn",
         "description":  "Investigated by authorities in connection to dozens of assassinations, the identity of this shadowy individual or group of individuals known as Vaughn remains unknown. Vaughn keeps clients and contractors completely separate and deals with both only through spectrum, which has made it extremely difficult for law enforcement to learn the identity of the person(s) behind this broker service.",
         "faction_type":  "Unlawful",
@@ -441,6 +610,7 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_vaughn.tif"
     },
     {
+        "ref":  "c088786f-db63-4598-9c1b-a71ff4831f79",
         "name":  "Wallace Klim",
         "description":  "Formerly a chemical engineering instructor at the University of Rhetor, Wallace Klim is now one of the top producers of high-end drugs in the Stanton System. Is known to frequently partake in his own product which speaks to its quality.",
         "faction_type":  "Unlawful",
@@ -450,6 +620,17 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_wallaceklim.tif"
     },
     {
+        "ref":  "5f442fdd-15cc-4f62-bd10-fce2023f4d0c",
+        "name":  "Wikelo Emporium",
+        "description":  "After many successful cycles at the head of a fabrication souli, Wikelo found themselves lacking in the drive that had defined their early career. In a shock to many, the Banu decided to divest from their souli early and follow their true passion - collecting and fabricating unique items and vehicles. Drawn to manufacturing-style of Humans, it wasn't long before Wikelo had established a remote trading shop inside Human-space, Wikelo Emporium, where they could grow their collection and barter with those who shared their passions.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_wikelo_diff.tif"
+    },
+    {
+        "ref":  "35b0d342-8d8a-4b0e-adda-fc85cae49afd",
         "name":  "Wildstar Racing",
         "description":  "Wildstar Racing started as a small Spectrum channel where racing enthusiasts would share vids of themselves racing on their favorite local tracks. Since then, they have grown into a sanctioned racing organization specializing in rally tracks and are widely recognized as an affordable proving ground for amateur racers to work towards competing in higher-profile leagues.",
         "faction_type":  "Lawful",
@@ -459,6 +640,17 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_wildstarracing.tif"
     },
     {
+        "ref":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
+        "name":  "XenoThreat",
+        "description":  "XenoThreat believes that the UEE's continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
+        "faction_type":  null,
+        "default_reaction":  null,
+        "able_to_arrest":  false,
+        "is_lawful":  false,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Branding_XenoThreat_Icon_1x1.tif"
+    },
+    {
+        "ref":  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
         "name":  "XenoThreat",
         "description":  "XenoThreat believes that the UEE's continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
         "faction_type":  "Unlawful",

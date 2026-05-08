@@ -30,7 +30,47 @@
                                        "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
                                        "a1aac2a9-048d-43da-ba8e-5b090901e845",
                                        "ea78052a-11b2-484e-a7ee-d19ed906a037"
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                     "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                     "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                     "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                     "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                    "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                    "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                    "3dc64c8c-8784-43e0-a003-3230b3ae680e"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "20155793-a24c-48fc-a986-26b442145858",
+                                                                     "c106984b-73fe-4e6b-aa72-65c14443e171"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                    "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                     "ab0b493c-9faf-401e-a27b-a81998bf07a5"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "6fc6df10-0267-4097-8233-67983e594669",
+                                                                    "ba11589f-a278-44e9-9bd9-79552832fc94"
+                                                                ]
+                                           }
+                                       ]
     },
     {
         "ref":  "7e4d7293-c663-46cc-97d8-95a6b9eabe24",
@@ -53,7 +93,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "22c4672e-252d-4aab-91b3-ca1838c377a3",
@@ -90,7 +133,47 @@
                                        "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
                                        "a1aac2a9-048d-43da-ba8e-5b090901e845",
                                        "ea78052a-11b2-484e-a7ee-d19ed906a037"
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                     "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                     "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                     "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                     "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                    "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                    "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                    "3dc64c8c-8784-43e0-a003-3230b3ae680e"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "20155793-a24c-48fc-a986-26b442145858"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "ca8dcc9f-35d9-4652-b270-7db91ccd25a8"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                     "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                     "ab0b493c-9faf-401e-a27b-a81998bf07a5"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                    "6fc6df10-0267-4097-8233-67983e594669",
+                                                                    "ba11589f-a278-44e9-9bd9-79552832fc94"
+                                                                ]
+                                           }
+                                       ]
     },
     {
         "ref":  "4ad3e0d8-5b7a-4f7c-a94c-f74be23b5ab1",
@@ -113,7 +196,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "b004dce7-7956-4661-b37c-db5250560897",
@@ -136,7 +222,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "94f43714-09f8-488e-b7a9-cbc2404fc408",
@@ -165,7 +254,47 @@
                                        "3871740a-f82f-445d-a2e5-8163d1405733",
                                        "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
                                        "a1aac2a9-048d-43da-ba8e-5b090901e845"
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                     "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                     "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                     "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                     "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                    "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                    "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                    "3dc64c8c-8784-43e0-a003-3230b3ae680e"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "20155793-a24c-48fc-a986-26b442145858",
+                                                                     "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                     "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                    "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                    "6fc6df10-0267-4097-8233-67983e594669"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "ab0b493c-9faf-401e-a27b-a81998bf07a5"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "ba11589f-a278-44e9-9bd9-79552832fc94"
+                                                                ]
+                                           }
+                                       ]
     },
     {
         "ref":  "4eb79151-607f-4a67-9e0f-498b6a1b4d35",
@@ -188,7 +317,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "596cdbc9-71a2-4e9a-9461-4e9fe0090bef",
@@ -227,7 +359,38 @@
                                        "a1aac2a9-048d-43da-ba8e-5b090901e845",
                                        "5e079d07-630a-41d5-a314-16381f07e2c3",
                                        "ea78052a-11b2-484e-a7ee-d19ed906a037"
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                     "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                     "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                     "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                     "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                    "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                    "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                    "3dc64c8c-8784-43e0-a003-3230b3ae680e"
+                                                                ]
+                                           },
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "20155793-a24c-48fc-a986-26b442145858",
+                                                                     "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                     "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                                                                    "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                                                                    "6fc6df10-0267-4097-8233-67983e594669"
+                                                                ]
+                                           }
+                                       ]
     },
     {
         "ref":  "99d11f16-c2a6-4a5a-ab53-13c26a193c2e",
@@ -250,7 +413,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "5b5e4ff5-f153-4b56-9f07-987520d3ce62",
@@ -273,7 +439,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "87e3c2af-000c-412f-b4d9-220377908eba",
@@ -302,7 +471,25 @@
                                        "3871740a-f82f-445d-a2e5-8163d1405733",
                                        "4ad4350f-d61a-47c0-809b-78ecba2e4f6b",
                                        "a1aac2a9-048d-43da-ba8e-5b090901e845"
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+                                           {
+                                               "maxPossessionScu":  0.125,
+                                               "commodityRefs":  [
+                                                                     "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                     "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                     "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                     "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                     "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
+                                                                 ],
+                                               "resourceRefs":  [
+                                                                    "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                                                                    "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                                                                    "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
+                                                                    "3dc64c8c-8784-43e0-a003-3230b3ae680e"
+                                                                ]
+                                           }
+                                       ]
     },
     {
         "ref":  "d574e48a-d8bd-47d5-8ffd-1210fea81a31",
@@ -325,7 +512,10 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     },
     {
         "ref":  "0d2e5d5e-a3d3-4a6d-869f-58dc705e7020",
@@ -348,6 +538,9 @@
                                ],
         "prohibitedResourceRefs":  [
 
-                                   ]
+                                   ],
+        "controlledSubstanceClasses":  [
+
+                                       ]
     }
 ]
