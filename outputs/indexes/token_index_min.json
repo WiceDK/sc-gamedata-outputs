@@ -29648,6 +29648,10 @@
         "displayName":  "Aegis Eclipse"
     },
     {
+        "ref":  "33ba66d8-da04-432b-80b8-566bf6301659",
+        "displayName":  "Aegis Sabre Firebird Wikelo War Special"
+    },
+    {
         "ref":  "b6b59889-7226-458e-a6b0-1c9392128a3c",
         "displayName":  "Aegis Gladius"
     },
@@ -29742,6 +29746,10 @@
     {
         "ref":  "f80d39f3-50fc-4fca-ada1-76de4c237e3f",
         "displayName":  "Aegis Vanguard Hoplite"
+    },
+    {
+        "ref":  "8aa6a16e-6c06-4db8-ac6d-165f97bf2565",
+        "displayName":  "Aegis Vanguard Sentinel"
     },
     {
         "ref":  "eaeb562d-d4ac-43bd-a843-e8a6d69fad82",
@@ -29900,6 +29908,10 @@
         "displayName":  "Anvil Terrapin Medic"
     },
     {
+        "ref":  "61cc74dc-fff7-4a1f-b0bf-6f092bcdf023",
+        "displayName":  "Anvil Terrapin Medic Wikelo Savior Special"
+    },
+    {
         "ref":  "881e3879-a186-44da-8b47-1d8f0a846438",
         "displayName":  "Anvil Valkyrie"
     },
@@ -29960,6 +29972,10 @@
         "displayName":  "C.O. Mustang Alpha"
     },
     {
+        "ref":  "439c5671-acad-4eb6-9f09-ba54165d1cb5",
+        "displayName":  "C.O. Mustang CitizenCon 2948 Edition"
+    },
+    {
         "ref":  "973bc147-4422-48a6-99c8-6ff0ead25bdf",
         "displayName":  "C.O. Mustang Beta"
     },
@@ -29984,11 +30000,11 @@
         "displayName":  "C.O. Nomad Teach\u0027s Special"
     },
     {
-        "ref":  "0344b36e-55b4-4e65-ba87-242666a9b9d7",
+        "ref":  "c0b86c69-55ac-4af3-a722-d46282813e91",
         "displayName":  "Crusader A1 Spirit"
     },
     {
-        "ref":  "ab15aacd-89a9-44cf-9df9-256f3050069c",
+        "ref":  "9611b8ed-cc96-4b5c-aa1e-baefe7d5bb1c",
         "displayName":  "Crusader C1 Spirit"
     },
     {
@@ -29998,6 +30014,10 @@
     {
         "ref":  "f203e95e-927c-43b0-947b-e8cb3025d23e",
         "displayName":  "Crusader Intrepid Wikelo Work Special"
+    },
+    {
+        "ref":  "8c23e3f9-b2e6-42a6-92ab-e023f1e0c643",
+        "displayName":  "Crusader C1 Spirit Wikelo Special"
     },
     {
         "ref":  "c8e10f09-38a0-4730-9dd3-eb0a510c9e43",
@@ -30044,6 +30064,22 @@
         "displayName":  "Drake Buccaneer"
     },
     {
+        "ref":  "dc39ca6b-1d76-4db5-9346-356f49954978",
+        "displayName":  "Drake Caterpillar"
+    },
+    {
+        "ref":  "565d8121-50a9-4920-af50-f176caef0431",
+        "displayName":  "Drake Caterpillar Pirate"
+    },
+    {
+        "ref":  "8216faf6-4494-4f9e-83a2-c4e55a4dc67f",
+        "displayName":  "KRF Inmate Transport"
+    },
+    {
+        "ref":  "ca888820-a627-4f5e-927b-426f654e9968",
+        "displayName":  "Drake Caterpillar 2949 Best In Show Edition"
+    },
+    {
         "ref":  "c03e7aef-6411-4e85-9c10-e89862884433",
         "displayName":  "Drake Clipper"
     },
@@ -30058,6 +30094,10 @@
     {
         "ref":  "b58f7735-9454-4a0a-b724-2bc8d61961d7",
         "displayName":  "Drake Cutlass Black"
+    },
+    {
+        "ref":  "4484a044-bbd5-e716-736a-2dda30a3efa4",
+        "displayName":  "Cutlass Black PYAM Exec"
     },
     {
         "ref":  "d3ce093d-0ae9-4186-bed4-92c66eeea0cd",
@@ -30102,6 +30142,10 @@
     {
         "ref":  "b616b3ad-123c-40f2-80bd-b8f4109633aa",
         "displayName":  "Drake Golem"
+    },
+    {
+        "ref":  "310be6d1-ea0f-45d8-87b0-0fc9f8aa1530",
+        "displayName":  "Drake Golem Wikelo Work Special"
     },
     {
         "ref":  "ea2c22bc-c2f0-42dc-967d-3300f9232f91",
@@ -30180,7 +30224,7 @@
         "displayName":  "Syulen PYAM Exec"
     },
     {
-        "ref":  "e39a425c-4d60-4cad-be4b-34a7aafb0c38",
+        "ref":  "3a7bfe4f-7a6c-4818-aba8-0f1019c3a647",
         "displayName":  "Grey\u0027s Shiv"
     },
     {
@@ -30296,12 +30340,36 @@
         "displayName":  "MISC Prospector"
     },
     {
+        "ref":  "4e6f4187-6b7e-4c67-93bf-a41658922ba6",
+        "displayName":  "MISC Prospector Wikelo Work Special"
+    },
+    {
         "ref":  "cec2111b-4c71-4968-8035-634de6561cf3",
         "displayName":  "Mirai Razor"
     },
     {
+        "ref":  "b17ef3ab-9518-40fd-803f-c2468175ccf6",
+        "displayName":  "Mirai Razor EX"
+    },
+    {
+        "ref":  "203cb135-4f12-4a23-bd53-30910134bac8",
+        "displayName":  "Mirai Razor LX"
+    },
+    {
         "ref":  "3c9af040-d919-4afc-b768-45821a5b913c",
         "displayName":  "MISC Reliant Kore"
+    },
+    {
+        "ref":  "c6cfa4d9-e794-4bb6-8da9-54cb779ea109",
+        "displayName":  "MISC Reliant Mako"
+    },
+    {
+        "ref":  "e32d125f-a3f8-4bc7-b0e6-cb7edf22b7ac",
+        "displayName":  "MISC Reliant Sen"
+    },
+    {
+        "ref":  "c2956880-b82a-42d0-962b-eb736dac1536",
+        "displayName":  "MISC Reliant Tana"
     },
     {
         "ref":  "13a02a6d-7d67-4d22-8530-d4d2c8443f66",
@@ -30340,12 +30408,20 @@
         "displayName":  "Mirai Guardian"
     },
     {
+        "ref":  "e07d46e4-92cd-462d-8cda-e17b5051a9eb",
+        "displayName":  "Mirai Guardian Wikelo War Special"
+    },
+    {
         "ref":  "aaa0cdcd-907c-4533-b3fc-181ede06076d",
         "displayName":  "Mirai Guardian MX"
     },
     {
         "ref":  "57ea2eaa-c495-43ae-bc96-c6f53a8e46ef",
         "displayName":  "Mirai Guardian MX Wikelo War Special"
+    },
+    {
+        "ref":  "e98521b6-ea2f-4c10-9050-abc29d89d0e8",
+        "displayName":  "Mirai Guardian QI"
     },
     {
         "ref":  "48415834-ac12-4c28-ad01-7c210f30c2da",
@@ -30424,12 +30500,24 @@
         "displayName":  "Origin X1"
     },
     {
+        "ref":  "b416dbbf-53f2-489e-a9dc-456286aa6c70",
+        "displayName":  "Origin X1 Force"
+    },
+    {
+        "ref":  "58e25524-8bd3-450f-8442-7b58fdfc8a50",
+        "displayName":  "Origin X1 Velocity"
+    },
+    {
         "ref":  "4559fbe2-55ab-a5a8-4e77-75106cb96ab7",
         "displayName":  "RSI Apollo Medivac"
     },
     {
         "ref":  "478bfc10-9577-ac19-262a-d40a93c3fcb2",
         "displayName":  "RSI Apollo Triage"
+    },
+    {
+        "ref":  "752f2ea8-159a-4a58-b4af-fd79054b3e2f",
+        "displayName":  "RSI Apollo Triage Wikelo Sneak Special"
     },
     {
         "ref":  "c984fac2-06c0-4776-8f93-07ebd2c26ad3",
@@ -30528,7 +30616,7 @@
         "displayName":  "RSI Salvation"
     },
     {
-        "ref":  "80cea95b-ea34-46d0-9f03-389f3c79b040",
+        "ref":  "edc1421b-59ee-4233-b292-abc2c3ea0a1a",
         "displayName":  "RSI Scorpius"
     },
     {
