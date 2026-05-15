@@ -196,19 +196,39 @@
         "displayName":  "Harkin"
     },
     {
-        "ref":  "8b1915bf-22ce-473d-9c1d-727423d59c0e",
+        "ref":  "cb8b11c8-b300-4ddd-9280-6f9b7e2dff10",
         "displayName":  "RN-7s"
+    },
+    {
+        "ref":  "a5ce869d-6099-4a0b-8005-04ae6535bc49",
+        "displayName":  "Gargant"
+    },
+    {
+        "ref":  "dc2ae978-af25-4243-bff0-404f327b41ea",
+        "displayName":  "Bonito"
     },
     {
         "ref":  "6b44bba8-ab96-471d-93de-d57a4907487b",
         "displayName":  "CR-60"
     },
     {
-        "ref":  "9fdf862e-140a-4684-862d-1957a99f587d",
+        "ref":  "da7b5a4d-582a-44d4-8afb-bf22d586780d",
+        "displayName":  "Nemec"
+    },
+    {
+        "ref":  "c9ecaf89-360a-42a9-b023-acc6f61d02d3",
+        "displayName":  "Rumford"
+    },
+    {
+        "ref":  "780c4bd3-847e-4861-8902-ec5054a671c7",
+        "displayName":  "GSX-EX"
+    },
+    {
+        "ref":  "a9994d83-2685-4542-bf08-5b9b2005e85a",
         "displayName":  "GSX-RF"
     },
     {
-        "ref":  "19e17c79-b73b-4a8c-b0a8-6ed4d134ffdc",
+        "ref":  "a0db0a51-dc2f-4c33-be3a-5949aac4a384",
         "displayName":  "GSX-HP"
     },
     {
@@ -1289,15 +1309,23 @@
     },
     {
         "ref":  "b190d5a9-90da-4ceb-a262-cb789dd17d4f",
-        "displayName":  "Ace Interceptor Flight Suit"
+        "displayName":  "Ace Interceptor Racing Flight Suit"
     },
     {
         "ref":  "e02ff738-464c-40e4-b140-fae0c0a7b2e0",
         "displayName":  "Advocacy Interceptor Helmet"
     },
     {
-        "ref":  "c92273b0-2d7f-41b3-9fdd-af07e190a0f3",
+        "ref":  "7abd6c08-3755-4a2a-ba3f-cb3019c2f213",
         "displayName":  "Ace Interceptor Helmet"
+    },
+    {
+        "ref":  "905ba346-0202-4ee4-853e-cfdb2350b195",
+        "displayName":  "Metamaterial Test #146"
+    },
+    {
+        "ref":  "8fbead8a-4e5b-4d63-bb80-442151e29094",
+        "displayName":  "Metamaterial Test #152"
     },
     {
         "ref":  "3e59ed2b-93c3-4043-bac9-15c68212fb5d",
@@ -1766,6 +1794,10 @@
     {
         "ref":  "82ab3c96-dfcc-4d53-8589-8a489a96cced",
         "displayName":  "Covalex Hat"
+    },
+    {
+        "ref":  "d029bbf7-378a-4c2d-84ff-fb765183059a",
+        "displayName":  "DefenseCon \u002756 Hat"
     },
     {
         "ref":  "a8e32536-61af-420b-be89-11cacc341da0",
@@ -4117,7 +4149,7 @@
     },
     {
         "ref":  "9a26bc89-a35b-4317-adfd-ec4a285d7e72",
-        "displayName":  "A23 Helmet Woodland"
+        "displayName":  "A23 Flight Helmet Woodland"
     },
     {
         "ref":  "305c8b36-61a3-4065-b514-199719de9ac0",
@@ -5102,6 +5134,10 @@
     {
         "ref":  "57b6c0d2-23a4-4962-9712-ea488182b030",
         "displayName":  "K7 Pants Olive"
+    },
+    {
+        "ref":  "15d804c1-9610-488a-97f3-7ea6033a4064",
+        "displayName":  "DefenseCon \u002756 Pants"
     },
     {
         "ref":  "983bef68-e1cf-407c-af9e-f3913c870282",
@@ -6804,6 +6840,10 @@
         "displayName":  "QV Secure Storage Keycard"
     },
     {
+        "ref":  "439b69cb-91f3-4927-9b84-6c47d1d1fa72",
+        "displayName":  "SB-Station \u0027Cargo Deck A\u0027 Keycard"
+    },
+    {
         "ref":  "c2665234-c23e-4c30-976c-af29db9a4dbd",
         "displayName":  "Kinolo Shoes"
     },
@@ -8348,6 +8388,10 @@
         "displayName":  "Lamont Undersuit"
     },
     {
+        "ref":  "117397bf-e302-4c1b-a901-8d42df8951ea",
+        "displayName":  "Lamont Xy\u0027kara Undersuit"
+    },
+    {
         "ref":  "d2c7edff-63ae-4b69-971d-a4a03db6dfc8",
         "displayName":  "Lamont Corvus Undersuit"
     },
@@ -8440,6 +8484,10 @@
         "displayName":  "Monde Arms Hiro"
     },
     {
+        "ref":  "f2bb659a-2f68-494a-b28f-328b76513dc5",
+        "displayName":  "Monde Arms Purgatory Camo"
+    },
+    {
         "ref":  "5e798b5e-17a2-4e77-9585-863d6d65c8c7",
         "displayName":  "Monde Core"
     },
@@ -8470,6 +8518,10 @@
     {
         "ref":  "992f3418-4a1b-42f8-b56c-d90bfc576472",
         "displayName":  "Monde Core Hiro"
+    },
+    {
+        "ref":  "cc40d00a-15f4-437d-b0ba-1ba88289dd07",
+        "displayName":  "Monde Core Purgatory Camo"
     },
     {
         "ref":  "f8b0fa46-02ef-45fb-ab05-d8e1e7306e0a",
@@ -8504,6 +8556,10 @@
         "displayName":  "Monde Helmet Hiro"
     },
     {
+        "ref":  "aa369676-fd5d-48cf-b8fc-f20dd89faec0",
+        "displayName":  "Monde Helmet Purgatory Camo"
+    },
+    {
         "ref":  "3f638756-9a20-4e2c-a6cb-1bd7118ca54c",
         "displayName":  "Monde Legs"
     },
@@ -8534,6 +8590,10 @@
     {
         "ref":  "bcbece46-cb89-409c-85fc-714b3b763ddf",
         "displayName":  "Monde Legs Hiro"
+    },
+    {
+        "ref":  "7f6f828f-1508-4e01-bbad-a60b59b7c24d",
+        "displayName":  "Monde Legs Purgatory Camo"
     },
     {
         "ref":  "ff40b10e-b358-4e20-8036-780d9c11984e",
@@ -8848,6 +8908,18 @@
         "displayName":  "Star Kitten Racing Flight Suit"
     },
     {
+        "ref":  "3cdddf2e-f467-4ef9-9860-bf573a2c5e58",
+        "displayName":  "WhiteHot Racing Flight Suit"
+    },
+    {
+        "ref":  "da759ccf-9532-421a-b728-cb89d2050688",
+        "displayName":  "BlackFire Racing Flight Suit"
+    },
+    {
+        "ref":  "5ed3e5f5-2fe5-480b-8018-03e3cb2f3605",
+        "displayName":  "BlueFlame Racing Flight Suit"
+    },
+    {
         "ref":  "e6511d9a-03ab-41c6-8d1f-5f8d2b4b879d",
         "displayName":  "Fortuna Racing Flight Suit"
     },
@@ -8870,6 +8942,18 @@
     {
         "ref":  "6e7052d5-3cdc-4678-8d84-e604529b4708",
         "displayName":  "Fortuna Racing Helmet"
+    },
+    {
+        "ref":  "73bec6ec-6618-42f7-bbb5-805f5052b6e9",
+        "displayName":  "WhiteHot Racing Helmet"
+    },
+    {
+        "ref":  "d175c150-9207-42b2-9d0d-c340cc81dcdb",
+        "displayName":  "BlackFire Racing Helmet"
+    },
+    {
+        "ref":  "7850121e-2968-44c7-82b3-65c51e20d34e",
+        "displayName":  "BlueFlame Racing Helmet"
     },
     {
         "ref":  "533c9f98-0bed-4310-9ffc-ec708e6ccd0c",
@@ -9128,6 +9212,26 @@
         "displayName":  "Second Tevarin War White Dress Jacket"
     },
     {
+        "ref":  "e63e1681-18f3-40fa-897c-cd1bb59c91de",
+        "displayName":  "Bobcat Bomber Jacket"
+    },
+    {
+        "ref":  "46e11aca-8f6d-4885-856f-4281efc30289",
+        "displayName":  "Bobcat Bomber Jacket Tarmac"
+    },
+    {
+        "ref":  "3b12548a-5ecb-4815-8c9d-0a74af122623",
+        "displayName":  "Bobcat Bomber Jacket Nelson"
+    },
+    {
+        "ref":  "8087522a-f116-4ad5-a4af-2f35807b9179",
+        "displayName":  "Bobcat Bomber Jacket Diesel"
+    },
+    {
+        "ref":  "704dc358-d118-4836-911c-f7e1eb6a1401",
+        "displayName":  "Bobcat Bomber Jacket Classic"
+    },
+    {
         "ref":  "e3512eb5-cfae-476f-8096-35656ad7fdc5",
         "displayName":  "Falston Jumpsuit"
     },
@@ -9217,19 +9321,19 @@
     },
     {
         "ref":  "c7f1c9e8-1265-406d-a982-c9b6b729eed5",
-        "displayName":  "OMNI-AFS-Sapphire Helmet"
+        "displayName":  "OMNI-AFS-Sapphire Flight Helmet"
     },
     {
         "ref":  "750044d5-4c9a-4d29-bf64-35a3b6de20c9",
-        "displayName":  "OMNI-AFS-Sapphire Helmet Slate"
+        "displayName":  "OMNI-AFS-Sapphire Flight Helmet Slate"
     },
     {
         "ref":  "7c70a54a-f79e-452c-a222-9fab7069f8f0",
-        "displayName":  "OMNI-AFS-Sapphire Helmet Jungle"
+        "displayName":  "OMNI-AFS-Sapphire Flight Helmet Jungle"
     },
     {
         "ref":  "1e30cb91-ac22-49cf-89e2-15e5dab351a3",
-        "displayName":  "OMNI-AFS-Sapphire Helmet Alpine"
+        "displayName":  "OMNI-AFS-Sapphire Flight Helmet Alpine"
     },
     {
         "ref":  "7a2b3ce7-6daa-44d7-9410-b0265c1371ab",
@@ -9249,7 +9353,7 @@
     },
     {
         "ref":  "8637f2bc-30aa-493e-9880-fa2cc3810d66",
-        "displayName":  "Sol-III Helmet Aviator"
+        "displayName":  "Sol-III Flight Helmet Aviator"
     },
     {
         "ref":  "4def8d44-c340-4c66-a837-38a3cf0fa45f",
@@ -9282,6 +9386,10 @@
     {
         "ref":  "5856406c-ec9e-45fb-ae44-755f3c133156",
         "displayName":  "Malenky T-Shirt Skullsplitter"
+    },
+    {
+        "ref":  "1cf2afeb-8eb8-4068-9438-db1028331e66",
+        "displayName":  "DefenseCon \u002756 T-Shirt"
     },
     {
         "ref":  "dcf7ce46-6163-4684-96cc-5aa6e62318cd",
@@ -9925,15 +10033,15 @@
     },
     {
         "ref":  "d2585ecb-f52e-43fd-b4dd-3cf2bd09ca9a",
-        "displayName":  "Giocoso Helmet Ivory"
+        "displayName":  "Giocoso Racing Helmet Ivory"
     },
     {
         "ref":  "fbb9f356-b016-4d2a-9a63-e20973d31e5b",
-        "displayName":  "Giocoso Helmet Azure"
+        "displayName":  "Giocoso Racing Helmet Azure"
     },
     {
         "ref":  "d674a92d-bcc0-4901-b5b1-3e335fdd9c38",
-        "displayName":  "Giocoso Helmet Obsidian"
+        "displayName":  "Giocoso Racing Helmet Obsidian"
     },
     {
         "ref":  "eff4fdff-304b-4879-aba0-a2249f76bdc1",
@@ -11376,6 +11484,10 @@
         "displayName":  "Testudo Arms Turfwar"
     },
     {
+        "ref":  "8b26ce90-6d22-4d50-8828-b2b37a0491d4",
+        "displayName":  "Testudo Arms Purgatory Camo"
+    },
+    {
         "ref":  "6300f7b8-e8af-487c-8df3-4f73929aa9a0",
         "displayName":  "Testudo Arms Clanguard"
     },
@@ -11406,6 +11518,10 @@
     {
         "ref":  "5f7161bc-36a1-443e-aace-59ff91ab8a06",
         "displayName":  "Testudo Backpack Turfwar"
+    },
+    {
+        "ref":  "91d97a2d-2b19-48a9-9246-b64567fe0e88",
+        "displayName":  "Testudo Backpack Purgatory Camo"
     },
     {
         "ref":  "a5327582-23fb-43db-a5ec-f3961e1761a3",
@@ -11440,6 +11556,10 @@
         "displayName":  "Testudo Core Turfwar"
     },
     {
+        "ref":  "8ba85453-091a-4471-8be5-6bbc75487a33",
+        "displayName":  "Testudo Core Purgatory Camo"
+    },
+    {
         "ref":  "6384133d-4fc0-49e5-9481-0e5160c0e383",
         "displayName":  "Testudo Core Clanguard"
     },
@@ -11472,6 +11592,10 @@
         "displayName":  "Testudo Helmet Turfwar"
     },
     {
+        "ref":  "bc29c9de-ceda-43da-a03d-d14f0e2cc113",
+        "displayName":  "Testudo Helmet Purgatory Camo"
+    },
+    {
         "ref":  "e5e93d7e-28e6-487b-8920-38734a27d071",
         "displayName":  "Testudo Helmet Clanguard"
     },
@@ -11502,6 +11626,10 @@
     {
         "ref":  "2d05b029-1dfa-4d6b-885d-ab6eee86a237",
         "displayName":  "Testudo Legs Turfwar"
+    },
+    {
+        "ref":  "93f14d45-b05f-4163-bb90-8a5f1f80043b",
+        "displayName":  "Testudo Legs Purgatory Camo"
     },
     {
         "ref":  "d9602c31-f133-44bc-a749-3e6bf77c5815",
@@ -11541,15 +11669,15 @@
     },
     {
         "ref":  "57386b72-68c8-4d08-ab87-2e2c9e1380e5",
-        "displayName":  "Calva Helmet"
+        "displayName":  "Calva Racing Helmet"
     },
     {
         "ref":  "96a017e7-fb9c-4098-8180-4bb8575839e1",
-        "displayName":  "Calva Helmet Year of the Rat"
+        "displayName":  "Calva Racing Helmet Year of the Rat"
     },
     {
         "ref":  "7440e342-3c54-4a15-93f5-7cf041bbb57c",
-        "displayName":  "Calva Helmet Red Festival"
+        "displayName":  "Calva Helmet Red Racing Festival"
     },
     {
         "ref":  "127fb2c6-6566-4e17-8e6c-ce214e2ec408",
@@ -11565,7 +11693,7 @@
     },
     {
         "ref":  "572a21b6-4c39-4311-89af-93bbfefbef6a",
-        "displayName":  "Antium Arms Maroon"
+        "displayName":  "Antium Helmet Jet"
     },
     {
         "ref":  "699b532b-69bc-4c1f-885f-7a82ff97e3c1",
@@ -11617,7 +11745,7 @@
     },
     {
         "ref":  "4ddd8283-1b5c-422b-825d-5dee1e776fcf",
-        "displayName":  "Antium Helmet Jet"
+        "displayName":  "Antium Core Jet"
     },
     {
         "ref":  "9a87b121-6acb-40c8-a40e-303e2f4d2fe4",
@@ -14261,115 +14389,115 @@
     },
     {
         "ref":  "57e8714c-7357-4365-9110-e43a31233e69",
-        "displayName":  "Odyssey II Helmet Alpha"
+        "displayName":  "Odyssey II Racing Helmet Alpha"
     },
     {
         "ref":  "c63eada9-f1d9-4217-800a-5f93df5fad6f",
-        "displayName":  "Odyssey II Helmet Red"
+        "displayName":  "Odyssey II Racing Helmet Red"
     },
     {
         "ref":  "97ef1b42-3921-4897-a520-d4e4b1900c1c",
-        "displayName":  "Odyssey II Helmet Orange"
+        "displayName":  "Odyssey II Racing Helmet Orange"
     },
     {
         "ref":  "9de3a559-0136-4baf-b2ce-ab7fdda4bec5",
-        "displayName":  "Odyssey II Helmet Yellow"
+        "displayName":  "Odyssey II Racing Helmet Yellow"
     },
     {
         "ref":  "7f7c93da-3b89-45f0-9f46-48af149a3668",
-        "displayName":  "Odyssey II Helmet Green"
+        "displayName":  "Odyssey II Racing Helmet Green"
     },
     {
         "ref":  "d40342c9-3a45-4efb-87a7-52931287b1c2",
-        "displayName":  "Odyssey II Helmet Seagreen"
+        "displayName":  "Odyssey II Racing Helmet Seagreen"
     },
     {
         "ref":  "9b8f5c96-4ad3-4469-b2e2-ec6a1d5a98b9",
-        "displayName":  "Odyssey II Helmet Blue"
+        "displayName":  "Odyssey II Racing Helmet Blue"
     },
     {
         "ref":  "cb35d99c-3477-4a2e-b9a8-d987a6c6e3ff",
-        "displayName":  "Odyssey II Helmet Purple"
+        "displayName":  "Odyssey II Racing Helmet Purple"
     },
     {
         "ref":  "43112e68-7b11-4c73-86ef-43fb9f7df884",
-        "displayName":  "Odyssey II Helmet Violet"
+        "displayName":  "Odyssey II Racing Helmet Violet"
     },
     {
         "ref":  "0661d322-2761-4c0d-8aca-14490ec07975",
-        "displayName":  "Odyssey II Helmet White"
+        "displayName":  "Odyssey II Racing Helmet White"
     },
     {
         "ref":  "b1dad547-8423-4794-9071-f187929c5cee",
-        "displayName":  "Odyssey II Helmet Grey"
+        "displayName":  "Odyssey II Racing Helmet Grey"
     },
     {
         "ref":  "5c33e677-8c1a-4f54-bff0-e8d154a7cf65",
-        "displayName":  "Odyssey II Helmet Black"
+        "displayName":  "Odyssey II Racing Helmet Black"
     },
     {
         "ref":  "cddc5fb5-1989-4053-8b6e-474979132011",
-        "displayName":  "Odyssey II Helmet Dark Red"
+        "displayName":  "Odyssey II Racing Helmet Dark Red"
     },
     {
         "ref":  "44db8931-8c55-4206-b9f5-8d02686a8215",
-        "displayName":  "Odyssey II Helmet Sienna"
+        "displayName":  "Odyssey II Racing Helmet Sienna"
     },
     {
         "ref":  "13a3a6db-0a80-4084-8292-3224b875bd06",
-        "displayName":  "Odyssey II Helmet Tan"
+        "displayName":  "Odyssey II Racing Helmet Tan"
     },
     {
         "ref":  "073fca3a-e7a3-40b0-b32e-b7b1667306c5",
-        "displayName":  "Odyssey II Helmet Dark Green"
+        "displayName":  "Odyssey II Racing Helmet Dark Green"
     },
     {
         "ref":  "05553d1d-90b4-41a1-bb0e-fc36fce80849",
-        "displayName":  "Odyssey II Helmet Aqua"
+        "displayName":  "Odyssey II Racing Helmet Aqua"
     },
     {
         "ref":  "d1556dc9-09e3-48ef-9484-a864e3b6b711",
-        "displayName":  "Odyssey II Helmet Twilight"
+        "displayName":  "Odyssey II Racing Helmet Twilight"
     },
     {
         "ref":  "2ecd1ffb-3015-44b1-9b65-708ef829ddcc",
-        "displayName":  "Odyssey II Helmet Imperial"
+        "displayName":  "Odyssey II Racing Helmet Imperial"
     },
     {
         "ref":  "ca6c62bf-9057-400a-8798-e1a68a7435fc",
-        "displayName":  "Odyssey II Helmet Olive"
+        "displayName":  "Odyssey II Racing Helmet Olive"
     },
     {
         "ref":  "274cb719-5b55-480c-b9c4-bc78baae20a9",
-        "displayName":  "Odyssey II Helmet Lovestruck"
+        "displayName":  "Odyssey II Racing Helmet Lovestruck"
     },
     {
         "ref":  "9e4d6d1d-e19d-4bfb-9f2b-cded75235acd",
-        "displayName":  "Odyssey II Helmet Obsidian"
+        "displayName":  "Odyssey II Racing Helmet Obsidian"
     },
     {
         "ref":  "f4172480-cb86-4ce3-ae8e-e9c2733a8a4c",
-        "displayName":  "Odyssey II Helmet Slate"
+        "displayName":  "Odyssey II Racing Helmet Slate"
     },
     {
         "ref":  "0d701b2d-e9c4-4772-bfde-139b7dfdacb8",
-        "displayName":  "Odyssey II Helmet Envy"
+        "displayName":  "Odyssey II Racing Helmet Envy"
     },
     {
         "ref":  "006277f0-e535-469e-9784-6f4ac3ba89b1",
-        "displayName":  "Odyssey II Helmet Starcrossed"
+        "displayName":  "Odyssey II Racing Helmet Starcrossed"
     },
     {
         "ref":  "2cbf115c-6558-4048-be0d-5e5bc5f68bee",
-        "displayName":  "Azrael Helmet"
+        "displayName":  "Azrael Racing Helmet"
     },
     {
         "ref":  "a106f7b5-705d-4cbb-b9a7-3a7fdf56a2d6",
-        "displayName":  "Azrael Helmet Ruby"
+        "displayName":  "Azrael Racing Helmet Ruby"
     },
     {
         "ref":  "d6a33301-c34f-44a3-b6ee-cb85fb0f7776",
-        "displayName":  "Azrael Helmet Sapphire"
+        "displayName":  "Azrael Racing Helmet Sapphire"
     },
     {
         "ref":  "db8b2c09-e18d-4389-b585-22aec5177113",
@@ -16233,7 +16361,7 @@
     },
     {
         "ref":  "7edb4266-770c-4e29-8881-36d5b90637aa",
-        "displayName":  "Why Not? Helmet"
+        "displayName":  "Why Not? Flight Helmet"
     },
     {
         "ref":  "c6f501b3-d538-41b8-a235-1a02575aaf44",
@@ -16316,36 +16444,52 @@
         "displayName":  "Outback Legs Molehill Brown"
     },
     {
+        "ref":  "9e61b24f-ea3b-4757-9d26-f5c915ce6b47",
+        "displayName":  "Xy\u0027kara Arms"
+    },
+    {
+        "ref":  "d741816f-a221-4886-9706-122f92c350b2",
+        "displayName":  "Xy\u0027kara Core"
+    },
+    {
+        "ref":  "43a42d10-f728-425e-ad35-2a70b5af56e1",
+        "displayName":  "Xy\u0027kara Helmet"
+    },
+    {
+        "ref":  "65cdfdbc-9f18-43be-bae7-30759c7f435f",
+        "displayName":  "Xy\u0027kara Legs"
+    },
+    {
         "ref":  "13a62c08-7324-47ac-be0d-885b6ef8a07d",
-        "displayName":  "Xanthule Helmet"
+        "displayName":  "Xanthule Flight Helmet"
     },
     {
         "ref":  "a672f906-b927-415e-959a-b558b0d43b6e",
-        "displayName":  "Xanthule Sehya Helmet"
+        "displayName":  "Xanthule Sehya Flight Helmet"
     },
     {
         "ref":  "ae75691c-058e-4ad9-8ddb-64d4a9aa49f5",
-        "displayName":  "Xanthule Tahn Helmet"
+        "displayName":  "Xanthule Tahn Flight Helmet"
     },
     {
         "ref":  "9e992877-60a5-4bc3-983c-50e185c5ffa2",
-        "displayName":  "Xanthule Ascension Helmet"
+        "displayName":  "Xanthule Ascension Flight Helmet"
     },
     {
         "ref":  "d820fc23-3490-4ef7-90fe-4fa82731c1f8",
-        "displayName":  "Xanthule Suit"
+        "displayName":  "Xanthule Flight Suit"
     },
     {
         "ref":  "d13b0e28-004e-4ce4-ac98-024e8af90d82",
-        "displayName":  "Xanthule Sehya Suit"
+        "displayName":  "Xanthule Sehya Flight Suit"
     },
     {
         "ref":  "8166a3fb-d7af-496b-bba3-08db32bbc6ef",
-        "displayName":  "Xanthule Tahn Suit"
+        "displayName":  "Xanthule Tahn Flight Suit"
     },
     {
         "ref":  "58f4e1c7-5a75-4fca-ae08-f80e115ede1d",
-        "displayName":  "Xanthule Ascension Suit"
+        "displayName":  "Xanthule Ascension Flight Suit"
     },
     {
         "ref":  "ea79179a-a92e-43eb-9520-88cafd91d7f3",
@@ -16456,11 +16600,11 @@
         "displayName":  "Renegade Racing Vest (Modified)"
     },
     {
-        "ref":  "6ab1e8c7-a2ae-41f9-b046-578841110b59",
+        "ref":  "573e25f9-abc2-481a-b1e3-1243ef357933",
         "displayName":  "Tractor Beam"
     },
     {
-        "ref":  "7de3c63f-a8ef-4d7b-8022-97e189d33449",
+        "ref":  "a5e48acc-1728-4c97-b85e-5e891939610b",
         "displayName":  "Manned Turret"
     },
     {
@@ -16880,6 +17024,90 @@
         "displayName":  "Warden Backpack Hiro"
     },
     {
+        "ref":  "5ca7d59d-99a5-4b49-8c32-60d8368e6181",
+        "displayName":  "Warden Backpack Purgatory Camo"
+    },
+    {
+        "ref":  "e7ba6337-2972-46db-b122-df73c4176027",
+        "displayName":  "Tailwind Flight Suit"
+    },
+    {
+        "ref":  "af097f7a-9c3c-4ba9-8155-54f71cd49d73",
+        "displayName":  "Tailwind Flight Suit Dominion Camo"
+    },
+    {
+        "ref":  "efb7fb1b-8fc5-4ee0-b469-45c88646c845",
+        "displayName":  "Tailwind Flight Suit Drake"
+    },
+    {
+        "ref":  "7f714031-8156-494e-a062-8be3ebd8c850",
+        "displayName":  "Tailwind Flight Suit Murray Cup"
+    },
+    {
+        "ref":  "8f3107e9-6ca7-465a-b215-3576dc32f94f",
+        "displayName":  "Tailwind Flight Suit Anvil"
+    },
+    {
+        "ref":  "4ea97647-beba-41dc-88d8-724e29d34707",
+        "displayName":  "Tailwind Flight Suit Kruger"
+    },
+    {
+        "ref":  "6dcd35c1-3d7f-441a-9c3d-119879d4b852",
+        "displayName":  "Tailwind Flight Helmet"
+    },
+    {
+        "ref":  "42176077-e614-4bdf-8cce-24383458f875",
+        "displayName":  "Tailwind Flight Helmet Dominion Camo"
+    },
+    {
+        "ref":  "0723a3ce-0452-44ff-9b4c-8aa281002590",
+        "displayName":  "Tailwind Flight Helmet Big Bite"
+    },
+    {
+        "ref":  "718b049c-3c47-432d-8b68-d1dcf3d8371f",
+        "displayName":  "Tailwind Flight Helmet Blackbolt"
+    },
+    {
+        "ref":  "4a114179-8aa5-4048-819c-7579e7097d00",
+        "displayName":  "Tailwind Flight Helmet Thunderstruck"
+    },
+    {
+        "ref":  "52c8d15c-d5da-4fd6-8b70-97f897c66d79",
+        "displayName":  "Tailwind Flight Helmet Adrenaline"
+    },
+    {
+        "ref":  "911b5684-5b43-41ce-83d4-7e464d1cf226",
+        "displayName":  "Tailwind Flight Helmet Blue Skies"
+    },
+    {
+        "ref":  "5ddf7fa8-522f-4091-889a-de760e9834b0",
+        "displayName":  "Tailwind Flight Helmet Frostshock"
+    },
+    {
+        "ref":  "69ac7a79-6546-450f-9a02-b35180030e05",
+        "displayName":  "Tailwind Flight Helmet Green Streak"
+    },
+    {
+        "ref":  "17065bb4-fbc3-497d-8900-508a03a9b692",
+        "displayName":  "Tailwind Flight Helmet Airwolf"
+    },
+    {
+        "ref":  "212f165b-42ad-413e-a9a3-dfce22f8f422",
+        "displayName":  "Tailwind Flight Helmet Drake"
+    },
+    {
+        "ref":  "7c13baa7-e187-4c46-9936-6ce057a81452",
+        "displayName":  "Tailwind Flight Helmet Murray Cup"
+    },
+    {
+        "ref":  "08f3757f-5e40-4084-a001-5a7fc6ee823a",
+        "displayName":  "Tailwind Flight Helmet Anvil"
+    },
+    {
+        "ref":  "56ee181b-3e8f-4dc4-9f0a-8f7fc9c44949",
+        "displayName":  "Tailwind Flight Helmet Kruger"
+    },
+    {
         "ref":  "5631d510-9a72-4b63-a7d9-e148defdf80c",
         "displayName":  "Warden Backpack Keystone"
     },
@@ -17012,12 +17240,20 @@
         "displayName":  "Chiron Arms Lifesaver"
     },
     {
+        "ref":  "ac73e9b7-9bca-4537-9456-71700ee2fa70",
+        "displayName":  "Chiron Arms Purgatory Camo"
+    },
+    {
         "ref":  "40461db2-8c0b-4b82-89c7-b69622ce1462",
         "displayName":  "Chiron Arms Heartthrob"
     },
     {
         "ref":  "2e2cfd96-7dae-4ccb-90a3-368eef399433",
         "displayName":  "Chiron Arms AA Support"
+    },
+    {
+        "ref":  "df31dabb-e9b3-43ab-ab9f-3a23f668a752",
+        "displayName":  "Chiron Arms Foundation"
     },
     {
         "ref":  "bba48b2a-0b61-4040-9dc8-0999137c6895",
@@ -17030,6 +17266,14 @@
     {
         "ref":  "ac1cddc4-b4c9-4240-acf9-c2bb7c1d831a",
         "displayName":  "Chiron Backpack Lifesaver"
+    },
+    {
+        "ref":  "91ed5cd2-a953-4dcf-83d1-68dc52aa188a",
+        "displayName":  "Chiron Backpack Foundation"
+    },
+    {
+        "ref":  "649b433d-93ef-4fa2-85c2-c54eb5b44595",
+        "displayName":  "Chiron Backpack Purgatory Camo"
     },
     {
         "ref":  "f674b2a2-a589-4957-a8b3-e2b62708c894",
@@ -17048,12 +17292,20 @@
         "displayName":  "Chiron Core Lifesaver"
     },
     {
+        "ref":  "32efc648-0489-4293-ba06-57b715e18714",
+        "displayName":  "Chiron Core Purgatory Camo"
+    },
+    {
         "ref":  "2a53540e-5467-4e8d-9213-566734bd45f7",
         "displayName":  "Chiron Core Heartthrob"
     },
     {
         "ref":  "ea095069-4da8-4152-972a-fb2ec02477e6",
         "displayName":  "Chiron Core AA Support"
+    },
+    {
+        "ref":  "46a414c4-8c49-48e1-b4a4-41e7b3eaa74f",
+        "displayName":  "Chiron Core Foundation"
     },
     {
         "ref":  "73fb9b7d-0fc4-4cf6-ac1f-cfd03170341e",
@@ -17072,8 +17324,16 @@
         "displayName":  "Chiron Helmet Lifesaver"
     },
     {
+        "ref":  "9226de19-21c4-4d22-a9b9-04e8ab2d7d1a",
+        "displayName":  "Chiron Helmet Purgatory Camo"
+    },
+    {
         "ref":  "8f9b7c96-7274-4e7e-b5a6-d19fa6521c84",
         "displayName":  "Chiron Helmet AA Support"
+    },
+    {
+        "ref":  "d315c3a6-9ea0-473b-ad3f-4819012e6de7",
+        "displayName":  "Chiron Helmet Foundation"
     },
     {
         "ref":  "669b94eb-4d05-4e81-9eee-009bbd17dea8",
@@ -17088,12 +17348,20 @@
         "displayName":  "Chiron Legs Lifesaver"
     },
     {
+        "ref":  "6379240a-3e25-4ce5-ae4b-047d26097038",
+        "displayName":  "Chiron Legs Purgatory Camo"
+    },
+    {
         "ref":  "e1e24075-a34c-4905-a4f6-99ae97e9dd4d",
         "displayName":  "Chiron Legs Heartthrob"
     },
     {
         "ref":  "705c47ec-7b0f-41c0-b7c6-6d316f3ea714",
         "displayName":  "Chiron Legs AA Support"
+    },
+    {
+        "ref":  "03b1a4d3-f720-4a07-81f3-4c0c4e47ab03",
+        "displayName":  "Chiron Legs Foundation"
     },
     {
         "ref":  "ea73662f-7910-4156-836f-54944a569345",
@@ -17148,7 +17416,7 @@
         "displayName":  "Tyger (Project Purple) Shirt"
     },
     {
-        "ref":  "7bdce088-6a90-4ab9-a2f7-5a2956170768",
+        "ref":  "5b6c04a4-4a7d-424d-8a78-54b7c2db3040",
         "displayName":  "Weapon Rack"
     },
     {
@@ -17414,6 +17682,42 @@
     {
         "ref":  "984c2ac5-70dc-43be-85a2-15b8db95dcd2",
         "displayName":  "Ship Ammunition"
+    },
+    {
+        "ref":  "1e9429cb-5606-42f4-9416-aa4215d4e253",
+        "displayName":  "Decoy Ammunition"
+    },
+    {
+        "ref":  "74769ff2-2bd0-4fd8-94e9-11db7d3a1e43",
+        "displayName":  "Noise Ammunition"
+    },
+    {
+        "ref":  "9d0821d7-3ea5-482d-b89f-107235119547",
+        "displayName":  "Size 1 Vehicle Weapon Ammuniton"
+    },
+    {
+        "ref":  "40c3a547-bf39-4508-bb88-cfc50035bd52",
+        "displayName":  "Size 2 Vehicle Weapon Ammuniton"
+    },
+    {
+        "ref":  "13aff6c1-c0d9-471b-a8e4-224b9b788d4c",
+        "displayName":  "Size 3 Vehicle Weapon Ammuniton"
+    },
+    {
+        "ref":  "8d156bbc-eebb-4843-a9e5-c418cfb1bba8",
+        "displayName":  "Size 4 Vehicle Weapon Ammuniton"
+    },
+    {
+        "ref":  "bc7e30be-9e11-4ac5-86f0-a582fdd64f95",
+        "displayName":  "Size 5 Vehicle Weapon Ammuniton"
+    },
+    {
+        "ref":  "b4aa1591-20f0-4af9-a62b-fb62a98a7f54",
+        "displayName":  "Size 6 Vehicle Weapon Ammuniton"
+    },
+    {
+        "ref":  "72b3ad10-e531-481a-8394-8c232d8b3078",
+        "displayName":  "Size 7 Vehicle Weapon Ammuniton"
     },
     {
         "ref":  "26838ca7-418a-47d2-8429-7339ebbb8993",
@@ -17928,6 +18232,10 @@
         "displayName":  "Stinger Ship Armor"
     },
     {
+        "ref":  "ea9fa6b2-dbe3-4bdf-b5e6-d73638aebd71",
+        "displayName":  "Void Ship Armor"
+    },
+    {
         "ref":  "59d32a20-d36e-40f5-99ec-641954677c04",
         "displayName":  "Scout Ship Armor"
     },
@@ -17986,6 +18294,10 @@
     {
         "ref":  "21e8ead3-4020-4bee-a941-5913f12a7ee9",
         "displayName":  "Asgard Best in Show 2955 Livery"
+    },
+    {
+        "ref":  "d79a5edf-48a7-434c-8dad-44b3358bfa10",
+        "displayName":  "Asgard Nightbreak Livery"
     },
     {
         "ref":  "d4236dde-81e6-489f-be03-c1fc09b5e8df",
@@ -18276,6 +18588,10 @@
         "displayName":  "C-788 Cannon"
     },
     {
+        "ref":  "abc07204-f051-4b33-ab6e-9b98305353db",
+        "displayName":  "C-07T Cannon"
+    },
+    {
         "ref":  "8115a034-92bf-4766-b0ce-408398ddc7e7",
         "displayName":  "CVSA Cannon"
     },
@@ -18416,7 +18732,7 @@
         "displayName":  "M7A Cannon"
     },
     {
-        "ref":  "4e3897c1-a48f-4dce-b3cf-0f91fe3eb0f6",
+        "ref":  "9937a13e-65d7-4ee2-8ce0-d027e999be97",
         "displayName":  "M8A Cannon"
     },
     {
@@ -18616,6 +18932,10 @@
         "displayName":  "BR-2 Shotgun Magazine (12 cap)"
     },
     {
+        "ref":  "342413af-8554-4c32-af63-1690dc948883",
+        "displayName":  "BR-2 \"Purgatory Camo\" Shotgun"
+    },
+    {
         "ref":  "e879aa01-f136-4724-b399-1877699f4584",
         "displayName":  "BR-2 \"Blacklist\" Shotgun"
     },
@@ -18720,6 +19040,10 @@
         "displayName":  "AAT-34 Turret"
     },
     {
+        "ref":  "79adc158-219a-4f55-9a7c-0ba448920225",
+        "displayName":  "Buccaneer Nightbreak Livery"
+    },
+    {
         "ref":  "5f081514-6ad3-4575-a3e9-14bfe5662043",
         "displayName":  "Buccaneer Ghoulish Green Livery"
     },
@@ -18758,6 +19082,10 @@
     {
         "ref":  "45e3b994-082e-4f2c-a515-0b4b60fdf376",
         "displayName":  "Carrack Red Alert Livery"
+    },
+    {
+        "ref":  "7eb41084-c9f9-4bcf-b5ec-fb2083091fa5",
+        "displayName":  "Carrack Nightbreak Livery"
     },
     {
         "ref":  "0871c014-2813-4a61-8926-c5b9ab0d1d52",
@@ -18853,7 +19181,7 @@
     },
     {
         "ref":  "437fe245-16e7-471d-bbc4-0eb6e0b2483f",
-        "displayName":  "Luminalia \u0027 55 Coin"
+        "displayName":  "Luminalia \u002755 Coin"
     },
     {
         "ref":  "3b5696fd-4078-4d8f-a190-71c59976a16b",
@@ -18909,6 +19237,10 @@
     },
     {
         "ref":  "519d15e5-105d-4e3d-aaaf-f1db9b8f47f6",
+        "displayName":  "Field Medic Kit"
+    },
+    {
+        "ref":  "387ad3ab-5d5f-49d4-bb44-c4357d2b0b8c",
         "displayName":  "Field Medic Kit"
     },
     {
@@ -18972,6 +19304,10 @@
         "displayName":  "Salvaged Skull 8 SCU Container"
     },
     {
+        "ref":  "ea9cdef8-a8c8-444f-8aeb-3f582326cff2",
+        "displayName":  "Expired Quantanium Fuel Canister"
+    },
+    {
         "ref":  "7cfda00c-7823-4581-8f8c-7a651106a440",
         "displayName":  "Caterpillar 2949 Best In Show Livery"
     },
@@ -19016,6 +19352,10 @@
         "displayName":  "Caterpillar Mistwalker Livery"
     },
     {
+        "ref":  "b9002533-f5a6-4bc6-b136-ace9cb8cce61",
+        "displayName":  null
+    },
+    {
         "ref":  "70eb9080-5020-4db4-9e5b-2e4992bc553d",
         "displayName":  "Caterpillar Foundation Fest Livery"
     },
@@ -19046,6 +19386,10 @@
     {
         "ref":  "d9dc71af-3ae1-4dfa-a153-ca1e1c6f93fb",
         "displayName":  "Vindel"
+    },
+    {
+        "ref":  "f2b3c1b0-2877-48c2-be6d-3fda89f597bf",
+        "displayName":  "Clipper Nightbreak Livery"
     },
     {
         "ref":  "486eb4f7-9612-43ed-86b3-7bc6799fd8de",
@@ -19312,6 +19656,10 @@
         "displayName":  "NightFall"
     },
     {
+        "ref":  "16f48b55-cfe8-4545-bccb-d1e35c3a47a7",
+        "displayName":  "Mauler Cooler"
+    },
+    {
         "ref":  "97bf2cfe-efb8-469b-9d43-6e4a88130417",
         "displayName":  "Fridan"
     },
@@ -19366,6 +19714,10 @@
     {
         "ref":  "d0a4999e-18c4-4bf0-b7ab-0bd6ac08dc39",
         "displayName":  "Corsair Eternity Livery"
+    },
+    {
+        "ref":  "63038a6a-2ba7-480f-9077-b452f09a7e12",
+        "displayName":  "Corsair Nightbreak Livery"
     },
     {
         "ref":  "4d7130bd-e4a0-462c-a0bd-2efd214bdb66",
@@ -19780,6 +20132,10 @@
         "displayName":  "Size 4 Fixed Mount"
     },
     {
+        "ref":  "30aee223-a4aa-4436-b209-6f0c2fd7c00a",
+        "displayName":  "Fuel Tank"
+    },
+    {
         "ref":  "04a3695c-cf61-4bec-a008-9f89302fd2ed",
         "displayName":  "Defender Ocellus Livery"
     },
@@ -19842,6 +20198,14 @@
     {
         "ref":  "02bb4650-7c20-4e42-b3d8-1ca7bb4b76bf",
         "displayName":  "Drake Buccaneer Spinal Mount"
+    },
+    {
+        "ref":  "f7ec7a67-6119-4420-9e2d-e6f262879e19",
+        "displayName":  "Drake Noise Launcher"
+    },
+    {
+        "ref":  "9e26315d-3616-4835-9041-7e5f41336031",
+        "displayName":  "Drake Decoy Launcher"
     },
     {
         "ref":  "a1b8ef62-25b0-4ece-a01d-9272219d4a2a",
@@ -20052,6 +20416,10 @@
         "displayName":  "Eclipse 2950 Best In Show Livery"
     },
     {
+        "ref":  "49bf2806-e520-43af-99a2-7e570b23cfc4",
+        "displayName":  "Eclipse Nightbreak Livery"
+    },
+    {
         "ref":  "eb826dee-a085-481d-9498-24d1e94aa8b8",
         "displayName":  "Eclipse Ambush Camo Livery"
     },
@@ -20234,6 +20602,10 @@
     {
         "ref":  "8f5f5980-f254-4904-b2d6-be203a91e870",
         "displayName":  "Coramor \u002754 Coin"
+    },
+    {
+        "ref":  "8c12ca2b-3b21-4603-a34f-e60969c7ca98",
+        "displayName":  "Emoto Dashbot"
     },
     {
         "ref":  "3de40834-b47a-4740-801b-b7344ef433e0",
@@ -21372,6 +21744,10 @@
         "displayName":  "Gladiator Best in Show 2955 Livery"
     },
     {
+        "ref":  "9e0b3ef9-120d-47bb-b1bf-e20b1c6a5466",
+        "displayName":  "Gladiator Nightbreak Livery"
+    },
+    {
         "ref":  "9693c801-fa2f-485b-a8ed-10663b40290a",
         "displayName":  "Gladius Disrupt Camo Livery"
     },
@@ -21664,6 +22040,10 @@
         "displayName":  "S71 Rifle Magazine (30 cap)"
     },
     {
+        "ref":  "4f40a177-91d9-4a93-b2bb-c076938c6f0b",
+        "displayName":  "S71 \"Purgatory Camo\" Rifle"
+    },
+    {
         "ref":  "4e9858eb-250f-4f1e-a95f-3e69adf99aa8",
         "displayName":  "S71 \"Murray Cup Racing\" Rifle"
     },
@@ -21722,6 +22102,10 @@
     {
         "ref":  "ae9a9156-49d1-419b-b346-f7d438f7a1b8",
         "displayName":  "C54 \"Starchaser\" SMG"
+    },
+    {
+        "ref":  "6e81767a-ac5e-476e-a878-5e109121a7a7",
+        "displayName":  "C54 \"Ochelo\" SMG"
     },
     {
         "ref":  "6b1fb5e8-f9ec-49bc-befb-c81b7c08c5ea",
@@ -22124,6 +22508,10 @@
         "displayName":  "Herald Polar Livery"
     },
     {
+        "ref":  "c55894a3-f888-44d2-bdf0-b5cd11e618f3",
+        "displayName":  "Hermes Nightbreak Livery"
+    },
+    {
         "ref":  "092c9d3a-4fe7-4d86-a131-7aa07a834cb8",
         "displayName":  "Hermes Tripline Livery"
     },
@@ -22348,8 +22736,16 @@
         "displayName":  "Reign-3 Repeater"
     },
     {
+        "ref":  "35e1362f-a28d-4db5-b514-569c62f56a45",
+        "displayName":  "Supremacy-10T Laser Beam"
+    },
+    {
         "ref":  "e9225fe2-ef9a-41a5-b741-728ab4590673",
         "displayName":  "Castilla Wine Glass"
+    },
+    {
+        "ref":  "43641070-cf42-4be7-b91e-b29d9141c96d",
+        "displayName":  "Hydrogen Fuel Tank"
     },
     {
         "ref":  "9f99d159-e50a-4693-afb3-0ec99a64828d",
@@ -22464,6 +22860,10 @@
         "displayName":  "Main Powerplant"
     },
     {
+        "ref":  "a4991ad7-1415-4bad-9817-b6be28584c24",
+        "displayName":  "Fuel Intake"
+    },
+    {
         "ref":  "ee6b42a1-df1d-47fa-b898-5ee452bc9868",
         "displayName":  "Intrepid Nocturne Livery"
     },
@@ -22490,6 +22890,26 @@
     {
         "ref":  "79928bfa-b375-4442-a9ec-80d0c8cc8b8b",
         "displayName":  "Intrepid Altair Livery"
+    },
+    {
+        "ref":  "fcca6262-26ab-499e-9f68-308278d0413d",
+        "displayName":  "Ironclad Sediment Livery"
+    },
+    {
+        "ref":  "8a51d82e-4f35-4183-9275-9534da96fd58",
+        "displayName":  "Ironclad Dauntless Livery"
+    },
+    {
+        "ref":  "c096b55c-1a55-4698-bf6b-0d950cdc3908",
+        "displayName":  "Ironclad Wind Chill Livery"
+    },
+    {
+        "ref":  "71eeccc9-4388-4794-b4e2-11457f39f779",
+        "displayName":  "Ironclad Aquamarine Livery"
+    },
+    {
+        "ref":  "f7111ad7-67d4-497f-84fc-783d16ad4c9f",
+        "displayName":  "Ironclad Commando Livery"
     },
     {
         "ref":  "af671ad3-d55d-44b3-8617-473bd3dc0da6",
@@ -22586,6 +23006,10 @@
     {
         "ref":  "b62224ba-5c56-4306-857a-70de7d570767",
         "displayName":  "Demeco LMG Battery (100 cap)"
+    },
+    {
+        "ref":  "656afe86-dc53-4b83-8121-4084992d13df",
+        "displayName":  "Demeco \"Purgatory Camo\" LMG"
     },
     {
         "ref":  "e2ed4699-48d7-46f8-9970-1bb95d86d1e1",
@@ -22708,6 +23132,10 @@
         "displayName":  "Gallant Rifle Battery (45 cap)"
     },
     {
+        "ref":  "06ac384d-ba69-4e1d-9778-08acb5f8d9d4",
+        "displayName":  "Gallant \"Conviction Camo\" Rifle"
+    },
+    {
         "ref":  "0e6d3999-bc9d-46cf-81ae-7288e556e2d1",
         "displayName":  "Gallant \"Redline\" Rifle"
     },
@@ -22822,6 +23250,10 @@
     {
         "ref":  "3a5bd643-3c3e-42fb-87ce-2a44b976555d",
         "displayName":  "FL-33 Cannon"
+    },
+    {
+        "ref":  "1a8b7ee2-0fab-45e8-aa79-0c24a4f4ffbc",
+        "displayName":  "Scorch Plasma Grenade"
     },
     {
         "ref":  "ea692f4b-0545-4f0b-8d4f-05f41fa1e876",
@@ -23220,6 +23652,26 @@
         "displayName":  "M50 Murray Cup Livery"
     },
     {
+        "ref":  "970bc2ce-3f3c-4495-b0ac-0bc082d67636",
+        "displayName":  "M80 Afterglow Livery"
+    },
+    {
+        "ref":  "8106e2c9-57a9-4264-9a81-0f03ee631082",
+        "displayName":  "M80 Slate Camo Livery"
+    },
+    {
+        "ref":  "55c18c48-721a-403b-aaf3-01ffa316d024",
+        "displayName":  "M80 Blaze Livery"
+    },
+    {
+        "ref":  "95a06d62-4e4a-4bb3-ab76-c87c5b2a3865",
+        "displayName":  "M80 Tetra Livery"
+    },
+    {
+        "ref":  "1dd2f2de-2084-43bb-8d1a-516843d30eaf",
+        "displayName":  "M80 Dynasty Livery"
+    },
+    {
         "ref":  "6f233c21-651a-4727-aee0-5526f6a6c929",
         "displayName":  "Mantis Stormbringer Livery"
     },
@@ -23298,6 +23750,10 @@
     {
         "ref":  "da2b554f-7bad-4ac1-9f61-9196a131d485",
         "displayName":  "P-Series Murray Cup Livery"
+    },
+    {
+        "ref":  "88749b9e-cd29-43e7-99c7-87465f6734a8",
+        "displayName":  "Meteor Nightbreak Livery"
     },
     {
         "ref":  "08f304e1-522e-4403-99ae-38350ce97d39",
@@ -23629,7 +24085,7 @@
     },
     {
         "ref":  "e336f444-1d23-4707-8ec1-570b7205e83b",
-        "displayName":  "Retaliator Torpedo Front Module"
+        "displayName":  "Retaliator Ordnance Front Module"
     },
     {
         "ref":  "2085bd4c-f2f3-4630-aee6-da2d455e92ac",
@@ -23641,7 +24097,55 @@
     },
     {
         "ref":  "130ea15f-d075-403d-89c9-60d303fc25f0",
-        "displayName":  "Retaliator Torpedo Rear Module"
+        "displayName":  "Retaliator Ordnance Rear Module"
+    },
+    {
+        "ref":  "17fa16d3-7597-4b4e-bea1-1d1122fc8a32",
+        "displayName":  "Shiv \"Slasher\" Bodykit Front"
+    },
+    {
+        "ref":  "35e966a7-2a25-4ba6-a11e-72efeb3cb273",
+        "displayName":  "Shiv \"Barebones\" Bodykit Front"
+    },
+    {
+        "ref":  "ec59d00e-3e56-4112-926c-f86bbc059663",
+        "displayName":  "Shiv \"Lunatic\" Bodykit Front"
+    },
+    {
+        "ref":  "c6460164-7b00-447d-8f09-a1515a7f1e1e",
+        "displayName":  "Shiv \"Slasher\" Bodykit Rear Center"
+    },
+    {
+        "ref":  "568456c2-8caf-4c36-b2e0-338d70cb2e8b",
+        "displayName":  "Shiv \"Barebones\" Bodykit Rear Center"
+    },
+    {
+        "ref":  "a27eacdb-fa7a-46f5-9498-7d57bf95ee50",
+        "displayName":  "Shiv \"Lunatic\" Bodykit Rear Center"
+    },
+    {
+        "ref":  "c21770b0-8d24-4630-a9fc-7591fed5d316",
+        "displayName":  "Shiv \"Slasher\" Bodykit Rear Left"
+    },
+    {
+        "ref":  "a4abcee7-365a-4c89-ac2e-188982196a71",
+        "displayName":  "Shiv \"Barebones\" Bodykit Rear Left"
+    },
+    {
+        "ref":  "5185958f-3c93-4d84-89ca-82a32a7bdd78",
+        "displayName":  "Shiv \"Lunatic\" Bodykit Rear Left"
+    },
+    {
+        "ref":  "b975266d-c11c-4ec1-a03a-da85cd7a724f",
+        "displayName":  "Shiv \"Slasher\" Bodykit Rear Right"
+    },
+    {
+        "ref":  "6179eb2a-b24a-49d0-807c-ad8862a3a0ff",
+        "displayName":  "Shiv \"Barebones\" Bodykit Rear Right"
+    },
+    {
+        "ref":  "aa4d3b9c-8cf7-4c66-b3e3-0f73f04d5898",
+        "displayName":  "Shiv \"Lunatic\" Bodykit Rear Right"
     },
     {
         "ref":  "4adb053e-bc0a-34a1-a3bd-7c9fc2267e84",
@@ -23888,6 +24392,10 @@
         "displayName":  "Anvil Ballista S05 Missile Rack"
     },
     {
+        "ref":  "d0cc229d-53f9-485d-8242-9c7fbfa586a4",
+        "displayName":  "Anvil Gladiator Quad S5 Missile Rack"
+    },
+    {
         "ref":  "3677de9d-b92f-42f1-a34e-0c0fe6cdfcd0",
         "displayName":  "MSD-524 Missile Rack"
     },
@@ -23902,6 +24410,10 @@
     {
         "ref":  "42f9b948-8448-4247-a617-2a133ef50f6c",
         "displayName":  "MSD-515 Missile Rack"
+    },
+    {
+        "ref":  "7a03e42b-d08a-4553-9fe2-20cab993d759",
+        "displayName":  "Drake Ironclad Torpedo Rack"
     },
     {
         "ref":  "a89a4b15-3e5a-4338-865f-4647d6d23188",
@@ -24230,6 +24742,10 @@
     {
         "ref":  "c098e722-902a-435b-83f8-a96cec36a012",
         "displayName":  "Killshot Rifle"
+    },
+    {
+        "ref":  "0eec337e-d8e4-402c-98dd-c7c16bea2e1d",
+        "displayName":  "Killshot \"Dominion Camo\" Rifle"
     },
     {
         "ref":  "c40b7e8e-0f04-43d7-ac3a-7ffb8df071d8",
@@ -24736,6 +25252,22 @@
         "displayName":  "C8 Pisces Responder Livery"
     },
     {
+        "ref":  "539ff102-fd2a-40eb-913c-009725824493",
+        "displayName":  "Pitbull Wind Chill Livery"
+    },
+    {
+        "ref":  "81b6a572-6cd8-4ddc-8ece-642806ab51e3",
+        "displayName":  "Pitbull Aquamarine Livery"
+    },
+    {
+        "ref":  "a1c29aed-648d-4ffd-9746-6e8797a78e89",
+        "displayName":  "Pitbull Bloodlet Livery"
+    },
+    {
+        "ref":  "e87f3bd2-b9fc-429b-9b6b-66cdfc4a8e41",
+        "displayName":  "Pitbull Hardstrike Livery"
+    },
+    {
         "ref":  "22aa0825-a7ae-4b13-ae4a-12ad22d481da",
         "displayName":  "Hello Sunshine Luminalia Planter"
     },
@@ -25042,6 +25574,10 @@
     {
         "ref":  "7efda460-54a9-4447-b74d-eaa25ea882cb",
         "displayName":  "GammaMax"
+    },
+    {
+        "ref":  "1eff95ff-da99-4233-8576-d055eaf8b454",
+        "displayName":  "Mauler Power Plant"
     },
     {
         "ref":  "76706adf-4687-4a7a-aaf1-c44af0a5d2ca",
@@ -25368,6 +25904,10 @@
         "displayName":  "Wanderer"
     },
     {
+        "ref":  "aa2eb7d5-6591-45ed-a4db-abbb236cf83f",
+        "displayName":  "Mauler Quantum Drive"
+    },
+    {
         "ref":  "b5cbef86-f37f-4e05-8aff-e0f61afe166e",
         "displayName":  "Beacon"
     },
@@ -25412,8 +25952,16 @@
         "displayName":  "Quantum Fuel Tank"
     },
     {
+        "ref":  "947a94e5-0f15-4b00-91e2-4724210ee649",
+        "displayName":  "Quantum Fuel Tank"
+    },
+    {
         "ref":  "808bd354-4a0b-47a3-8a86-bf454eec3b44",
         "displayName":  "Quantum Fuel Tank"
+    },
+    {
+        "ref":  "cb302b31-5ba1-48c1-83e7-6f77f3b1476f",
+        "displayName":  "Mauler Radar"
     },
     {
         "ref":  "ca68467f-43ef-4b34-8764-17a1373deeab",
@@ -25576,6 +26124,10 @@
         "displayName":  "Retaliator Twilight Livery"
     },
     {
+        "ref":  "250239f6-e228-4b6e-a36d-552546273944",
+        "displayName":  "Retaliator Nightbreak Livery"
+    },
+    {
         "ref":  "c71f1ab5-acd1-475c-af51-18ee453f900a",
         "displayName":  "Retaliator Calico Livery"
     },
@@ -25648,12 +26200,16 @@
         "displayName":  "RSI Decoy Launcher"
     },
     {
-        "ref":  "3a03f47d-45a0-41d9-9891-3bda551913a0",
+        "ref":  "b5944453-9904-4cb9-8e38-9b6ba3a8aaad",
         "displayName":  "RSI Default JetPack"
     },
     {
         "ref":  "3d521e8c-4249-4987-b544-d32634ab0d2a",
         "displayName":  "Magstrand EMP Generator"
+    },
+    {
+        "ref":  "c22b9f48-3146-4b7f-ae57-4f0b40c2f944",
+        "displayName":  "Echion Repeater"
     },
     {
         "ref":  "3abc1038-9870-472f-af95-073a98cbbc60",
@@ -25844,6 +26400,10 @@
         "displayName":  "Shiv Spectre Livery"
     },
     {
+        "ref":  "a7aa30cf-1fea-42c0-b661-07650ae18a19",
+        "displayName":  "Shiv Nightbreak Livery"
+    },
+    {
         "ref":  "059a058c-942f-4372-92e1-7ff69f3fa096",
         "displayName":  "Shiv Nightmare Livery"
     },
@@ -25958,6 +26518,10 @@
     {
         "ref":  "86bfeaef-e0e2-4373-9dca-47e193c0b203",
         "displayName":  "STOP"
+    },
+    {
+        "ref":  "7775ba87-03ef-4df0-84ca-7222848ceac3",
+        "displayName":  "Mauler Shield Generator"
     },
     {
         "ref":  "b64ab3f3-4b44-418c-a438-57a04a1cf1b2",
@@ -26344,6 +26908,22 @@
         "displayName":  "Hercules Starlifter Sylvan Livery"
     },
     {
+        "ref":  "73694756-443d-444e-a474-fa2673fa7355",
+        "displayName":  "Starlite Dusk Livery"
+    },
+    {
+        "ref":  "40da263c-587f-4339-9a7a-6e8760637aa1",
+        "displayName":  "Starlite Bonfire Livery"
+    },
+    {
+        "ref":  "e3b16077-0b8f-449c-a3b5-cd7544b23e36",
+        "displayName":  "Starlite Mojave Livery"
+    },
+    {
+        "ref":  "bccc67d8-a8b0-4149-a93b-b76c8656f0d1",
+        "displayName":  "Starlite Empyrean Livery"
+    },
+    {
         "ref":  "df34221a-190e-45f2-a8c6-ead7c0a2f146",
         "displayName":  "Stinger Mamba Livery"
     },
@@ -26452,12 +27032,16 @@
         "displayName":  "Syulen Ocellus Livery"
     },
     {
+        "ref":  "383f323b-62ab-4322-9583-5f86c223daaf",
+        "displayName":  "Syulen Kenglath Livery"
+    },
+    {
         "ref":  "758cb316-8138-49cd-86ef-9621cb13e507",
         "displayName":  "Syulen Ch.iing Livery"
     },
     {
         "ref":  "c6708253-bef5-480b-ad18-90a25c8f5f08",
-        "displayName":  "Syulen Chui?a Livery"
+        "displayName":  "Syulen Chui\u0027a Livery"
     },
     {
         "ref":  "ad311d60-9923-4d97-b336-1f325153f73b",
@@ -26465,7 +27049,7 @@
     },
     {
         "ref":  "66c4ebd3-3053-4d71-aabd-6d55a81987b9",
-        "displayName":  "Syulen Tao?moa Livery"
+        "displayName":  "Syulen Tao\u0027moa Livery"
     },
     {
         "ref":  "727599b7-effe-411a-b848-3eb596389ef3",
@@ -26534,6 +27118,22 @@
     {
         "ref":  "de76d4a8-c71c-4368-8b57-1474b4a4a3a6",
         "displayName":  "Liberator Ultra"
+    },
+    {
+        "ref":  "6af44286-2198-4da6-8461-d6658a256bc8",
+        "displayName":  "Tiburon Colmillos Livery"
+    },
+    {
+        "ref":  "5afd39f5-4d20-4d2c-a137-ed06f4aa736e",
+        "displayName":  "Tiburon Pinnacle Livery"
+    },
+    {
+        "ref":  "314d09da-1190-4d3c-a73a-657a4db36b32",
+        "displayName":  "Tiburon Enforcer Livery"
+    },
+    {
+        "ref":  "df14dca8-9592-46b7-b934-98145f8ce593",
+        "displayName":  "Tiburon Vermillion Livery"
     },
     {
         "ref":  "119c6f43-c538-427a-869e-3713d900d7c3",
@@ -26636,6 +27236,30 @@
         "displayName":  "Ursa Oasis Livery"
     },
     {
+        "ref":  "cb57dee1-c2f2-4328-bd7f-8ff1c8481008",
+        "displayName":  "Novian Crossbow"
+    },
+    {
+        "ref":  "73267ade-62c9-4ea3-9aaf-9469bf878d31",
+        "displayName":  "Novian Bolt Magazine (5 Cap)"
+    },
+    {
+        "ref":  "cbac3e38-7fb4-4812-b1ba-e617c4fc84e1",
+        "displayName":  "Novian \"Xy\u0027kara\" Crossbow"
+    },
+    {
+        "ref":  "53309dc8-6988-4923-b765-d0846542e27f",
+        "displayName":  "Novian \"Nighthunter\" Crossbow"
+    },
+    {
+        "ref":  "aa5b80da-8bb8-4712-9277-e2cb3a052d4c",
+        "displayName":  "Novian \"Ghostmaker\" Crossbow"
+    },
+    {
+        "ref":  "d0e8d997-381b-44fe-a098-3c3ba6293b18",
+        "displayName":  "Novian \"Wildshot\" Crossbow"
+    },
+    {
         "ref":  "04e84f78-fc3d-4d7e-a678-25e463bfde4f",
         "displayName":  "FSK-8 Combat Knife"
     },
@@ -26730,6 +27354,26 @@
     {
         "ref":  "4f5be138-308a-4b2d-96ff-33b5c69a740c",
         "displayName":  "Vanduul Decoy Launcher"
+    },
+    {
+        "ref":  "2ba5d32b-f2cc-48cf-a853-2476a30b84c9",
+        "displayName":  "Vanduul Mauler \u0027IGNITER\u0027 Beam"
+    },
+    {
+        "ref":  "4a372618-6776-4993-ace0-d0614b5672e4",
+        "displayName":  "Vanduul Mauler \u0027STRIKER\u0027 Repeater"
+    },
+    {
+        "ref":  "25c8f0c0-c9f4-48a2-a2f0-c224ddce3eeb",
+        "displayName":  "Vanduul Mauler \u0027RAGE\u0027 Cannon"
+    },
+    {
+        "ref":  "0d58aa05-4235-40a5-b6bf-9fa31c59f749",
+        "displayName":  "Vanduul Mauler \u0027ANNIHILATOR\u0027 Cannon"
+    },
+    {
+        "ref":  "fcec7a3c-6ae7-4c11-9710-145b7978e690",
+        "displayName":  "Vanduul Mauler \u0027ERADICATOR\u0027 Cannon"
     },
     {
         "ref":  "00ab31a0-7de2-44f7-a567-7ff88fdbad49",
@@ -27172,6 +27816,10 @@
         "displayName":  "Vulture Foundation Fest Livery"
     },
     {
+        "ref":  "f45c120b-a5a1-437d-8ebc-804a9993aa7d",
+        "displayName":  "Wolf Nightbreak Livery"
+    },
+    {
         "ref":  "3c58e888-f2f9-4cfa-bcef-50e768aefc35",
         "displayName":  "Wolf Riftwalker Livery"
     },
@@ -27332,7 +27980,7 @@
         "displayName":  "Trawler Scraper Module"
     },
     {
-        "ref":  "1743f1e2-0558-45f6-bc80-d604daf97123",
+        "ref":  "089f7dc6-8ff1-415b-832d-7a96b92afdfc",
         "displayName":  "Cinch Scraper Module"
     },
     {
@@ -27362,6 +28010,14 @@
     {
         "ref":  "5f08ab09-4628-4297-93ed-4708c0c12c2d",
         "displayName":  "Gadgets"
+    },
+    {
+        "ref":  "4af069d6-2d9d-4dad-bec9-17ce09653df7",
+        "displayName":  "Main Thruster"
+    },
+    {
+        "ref":  "30d833c2-305d-4ada-a2e0-1c081c9bec2e",
+        "displayName":  "Maneuver Thruster"
     },
     {
         "ref":  "60a09784-0e4c-40f3-945e-daba453f81c8",
@@ -27584,6 +28240,14 @@
         "displayName":  "Corundum (Raw)"
     },
     {
+        "ref":  "b2f14f8c-3780-4706-8bc3-7792fc0b00de",
+        "displayName":  "Ship Decoy Countermeasures"
+    },
+    {
+        "ref":  "c473310f-6284-4ab8-a6f7-1604ac5d634a",
+        "displayName":  "Ship Noise Countermeasures"
+    },
+    {
         "ref":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b",
         "displayName":  "DCSR2"
     },
@@ -27717,7 +28381,7 @@
     },
     {
         "ref":  "cad319d9-e0e5-420d-bbfd-dd62a0362d05",
-        "displayName":  "Hephaestanite (Raw)"
+        "displayName":  "Hephaestanite (R)"
     },
     {
         "ref":  "5e079d07-630a-41d5-a314-16381f07e2c3",
@@ -28026,6 +28690,34 @@
     {
         "ref":  "dae3efcb-f82e-4c2a-b24b-81f2be8daa51",
         "displayName":  "Scrap"
+    },
+    {
+        "ref":  "1fdb2e84-1622-4685-8194-2d108498d90f",
+        "displayName":  "Ship Ammunition - Size 1"
+    },
+    {
+        "ref":  "12b3419e-8300-4a4e-9dc9-4c2d4469fc11",
+        "displayName":  "Ship Ammunition - Size 2"
+    },
+    {
+        "ref":  "393c2115-5ba5-4748-9664-3f5a7998a816",
+        "displayName":  "Ship Ammunition - Size 3"
+    },
+    {
+        "ref":  "42a961ba-0039-41d3-a020-989410a2958c",
+        "displayName":  "Ship Ammunition - Size 4"
+    },
+    {
+        "ref":  "313b4437-fde2-4eab-af35-aae4421b9d2e",
+        "displayName":  "Ship Ammunition - Size 5"
+    },
+    {
+        "ref":  "a6e40cd4-c10e-403c-aaa0-79a8f112cf6c",
+        "displayName":  "Ship Ammunition - Size 6"
+    },
+    {
+        "ref":  "a790133a-b77b-4699-9ae5-264b61fe9ffc",
+        "displayName":  "Ship Ammunition - Size 7"
     },
     {
         "ref":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
@@ -28617,7 +29309,7 @@
     },
     {
         "ref":  "7b5d1ed3-11e7-49e6-9ed3-9d0cb52a3dc2",
-        "displayName":  "Kruger Intergalatic"
+        "displayName":  "Kruger Intergalactic"
     },
     {
         "ref":  "2a64f92e-8f6d-47ac-a6ed-643465e91d4b",
@@ -28726,6 +29418,10 @@
     {
         "ref":  "e7c9f9ee-a1db-40ee-bfa8-a8ffead4ac1d",
         "displayName":  "Spar Van Miles"
+    },
+    {
+        "ref":  "c4a97eae-00ee-4873-93c5-ee73209e3ec8",
+        "displayName":  "Stor*All"
     },
     {
         "ref":  "0d3e6377-4be0-4c38-8269-3ac5dbd132d8",
@@ -28852,6 +29548,18 @@
         "displayName":  "Grav Lev 1"
     },
     {
+        "ref":  "acf708ef-e5d9-465d-83ed-8d81602bdfcb",
+        "displayName":  "Thruster Main Aux"
+    },
+    {
+        "ref":  "8e02a504-0856-4ffe-846d-56fcee336462",
+        "displayName":  "Thruster Retro Left"
+    },
+    {
+        "ref":  "b736c53e-10d5-4962-ac59-e848d34c4356",
+        "displayName":  "Thruster Retro Right"
+    },
+    {
         "ref":  "43421e75-383e-48c3-9820-00e0f8193c08",
         "displayName":  "Tractor Turret"
     },
@@ -28916,6 +29624,10 @@
         "displayName":  "Personal Storage"
     },
     {
+        "ref":  "29157aeb-676c-42e3-b95d-2f88bdb9ef04",
+        "displayName":  "Refueling"
+    },
+    {
         "ref":  "97648869-5fa5-42da-b804-4d9314289539",
         "displayName":  "Aegis Avenger Stalker"
     },
@@ -28934,10 +29646,6 @@
     {
         "ref":  "c9b3ef78-9c47-4052-bf70-ecf32c55c001",
         "displayName":  "Aegis Eclipse"
-    },
-    {
-        "ref":  "33ba66d8-da04-432b-80b8-566bf6301659",
-        "displayName":  "Aegis Sabre Firebird Wikelo War Special"
     },
     {
         "ref":  "b6b59889-7226-458e-a6b0-1c9392128a3c",
@@ -29020,6 +29728,10 @@
         "displayName":  "Aegis Sabre Raven"
     },
     {
+        "ref":  "58544d8c-f000-47a4-9ec6-ad663dbd8ff0",
+        "displayName":  "Aegis Tiburon"
+    },
+    {
         "ref":  "a8208d11-32d4-4a4a-82c4-fd7f498b2ae6",
         "displayName":  "Aegis Vanguard Warden"
     },
@@ -29030,10 +29742,6 @@
     {
         "ref":  "f80d39f3-50fc-4fca-ada1-76de4c237e3f",
         "displayName":  "Aegis Vanguard Hoplite"
-    },
-    {
-        "ref":  "8aa6a16e-6c06-4db8-ac6d-165f97bf2565",
-        "displayName":  "Aegis Vanguard Sentinel"
     },
     {
         "ref":  "eaeb562d-d4ac-43bd-a843-e8a6d69fad82",
@@ -29192,10 +29900,6 @@
         "displayName":  "Anvil Terrapin Medic"
     },
     {
-        "ref":  "61cc74dc-fff7-4a1f-b0bf-6f092bcdf023",
-        "displayName":  "Anvil Terrapin Medic Wikelo Savior Special"
-    },
-    {
         "ref":  "881e3879-a186-44da-8b47-1d8f0a846438",
         "displayName":  "Anvil Valkyrie"
     },
@@ -29256,10 +29960,6 @@
         "displayName":  "C.O. Mustang Alpha"
     },
     {
-        "ref":  "439c5671-acad-4eb6-9f09-ba54165d1cb5",
-        "displayName":  "C.O. Mustang CitizenCon 2948 Edition"
-    },
-    {
         "ref":  "973bc147-4422-48a6-99c8-6ff0ead25bdf",
         "displayName":  "C.O. Mustang Beta"
     },
@@ -29284,11 +29984,11 @@
         "displayName":  "C.O. Nomad Teach\u0027s Special"
     },
     {
-        "ref":  "c0b86c69-55ac-4af3-a722-d46282813e91",
+        "ref":  "0344b36e-55b4-4e65-ba87-242666a9b9d7",
         "displayName":  "Crusader A1 Spirit"
     },
     {
-        "ref":  "9611b8ed-cc96-4b5c-aa1e-baefe7d5bb1c",
+        "ref":  "ab15aacd-89a9-44cf-9df9-256f3050069c",
         "displayName":  "Crusader C1 Spirit"
     },
     {
@@ -29298,10 +29998,6 @@
     {
         "ref":  "f203e95e-927c-43b0-947b-e8cb3025d23e",
         "displayName":  "Crusader Intrepid Wikelo Work Special"
-    },
-    {
-        "ref":  "8c23e3f9-b2e6-42a6-92ab-e023f1e0c643",
-        "displayName":  "Crusader C1 Spirit Wikelo Special"
     },
     {
         "ref":  "c8e10f09-38a0-4730-9dd3-eb0a510c9e43",
@@ -29348,22 +30044,6 @@
         "displayName":  "Drake Buccaneer"
     },
     {
-        "ref":  "dc39ca6b-1d76-4db5-9346-356f49954978",
-        "displayName":  "Drake Caterpillar"
-    },
-    {
-        "ref":  "565d8121-50a9-4920-af50-f176caef0431",
-        "displayName":  "Drake Caterpillar Pirate"
-    },
-    {
-        "ref":  "8216faf6-4494-4f9e-83a2-c4e55a4dc67f",
-        "displayName":  "KRF Inmate Transport"
-    },
-    {
-        "ref":  "ca888820-a627-4f5e-927b-426f654e9968",
-        "displayName":  "Drake Caterpillar 2949 Best In Show Edition"
-    },
-    {
         "ref":  "c03e7aef-6411-4e85-9c10-e89862884433",
         "displayName":  "Drake Clipper"
     },
@@ -29378,10 +30058,6 @@
     {
         "ref":  "b58f7735-9454-4a0a-b724-2bc8d61961d7",
         "displayName":  "Drake Cutlass Black"
-    },
-    {
-        "ref":  "4484a044-bbd5-e716-736a-2dda30a3efa4",
-        "displayName":  "Cutlass Black PYAM Exec"
     },
     {
         "ref":  "d3ce093d-0ae9-4186-bed4-92c66eeea0cd",
@@ -29428,10 +30104,6 @@
         "displayName":  "Drake Golem"
     },
     {
-        "ref":  "310be6d1-ea0f-45d8-87b0-0fc9f8aa1530",
-        "displayName":  "Drake Golem Wikelo Work Special"
-    },
-    {
         "ref":  "ea2c22bc-c2f0-42dc-967d-3300f9232f91",
         "displayName":  "Drake Golem OX"
     },
@@ -29444,8 +30116,20 @@
         "displayName":  "Drake Herald"
     },
     {
+        "ref":  "c42bf65e-f3f2-4234-8c19-8276bfd5de3a",
+        "displayName":  "Drake Ironclad"
+    },
+    {
+        "ref":  "4481572d-66c8-4f7a-90c3-0150052fde10",
+        "displayName":  "Drake Ironclad Assault"
+    },
+    {
         "ref":  "fb484074-f33f-4977-a052-2937e8508acc",
         "displayName":  "Drake Mule"
+    },
+    {
+        "ref":  "6585ae24-738f-42d2-8d3e-eff4a21eaca9",
+        "displayName":  "Drake Pitbull"
     },
     {
         "ref":  "34077e67-5e2c-4903-a17c-2d0e163751c7",
@@ -29496,7 +30180,7 @@
         "displayName":  "Syulen PYAM Exec"
     },
     {
-        "ref":  "3a7bfe4f-7a6c-4818-aba8-0f1019c3a647",
+        "ref":  "e39a425c-4d60-4cad-be4b-34a7aafb0c38",
         "displayName":  "Grey\u0027s Shiv"
     },
     {
@@ -29542,6 +30226,10 @@
     {
         "ref":  "df2166dd-70ba-4b10-90ee-bb2ae203b3e8",
         "displayName":  "Kruger L-22 Alpha Wolf"
+    },
+    {
+        "ref":  "38d93014-74d8-4ff9-9a2c-edf817590730",
+        "displayName":  "Kruger L-22 Alpha Wolf Wikelo War Special"
     },
     {
         "ref":  "a5a8e4e5-939c-4f7b-ab48-5f7db556d5a4",
@@ -29608,36 +30296,12 @@
         "displayName":  "MISC Prospector"
     },
     {
-        "ref":  "4e6f4187-6b7e-4c67-93bf-a41658922ba6",
-        "displayName":  "MISC Prospector Wikelo Work Special"
-    },
-    {
         "ref":  "cec2111b-4c71-4968-8035-634de6561cf3",
         "displayName":  "Mirai Razor"
     },
     {
-        "ref":  "b17ef3ab-9518-40fd-803f-c2468175ccf6",
-        "displayName":  "Mirai Razor EX"
-    },
-    {
-        "ref":  "203cb135-4f12-4a23-bd53-30910134bac8",
-        "displayName":  "Mirai Razor LX"
-    },
-    {
         "ref":  "3c9af040-d919-4afc-b768-45821a5b913c",
         "displayName":  "MISC Reliant Kore"
-    },
-    {
-        "ref":  "c6cfa4d9-e794-4bb6-8da9-54cb779ea109",
-        "displayName":  "MISC Reliant Mako"
-    },
-    {
-        "ref":  "e32d125f-a3f8-4bc7-b0e6-cb7edf22b7ac",
-        "displayName":  "MISC Reliant Sen"
-    },
-    {
-        "ref":  "c2956880-b82a-42d0-962b-eb736dac1536",
-        "displayName":  "MISC Reliant Tana"
     },
     {
         "ref":  "13a02a6d-7d67-4d22-8530-d4d2c8443f66",
@@ -29668,12 +30332,12 @@
         "displayName":  "MISC Starlancer TAC Wikelo War Special"
     },
     {
-        "ref":  "30e0f7ac-26fc-4d31-a231-af625511e37e",
-        "displayName":  "Mirai Guardian"
+        "ref":  "6c44bcd6-d4c4-41c7-8939-a576e3aa9482",
+        "displayName":  "MISC Starlite"
     },
     {
-        "ref":  "e07d46e4-92cd-462d-8cda-e17b5051a9eb",
-        "displayName":  "Mirai Guardian Wikelo War Special"
+        "ref":  "30e0f7ac-26fc-4d31-a231-af625511e37e",
+        "displayName":  "Mirai Guardian"
     },
     {
         "ref":  "aaa0cdcd-907c-4533-b3fc-181ede06076d",
@@ -29682,10 +30346,6 @@
     {
         "ref":  "57ea2eaa-c495-43ae-bc96-c6f53a8e46ef",
         "displayName":  "Mirai Guardian MX Wikelo War Special"
-    },
-    {
-        "ref":  "e98521b6-ea2f-4c10-9050-abc29d89d0e8",
-        "displayName":  "Mirai Guardian QI"
     },
     {
         "ref":  "48415834-ac12-4c28-ad01-7c210f30c2da",
@@ -29756,16 +30416,12 @@
         "displayName":  "Origin M50 Interceptor"
     },
     {
+        "ref":  "01c24704-ae47-4b31-931c-d35655edaa05",
+        "displayName":  "Origin M80"
+    },
+    {
         "ref":  "829d0525-e67e-4e57-9f52-b4e572a4f73d",
         "displayName":  "Origin X1"
-    },
-    {
-        "ref":  "b416dbbf-53f2-489e-a9dc-456286aa6c70",
-        "displayName":  "Origin X1 Force"
-    },
-    {
-        "ref":  "58e25524-8bd3-450f-8442-7b58fdfc8a50",
-        "displayName":  "Origin X1 Velocity"
     },
     {
         "ref":  "4559fbe2-55ab-a5a8-4e77-75106cb96ab7",
@@ -29774,10 +30430,6 @@
     {
         "ref":  "478bfc10-9577-ac19-262a-d40a93c3fcb2",
         "displayName":  "RSI Apollo Triage"
-    },
-    {
-        "ref":  "752f2ea8-159a-4a58-b4af-fd79054b3e2f",
-        "displayName":  "RSI Apollo Triage Wikelo Sneak Special"
     },
     {
         "ref":  "c984fac2-06c0-4776-8f93-07ebd2c26ad3",
@@ -29876,7 +30528,7 @@
         "displayName":  "RSI Salvation"
     },
     {
-        "ref":  "edc1421b-59ee-4233-b292-abc2c3ea0a1a",
+        "ref":  "80cea95b-ea34-46d0-9f03-389f3c79b040",
         "displayName":  "RSI Scorpius"
     },
     {

@@ -28,6 +28,10 @@
         "displayName":  "Avionics",
         "types":  [
                       {
+                          "type":  null,
+                          "displayName":  "Flight Blade"
+                      },
+                      {
                           "type":  "Radar",
                           "displayName":  "Radar"
                       }

@@ -189,8 +189,7 @@
         "fileName":  "beryl_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Beryl (Raw)",
         "refinedResourceTypeName":  null,
@@ -205,14 +204,7 @@
         "optimalWindowRandomness":  0.25,
         "optimalWindowThinness":  1.5,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -220,8 +212,7 @@
         "fileName":  "bexalite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Bexalite (Raw)",
         "refinedResourceTypeName":  null,
@@ -236,14 +227,7 @@
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  0.4,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -251,8 +235,7 @@
         "fileName":  "borase_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Borase (Ore)",
         "refinedResourceTypeName":  null,
@@ -267,14 +250,7 @@
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  0.5,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -351,8 +327,7 @@
         "fileName":  "copper_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Copper (Ore)",
         "refinedResourceTypeName":  null,
@@ -367,14 +342,7 @@
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  -0.9,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -505,8 +473,7 @@
         "fileName":  "gold_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Gold (Ore)",
         "refinedResourceTypeName":  null,
@@ -521,14 +488,7 @@
         "optimalWindowRandomness":  0.25,
         "optimalWindowThinness":  2.1,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -562,7 +522,7 @@
                                "asteroid",
                                "surface"
                            ],
-        "oreResourceTypeName":  "Hephaestanite (Raw)",
+        "oreResourceTypeName":  "Hephaestanite (R)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
         "oreDensityGcm3":  3.2,
@@ -590,8 +550,7 @@
         "fileName":  "iron_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Iron (Ore)",
         "refinedResourceTypeName":  null,
@@ -606,14 +565,7 @@
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  -0.9,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -667,8 +619,7 @@
         "fileName":  "laranite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Laranite (Raw)",
         "refinedResourceTypeName":  null,
@@ -683,14 +634,7 @@
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.5,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -698,8 +642,7 @@
         "fileName":  "lindinium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Lindinium (Ore)",
         "refinedResourceTypeName":  null,
@@ -714,14 +657,7 @@
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0.23,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -729,8 +665,7 @@
         "fileName":  "quantainium_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Quantainium (Raw)",
         "refinedResourceTypeName":  null,
@@ -745,14 +680,7 @@
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  2.3,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -791,8 +719,7 @@
         "fileName":  "ice_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Raw Ice",
         "refinedResourceTypeName":  null,
@@ -807,14 +734,7 @@
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.5,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -884,8 +804,7 @@
         "fileName":  "riccite_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Riccite (Ore)",
         "refinedResourceTypeName":  null,
@@ -900,14 +819,7 @@
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  2.3,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -961,8 +873,7 @@
         "fileName":  "savrilium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+                               "asteroid"
                            ],
         "oreResourceTypeName":  "Savrilium (Ore)",
         "refinedResourceTypeName":  null,
@@ -980,10 +891,6 @@
                                 {
                                     "miningContext":  "asteroid",
                                     "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
                                 }
                             ]
     },
@@ -992,8 +899,7 @@
         "fileName":  "sileron_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Stileron (Ore)",
         "refinedResourceTypeName":  null,
@@ -1008,14 +914,7 @@
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  0.6,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -1023,8 +922,7 @@
         "fileName":  "taranite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Taranite (Raw)",
         "refinedResourceTypeName":  null,
@@ -1039,14 +937,7 @@
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0.6,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -1054,8 +945,7 @@
         "fileName":  "tin_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Tin (Ore)",
         "refinedResourceTypeName":  null,
@@ -1070,14 +960,7 @@
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  0.5,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     },
     {
@@ -1116,8 +999,7 @@
         "fileName":  "torite_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+                               "asteroid"
                            ],
         "oreResourceTypeName":  "Torite (Ore)",
         "refinedResourceTypeName":  null,
@@ -1135,10 +1017,6 @@
                                 {
                                     "miningContext":  "asteroid",
                                     "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
                                 }
                             ]
     },
@@ -1147,8 +1025,7 @@
         "fileName":  "tungsten_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
-                               "asteroid",
-                               "surface"
+
                            ],
         "oreResourceTypeName":  "Tungsten (Ore)",
         "refinedResourceTypeName":  null,
@@ -1163,14 +1040,7 @@
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  -0.7,
         "densityProfiles":  [
-                                {
-                                    "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
-                                },
-                                {
-                                    "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
-                                }
+
                             ]
     }
 ]

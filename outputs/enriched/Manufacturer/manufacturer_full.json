@@ -808,7 +808,7 @@
     {
         "ref":  "7b5d1ed3-11e7-49e6-9ed3-9d0cb52a3dc2",
         "code":  "KRI",
-        "displayName":  "Kruger Intergalatic",
+        "displayName":  "Kruger Intergalactic",
         "displayNameToken":  "@manufacturer_NameKRIG",
         "shortName":  null,
         "shortNameToken":  null,
@@ -1140,6 +1140,19 @@
         "description":  "SPV brings you inventive twists and inspirational detailing for a day to night collection that is whatever you want it to be.",
         "descriptionToken":  "@manufacturer_DescSPV",
         "logo":  "UI/SharedAssets/ManufacturerLogos/SPV_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
+        "ref":  "c4a97eae-00ee-4873-93c5-ee73209e3ec8",
+        "code":  null,
+        "displayName":  "Stor*All",
+        "displayNameToken":  "@manufacturer_NameSTOR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Stor*All is the largest manufacturer of storage containers in the empire, making everything from general purpose boxes to highly specialized containers for hazardous materials.",
+        "descriptionToken":  "@manufacturer_DescSTOR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_storall_diff.tif",
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },

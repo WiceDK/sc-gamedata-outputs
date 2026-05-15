@@ -1,0 +1,50 @@
+{
+    "startedAt":  "2026-05-08T23:39:39",
+    "finishedAt":  "2026-05-08T23:45:58",
+    "sourceArchive":  {
+                          "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
+                          "size":  153806778368,
+                          "lastWriteTimeUtc":  "2026-04-28T15:14:59.5777414Z",
+                          "sha256":  "88933D1A543AA6C33E717E7CD21D432A1904E74C9F2AADAE08F58A5184278510",
+                          "hashSkipped":  false
+                      },
+    "configuredSourceArchive":  "Data.p4k",
+    "extractionConfigPath":  "src\\contracts\\extract-config.json",
+    "enrichmentRulesPath":  "src\\contracts\\normalization-rules-v2.json",
+    "rawFirstMode":  true,
+    "steps":  [
+                  {
+                      "step":  "extract",
+                      "succeeded":  true,
+                      "skipped":  true,
+                      "reason":  "SkipExtraction switch was set"
+                  },
+                  {
+                      "step":  "remove-legacy-derived-outputs",
+                      "succeeded":  true,
+                      "removedPaths":  [
+                                           "outputs\\enriched\\Locations",
+                                           "outputs\\enriched\\Amenities",
+                                           "outputs\\enriched\\MissionLocations",
+                                           "outputs\\indexes\\enrichment-manifest.json"
+                                       ]
+                  },
+                  {
+                      "step":  "enrich",
+                      "succeeded":  true,
+                      "rulesPath":  "src\\contracts\\normalization-rules-v2.json"
+                  },
+                  {
+                      "step":  "sql-import",
+                      "succeeded":  false,
+                      "exitCode":  1
+                  },
+                  {
+                      "step":  "push-outputs",
+                      "succeeded":  true,
+                      "skipped":  true,
+                      "reason":  "OutputRepoPath not provided"
+                  }
+              ],
+    "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
+}

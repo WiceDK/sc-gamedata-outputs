@@ -180,6 +180,12 @@
         "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_race.svg"
     },
     {
+        "ref":  "bd2c0bb5-0334-4f78-a78d-98f2a446c0ad",
+        "localizedName":  "Refueling",
+        "nameSource":  "localization",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/Starmap/icon_fuel.svg"
+    },
+    {
         "ref":  "80f3c6da-28cd-48b7-a429-3995b15c1f23",
         "localizedName":  "Rescue",
         "nameSource":  "localization",

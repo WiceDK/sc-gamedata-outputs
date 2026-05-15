@@ -1,6 +1,6 @@
 [
     {
-        "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
+        "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
         "name":  null,
         "description":  null,
         "faction_type":  "Unlawful",
@@ -10,7 +10,7 @@
         "logo":  null
     },
     {
-        "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
+        "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
         "name":  null,
         "description":  null,
         "faction_type":  "Unlawful",
@@ -30,11 +30,21 @@
         "logo":  null
     },
     {
-        "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "ref":  "615e0c15-883f-4c5c-af0f-0f332483eb31",
         "name":  null,
         "description":  null,
-        "faction_type":  "Unlawful",
-        "default_reaction":  "Hostile",
+        "faction_type":  "Lawful",
+        "default_reaction":  "Neutral",
+        "able_to_arrest":  false,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
+        "ref":  "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
+        "name":  null,
+        "description":  null,
+        "faction_type":  "Lawful",
+        "default_reaction":  "Neutral",
         "able_to_arrest":  false,
         "is_lawful":  null,
         "logo":  null
@@ -327,7 +337,7 @@
         "default_reaction":  null,
         "able_to_arrest":  false,
         "is_lawful":  true,
-        "logo":  null
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_hockrow.tif"
     },
     {
         "ref":  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b",
@@ -500,12 +510,12 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_ruto.tif"
     },
     {
-        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
         "name":  "Security",
-        "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "faction_type":  "PrivateSecurity",
-        "default_reaction":  "Neutral",
-        "able_to_arrest":  true,
+        "description":  null,
+        "faction_type":  "Lawful",
+        "default_reaction":  "Friendly",
+        "able_to_arrest":  false,
         "is_lawful":  null,
         "logo":  null
     },
@@ -520,11 +530,21 @@
         "logo":  null
     },
     {
-        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
+        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
         "name":  "Security",
+        "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "faction_type":  "PrivateSecurity",
+        "default_reaction":  "Neutral",
+        "able_to_arrest":  true,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
+        "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "name":  "Shattered Blade",
         "description":  null,
-        "faction_type":  "Lawful",
-        "default_reaction":  "Friendly",
+        "faction_type":  "Unlawful",
+        "default_reaction":  "Hostile",
         "able_to_arrest":  false,
         "is_lawful":  null,
         "logo":  null
@@ -588,6 +608,16 @@
         "able_to_arrest":  false,
         "is_lawful":  true,
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_udm.tif"
+    },
+    {
+        "ref":  "8458379d-9b70-493e-9477-817bf87d56d9",
+        "name":  "United Wayfarers Club",
+        "description":  "The UWC represents a vast network of repair, refueling and recovery specialists spread across the UEE. The network has even grown to include a handful of Banu and Xi’an affiliate clubs.  The UWC's expanding reach aims to ensure safe travel for all Club members, no matter how far from home they may find themselves.",
+        "faction_type":  "Lawful",
+        "default_reaction":  "Neutral",
+        "able_to_arrest":  false,
+        "is_lawful":  true,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_uwc_diff.tif"
     },
     {
         "ref":  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",

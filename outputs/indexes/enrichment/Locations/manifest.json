@@ -1,0 +1,21 @@
+{
+    "generatedAt":  "2026-05-15T11:16:15",
+    "mode":  "raw-first",
+    "sourceRoots":  [
+                        "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap",
+                        "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations"
+                    ],
+    "rulesPath":  "src\\contracts\\normalization-rules-v2.json",
+    "records":  1984,
+    "missionRecords":  2063,
+    "parseErrors":  0,
+    "output":  {
+                   "missionIndex":  "outputs\\enriched\\MissionLocations\\mission_location_full.json",
+                   "discussion":  "outputs\\enriched\\Locations\\location_min.json",
+                   "errors":  "outputs\\indexes\\enrichment\\Locations\\locations-parse-errors.json",
+                   "nameGaps":  "outputs\\indexes\\enrichment\\Locations\\location_name_gaps.json",
+                   "missionDiscussion":  "outputs\\enriched\\MissionLocations\\mission_location_min.json",
+                   "duplicateNames":  "outputs\\indexes\\enrichment\\Locations\\location_duplicate_names.json",
+                   "index":  "outputs\\enriched\\Locations\\location_full.json"
+               }
+}

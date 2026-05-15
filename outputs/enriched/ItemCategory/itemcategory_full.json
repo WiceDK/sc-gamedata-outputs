@@ -42,6 +42,12 @@
         "displayNameToken":  "@itemPort_category_avionics",
         "types":  [
                       {
+                          "typeToken":  "@item_SubTypeFlightBlade",
+                          "type":  null,
+                          "displayName":  "Flight Blade",
+                          "displayNameToken":  "@item_SubTypeFlightBlade"
+                      },
+                      {
                           "typeToken":  "@item_TypeRadar",
                           "type":  "Radar",
                           "displayName":  "Radar",

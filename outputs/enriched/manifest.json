@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-05-08T23:45:58",
+    "generatedAt":  "2026-05-15T11:19:07",
     "rulesPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\src\\contracts\\normalization-rules-v2.json",
     "mode":  "raw-first",
     "steps":  [
@@ -169,6 +169,13 @@
                       "succeeded":  true,
                       "fullOutputPath":  "outputs\\enriched\\MineableLocations\\mineablelocation_full.json",
                       "minOutputPath":  "outputs\\enriched\\MineableLocations\\mineablelocation_min.json"
+                  },
+                  {
+                      "domain":  "tokenIndex",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\indexes\\token_index_full.json",
+                      "minOutputPath":  "outputs\\indexes\\token_index_min.json"
                   }
               ]
 }

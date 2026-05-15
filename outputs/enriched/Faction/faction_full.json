@@ -1,30 +1,5 @@
 [
     {
-        "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic.xml",
-        "rootElement":  "Faction.Faction_Creature_Hostile_Generic",
-        "rawNameToken":  "@LOC_UNINITIALIZED",
-        "resolvedName":  null,
-        "nameStatus":  "unresolved",
-        "rawDescriptionToken":  "@LOC_EMPTY",
-        "resolvedDescription":  null,
-        "factionType":  "Unlawful",
-        "defaultReaction":  "Hostile",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  true,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic_vlk_asd_align.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic_vlk_asd_align.xml",
@@ -44,6 +19,31 @@
         "alliedFactionRefs":  [
                                   "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
                                   "7535609a-6616-4992-9550-f8d2fd60f0d4"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Generic",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
                               ],
         "enemyFactionRefs":  [
 
@@ -77,17 +77,17 @@
         "reputation":  null
     },
     {
-        "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_shatteredblade.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_shatteredblade.xml",
-        "rootElement":  "Faction.Faction_Unlawful_ShatteredBlade",
-        "rawNameToken":  "@ShatteredBlade_RepUI_Name",
+        "ref":  "615e0c15-883f-4c5c-af0f-0f332483eb31",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_intersecdefensesolutions.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_intersecdefensesolutions.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_InterSecDefenseSolutions",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  null,
         "nameStatus":  "unresolved",
-        "rawDescriptionToken":  "@ShatteredBlade_RepUI_Decription",
+        "rawDescriptionToken":  "@LOC_EMPTY",
         "resolvedDescription":  null,
-        "factionType":  "Unlawful",
-        "defaultReaction":  "Hostile",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
@@ -97,9 +97,35 @@
 
                               ],
         "enemyFactionRefs":  [
-                                 "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
-                                 "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
-                                 "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd"
+
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_pa.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_pa.xml",
+        "rootElement":  "Faction.Faction_Lawful_PA",
+        "rawNameToken":  "@am_pa_name",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "dd2db9b4-a41a-4aa0-bb6b-6c75c0c078b1",
+                                 "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4",
+                                 "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b"
                              ],
         "reputation":  null
     },
@@ -994,7 +1020,7 @@
 
                              ],
         "reputation":  {
-                           "logoPath":  null,
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_hockrow.tif",
                            "isNpc":  false,
                            "hideInApp":  false,
                            "isLawful":  true,
@@ -1531,27 +1557,27 @@
                        }
     },
     {
-        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
-        "rootElement":  "Faction.Faction_LawfulSecurity_Generic",
+        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_friendlytoall.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_friendlytoall.xml",
+        "rootElement":  "Faction.Faction_Special_FriendlyToAll",
         "rawNameToken":  "@PrivateSecurity_RepUI_Name",
         "resolvedName":  "Security",
         "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
-        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "factionType":  "PrivateSecurity",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  true,
-        "policesLawfulTrespass":  true,
-        "policesCriminality":  true,
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Friendly",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
         "noLegalRights":  false,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
 
                               ],
         "enemyFactionRefs":  [
-                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+
                              ],
         "reputation":  null
     },
@@ -1581,17 +1607,42 @@
         "reputation":  null
     },
     {
-        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_friendlytoall.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_special_friendlytoall.xml",
-        "rootElement":  "Faction.Faction_Special_FriendlyToAll",
+        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_Generic",
         "rawNameToken":  "@PrivateSecurity_RepUI_Name",
         "resolvedName":  "Security",
         "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@LOC_EMPTY",
+        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
+        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_shatteredblade.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_shatteredblade.xml",
+        "rootElement":  "Faction.Faction_Unlawful_ShatteredBlade",
+        "rawNameToken":  "@ShatteredBlade_RepUI_Name",
+        "resolvedName":  "Shattered Blade",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@ShatteredBlade_RepUI_Decription",
         "resolvedDescription":  null,
-        "factionType":  "Lawful",
-        "defaultReaction":  "Friendly",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
@@ -1601,7 +1652,9 @@
 
                               ],
         "enemyFactionRefs":  [
-
+                                 "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
+                                 "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
+                                 "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd"
                              ],
         "reputation":  null
     },
@@ -1793,6 +1846,41 @@
                            "resolvedLeadership":  "Yan Linfeld and Kalee Ora, Founders",
                            "resolvedArea":  "Stanton IV",
                            "resolvedFocus":  "Delivery, Hauling, Courier Services"
+                       }
+    },
+    {
+        "ref":  "8458379d-9b70-493e-9477-817bf87d56d9",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_unitedwayfarersclub.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_unitedwayfarersclub.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_UnitedWayfarersClub",
+        "rawNameToken":  "@Guild_United_Wayfarers_Club_RepUI_Name",
+        "resolvedName":  "United Wayfarers Club",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Guild_United_Wayfarers_Club_RepUI_Description",
+        "resolvedDescription":  "The UWC represents a vast network of repair, refueling and recovery specialists spread across the UEE. The network has even grown to include a handful of Banu and Xi’an affiliate clubs.  The UWC's expanding reach aims to ensure safe travel for all Club members, no matter how far from home they may find themselves.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "f9a36b95-12b8-4fe3-a465-cec1d548c94b",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_uwc_diff.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Selene, Vega System",
+                           "resolvedFounded":  "2473",
+                           "resolvedLeadership":  "Bennet Hogg",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "In-flight repairs, refueling and re-arming. Vehicle rescue and retrieval."
                        }
     },
     {

@@ -49980,6 +49980,66 @@
         "systemName":  null
     },
     {
+        "ref":  "dc221870-1921-4ae0-9ad2-333ebc839185",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\spacestations\\reststop_nyx_tsg_qvextractionstation.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/spacestations/reststop_nyx_tsg_qvextractionstation.xml",
+        "rootElement":  "MissionLocationTemplate.RestStop_Nyx_TSG_QVExtractionStation",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Intersec_TSG_location",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "QV Extraction Station",
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null
+    },
+    {
+        "ref":  "d55b8db1-a418-4e8d-b1c0-1456405722e7",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\spacestations\\reststop_nyx_tsg_qvextractionstation_interior.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/spacestations/reststop_nyx_tsg_qvextractionstation_interior.xml",
+        "rootElement":  "MissionLocationTemplate.RestStop_Nyx_TSG_QVExtractionStation_Interior",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null
+    },
+    {
         "ref":  "7e27c4b7-b6cd-4f39-8cea-250d24951cb1",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\spacestations\\reststop_pyro.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/spacestations/reststop_pyro.xml",
