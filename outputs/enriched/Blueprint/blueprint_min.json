@@ -16651,7 +16651,7 @@
     {
         "ref":  "bee42c5b-59ac-40c0-9bed-f2af1f56992e",
         "category":  "fpsgear",
-        "outputItemName":  "Mirai Racing Flight Suit\\n",
+        "outputItemName":  "Mirai Racing Flight Suit",
         "outputItemType":  "Char_Armor_Undersuit",
         "craftTimeMins":  1.5,
         "inputs":  [

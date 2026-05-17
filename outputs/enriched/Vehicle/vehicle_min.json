@@ -8480,7 +8480,7 @@
     {
         "ref":  "35f6ad71-01c6-4762-a18b-99c7fdde9760",
         "displayName":  "Anvil Terrapin Medic",
-        "description":  "Manufacturer: Anvil Aerospace\\nFocus: Medical\\n\\nMaintaining the famed toughness of the original Terrapin, Anvil designers have crafted an optimal vehicle for rescue operations with the Terrapin Medic. Featuring a tier 2 medical bed, the Terrapin Medic can extract injured parties from even the most hazardous situations thanks to its powerful armor and shielding.\\n",
+        "description":  "Manufacturer: Anvil Aerospace\\nFocus: Medical\\n\\nMaintaining the famed toughness of the original Terrapin, Anvil designers have crafted an optimal vehicle for rescue operations with the Terrapin Medic. Featuring a tier 2 medical bed, the Terrapin Medic can extract injured parties from even the most hazardous situations thanks to its powerful armor and shielding.",
         "vehicleType":  "Spaceship",
         "shipSize":  "Small",
         "career":  "Support",
@@ -8965,9 +8965,84 @@
                        ]
     },
     {
+        "ref":  "09c9fa95-5b5a-4200-9ff8-3b288df9925b",
+        "displayName":  "Argo ATLS",
+        "description":  "Manufacturer: Argo Astronautics\\nFocus: Cargo\\n \\nThanks to a rigorous process of real-world testing, this next-generation assisted transport loading system from Argo Astronautics features a fully redesigned cockpit that makes wearing this latest ATLS power suit feel more like a natural extension of the user’s body than ever before. With smoother leg actuators than previous versions alongside the powerful integrated tractor beam, transferring bulky cargo efficiently and precisely has never been easier.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Cargo",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
+        "ref":  "a10bcff6-7985-431f-b0ea-bdb51e6d3f98",
+        "displayName":  "Argo ATLS GEO",
+        "description":  "Manufacturer: Argo Astronautics\\nFocus: Mining\\n\\nBuilding upon the rock-solid foundation offered by the ATLS, the engineers at Argo Astronautics have masterfully converted the power suit into the ideal personal mining platform.  Featuring a mining laser, tractor beam and removable ore storage, the ATLS GEO is an all-in-one solution for harvesting the maximum potential value from your deposits.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Mining",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
+        "ref":  "d4abc245-9a8d-43fe-a33d-c7988af62d0f",
+        "displayName":  "Argo ATLS GEO IKTI",
+        "description":  "Manufacturer: Argo Astronautics\\nFocus: Mining\\n\\nBuilding upon the rock-solid foundation offered by the ATLS, the engineers at Argo Astronautics have masterfully converted the power suit into the ideal personal mining platform.  Featuring a mining laser, tractor beam and removable ore storage, the ATLS GEO is an all-in-one solution for harvesting the maximum potential value from your deposits.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  null,
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
+        "ref":  "4a7a4b9d-ae3c-4375-af63-4100f831f43c",
+        "displayName":  "Argo ATLS IKTI",
+        "description":  "Manufacturer: Banu\\nFocus: Combat\\n\\nHandcrafted by Wikelo, this bespoke variant of the ATLS power suit removes everything that’s not guns and replaces them with guns.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Combat",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
+        "ref":  "a13e7de9-3c22-4981-86ec-6b38394d1b10",
+        "displayName":  "Argo ATLS IKTI Rad",
+        "description":  "Manufacturer: ASD\\nFocus: Combat\\n \\nTaking an Argo ATLS modified for combat by the Banu merchant Wikelo, ASD has made further adjustments to the power suit so that it's better able to survive the deadly radiation storms on Pyro I.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Combat",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
         "ref":  "e8efe30c-5a1e-4ca2-a956-424b352f80c2",
-        "displayName":  "Argo CSV-SM\\n",
-        "description":  "Manufacturer: Argo Astronautics\\nFocus: Light Freight\\n\\nYou got your plot of land, you’ve got the right construction materials, and now you’re ready to watch your dreams take shape. The ideal companion to the CSV-FM, the CSV Supply Model provides additional storage for all the resources required to build your next settlement.\\n",
+        "displayName":  "Argo CSV-SM",
+        "description":  "Manufacturer: Argo Astronautics\\nFocus: Light Freight\\n\\nYou got your plot of land, you’ve got the right construction materials, and now you’re ready to watch your dreams take shape. The ideal companion to the CSV-FM, the CSV Supply Model provides additional storage for all the resources required to build your next settlement.",
         "vehicleType":  "GroundVehicle",
         "shipSize":  null,
         "career":  "Transporter",
@@ -9913,6 +9988,51 @@
                                          ],
                                "defaultComponent":  "SafeTow S3 Towing Beam"
                            }
+                       ]
+    },
+    {
+        "ref":  "48a46604-7786-44f5-9c22-fa298fad141e",
+        "displayName":  "ATLS Cool Metal Color",
+        "description":  "Manufacturer: Argo Astronautics\\nFocus: Mining\\n\\nBuilding upon the rock-solid foundation offered by the ATLS, the engineers at Argo Astronautics have masterfully converted the power suit into the ideal personal mining platform.  Featuring a mining laser, tractor beam and removable ore storage, the ATLS GEO is an all-in-one solution for harvesting the maximum potential value from your deposits.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Mining",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
+        "ref":  "f183c17c-eb46-47d6-8029-24f4189be6f2",
+        "displayName":  "ATLS Orange Line",
+        "description":  "Many Human work place have orange color there. Must mean work to you. This suit does work. Make sense.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Mining",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
+        "ref":  "8b2016c5-0eba-4cc7-87a2-24b7cd4b82d8",
+        "displayName":  "ATLS Snowland Color",
+        "description":  "Manufacturer: Argo Astronautics\\nFocus: Mining\\n\\nBuilding upon the rock-solid foundation offered by the ATLS, the engineers at Argo Astronautics have masterfully converted the power suit into the ideal personal mining platform.  Featuring a mining laser, tractor beam and removable ore storage, the ATLS GEO is an all-in-one solution for harvesting the maximum potential value from your deposits.",
+        "vehicleType":  "PowerSuit",
+        "shipSize":  null,
+        "career":  "Ground",
+        "role":  "Mining",
+        "crewSize":  1,
+        "size":  null,
+        "cargoSCU":  null,
+        "hardpoints":  [
+
                        ]
     },
     {
@@ -16909,7 +17029,7 @@
     {
         "ref":  "f7b8addd-9253-495c-a278-bdaa236e6cbc",
         "displayName":  "Esperia Stinger",
-        "description":  "Manufacturer: Esperia\\nFocus: Heavy Fighter\\n \\nWreaking havoc along Humanity's border systems, this Vanduul heavy fighter, designated 'Stinger' by the UEE Navy, has earned itself a blood-stained legacy as a major threat to pilots and capital ships alike. Originally intended for training aggressor squadrons, Esperia is now making their detailed replica available to the broader civilian population. \\n",
+        "description":  "Manufacturer: Esperia\\nFocus: Heavy Fighter\\n \\nWreaking havoc along Humanity's border systems, this Vanduul heavy fighter, designated 'Stinger' by the UEE Navy, has earned itself a blood-stained legacy as a major threat to pilots and capital ships alike. Originally intended for training aggressor squadrons, Esperia is now making their detailed replica available to the broader civilian population. ",
         "vehicleType":  "Spaceship",
         "shipSize":  "Medium",
         "career":  "Combat",
@@ -19388,7 +19508,7 @@
     {
         "ref":  "30e0f7ac-26fc-4d31-a231-af625511e37e",
         "displayName":  "Mirai Guardian",
-        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \\n",
+        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. ",
         "vehicleType":  "Spaceship",
         "shipSize":  null,
         "career":  "Combat",
@@ -19466,7 +19586,7 @@
     {
         "ref":  "aaa0cdcd-907c-4533-b3fc-181ede06076d",
         "displayName":  "Mirai Guardian MX",
-        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the framework of the Guardian fighter and adding even more offensive options, the Mirai Guardian MX packs additional firepower and armor ideal for overwhelming opponents. While not as nimble as the base Guardian, this heavy fighter is still more agile than many other ships in its class.\\n",
+        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the framework of the Guardian fighter and adding even more offensive options, the Mirai Guardian MX packs additional firepower and armor ideal for overwhelming opponents. While not as nimble as the base Guardian, this heavy fighter is still more agile than many other ships in its class.",
         "vehicleType":  "Spaceship",
         "shipSize":  null,
         "career":  "Combat",
@@ -19730,7 +19850,7 @@
     {
         "ref":  "e98521b6-ea2f-4c10-9050-abc29d89d0e8",
         "displayName":  "Mirai Guardian QI",
-        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. \\n",
+        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. ",
         "vehicleType":  "Spaceship",
         "shipSize":  null,
         "career":  "Combat",
@@ -19964,7 +20084,7 @@
     {
         "ref":  "48415834-ac12-4c28-ad01-7c210f30c2da",
         "displayName":  "Mirai Pulse",
-        "description":  "Manufacturer: Mirai\\nFocus: Combat\\n \\nThe engineers at Mirai set out to craft an open-canopy bike capable of more. A more intimate connection between pilot and performance with a form-fitting silhouette. A more intuitive way to tame formidable landscapes with a responsive grav-lev system. A more intelligent combat experience with a custom weapon fully integrated into the spirit of the vehicle. The end result? The Mirai Pulse.\\n",
+        "description":  "Manufacturer: Mirai\\nFocus: Combat\\n \\nThe engineers at Mirai set out to craft an open-canopy bike capable of more. A more intimate connection between pilot and performance with a form-fitting silhouette. A more intuitive way to tame formidable landscapes with a responsive grav-lev system. A more intelligent combat experience with a custom weapon fully integrated into the spirit of the vehicle. The end result? The Mirai Pulse.",
         "vehicleType":  "Spaceship",
         "shipSize":  null,
         "career":  "Combat",
@@ -20012,7 +20132,7 @@
     {
         "ref":  "d1f27f85-90db-4b5d-8ac2-09a9e9ee1315",
         "displayName":  "Mirai Pulse LX",
-        "description":  "Manufacturer: Mirai\\nFocus: Racing\\n \\nSeamlessly pairing pilot and pure speed, the Mirai Pulse LX grav-lev bike soars over terrain like no open-canopy racer before. Feel your heartrate quicken as you experience first-hand the Pulse’s ground-breaking responsiveness and form-fitting silhouette.   \\n",
+        "description":  "Manufacturer: Mirai\\nFocus: Racing\\n \\nSeamlessly pairing pilot and pure speed, the Mirai Pulse LX grav-lev bike soars over terrain like no open-canopy racer before. Feel your heartrate quicken as you experience first-hand the Pulse’s ground-breaking responsiveness and form-fitting silhouette.   ",
         "vehicleType":  "Spaceship",
         "shipSize":  null,
         "career":  "Competition",
@@ -20468,7 +20588,7 @@
     {
         "ref":  "3d371fd4-50e2-4b5e-859f-1086e905c946",
         "displayName":  "MISC Fortune",
-        "description":  "Manufacturer: MISC\\nFocus: Light Salvage\\n\\nFor those ready to elevate their profession to the next level, the engineers at MISC have carefully crafted the Fortune as a best-in-class small reclamation vessel. Equipped with a versatile salvage arm and a cargo lift, the MISC Fortune is built from the struts up to turn trash into treasure.\\n",
+        "description":  "Manufacturer: MISC\\nFocus: Light Salvage\\n\\nFor those ready to elevate their profession to the next level, the engineers at MISC have carefully crafted the Fortune as a best-in-class small reclamation vessel. Equipped with a versatile salvage arm and a cargo lift, the MISC Fortune is built from the struts up to turn trash into treasure.",
         "vehicleType":  "Spaceship",
         "shipSize":  "Medium",
         "career":  "Industrial",
@@ -26347,7 +26467,7 @@
     {
         "ref":  "8e27d568-f424-4dc9-a10f-ca4c34efab85",
         "displayName":  "RSI Aurora Mk I SE",
-        "description":  "Manufacturer: RSI\\nFocus: Multi-Role\\n\\nIntegrating the best of what made the Aurora Mk I series so beloved by generations, this special edition strikes an impressive balance to allow pilots to tackle a wide array of tasks. With the Aurora Mk I SE parked in your hangar, this all-arounder is sure to become a daily flyer thanks to its ability to handle whatever life throws your way. \\n",
+        "description":  "Manufacturer: RSI\\nFocus: Multi-Role\\n\\nIntegrating the best of what made the Aurora Mk I series so beloved by generations, this special edition strikes an impressive balance to allow pilots to tackle a wide array of tasks. With the Aurora Mk I SE parked in your hangar, this all-arounder is sure to become a daily flyer thanks to its ability to handle whatever life throws your way. ",
         "vehicleType":  "Spaceship",
         "shipSize":  "Small",
         "career":  "Combat",
@@ -29374,7 +29494,7 @@
     {
         "ref":  "e4770804-b43a-4c2d-a4e4-fedd410e50fb",
         "displayName":  "RSI Zeus Mk II ES",
-        "description":  "Manufacturer: Roberts Space Industries\\nFocus: Expedition\\n\\nReady to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards while retaining the heart of this beloved spacefaring icon.  With a focus on exploration, the Zeus Mk II ES edition features a robust radar package for finding new discoveries, and enhanced weaponry and shielding to help bring them back home.\\n",
+        "description":  "Manufacturer: Roberts Space Industries\\nFocus: Expedition\\n\\nReady to ferry a whole new generation of travelers across the universe, Roberts Space Industries is proud to introduce a starship eight centuries in the making - the all-new Zeus Mk II spacecraft. Paying homage to the classic design that launched Humanity to the stars in 2140, the Zeus Mk II has been updated to exceed modern standards while retaining the heart of this beloved spacefaring icon.  With a focus on exploration, the Zeus Mk II ES edition features a robust radar package for finding new discoveries, and enhanced weaponry and shielding to help bring them back home.",
         "vehicleType":  "Spaceship",
         "shipSize":  null,
         "career":  "Exploration",
