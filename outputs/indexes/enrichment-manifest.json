@@ -1,0 +1,181 @@
+{
+    "generatedAt":  "2026-05-20T10:49:10",
+    "rulesPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\src\\contracts\\normalization-rules-v2.json",
+    "mode":  "raw-first",
+    "steps":  [
+                  {
+                      "domain":  "locations",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "outputPath":  "outputs\\enriched\\Locations\\location_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Locations\\location_min.json",
+                      "missionOutputPath":  "outputs\\enriched\\MissionLocations\\mission_location_full.json",
+                      "missionMinOutputPath":  "outputs\\enriched\\MissionLocations\\mission_location_min.json"
+                  },
+                  {
+                      "domain":  "amenities",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Amenities\\amenities_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Amenities\\amenities_min.json",
+                      "locationAmenityFullPath":  "outputs\\indexes\\enrichment\\Amenities\\location_amenity_full.json",
+                      "locationAmenityMinPath":  "outputs\\indexes\\enrichment\\Amenities\\location_amenity_min.json"
+                  },
+                  {
+                      "domain":  "jurisdiction",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Jurisdiction\\jurisdiction_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Jurisdiction\\jurisdiction_min.json"
+                  },
+                  {
+                      "domain":  "faction",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Faction\\faction_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Faction\\faction_min.json"
+                  },
+                  {
+                      "domain":  "commodityType",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\CommodityType\\commodity_type_full.json",
+                      "minOutputPath":  "outputs\\enriched\\CommodityType\\commodity_type_min.json"
+                  },
+                  {
+                      "domain":  "itemCategory",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\ItemCategory\\itemcategory_full.json",
+                      "minOutputPath":  "outputs\\enriched\\ItemCategory\\itemcategory_min.json"
+                  },
+                  {
+                      "domain":  "item",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Item\\item_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Item\\item_min.json",
+                      "manufacturerFullOutputPath":  "outputs\\enriched\\Manufacturer\\manufacturer_full.json",
+                      "manufacturerMinOutputPath":  "outputs\\enriched\\Manufacturer\\manufacturer_min.json"
+                  },
+                  {
+                      "domain":  "shop",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Shop\\shop_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Shop\\shop_min.json"
+                  },
+                  {
+                      "domain":  "vehicle",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Vehicle\\vehicle_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Vehicle\\vehicle_min.json"
+                  },
+                  {
+                      "domain":  "blueprint",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Blueprint\\blueprint_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Blueprint\\blueprint_min.json"
+                  },
+                  {
+                      "domain":  "missionType",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\MissionType\\missiontype_full.json",
+                      "minOutputPath":  "outputs\\enriched\\MissionType\\missiontype_min.json"
+                  },
+                  {
+                      "domain":  "missionGiver",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\MissionGiver\\missiongiver_full.json",
+                      "minOutputPath":  "outputs\\enriched\\MissionGiver\\missiongiver_min.json"
+                  },
+                  {
+                      "domain":  "missions",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\Missions\\mission_full.json",
+                      "minOutputPath":  "outputs\\enriched\\Missions\\mission_min.json"
+                  },
+                  {
+                      "domain":  "refiningMethod",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\RefiningMethod\\refiningmethod_full.json",
+                      "minOutputPath":  "outputs\\enriched\\RefiningMethod\\refiningmethod_min.json"
+                  },
+                  {
+                      "domain":  "resourceTypeGroup",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\ResourceTypeGroup\\resourcetypegroup_full.json",
+                      "minOutputPath":  "outputs\\enriched\\ResourceTypeGroup\\resourcetypegroup_min.json"
+                  },
+                  {
+                      "domain":  "resourceType",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\ResourceType\\resourcetype_full.json",
+                      "minOutputPath":  "outputs\\enriched\\ResourceType\\resourcetype_min.json"
+                  },
+                  {
+                      "domain":  "salvageableResource",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\SalvageableResources\\salvageableresource_full.json",
+                      "minOutputPath":  "outputs\\enriched\\SalvageableResources\\salvageableresource_min.json"
+                  },
+                  {
+                      "domain":  "salvageablePreset",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\SalvageablePresets\\salvageablepreset_full.json",
+                      "minOutputPath":  "outputs\\enriched\\SalvageablePresets\\salvageablepreset_min.json"
+                  },
+                  {
+                      "domain":  "salvageableClustering",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\SalvageableClustering\\salvageableclustering_full.json",
+                      "minOutputPath":  "outputs\\enriched\\SalvageableClustering\\salvageableclustering_min.json"
+                  },
+                  {
+                      "domain":  "mineableElements",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\MineableElements\\mineableelement_full.json",
+                      "minOutputPath":  "outputs\\enriched\\MineableElements\\mineableelement_min.json"
+                  },
+                  {
+                      "domain":  "rockCompositions",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\RockCompositions\\rockcomposition_full.json",
+                      "minOutputPath":  "outputs\\enriched\\RockCompositions\\rockcomposition_min.json"
+                  },
+                  {
+                      "domain":  "harvestableClustering",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\HarvestableClustering\\harvestableclustering_full.json",
+                      "minOutputPath":  "outputs\\enriched\\HarvestableClustering\\harvestableclustering_min.json"
+                  },
+                  {
+                      "domain":  "mineableLocations",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\MineableLocations\\mineablelocation_full.json",
+                      "minOutputPath":  "outputs\\enriched\\MineableLocations\\mineablelocation_min.json"
+                  },
+                  {
+                      "domain":  "tokenIndex",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\indexes\\token_index_full.json",
+                      "minOutputPath":  "outputs\\indexes\\token_index_min.json"
+                  }
+              ]
+}
