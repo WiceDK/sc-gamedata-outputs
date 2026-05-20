@@ -1,6 +1,6 @@
 {
-    "startedAt":  "2026-05-18T00:04:14",
-    "finishedAt":  "2026-05-18T00:06:58",
+    "startedAt":  "2026-05-20T10:19:19",
+    "finishedAt":  "2026-05-20T10:49:10",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  154363281408,
@@ -16,32 +16,25 @@
                   {
                       "step":  "extract",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipExtraction switch was set"
+                      "configPath":  "src\\contracts\\extract-config.json"
                   },
                   {
                       "step":  "remove-legacy-derived-outputs",
                       "succeeded":  true,
                       "removedPaths":  [
-                                           "outputs\\enriched\\Locations",
-                                           "outputs\\enriched\\Amenities",
-                                           "outputs\\enriched\\MissionLocations",
-                                           "outputs\\indexes\\enrichment-manifest.json",
-                                           "outputs\\indexes\\token_index_full.json",
-                                           "outputs\\indexes\\token_index_min.json"
+
                                        ]
                   },
                   {
                       "step":  "enrich",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipEnrichment switch was set"
+                      "rulesPath":  "src\\contracts\\normalization-rules-v2.json"
                   },
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "outputRepoPath":  "c:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-gamedata-outputs"
+                      "outputRepoPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-gamedata-outputs"
                   }
               ],
-    "enrichmentManifestPath":  null
+    "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
 }
