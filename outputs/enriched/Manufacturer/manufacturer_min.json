@@ -70,11 +70,6 @@
         "description":  "Ascension Astro started off as a boutique specialty company; selling high-end, low IR thrusters to wealthy clients who wanted to fly their luxury ships while avoiding the eyes of greedy pirates. As good as their thrusters were at being low-sig, the effect was often ruined when the engines or shielding made by other manufacturers would be screaming the ship’s presence. Slowly, Ascension began expanding their line to include a whole suite of components that, when working in conjunction, would provide an extremely low profile and a safer journey."
     },
     {
-        "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
-        "displayName":  "Banu",
-        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built."
-    },
-    {
         "ref":  "2948496b-45d2-41f8-bdff-97587f1e6981",
         "displayName":  "Basilisk",
         "description":  "Defensive system manufacturer who produces shield systems, ship armor and personal armor for both the military and private sector."
@@ -98,11 +93,6 @@
         "ref":  "eddc1a94-7840-4855-9889-544821d4d739",
         "displayName":  "Caldera",
         "description":  "Caldera Description."
-    },
-    {
-        "ref":  "d9179d05-55be-4eed-8b1b-93bb8450ff04",
-        "displayName":  "CBA",
-        "description":  "Code Blue Apparel produces a wide variety of longwear professional uniforms and jumpsuits that focus on comfort and personality without sacrificing functionality."
     },
     {
         "ref":  "64eef2d9-5d3d-431d-a83b-ae077a16b4e2",
@@ -130,6 +120,11 @@
         "description":  "Ground-combat defensive systems, covers a lot of commercial territory from personal armor to defense systems. Naming convention tend to be pretty straight-forward and logical.\\n\\nModels: PAB-4 (Personal Ablative/Ballistic Light Armor)\\n\\nQDB-12 QuiKCade (Quick Deployment Barricade)"
     },
     {
+        "ref":  "d9179d05-55be-4eed-8b1b-93bb8450ff04",
+        "displayName":  "Code Blue Apparel",
+        "description":  "Code Blue Apparel produces a wide variety of longwear professional uniforms and jumpsuits that focus on comfort and personality without sacrificing functionality."
+    },
+    {
         "ref":  "ec227ef3-fb08-4897-abdb-579eb4e87c25",
         "displayName":  "Consolidated Outland",
         "description":  "Founded by maverick trillionaire Silas Koerner, Consolidated Outland is an up-and-coming spacecraft concern, the first ever headquartered on a frontier world. Koerner, who made his sizable fortune in jump-communications, founded the company as an attempt to strike back at what he sees as the overly-regulated spacecraft industry. With facilities established as far from possible from the prying eyes of competing corporations, Outland is quickly becoming one to watch."
@@ -150,14 +145,14 @@
         "description":  "Makes medical packs for commercial purposes. Formed by a group of doctors, CureLife was the first company to offer heavy medical solutions to the general public."
     },
     {
+        "ref":  "a53bbc2b-aa43-483d-967e-0cebc5600c04",
+        "displayName":  "Denim Manufacture Corporation",
+        "description":  "Still renowned for their denim, DMC (Denim Manufacture Corporation) has become so much more. From durable outerwear to rugged fashion, DMC knows that feeling good is just as important as looking good."
+    },
+    {
         "ref":  "2ab62815-6273-44b9-bbc6-28d36fed6fd8",
         "displayName":  "Derion",
         "description":  "With their muted colors and classic cuts, Derion has become the definition of high-end business wear for men and women."
-    },
-    {
-        "ref":  "a53bbc2b-aa43-483d-967e-0cebc5600c04",
-        "displayName":  "DMC",
-        "description":  "Still renowned for their denim, DMC (Denim Manufacture Corporation) has become so much more. From durable outerwear to rugged fashion, DMC knows that feeling good is just as important as looking good."
     },
     {
         "ref":  "b495993e-c10a-41e4-876d-1de96de54e33",
@@ -236,7 +231,7 @@
     },
     {
         "ref":  "6d4b7375-8e0c-445a-a243-21f8f94f99cb",
-        "displayName":  "GSB",
+        "displayName":  "Grindstone Boots",
         "description":  "GSB description"
     },
     {
@@ -325,6 +320,11 @@
         "description":  "A manufacturer of affordable computers, computer parts, and accessories. There products don't have a lot of bells and whistles and often incorporate last gen tech, but because of that, what they do produce is reliable. Produce the Re-Authorized brand cryptokey."
     },
     {
+        "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
+        "displayName":  "Luminalia",
+        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built."
+    },
+    {
         "ref":  "9f0f7735-d389-4c7d-95f1-c4d0c57f7214",
         "displayName":  "microTech",
         "description":  "Ubiquitous around the Empire, microTech and their range of electronics, datapads, mobile interfaces, handheld sensors and computer software upgrades for starships are used daily by almost everyone. Their line of mobiGlas personal computers have become an integral part of daily life for millions of people."
@@ -341,7 +341,7 @@
     },
     {
         "ref":  "cc1731c4-8156-4750-a138-96838df79117",
-        "displayName":  "MYM",
+        "displayName":  "Muymuy",
         "description":  "MYM description"
     },
     {
@@ -438,6 +438,11 @@
         "ref":  "e7c9f9ee-a1db-40ee-bfa8-a8ffead4ac1d",
         "displayName":  "Spar Van Miles",
         "description":  "SPV brings you inventive twists and inspirational detailing for a day to night collection that is whatever you want it to be."
+    },
+    {
+        "ref":  "20121812-97a6-4ce1-a6a4-88a5ed646c58",
+        "displayName":  "Stegmans",
+        "description":  "SCU description"
     },
     {
         "ref":  "c4a97eae-00ee-4873-93c5-ee73209e3ec8",

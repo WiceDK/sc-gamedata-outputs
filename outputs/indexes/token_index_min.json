@@ -29125,7 +29125,7 @@
     },
     {
         "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
-        "displayName":  "Banu"
+        "displayName":  "Luminalia"
     },
     {
         "ref":  "2948496b-45d2-41f8-bdff-97587f1e6981",
@@ -29145,7 +29145,7 @@
     },
     {
         "ref":  "d9179d05-55be-4eed-8b1b-93bb8450ff04",
-        "displayName":  "CBA"
+        "displayName":  "Code Blue Apparel"
     },
     {
         "ref":  "64eef2d9-5d3d-431d-a83b-ae077a16b4e2",
@@ -29185,7 +29185,7 @@
     },
     {
         "ref":  "a53bbc2b-aa43-483d-967e-0cebc5600c04",
-        "displayName":  "DMC"
+        "displayName":  "Denim Manufacture Corporation"
     },
     {
         "ref":  "b495993e-c10a-41e4-876d-1de96de54e33",
@@ -29257,7 +29257,7 @@
     },
     {
         "ref":  "6d4b7375-8e0c-445a-a243-21f8f94f99cb",
-        "displayName":  "GSB"
+        "displayName":  "Grindstone Boots"
     },
     {
         "ref":  "d56a3985-2f29-4095-b2f2-542376cc74f4",
@@ -29341,7 +29341,7 @@
     },
     {
         "ref":  "cc1731c4-8156-4750-a138-96838df79117",
-        "displayName":  "MYM"
+        "displayName":  "Muymuy"
     },
     {
         "ref":  "afff101e-eb2c-4f93-960f-cec9936b9f39",
@@ -29406,6 +29406,10 @@
     {
         "ref":  "40c59850-8fb5-4a0e-ab61-7fd3871a632a",
         "displayName":  "Sakura Sun"
+    },
+    {
+        "ref":  "20121812-97a6-4ce1-a6a4-88a5ed646c58",
+        "displayName":  "Stegmans"
     },
     {
         "ref":  "f91beb30-915c-42f6-9b1f-f5bd74633fd6",
@@ -29828,10 +29832,6 @@
         "displayName":  "Anvil F7A Hornet Mk II"
     },
     {
-        "ref":  "474444e0-0c7b-50af-0f2f-d702d7ef9cbe",
-        "displayName":  "Hornet F7A Mk II PYAM Exec"
-    },
-    {
         "ref":  "933ca746-3c36-470f-8245-a247a3776455",
         "displayName":  "Anvil F7C Hornet Mk I"
     },
@@ -29898,10 +29898,6 @@
     {
         "ref":  "b67123fd-72b3-43e7-bfb3-069d59ba6190",
         "displayName":  "Anvil F8C Lightning Executive Edition"
-    },
-    {
-        "ref":  "49e65480-0ab3-bead-8207-2da32c2e00ab",
-        "displayName":  "F8C Lightning PYAM Exec"
     },
     {
         "ref":  "b617902a-6cab-457b-9eb8-494274f659b8",
@@ -30048,10 +30044,6 @@
         "displayName":  "Crusader Intrepid Wikelo Work Special"
     },
     {
-        "ref":  "8c23e3f9-b2e6-42a6-92ab-e023f1e0c643",
-        "displayName":  "Crusader C1 Spirit Wikelo Special"
-    },
-    {
         "ref":  "c8e10f09-38a0-4730-9dd3-eb0a510c9e43",
         "displayName":  "Crusader Mercury Star Runner"
     },
@@ -30120,16 +30112,8 @@
         "displayName":  "Drake Corsair"
     },
     {
-        "ref":  "4da0c1b0-cc77-86e4-93d5-759a2e6f7581",
-        "displayName":  "Corsair PYAM Exec"
-    },
-    {
         "ref":  "b58f7735-9454-4a0a-b724-2bc8d61961d7",
         "displayName":  "Drake Cutlass Black"
-    },
-    {
-        "ref":  "4484a044-bbd5-e716-736a-2dda30a3efa4",
-        "displayName":  "Cutlass Black PYAM Exec"
     },
     {
         "ref":  "d3ce093d-0ae9-4186-bed4-92c66eeea0cd",
@@ -30250,10 +30234,6 @@
     {
         "ref":  "11ebc47d-4763-4faa-9020-171cf6c2651f",
         "displayName":  "Gatac Syulen"
-    },
-    {
-        "ref":  "40e7a0a7-4a31-a952-fd27-5eadd534a2ae",
-        "displayName":  "Syulen PYAM Exec"
     },
     {
         "ref":  "3a7bfe4f-7a6c-4818-aba8-0f1019c3a647",
@@ -30452,10 +30432,6 @@
         "displayName":  "Mirai Guardian MX Wikelo War Special"
     },
     {
-        "ref":  "e98521b6-ea2f-4c10-9050-abc29d89d0e8",
-        "displayName":  "Mirai Guardian QI"
-    },
-    {
         "ref":  "48415834-ac12-4c28-ad01-7c210f30c2da",
         "displayName":  "Mirai Pulse"
     },
@@ -30548,10 +30524,6 @@
         "displayName":  "RSI Apollo Triage"
     },
     {
-        "ref":  "752f2ea8-159a-4a58-b4af-fd79054b3e2f",
-        "displayName":  "RSI Apollo Triage Wikelo Sneak Special"
-    },
-    {
         "ref":  "c984fac2-06c0-4776-8f93-07ebd2c26ad3",
         "displayName":  "RSI Aurora Mk I CL"
     },
@@ -30598,10 +30570,6 @@
     {
         "ref":  "ecadf2b2-a404-4776-9289-04af91538d76",
         "displayName":  "RSI Constellation Phoenix"
-    },
-    {
-        "ref":  "daf936a1-689f-4edb-980a-96947e2727c4",
-        "displayName":  "RSI Constellation Phoenix Emerald"
     },
     {
         "ref":  "d1c3fa10-b2d9-421e-8301-97dbf4d0c115",
@@ -30726,10 +30694,6 @@
     {
         "ref":  "28f22bb8-9f1c-4a46-9a39-20bcb1e5000e",
         "displayName":  "Vanduul Scythe"
-    },
-    {
-        "ref":  "57ed2a9b-adbf-4042-a0fd-de26ca6c8ea3",
-        "displayName":  "Vanduul Stinger"
     },
     {
         "ref":  "daddeefa-fef0-4146-b630-a33d6e8904d3",

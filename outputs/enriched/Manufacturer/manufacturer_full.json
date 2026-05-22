@@ -182,19 +182,6 @@
         "logoSimplifiedWhite":  null
     },
     {
-        "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
-        "code":  "BANU",
-        "displayName":  "Banu",
-        "displayNameToken":  "@manufacturer_NameBANU",
-        "shortName":  null,
-        "shortNameToken":  null,
-        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built.",
-        "descriptionToken":  "@manufacturer_DescBANU",
-        "logo":  "UI/SharedAssets/ManufacturerLogos/Banu_256.tif",
-        "logoFullColor":  null,
-        "logoSimplifiedWhite":  null
-    },
-    {
         "ref":  "2948496b-45d2-41f8-bdff-97587f1e6981",
         "code":  "BASL",
         "displayName":  "Basilisk",
@@ -256,19 +243,6 @@
         "description":  "Caldera Description.",
         "descriptionToken":  "@manufacturer_DescCLDA",
         "logo":  "UI/SharedAssets/ManufacturerLogos/Caldera_256.tif",
-        "logoFullColor":  null,
-        "logoSimplifiedWhite":  null
-    },
-    {
-        "ref":  "d9179d05-55be-4eed-8b1b-93bb8450ff04",
-        "code":  "CBA",
-        "displayName":  "CBA",
-        "displayNameToken":  "@manufacturer_NameCBA",
-        "shortName":  null,
-        "shortNameToken":  null,
-        "description":  "Code Blue Apparel produces a wide variety of longwear professional uniforms and jumpsuits that focus on comfort and personality without sacrificing functionality.",
-        "descriptionToken":  "@manufacturer_DescCBA",
-        "logo":  "UI/SharedAssets/ManufacturerLogos/codeblueapparel_256.tif",
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },
@@ -338,6 +312,19 @@
         "logoSimplifiedWhite":  null
     },
     {
+        "ref":  "d9179d05-55be-4eed-8b1b-93bb8450ff04",
+        "code":  "CBA",
+        "displayName":  "Code Blue Apparel",
+        "displayNameToken":  "@manufacturer_NameCBA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Code Blue Apparel produces a wide variety of longwear professional uniforms and jumpsuits that focus on comfort and personality without sacrificing functionality.",
+        "descriptionToken":  "@manufacturer_DescCBA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/codeblueapparel_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
         "ref":  "ec227ef3-fb08-4897-abdb-579eb4e87c25",
         "code":  "CNOU",
         "displayName":  "Consolidated Outland",
@@ -390,6 +377,19 @@
         "logoSimplifiedWhite":  null
     },
     {
+        "ref":  "a53bbc2b-aa43-483d-967e-0cebc5600c04",
+        "code":  "DMC",
+        "displayName":  "Denim Manufacture Corporation",
+        "displayNameToken":  "@manufacturer_NameDMC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Still renowned for their denim, DMC (Denim Manufacture Corporation) has become so much more. From durable outerwear to rugged fashion, DMC knows that feeling good is just as important as looking good.",
+        "descriptionToken":  "@manufacturer_DescDMC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/DMC_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
         "ref":  "2ab62815-6273-44b9-bbc6-28d36fed6fd8",
         "code":  "DRN",
         "displayName":  "Derion",
@@ -399,19 +399,6 @@
         "description":  "With their muted colors and classic cuts, Derion has become the definition of high-end business wear for men and women.",
         "descriptionToken":  "@manufacturer_DescDRN",
         "logo":  "UI/SharedAssets/ManufacturerLogos/Derion_256.tif",
-        "logoFullColor":  null,
-        "logoSimplifiedWhite":  null
-    },
-    {
-        "ref":  "a53bbc2b-aa43-483d-967e-0cebc5600c04",
-        "code":  "DMC",
-        "displayName":  "DMC",
-        "displayNameToken":  "@manufacturer_NameDMC",
-        "shortName":  null,
-        "shortNameToken":  null,
-        "description":  "Still renowned for their denim, DMC (Denim Manufacture Corporation) has become so much more. From durable outerwear to rugged fashion, DMC knows that feeling good is just as important as looking good.",
-        "descriptionToken":  "@manufacturer_DescDMC",
-        "logo":  "UI/SharedAssets/ManufacturerLogos/DMC_256.tif",
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },
@@ -613,7 +600,7 @@
     {
         "ref":  "6d4b7375-8e0c-445a-a243-21f8f94f99cb",
         "code":  "GSB",
-        "displayName":  "GSB",
+        "displayName":  "Grindstone Boots",
         "displayNameToken":  "@manufacturer_NameGSB",
         "shortName":  null,
         "shortNameToken":  null,
@@ -845,6 +832,19 @@
         "logoSimplifiedWhite":  null
     },
     {
+        "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
+        "code":  "BANU",
+        "displayName":  "Luminalia",
+        "displayNameToken":  "@manufacturer_NameBANU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built.",
+        "descriptionToken":  "@manufacturer_DescBANU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Banu_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
         "ref":  "9f0f7735-d389-4c7d-95f1-c4d0c57f7214",
         "code":  "MIT",
         "displayName":  "microTech",
@@ -886,7 +886,7 @@
     {
         "ref":  "cc1731c4-8156-4750-a138-96838df79117",
         "code":  "MYM",
-        "displayName":  "MYM",
+        "displayName":  "Muymuy",
         "displayNameToken":  "@manufacturer_NameMYM",
         "shortName":  null,
         "shortNameToken":  null,
@@ -1140,6 +1140,19 @@
         "description":  "SPV brings you inventive twists and inspirational detailing for a day to night collection that is whatever you want it to be.",
         "descriptionToken":  "@manufacturer_DescSPV",
         "logo":  "UI/SharedAssets/ManufacturerLogos/SPV_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
+        "ref":  "20121812-97a6-4ce1-a6a4-88a5ed646c58",
+        "code":  "SCU",
+        "displayName":  "Stegmans",
+        "displayNameToken":  "@manufacturer_NameSCU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "SCU description",
+        "descriptionToken":  "@manufacturer_DescSCU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Stegmans_256.tif",
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },
