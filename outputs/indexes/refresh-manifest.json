@@ -1,6 +1,6 @@
 {
-    "startedAt":  "2026-05-22T08:17:51",
-    "finishedAt":  "2026-05-22T08:47:06",
+    "startedAt":  "2026-05-22T15:03:30",
+    "finishedAt":  "2026-05-22T15:32:12",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  154363281408,
@@ -23,7 +23,12 @@
                       "step":  "remove-legacy-derived-outputs",
                       "succeeded":  true,
                       "removedPaths":  [
-
+                                           "outputs\\enriched\\Locations",
+                                           "outputs\\enriched\\Amenities",
+                                           "outputs\\enriched\\MissionLocations",
+                                           "outputs\\indexes\\enrichment-manifest.json",
+                                           "outputs\\indexes\\token_index_full.json",
+                                           "outputs\\indexes\\token_index_min.json"
                                        ]
                   },
                   {
@@ -34,8 +39,7 @@
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipPush switch was set"
+                      "outputRepoPath":  "c:/Users/mail/OneDrive/Star citizen stuff/Exovant/sc-gamedata-outputs"
                   }
               ],
     "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
