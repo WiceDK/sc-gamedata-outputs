@@ -1,156 +1,56 @@
 [
     {
-        "ref":  "96566b51-4fed-4711-ae6e-9565f54a1ffa",
-        "codeName":  "nozzle_fuelgiver_grin_nozzleverysecure",
+        "ref":  "c0226b4d-3829-487c-8bf0-7d47f36ae867",
+        "codeName":  "radr_rsi_s04_polaris",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "60a89f06-91da-4941-b77e-2c9b3f5f57e4",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
-        "inputs":  [
-                       {
-                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
-                           "resourceName":  "Titanium",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.8
-                       },
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
-                       }
-                   ]
-    },
-    {
-        "ref":  "dbe5c153-2149-4843-9b03-297f3e66d092",
-        "codeName":  "nozzle_fuelgiver_grin_nozzleveryfast",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "78d86759-340e-4a05-bcbe-4f42dd78573c",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
-        "inputs":  [
-                       {
-                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
-                           "resourceName":  "Titanium",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.8
-                       },
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
-                       }
-                   ]
-    },
-    {
-        "ref":  "40e0d74b-2449-4102-a856-514c4c62400b",
-        "codeName":  "nozzle_fuelgiver_shin_nozzleexpensivefast",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "26dc23e6-cc07-4389-8e54-dd1c256182a7",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
-        "inputs":  [
-                       {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.8
-                       },
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
-                       }
-                   ]
-    },
-    {
-        "ref":  "6d1117b4-6bc0-4279-acfc-a675da2dad3d",
-        "codeName":  "nozzle_fuelgiver_misc_nozzlestandard",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "d6d41d8f-f2b7-45f7-8167-13f366c55e3e",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
-        "inputs":  [
-                       {
-                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
-                           "resourceName":  "Titanium",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.8
-                       },
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
-                       }
-                   ]
-    },
-    {
-        "ref":  "8a4f43a8-5f3d-4557-9756-01e1e77fbc2c",
-        "codeName":  "radr_gnrp_s03_idris_temp",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
-        "outputItemRef":  "944a73bb-974c-4e4c-ab0f-6f9cd062c5a5",
+        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
+        "outputItemRef":  "a39d0aa5-f1af-49fb-aad0-0c1cde0f133f",
         "outputItemName":  null,
         "outputItemType":  "Radar",
-        "craftTimeMinutes":  16,
+        "craftTimeMinutes":  1.5,
         "inputs":  [
                        {
                            "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
                            "resourceName":  "Borase",
                            "slotName":  "Case",
-                           "quantitySCU":  2
+                           "quantitySCU":  5.3
                        },
                        {
                            "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
                            "resourceName":  "Bexalite",
                            "slotName":  "Transmitter",
-                           "quantitySCU":  0.8
+                           "quantitySCU":  2.1
                        },
                        {
                            "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
                            "resourceName":  "Stileron",
                            "slotName":  "Signal Provessor",
-                           "quantitySCU":  0.8
+                           "quantitySCU":  2.1
                        }
                    ]
     },
     {
-        "ref":  "6f0487ce-1696-4b62-abb4-587d30d0e6da",
-        "codeName":  "nozzle_fuelgiver_grin_nozzlefast",
+        "ref":  "ea3c2e6f-5dbb-4a98-b2c2-491cde65201d",
+        "codeName":  "carryable_2h_fl_missionitem_microsatellite_a",
         "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "d5456c35-a30b-4e13-bae2-b5609a43909a",
+        "category":  "missionitems",
+        "categoryRef":  "7a141fa2-f4cb-4ae9-83fb-74251f0ca718",
+        "outputItemRef":  "dcec542b-8973-4ad1-99ad-a138f4d61ca5",
         "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
+        "outputItemType":  "Misc",
+        "craftTimeMinutes":  0.17,
         "inputs":  [
                        {
-                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
-                           "resourceName":  "Iron",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.8
+                           "resourceRef":  "48c7080a-bbef-43d2-901a-698321ed4340",
+                           "resourceName":  "Aluminum",
+                           "slotName":  "Frame",
+                           "quantitySCU":  0.2
                        },
                        {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
+                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
+                           "resourceName":  "Silicon",
+                           "slotName":  "Electronics",
                            "quantitySCU":  0.2
                        }
                    ]
@@ -187,83 +87,33 @@
                    ]
     },
     {
-        "ref":  "990aa98f-0674-466f-9875-113d414d690b",
-        "codeName":  "nozzle_fuelgiver_grin_nozzlesecure",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "14dd63f4-538e-413f-aea9-a4c06b7db5ac",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
-        "inputs":  [
-                       {
-                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
-                           "resourceName":  "Iron",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.8
-                       },
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
-                       }
-                   ]
-    },
-    {
-        "ref":  "c0226b4d-3829-487c-8bf0-7d47f36ae867",
-        "codeName":  "radr_rsi_s04_polaris",
+        "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
+        "codeName":  "cool_aegs_s04_javelin_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "a39d0aa5-f1af-49fb-aad0-0c1cde0f133f",
+        "outputItemRef":  "1f5be5de-b5ea-42c7-879f-289c4bf64f19",
         "outputItemName":  null,
-        "outputItemType":  "Radar",
-        "craftTimeMinutes":  1.5,
+        "outputItemType":  "Cooler",
+        "craftTimeMinutes":  19,
         "inputs":  [
-                       {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
-                           "slotName":  "Case",
-                           "quantitySCU":  5.3
-                       },
-                       {
-                           "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
-                           "resourceName":  "Bexalite",
-                           "slotName":  "Transmitter",
-                           "quantitySCU":  2.1
-                       },
                        {
                            "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
                            "resourceName":  "Stileron",
-                           "slotName":  "Signal Provessor",
-                           "quantitySCU":  2.1
-                       }
-                   ]
-    },
-    {
-        "ref":  "52d84acb-6817-4fed-8741-e85ddba302cc",
-        "codeName":  "nozzle_fuelgiver_shin_nozzleexpensivesecure",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "76e7315c-44b8-4113-8837-d01cd839f15b",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
-        "inputs":  [
-                       {
-                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
-                           "resourceName":  "Riccite",
                            "slotName":  "Shell",
-                           "quantitySCU":  0.8
+                           "quantitySCU":  5.25
                        },
                        {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
+                           "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
+                           "resourceName":  "Pressurized Ice",
+                           "slotName":  "Coolant",
+                           "quantitySCU":  5.25
+                       },
+                       {
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Pump Impeller",
+                           "quantitySCU":  3.15
                        }
                    ]
     },
@@ -299,31 +149,6 @@
                    ]
     },
     {
-        "ref":  "ea3c2e6f-5dbb-4a98-b2c2-491cde65201d",
-        "codeName":  "carryable_2h_fl_missionitem_microsatellite_a",
-        "blueprintType":  "crafting",
-        "category":  "missionitems",
-        "categoryRef":  "7a141fa2-f4cb-4ae9-83fb-74251f0ca718",
-        "outputItemRef":  "dcec542b-8973-4ad1-99ad-a138f4d61ca5",
-        "outputItemName":  null,
-        "outputItemType":  "Misc",
-        "craftTimeMinutes":  0.17,
-        "inputs":  [
-                       {
-                           "resourceRef":  "48c7080a-bbef-43d2-901a-698321ed4340",
-                           "resourceName":  "Aluminum",
-                           "slotName":  "Frame",
-                           "quantitySCU":  0.2
-                       },
-                       {
-                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
-                           "resourceName":  "Silicon",
-                           "slotName":  "Electronics",
-                           "quantitySCU":  0.2
-                       }
-                   ]
-    },
-    {
         "ref":  "f4e2e342-a389-47c9-82be-f35824c570de",
         "codeName":  "globalgenericdismantle",
         "blueprintType":  "dismantle",
@@ -338,58 +163,33 @@
                    ]
     },
     {
-        "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
-        "codeName":  "cool_aegs_s04_javelin_scitem",
+        "ref":  "8a4f43a8-5f3d-4557-9756-01e1e77fbc2c",
+        "codeName":  "radr_gnrp_s03_idris_temp",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
-        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "1f5be5de-b5ea-42c7-879f-289c4bf64f19",
+        "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
+        "outputItemRef":  "944a73bb-974c-4e4c-ab0f-6f9cd062c5a5",
         "outputItemName":  null,
-        "outputItemType":  "Cooler",
-        "craftTimeMinutes":  19,
-        "inputs":  [
-                       {
-                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                           "resourceName":  "Stileron",
-                           "slotName":  "Shell",
-                           "quantitySCU":  5.25
-                       },
-                       {
-                           "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
-                           "resourceName":  "Pressurized Ice",
-                           "slotName":  "Coolant",
-                           "quantitySCU":  5.25
-                       },
-                       {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
-                           "slotName":  "Pump Impeller",
-                           "quantitySCU":  3.15
-                       }
-                   ]
-    },
-    {
-        "ref":  "ff1d331e-dfb1-4864-8755-cbf187be5ae3",
-        "codeName":  "nozzle_fuelgiver_shin_nozzlemostexpensive",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "b564d9f5-e9fb-414c-abbf-48a3552044e8",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.83,
+        "outputItemType":  "Radar",
+        "craftTimeMinutes":  16,
         "inputs":  [
                        {
                            "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
                            "resourceName":  "Borase",
-                           "slotName":  "Shell",
+                           "slotName":  "Case",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
+                           "resourceName":  "Bexalite",
+                           "slotName":  "Transmitter",
                            "quantitySCU":  0.8
                        },
                        {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Main Valve",
-                           "quantitySCU":  0.2
+                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                           "resourceName":  "Stileron",
+                           "slotName":  "Signal Provessor",
+                           "quantitySCU":  0.8
                        }
                    ]
     },
@@ -531,8 +331,8 @@
                    ]
     },
     {
-        "ref":  "cd86dd07-2425-4cd2-81c4-88e62499c113",
-        "codeName":  "shld_behr_s03_6ca_scitem",
+        "ref":  "a80d62fb-6742-408b-9328-0d833511f4c1",
+        "codeName":  "shld_seco_s03_armor_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
@@ -556,8 +356,8 @@
                    ]
     },
     {
-        "ref":  "a80d62fb-6742-408b-9328-0d833511f4c1",
-        "codeName":  "shld_seco_s03_armor_scitem",
+        "ref":  "cd86dd07-2425-4cd2-81c4-88e62499c113",
+        "codeName":  "shld_behr_s03_6ca_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
@@ -4688,12 +4488,12 @@
                    ]
     },
     {
-        "ref":  "4af9c036-1a8f-499c-b1d2-614ece3ff140",
-        "codeName":  "vgl_armor_light_helmet_01_01_11",
+        "ref":  "b0984c3d-aa5f-4a9d-9df3-94a4edcd30f9",
+        "codeName":  "vgl_armor_light_helmet_01_01_15",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "5aa32656-a7a6-4464-8036-7067deb87466",
+        "outputItemRef":  "26c7a438-af47-4bfd-b8ac-3c1378ca558d",
         "outputItemName":  "Argus Helmet Black/Silver",
         "outputItemType":  "Char_Armor_Helmet",
         "craftTimeMinutes":  2,
@@ -4713,12 +4513,12 @@
                    ]
     },
     {
-        "ref":  "b0984c3d-aa5f-4a9d-9df3-94a4edcd30f9",
-        "codeName":  "vgl_armor_light_helmet_01_01_15",
+        "ref":  "4af9c036-1a8f-499c-b1d2-614ece3ff140",
+        "codeName":  "vgl_armor_light_helmet_01_01_11",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "26c7a438-af47-4bfd-b8ac-3c1378ca558d",
+        "outputItemRef":  "5aa32656-a7a6-4464-8036-7067deb87466",
         "outputItemName":  "Argus Helmet Black/Silver",
         "outputItemType":  "Char_Armor_Helmet",
         "craftTimeMinutes":  2,
@@ -8589,6 +8389,31 @@
                    ]
     },
     {
+        "ref":  "40e0d74b-2449-4102-a856-514c4c62400b",
+        "codeName":  "nozzle_fuelgiver_shin_nozzleexpensivefast",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "26dc23e6-cc07-4389-8e54-dd1c256182a7",
+        "outputItemName":  "Bendix",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
+                       }
+                   ]
+    },
+    {
         "ref":  "9c0e0712-eed7-4277-b4f7-9367b75c48c3",
         "codeName":  "cool_wcpr_s01_berian_scitem",
         "blueprintType":  "crafting",
@@ -9149,37 +8974,6 @@
                    ]
     },
     {
-        "ref":  "fce03855-b03a-490b-8d33-017ad86ef6c7",
-        "codeName":  "radr_wlop_s00_denning",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "ad6617d1-ccbf-45e4-9ac3-8bd0bc6b8ff5",
-        "outputItemName":  "BroadSpec-Go",
-        "outputItemType":  "Radar",
-        "craftTimeMinutes":  6,
-        "inputs":  [
-                       {
-                           "resourceRef":  "1b4c4042-5fdc-4b52-bec4-07085cb3520a",
-                           "resourceName":  "Tin",
-                           "slotName":  "Case",
-                           "quantitySCU":  0.1
-                       },
-                       {
-                           "resourceRef":  "35121003-f1af-481a-b16f-7f48d8af0efb",
-                           "resourceName":  "Quartz",
-                           "slotName":  "Transmitter",
-                           "quantitySCU":  0.04
-                       },
-                       {
-                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
-                           "resourceName":  "Silicon",
-                           "slotName":  "Signal Provessor",
-                           "quantitySCU":  0.04
-                       }
-                   ]
-    },
-    {
         "ref":  "0db54db1-d325-48b1-94e3-e110f1fd724a",
         "codeName":  "radr_wlop_s00_vogel",
         "blueprintType":  "crafting",
@@ -9242,37 +9036,6 @@
                    ]
     },
     {
-        "ref":  "b9380740-dc8d-41f5-b402-819d40230fba",
-        "codeName":  "radr_chco_s00_broadspecgo",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
-        "outputItemRef":  "ad6617d1-ccbf-45e4-9ac3-8bd0bc6b8ff5",
-        "outputItemName":  "BroadSpec-Go",
-        "outputItemType":  "Radar",
-        "craftTimeMinutes":  7.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Case",
-                           "quantitySCU":  0.1
-                       },
-                       {
-                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
-                           "resourceName":  "Laranite",
-                           "slotName":  "Transmitter",
-                           "quantitySCU":  0.04
-                       },
-                       {
-                           "resourceRef":  "21825507-7923-4683-9bf3-9cfe316940e3",
-                           "resourceName":  "Gold",
-                           "slotName":  "Signal Provessor",
-                           "quantitySCU":  0.04
-                       }
-                   ]
-    },
-    {
         "ref":  "ac477c55-78c8-4f7b-acc8-b9b6a6df2837",
         "codeName":  "radr_wlop_s01_capstan",
         "blueprintType":  "crafting",
@@ -9300,6 +9063,68 @@
                            "resourceName":  "Silicon",
                            "slotName":  "Signal Provessor",
                            "quantitySCU":  0.1
+                       }
+                   ]
+    },
+    {
+        "ref":  "fce03855-b03a-490b-8d33-017ad86ef6c7",
+        "codeName":  "radr_wlop_s00_denning",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "ad6617d1-ccbf-45e4-9ac3-8bd0bc6b8ff5",
+        "outputItemName":  "BroadSpec-Go",
+        "outputItemType":  "Radar",
+        "craftTimeMinutes":  6,
+        "inputs":  [
+                       {
+                           "resourceRef":  "1b4c4042-5fdc-4b52-bec4-07085cb3520a",
+                           "resourceName":  "Tin",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.1
+                       },
+                       {
+                           "resourceRef":  "35121003-f1af-481a-b16f-7f48d8af0efb",
+                           "resourceName":  "Quartz",
+                           "slotName":  "Transmitter",
+                           "quantitySCU":  0.04
+                       },
+                       {
+                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
+                           "resourceName":  "Silicon",
+                           "slotName":  "Signal Provessor",
+                           "quantitySCU":  0.04
+                       }
+                   ]
+    },
+    {
+        "ref":  "b9380740-dc8d-41f5-b402-819d40230fba",
+        "codeName":  "radr_chco_s00_broadspecgo",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "ad6617d1-ccbf-45e4-9ac3-8bd0bc6b8ff5",
+        "outputItemName":  "BroadSpec-Go",
+        "outputItemType":  "Radar",
+        "craftTimeMinutes":  7.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.1
+                       },
+                       {
+                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                           "resourceName":  "Laranite",
+                           "slotName":  "Transmitter",
+                           "quantitySCU":  0.04
+                       },
+                       {
+                           "resourceRef":  "21825507-7923-4683-9bf3-9cfe316940e3",
+                           "resourceName":  "Gold",
+                           "slotName":  "Signal Provessor",
+                           "quantitySCU":  0.04
                        }
                    ]
     },
@@ -12675,19 +12500,19 @@
                    ]
     },
     {
-        "ref":  "09016880-5718-4e0a-b065-6166b994c634",
-        "codeName":  "cool_tydt_s02_heatsink_scitem",
+        "ref":  "dc08fa4e-07fa-408a-a71b-b03b2168d1df",
+        "codeName":  "cool_tydt_s02_nightfall_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
         "outputItemRef":  "7db13b34-c8b1-4e1a-9aba-3dcd7087e995",
         "outputItemName":  "Cryo-Star SL",
         "outputItemType":  "Cooler",
-        "craftTimeMinutes":  11.5,
+        "craftTimeMinutes":  12.5,
         "inputs":  [
                        {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
+                           "resourceRef":  "4a47cad8-0271-4048-b19b-d9b52521fc20",
+                           "resourceName":  "Savrilium",
                            "slotName":  "Shell",
                            "quantitySCU":  0.5
                        },
@@ -12698,8 +12523,8 @@
                            "quantitySCU":  0.5
                        },
                        {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
                            "slotName":  "Pump Impeller",
                            "quantitySCU":  0.3
                        }
@@ -12737,19 +12562,19 @@
                    ]
     },
     {
-        "ref":  "dc08fa4e-07fa-408a-a71b-b03b2168d1df",
-        "codeName":  "cool_tydt_s02_nightfall_scitem",
+        "ref":  "09016880-5718-4e0a-b065-6166b994c634",
+        "codeName":  "cool_tydt_s02_heatsink_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
         "outputItemRef":  "7db13b34-c8b1-4e1a-9aba-3dcd7087e995",
         "outputItemName":  "Cryo-Star SL",
         "outputItemType":  "Cooler",
-        "craftTimeMinutes":  12.5,
+        "craftTimeMinutes":  11.5,
         "inputs":  [
                        {
-                           "resourceRef":  "4a47cad8-0271-4048-b19b-d9b52521fc20",
-                           "resourceName":  "Savrilium",
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
                            "slotName":  "Shell",
                            "quantitySCU":  0.5
                        },
@@ -12760,8 +12585,8 @@
                            "quantitySCU":  0.5
                        },
                        {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
                            "slotName":  "Pump Impeller",
                            "quantitySCU":  0.3
                        }
@@ -14116,6 +13941,37 @@
                    ]
     },
     {
+        "ref":  "ea73da29-d597-4930-91ac-846310561bb0",
+        "codeName":  "powr_sasu_s01_whiterose_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
+        "outputItemRef":  "ad59f651-83d0-42f3-839a-8f055243ba6b",
+        "outputItemName":  "Defiant",
+        "outputItemType":  "PowerPlant",
+        "craftTimeMinutes":  13,
+        "inputs":  [
+                       {
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.35
+                       },
+                       {
+                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                           "resourceName":  "Laranite",
+                           "slotName":  "Voltage Regulator",
+                           "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
+                           "resourceName":  "Bexalite",
+                           "slotName":  "Stator Cores",
+                           "quantitySCU":  0.24
+                       }
+                   ]
+    },
+    {
         "ref":  "bf79619f-f10b-4f57-bd79-59f308e85e0f",
         "codeName":  "powr_just_s01_endurance_scitem",
         "blueprintType":  "crafting",
@@ -14174,37 +14030,6 @@
                            "resourceName":  "Taranite",
                            "slotName":  "Stator Cores",
                            "quantitySCU":  0.07
-                       }
-                   ]
-    },
-    {
-        "ref":  "ea73da29-d597-4930-91ac-846310561bb0",
-        "codeName":  "powr_sasu_s01_whiterose_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
-        "outputItemRef":  "ad59f651-83d0-42f3-839a-8f055243ba6b",
-        "outputItemName":  "Defiant",
-        "outputItemType":  "PowerPlant",
-        "craftTimeMinutes":  13,
-        "inputs":  [
-                       {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
-                           "slotName":  "Shell",
-                           "quantitySCU":  0.35
-                       },
-                       {
-                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
-                           "resourceName":  "Laranite",
-                           "slotName":  "Voltage Regulator",
-                           "quantitySCU":  0.14
-                       },
-                       {
-                           "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
-                           "resourceName":  "Bexalite",
-                           "slotName":  "Stator Cores",
-                           "quantitySCU":  0.24
                        }
                    ]
     },
@@ -15355,12 +15180,12 @@
                    ]
     },
     {
-        "ref":  "6380ece6-3393-4900-b65c-dbb5404e63d2",
-        "codeName":  "slaver_armor_medium_legs_01_01_13",
+        "ref":  "e12a7921-95ad-493b-b972-e36198611d7e",
+        "codeName":  "slaver_armor_medium_legs_01_01_15",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "aa61c64c-d016-4830-9b19-5e5e834bf543",
+        "outputItemRef":  "8a83964b-e892-41a5-be76-d362e06581d5",
         "outputItemName":  "DustUp Legs Desert",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  3,
@@ -15380,12 +15205,12 @@
                    ]
     },
     {
-        "ref":  "e12a7921-95ad-493b-b972-e36198611d7e",
-        "codeName":  "slaver_armor_medium_legs_01_01_15",
+        "ref":  "6380ece6-3393-4900-b65c-dbb5404e63d2",
+        "codeName":  "slaver_armor_medium_legs_01_01_13",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "8a83964b-e892-41a5-be76-d362e06581d5",
+        "outputItemRef":  "aa61c64c-d016-4830-9b19-5e5e834bf543",
         "outputItemName":  "DustUp Legs Desert",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  3,
@@ -15854,6 +15679,31 @@
                            "resourceName":  "Hephaestanite",
                            "slotName":  "Containment Matrix",
                            "quantitySCU":  0.14
+                       }
+                   ]
+    },
+    {
+        "ref":  "ff1d331e-dfb1-4864-8755-cbf187be5ae3",
+        "codeName":  "nozzle_fuelgiver_shin_nozzlemostexpensive",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "b564d9f5-e9fb-414c-abbf-48a3552044e8",
+        "outputItemName":  "Ezra",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
                        }
                    ]
     },
@@ -16574,6 +16424,37 @@
                    ]
     },
     {
+        "ref":  "31f17a5a-9d7b-4d42-a3b0-a0865f0160c4",
+        "codeName":  "qdrv_acas_s01_foxfire_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
+        "outputItemRef":  "dadc9318-d0f2-48c2-aad4-f2dd0c5f7fd3",
+        "outputItemName":  "FoxFire",
+        "outputItemType":  "QuantumDrive",
+        "craftTimeMinutes":  13,
+        "inputs":  [
+                       {
+                           "resourceRef":  "75b37a54-45c9-4f27-ac09-9830f092dd86",
+                           "resourceName":  "Torite",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.35
+                       },
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Injector Nozzles",
+                           "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "93c8b7df-d6ac-4b4f-a115-b0e3afc238b8",
+                           "resourceName":  "Beryl",
+                           "slotName":  "Containment Matrix",
+                           "quantitySCU":  0.14
+                       }
+                   ]
+    },
+    {
         "ref":  "0ebb9a7a-cc06-4f34-913c-3be7e4237374",
         "codeName":  "qdrv_wetk_s01_beacon_scitem",
         "blueprintType":  "crafting",
@@ -16630,37 +16511,6 @@
                        {
                            "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
                            "resourceName":  "Laranite",
-                           "slotName":  "Containment Matrix",
-                           "quantitySCU":  0.14
-                       }
-                   ]
-    },
-    {
-        "ref":  "31f17a5a-9d7b-4d42-a3b0-a0865f0160c4",
-        "codeName":  "qdrv_acas_s01_foxfire_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
-        "outputItemRef":  "dadc9318-d0f2-48c2-aad4-f2dd0c5f7fd3",
-        "outputItemName":  "FoxFire",
-        "outputItemType":  "QuantumDrive",
-        "craftTimeMinutes":  13,
-        "inputs":  [
-                       {
-                           "resourceRef":  "75b37a54-45c9-4f27-ac09-9830f092dd86",
-                           "resourceName":  "Torite",
-                           "slotName":  "Case",
-                           "quantitySCU":  0.35
-                       },
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Injector Nozzles",
-                           "quantitySCU":  0.14
-                       },
-                       {
-                           "resourceRef":  "93c8b7df-d6ac-4b4f-a115-b0e3afc238b8",
-                           "resourceName":  "Beryl",
                            "slotName":  "Containment Matrix",
                            "quantitySCU":  0.14
                        }
@@ -17320,8 +17170,8 @@
                    ]
     },
     {
-        "ref":  "fa5951a5-5063-49c8-8f4c-a6b341801aea",
-        "codeName":  "powr_sasu_s02_daybreak_scitem",
+        "ref":  "8fe934b5-ac5a-448e-bc3c-cb22bd9cb3ab",
+        "codeName":  "powr_lplt_s02_fullforce_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
@@ -17351,8 +17201,8 @@
                    ]
     },
     {
-        "ref":  "8fe934b5-ac5a-448e-bc3c-cb22bd9cb3ab",
-        "codeName":  "powr_lplt_s02_fullforce_scitem",
+        "ref":  "fa5951a5-5063-49c8-8f4c-a6b341801aea",
+        "codeName":  "powr_sasu_s02_daybreak_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
@@ -19441,8 +19291,8 @@
                    ]
     },
     {
-        "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
-        "codeName":  "shld_rsi_s04_polaris_scitem",
+        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
+        "codeName":  "shld_orig_s04_890j_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
@@ -19466,8 +19316,8 @@
                    ]
     },
     {
-        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
-        "codeName":  "shld_orig_s04_890j_scitem",
+        "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
+        "codeName":  "shld_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
@@ -19618,6 +19468,31 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       }
+                   ]
+    },
+    {
+        "ref":  "96566b51-4fed-4711-ae6e-9565f54a1ffa",
+        "codeName":  "nozzle_fuelgiver_grin_nozzleverysecure",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "60a89f06-91da-4941-b77e-2c9b3f5f57e4",
+        "outputItemName":  "Harkin",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
                        }
                    ]
     },
@@ -21261,12 +21136,12 @@
                    ]
     },
     {
-        "ref":  "9b7f9fc2-b766-44ff-861b-6fb1d7c6f63c",
-        "codeName":  "outlaw_legacy_armor_medium_core_01_01_21",
+        "ref":  "ad77c4ef-57da-469d-88f8-c4dcd5ed7e47",
+        "codeName":  "outlaw_legacy_armor_medium_core_01_01_20",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "9302d7d7-f9c0-469a-ac31-f2339b8f991a",
+        "outputItemRef":  "167623eb-929c-44a0-9005-2942fc69de7c",
         "outputItemName":  "Inquisitor Core Olive",
         "outputItemType":  "Char_Armor_Torso",
         "craftTimeMinutes":  3.17,
@@ -21292,12 +21167,12 @@
                    ]
     },
     {
-        "ref":  "ad77c4ef-57da-469d-88f8-c4dcd5ed7e47",
-        "codeName":  "outlaw_legacy_armor_medium_core_01_01_20",
+        "ref":  "9b7f9fc2-b766-44ff-861b-6fb1d7c6f63c",
+        "codeName":  "outlaw_legacy_armor_medium_core_01_01_21",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "167623eb-929c-44a0-9005-2942fc69de7c",
+        "outputItemRef":  "9302d7d7-f9c0-469a-ac31-f2339b8f991a",
         "outputItemName":  "Inquisitor Core Olive",
         "outputItemType":  "Char_Armor_Torso",
         "craftTimeMinutes":  3.17,
@@ -23586,6 +23461,31 @@
                    ]
     },
     {
+        "ref":  "dbe5c153-2149-4843-9b03-297f3e66d092",
+        "codeName":  "nozzle_fuelgiver_grin_nozzleveryfast",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "78d86759-340e-4a05-bcbe-4f42dd78573c",
+        "outputItemName":  "Lindstrom",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
+                       }
+                   ]
+    },
+    {
         "ref":  "683c5b10-5dc3-48ee-aeb0-d830e0d398c0",
         "codeName":  "powr_sasu_s02_lotus_scitem",
         "blueprintType":  "crafting",
@@ -24288,6 +24188,31 @@
                            "resourceName":  "Silicon",
                            "slotName":  "Suit Underlay",
                            "quantitySCU":  0.06
+                       }
+                   ]
+    },
+    {
+        "ref":  "990aa98f-0674-466f-9875-113d414d690b",
+        "codeName":  "nozzle_fuelgiver_grin_nozzlesecure",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "14dd63f4-538e-413f-aea9-a4c06b7db5ac",
+        "outputItemName":  "Marlin",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
                        }
                    ]
     },
@@ -26529,6 +26454,31 @@
                            "resourceName":  "Lindinium",
                            "slotName":  "Radiator",
                            "quantitySCU":  0.23
+                       }
+                   ]
+    },
+    {
+        "ref":  "6f0487ce-1696-4b62-abb4-587d30d0e6da",
+        "codeName":  "nozzle_fuelgiver_grin_nozzlefast",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "d5456c35-a30b-4e13-bae2-b5609a43909a",
+        "outputItemName":  "Norfield",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
                        }
                    ]
     },
@@ -34119,8 +34069,8 @@
                    ]
     },
     {
-        "ref":  "99f5c8a9-2721-439e-9f18-b2ad7d9fc0ed",
-        "codeName":  "powr_amrs_s03_js500_scitem",
+        "ref":  "799e4d02-1b04-45cb-ac67-2453588a8c99",
+        "codeName":  "powr_aegs_s03_quadracellmx_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
@@ -34150,8 +34100,8 @@
                    ]
     },
     {
-        "ref":  "799e4d02-1b04-45cb-ac67-2453588a8c99",
-        "codeName":  "powr_aegs_s03_quadracellmx_scitem",
+        "ref":  "99f5c8a9-2721-439e-9f18-b2ad7d9fc0ed",
+        "codeName":  "powr_amrs_s03_js500_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
@@ -34942,6 +34892,31 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       }
+                   ]
+    },
+    {
+        "ref":  "6d1117b4-6bc0-4279-acfc-a675da2dad3d",
+        "codeName":  "nozzle_fuelgiver_misc_nozzlestandard",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "d6d41d8f-f2b7-45f7-8167-13f366c55e3e",
+        "outputItemName":  "RN-7s",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
                        }
                    ]
     },
@@ -35749,12 +35724,12 @@
                    ]
     },
     {
-        "ref":  "93d6786c-83fa-4d42-8c7b-87c87adb2b13",
-        "codeName":  "cool_orig_s04_890j_scitem",
+        "ref":  "fd3b2ad5-e25f-4a51-b9c3-aaa4da9db252",
+        "codeName":  "cool_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "18600693-df8b-4898-a9a6-e91291e69dd4",
+        "outputItemRef":  "d0b4ce5b-c8ba-4a9f-90b1-c9567a6c90e9",
         "outputItemName":  "Serac",
         "outputItemType":  "Cooler",
         "craftTimeMinutes":  17,
@@ -35780,12 +35755,12 @@
                    ]
     },
     {
-        "ref":  "fd3b2ad5-e25f-4a51-b9c3-aaa4da9db252",
-        "codeName":  "cool_rsi_s04_polaris_scitem",
+        "ref":  "93d6786c-83fa-4d42-8c7b-87c87adb2b13",
+        "codeName":  "cool_orig_s04_890j_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "d0b4ce5b-c8ba-4a9f-90b1-c9567a6c90e9",
+        "outputItemRef":  "18600693-df8b-4898-a9a6-e91291e69dd4",
         "outputItemName":  "Serac",
         "outputItemType":  "Cooler",
         "craftTimeMinutes":  17,
@@ -36854,12 +36829,12 @@
                    ]
     },
     {
-        "ref":  "093d67a2-c4d2-4141-9b9e-8dd9978e96b2",
-        "codeName":  "powr_orig_s04_890j_scitem",
+        "ref":  "e87c8612-28ed-45b1-a03a-7941984c93fe",
+        "codeName":  "powr_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "70019264-f2b2-4741-b50f-bdce41cf0825",
+        "outputItemRef":  "796642bf-92fa-48ee-92aa-bf9ba38487a6",
         "outputItemName":  "Stellate",
         "outputItemType":  "PowerPlant",
         "craftTimeMinutes":  41,
@@ -36885,12 +36860,12 @@
                    ]
     },
     {
-        "ref":  "e87c8612-28ed-45b1-a03a-7941984c93fe",
-        "codeName":  "powr_rsi_s04_polaris_scitem",
+        "ref":  "093d67a2-c4d2-4141-9b9e-8dd9978e96b2",
+        "codeName":  "powr_orig_s04_890j_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "796642bf-92fa-48ee-92aa-bf9ba38487a6",
+        "outputItemRef":  "70019264-f2b2-4741-b50f-bdce41cf0825",
         "outputItemName":  "Stellate",
         "outputItemType":  "PowerPlant",
         "craftTimeMinutes":  41,
@@ -40129,6 +40104,31 @@
                            "resourceName":  "Hephaestanite",
                            "slotName":  "Containment Matrix",
                            "quantitySCU":  0.5
+                       }
+                   ]
+    },
+    {
+        "ref":  "52d84acb-6817-4fed-8741-e85ddba302cc",
+        "codeName":  "nozzle_fuelgiver_shin_nozzleexpensivesecure",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "76e7315c-44b8-4113-8837-d01cd839f15b",
+        "outputItemName":  "Torrez",
+        "outputItemType":  null,
+        "craftTimeMinutes":  3.83,
+        "inputs":  [
+                       {
+                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
+                           "resourceName":  "Riccite",
+                           "slotName":  "Shell",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Main Valve",
+                           "quantitySCU":  0.2
                        }
                    ]
     },
