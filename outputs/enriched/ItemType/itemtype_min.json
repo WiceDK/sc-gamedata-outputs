@@ -1,0 +1,322 @@
+﻿[
+    {
+        "code":  "equipment",
+        "displayName":  "Equipment",
+        "parentCode":  null
+    },
+    {
+        "code":  "equipment.armor",
+        "displayName":  "Armor",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.armor.char_armor_arms",
+        "displayName":  "Arms",
+        "parentCode":  "equipment.armor"
+    },
+    {
+        "code":  "equipment.armor.char_armor_backpack",
+        "displayName":  "Backpack",
+        "parentCode":  "equipment.armor"
+    },
+    {
+        "code":  "equipment.armor.char_armor_helmet",
+        "displayName":  "Helmets",
+        "parentCode":  "equipment.armor"
+    },
+    {
+        "code":  "equipment.armor.char_armor_legs",
+        "displayName":  "Legs",
+        "parentCode":  "equipment.armor"
+    },
+    {
+        "code":  "equipment.armor.char_armor_torso",
+        "displayName":  "Torso",
+        "parentCode":  "equipment.armor"
+    },
+    {
+        "code":  "equipment.avionics",
+        "displayName":  "Avionics",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.avionics.flightblade",
+        "displayName":  "Flight Blade",
+        "parentCode":  "equipment.avionics"
+    },
+    {
+        "code":  "equipment.avionics.radar",
+        "displayName":  "Radar",
+        "parentCode":  "equipment.avionics"
+    },
+    {
+        "code":  "equipment.clothing",
+        "displayName":  "Clothing",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.clothing.char_clothing_feet",
+        "displayName":  "Footwear",
+        "parentCode":  "equipment.clothing"
+    },
+    {
+        "code":  "equipment.clothing.char_clothing_hands",
+        "displayName":  "Gloves",
+        "parentCode":  "equipment.clothing"
+    },
+    {
+        "code":  "equipment.clothing.char_clothing_hat",
+        "displayName":  "Hat",
+        "parentCode":  "equipment.clothing"
+    },
+    {
+        "code":  "equipment.clothing.char_clothing_torso_1",
+        "displayName":  "Jacket",
+        "parentCode":  "equipment.clothing"
+    },
+    {
+        "code":  "equipment.clothing.char_clothing_legs",
+        "displayName":  "Legwear",
+        "parentCode":  "equipment.clothing"
+    },
+    {
+        "code":  "equipment.clothing.char_clothing_torso_0",
+        "displayName":  "Shirt",
+        "parentCode":  "equipment.clothing"
+    },
+    {
+        "code":  "equipment.paint",
+        "displayName":  "Liveries",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.paint.paints",
+        "displayName":  "Liveries",
+        "parentCode":  "equipment.paint"
+    },
+    {
+        "code":  "equipment.misc",
+        "displayName":  "Misc.",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.misc.consumable",
+        "displayName":  "Consumable",
+        "parentCode":  "equipment.misc"
+    },
+    {
+        "code":  "equipment.misc.drink",
+        "displayName":  "Drink",
+        "parentCode":  "equipment.misc"
+    },
+    {
+        "code":  "equipment.misc.food",
+        "displayName":  "Food",
+        "parentCode":  "equipment.misc"
+    },
+    {
+        "code":  "equipment.misc.misc",
+        "displayName":  "Misc.",
+        "parentCode":  "equipment.misc"
+    },
+    {
+        "code":  "equipment.weapons",
+        "displayName":  "Prsnl. Wpns.",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.weapons.weaponattachment",
+        "displayName":  "Attachment",
+        "parentCode":  "equipment.weapons"
+    },
+    {
+        "code":  "equipment.weapons.weaponpersonal",
+        "displayName":  "Prsnl. Wpn.",
+        "parentCode":  "equipment.weapons"
+    },
+    {
+        "code":  "equipment.systems",
+        "displayName":  "Systems",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.systems.cooler",
+        "displayName":  "Cooler",
+        "parentCode":  "equipment.systems"
+    },
+    {
+        "code":  "equipment.systems.powerplant",
+        "displayName":  "Power Plant",
+        "parentCode":  "equipment.systems"
+    },
+    {
+        "code":  "equipment.systems.quantumdrive",
+        "displayName":  "Quantum Drives",
+        "parentCode":  "equipment.systems"
+    },
+    {
+        "code":  "equipment.systems.shield",
+        "displayName":  "Shield Generator",
+        "parentCode":  "equipment.systems"
+    },
+    {
+        "code":  "equipment.technology",
+        "displayName":  "Technology",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.technology.mobiglas",
+        "displayName":  "mobiGlas",
+        "parentCode":  "equipment.technology"
+    },
+    {
+        "code":  "equipment.undersuit",
+        "displayName":  "Undersuits",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.undersuit.char_armor_undersuit",
+        "displayName":  "Undersuit",
+        "parentCode":  "equipment.undersuit"
+    },
+    {
+        "code":  "equipment.utility",
+        "displayName":  "Utility",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.utility.container",
+        "displayName":  "Container",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.dockingcollar",
+        "displayName":  "Docking Collar",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.externalfueltank",
+        "displayName":  "External Fuel Tank",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.displaytype_crafter",
+        "displayName":  "Fabricator",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.fuelnozzle",
+        "displayName":  "Fuel Nozzle",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.gadget",
+        "displayName":  "Gadgets",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.weaponmining",
+        "displayName":  "Mining Laser Heads",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.miningmodifier",
+        "displayName":  "Mining Modules",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.salvagehead",
+        "displayName":  "Salvage Beam",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.scraperbeam",
+        "displayName":  "Scraper Beam",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.utility.tractorbeam",
+        "displayName":  "Tractor Beam",
+        "parentCode":  "equipment.utility"
+    },
+    {
+        "code":  "equipment.vehicle",
+        "displayName":  "Vehicles",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.vehicle.noitem_vehicle",
+        "displayName":  "Vehicle",
+        "parentCode":  "equipment.vehicle"
+    },
+    {
+        "code":  "equipment.weaponry",
+        "displayName":  "Vhcl. Wpns.",
+        "parentCode":  "equipment"
+    },
+    {
+        "code":  "equipment.weaponry.bomb",
+        "displayName":  "Bombs",
+        "parentCode":  "equipment.weaponry"
+    },
+    {
+        "code":  "equipment.weaponry.weapongun",
+        "displayName":  "Gun",
+        "parentCode":  "equipment.weaponry"
+    },
+    {
+        "code":  "equipment.weaponry.missile",
+        "displayName":  "Missile",
+        "parentCode":  "equipment.weaponry"
+    },
+    {
+        "code":  "equipment.weaponry.missilelauncher",
+        "displayName":  "Missile Rack",
+        "parentCode":  "equipment.weaponry"
+    },
+    {
+        "code":  "equipment.weaponry.turret",
+        "displayName":  "Turret",
+        "parentCode":  "equipment.weaponry"
+    },
+    {
+        "code":  "commodity",
+        "displayName":  "Commodity",
+        "parentCode":  null
+    },
+    {
+        "code":  "commodity.gas",
+        "displayName":  "Gas",
+        "parentCode":  "commodity"
+    },
+    {
+        "code":  "commodity.metal",
+        "displayName":  "Metal",
+        "parentCode":  "commodity"
+    },
+    {
+        "code":  "commodity.mineral",
+        "displayName":  "Mineral",
+        "parentCode":  "commodity"
+    },
+    {
+        "code":  "commodity.nonmetal",
+        "displayName":  "Nonmetals",
+        "parentCode":  "commodity"
+    },
+    {
+        "code":  "commodity.organic",
+        "displayName":  "Natural Materials",
+        "parentCode":  "commodity"
+    },
+    {
+        "code":  "commodity.processedgoods",
+        "displayName":  "Processed Goods",
+        "parentCode":  "commodity"
+    },
+    {
+        "code":  "commodity.waste",
+        "displayName":  "Waste",
+        "parentCode":  "commodity"
+    }
+]
