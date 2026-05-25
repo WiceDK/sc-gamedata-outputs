@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 64 64" overflow="visible" xml:space="preserve">
+<g id="Imagery" display="none">
+	
+		<image display="inline" width="1024" height="1024" xlink:href="../../../../../Objects/UI/3D_Icons/!source/ui_icon_combatarrow_x2.jpg"  transform="matrix(6.250000e-02 0 0 6.250000e-02 0 1.369681e-05)">
+	</image>
+</g>
+<g id="Main" display="none">
+	<rect x="-644" y="-148" display="inline" fill="#3F3F3F" width="2056" height="446"/>
+	<g>
+	</g>
+</g>
+<g id="_x30_1">
+	<g>
+		<polygon fill="#FFFFFF" points="22.3,32.3 30.7,23.7 31.1,23.7 31.4,14.2 31.2,14.3 31.2,15.3 24.7,23.7 24.3,23.7 21.5,33.2 
+			22,33.2 		"/>
+		<polygon fill="#FFFFFF" points="41.7,32.3 33.3,23.7 32.9,23.7 32.6,14.2 32.8,14.3 32.9,15.3 39.3,23.7 39.7,23.7 42.5,33.2 
+			42,33.2 		"/>
+		<polygon fill="#FFFFFF" points="18.5,45.8 30.2,35.7 30.7,35.7 31.2,24.6 30.9,24.6 30.8,25.8 22,35.7 21.3,35.7 17.5,46.9 
+			18.1,46.9 		"/>
+		<polygon fill="#FFFFFF" points="45.5,45.8 33.8,35.7 33.3,35.7 32.8,24.6 33.1,24.6 33.2,25.8 42.1,35.7 42.7,35.7 46.5,46.9 
+			45.9,46.9 		"/>
+	</g>
+</g>
+<g id="RINGS" display="none">
+	<g display="inline">
+		<path fill="#FFFFFF" d="M32,0C14.3,0,0,14.3,0,32c0,17.7,14.3,32,32,32c17.7,0,32-14.3,32-32C64,14.3,49.7,0,32,0z M32,62.1
+			C15.4,62.1,1.9,48.6,1.9,32C1.9,15.4,15.4,1.9,32,1.9c16.6,0,30.1,13.5,30.1,30.1C62.1,48.6,48.6,62.1,32,62.1z"/>
+	</g>
+</g>
+</svg>

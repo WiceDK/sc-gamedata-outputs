@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="128px" height="128px" viewBox="0 0 128 128" xml:space="preserve">
+<g id="Layer_5" display="none">
+	<rect x="-917.1" y="-476.1" display="inline" fill="#383838" width="1946.7" height="1111.7"/>
+</g>
+<g id="Main">
+	<circle cx="64" cy="64" r="3.9"/>
+	<g>
+		<path d="M28,90.8l-2.8,2.8c-6.2-8.1-10-18.4-10-29.5c0-10.8,3.5-21.1,10-29.5l2.8,2.8c-5.8,7.7-8.8,17-8.8,26.8
+			C19.1,74.1,22.4,83.4,28,90.8z"/>
+		<path d="M93.5,25.2L90.8,28C83.2,22.4,74,19.1,64,19.1c-9.7,0-19.2,3.1-26.8,8.8l-2.8-2.8c8.4-6.5,18.7-10,29.5-10
+			C75,15.2,85.3,19,93.5,25.2z"/>
+		<path d="M112.8,64c0,11-3.7,21.3-10,29.5l-2.8-2.8c5.6-7.5,8.8-16.8,8.8-26.8s-3.2-19.2-8.8-26.8l2.8-2.8
+			C109,42.7,112.8,53,112.8,64z"/>
+		<path d="M93.5,102.8c-8.2,6.2-18.5,10-29.5,10s-21.3-3.7-29.7-10l2.8-2.8c7.5,5.6,16.8,8.8,26.8,8.8s19.2-3.2,26.8-8.8L93.5,102.8
+			z"/>
+	</g>
+</g>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="109.6" y1="64" x2="124.7" y2="64"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="3.3" y1="64" x2="18.5" y2="64"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="64" y1="18.4" x2="64" y2="3.3"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="64" y1="124.7" x2="64" y2="109.6"/>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 64 64" overflow="visible" xml:space="preserve">
+<g id="Imagery" display="none">
+	
+		<image display="inline" width="1024" height="1024" xlink:href="../../../../../Objects/UI/3D_Icons/!source/ui_icon_tank.jpg"  transform="matrix(6.250000e-02 0 0 6.250000e-02 0 6.421316e-06)">
+	</image>
+</g>
+<g id="Main" display="none">
+	<rect x="-570" y="-276" display="inline" fill="#3F3F3F" width="2056" height="446"/>
+	<g>
+	</g>
+</g>
+<g id="_x30_1">
+	<g>
+		<g>
+			<polygon fill="#FFFFFF" points="45.6,14.5 45.6,53.6 40.6,53.6 37.4,52.2 26.5,52.2 23.4,53.6 18.3,53.6 18.3,14.5 24,14.5 
+				23.4,28.1 21.8,28.1 21.8,44.1 26.5,48.8 37.4,48.8 42.1,44.1 42.1,28.1 39.6,28.1 37.9,23 34.4,23 34.1,16.9 36.5,16.9 
+				39.2,14.5 			"/>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#FFFFFF" points="31.4,28.1 26.6,28.1 27.5,6.8 30.4,6.8 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#FFFFFF" points="37.2,27.5 34.4,27.5 34.2,25.1 36.3,25.1 				"/>
+			</g>
+		</g>
+		<g>
+			<polygon fill="#FFFFFF" points="29.8,42.3 29.8,45.7 27.9,45.7 25,42.8 25,31.3 26.9,31.3 26.9,39.5 			"/>
+			<polygon fill="#FFFFFF" points="38.9,31.3 38.9,42.8 36.1,45.7 31.9,45.7 31.9,41.5 29,38.6 29,31.3 			"/>
+		</g>
+	</g>
+</g>
+<g id="RINGS" display="none">
+	<path display="inline" fill="#FFFFFF" d="M32,0C14.3,0,0,14.3,0,32c0,17.7,14.3,32,32,32c17.7,0,32-14.3,32-32C64,14.3,49.7,0,32,0
+		z M32,62.1C15.4,62.1,1.9,48.6,1.9,32C1.9,15.4,15.4,1.9,32,1.9c16.6,0,30.1,13.5,30.1,30.1C62.1,48.6,48.6,62.1,32,62.1z"/>
+</g>
+</svg>

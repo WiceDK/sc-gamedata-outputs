@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 64 64" overflow="visible" xml:space="preserve">
+<g id="BG">
+</g>
+<g id="_x30_0">
+</g>
+<g id="scratch">
+</g>
+<g id="Main">
+	
+		<image width="1024" height="1024" xlink:href="../../../../../Objects/UI/3D_Icons/!source/ui_icon_grenade.jpg"  transform="matrix(6.250000e-02 0 0 6.250000e-02 1.259498e-03 8.823401e-04)">
+	</image>
+	<g>
+		<path fill="#FFFFFF" d="M32,0C14.3,0,0,14.3,0,32c0,17.7,14.3,32,32,32c17.7,0,32-14.3,32-32C64,14.3,49.7,0,32,0z M32,62.1
+			C15.4,62.1,1.9,48.6,1.9,32C1.9,15.4,15.4,1.9,32,1.9c16.6,0,30.1,13.5,30.1,30.1C62.1,48.6,48.6,62.1,32,62.1z"/>
+		<g>
+			<g>
+				<g>
+					<polygon fill="#FFFFFF" points="35.7,32.5 35.7,30.1 39.9,28.9 39.9,35.8 					"/>
+				</g>
+				<g>
+					<polygon fill="#FFFFFF" points="35.1,43.4 35.1,46.5 23.9,46.5 23.9,44.6 25.3,42.6 25.3,35.4 					"/>
+				</g>
+				<g>
+					<polygon fill="#FFFFFF" points="42.2,20.1 22.7,20.1 22.7,17.9 25.9,17.9 29.1,12.5 27.3,9.3 27.3,9.2 41.6,10.2 40.3,13.3 
+						32.9,13.3 31,16.4 39.8,16.4 42.2,18.3 					"/>
+					<path fill="#FFFFFF" d="M33.2,33.8v-5.6l8.9-2.6v-3H22.6l-0.1,5.8l2.7,3.7l12.3,10.2v6.5l-14.7-0.1v4l3.6,1.7h12.2l3.6-1.6
+						V41.6L33.2,33.8z M28.3,29.6h-2.5l-1.2-2.2l1.2-2.1h2.5l1.2,2.1L28.3,29.6z"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<polygon fill="#FFFFFF" points="26.1,12.5 24.5,15.4 21.1,15.4 19.4,12.5 21.1,9.6 24.5,9.6 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="_x30_1">
+</g>
+</svg>

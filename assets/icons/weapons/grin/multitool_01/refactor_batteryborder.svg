@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="multitool" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 271.1 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #48462f;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M259-.2H11.8C5.2-.2,0,5.2,0,11.8v20.3c0,6.6,5.4,12,12,12h247.2c6.6,0,12-5.4,12-12V11.8c0-6.6-5.4-12-12-12h-.2ZM266,29c0,6.6-5.4,12-12,12H71.8c-6.6,0-12-5.4-12-12v-14.2c0-6.6,5.4-12,12-12h182.2c6.6,0,12,5.4,12,12v14.3h0Z"/>
+</svg>

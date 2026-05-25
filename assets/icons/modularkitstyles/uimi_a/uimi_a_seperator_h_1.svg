@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="64" height="24" viewBox="0 0 64 24">
+  <g id="Header">
+    <rect x="27.12" y="0.29" width="36.57" height="23.43" rx="2" fill="#393b4c"/>
+    <rect x="0.31" y="0.29" width="25.21" height="23.43" rx="1.62" fill="#4d0707"/>
+    <g>
+      <path d="M8.81,16.78H7.93l3.27-6h.87Z" fill="#c5c8d8"/>
+      <path d="M12.13,16.78h-.88l3.27-6h.87Z" fill="#c5c8d8"/>
+      <path d="M16.1,14.67v-.73h2.28v.73Z" fill="#c5c8d8"/>
+    </g>
+    <g>
+      <path d="M55.12,18.28v-1h1v1Z" fill="#c5c8d8"/>
+      <path d="M57.83,18.28v-1h1v1Z" fill="#c5c8d8"/>
+    </g>
+  </g>
+</svg>

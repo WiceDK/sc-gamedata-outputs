@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="128px" height="128px" viewBox="0 0 128 128" xml:space="preserve">
+<g>
+	<polygon fill="#231F20" points="73.4,108.1 54.6,108.1 64,97 	"/>
+</g>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="109.2" y1="64.2" x2="124.3" y2="64.2"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="3.7" y1="64.2" x2="18.8" y2="64.2"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="64" y1="18.9" x2="64" y2="3.9"/>
+<g>
+	<path fill="#231F20" d="M20.7,64.2c0-10.6,3.8-20.2,10-27.8l-2.6-2.6C21.2,42,16.9,52.6,16.9,64.2c0,18.8,11.2,35.2,27.1,42.7
+		l1.8-3.4C30.5,96.8,20.7,82,20.7,64.2z"/>
+	<path fill="#231F20" d="M94.4,28.2C86.2,21.3,75.6,17.1,64,17.1s-22.2,4.1-30.4,11.2l2.6,2.6c7.5-6.3,17.2-10,27.8-10
+		s20.2,3.8,27.8,10L94.4,28.2z"/>
+	<path fill="#231F20" d="M99.9,33.8l-2.6,2.6c6.3,7.5,10,17.2,10,27.8c0,17.7-9.7,32.5-25,39.3l1.8,3.3c16-7.5,27.1-23.7,27.1-42.6
+		C111.1,52.6,107,42.1,99.9,33.8z"/>
+</g>
+<circle cx="64" cy="64" r="3.9"/>
+</svg>

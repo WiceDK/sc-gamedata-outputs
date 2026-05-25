@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="multitool" xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" viewBox="0 0 19.6 40.3">
+  <path d="M13.5,1h0v5.3h4.6l.4.4v32.2l-.4.4H1.4l-.4-.4V6.7l.4-.4h4.6V1h0s7.4,0,7.4,0M13.9,0H5.7l-.6.6v4.7H1L0,6.3v33l1,1h17.6l1-1V6.3l-1-1h-4V.6L13.9,0h0ZM14.6,9.3H5v27h9.6V9.3Z" fill="#dbd32c" stroke-width="0"/>
+</svg>

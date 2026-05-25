@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="128px" height="128px" viewBox="0 0 128 128" overflow="visible" xml:space="preserve">
+<g id="Background">
+</g>
+<g id="Update_Layer">
+</g>
+<g id="Delete_Location">
+	<polygon fill="#666666" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="93.73,119.75 33.73,119.75 19.73,41.75 
+		107.73,41.75 	"/>
+	<path fill="#666666" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M79.65,23.48C78.2,15.11,70.32,7.4,61.92,8.32
+		c-8.73,0.96-15.12,8.92-14.16,17.65l0.11,0.99l-27.83,3.06l0.76,6.96l87.47-9.61l-0.76-6.96L79.65,23.48z M56.38,22.01
+		c-0.42-3.85,2.35-7.3,6.19-7.72s7.3,2.35,7.72,6.19c0.09,0.81,0.16,2.73,0.05,4.02L57.2,25.94C56.81,24.7,56.47,22.83,56.38,22.01z
+		"/>
+	<path fill="#FFFFFF" stroke="#666666" stroke-width="2" stroke-miterlimit="10" d="M65.23,113.25h-2c-1.65,0-3-1.35-3-3v-59
+		c0-1.65,1.35-3,3-3h2c1.65,0,3,1.35,3,3v59C68.23,111.9,66.88,113.25,65.23,113.25z"/>
+	<path fill="#FFFFFF" stroke="#666666" stroke-width="2" stroke-miterlimit="10" d="M44.23,113.25h-2c-1.65,0-3-1.35-3-3v-59
+		c0-1.65,1.35-3,3-3h2c1.65,0,3,1.35,3,3v59C47.23,111.9,45.88,113.25,44.23,113.25z"/>
+	<path fill="#FFFFFF" stroke="#666666" stroke-width="2" stroke-miterlimit="10" d="M86.23,113.25h-2c-1.65,0-3-1.35-3-3v-59
+		c0-1.65,1.35-3,3-3h2c1.65,0,3,1.35,3,3v59C89.23,111.9,87.88,113.25,86.23,113.25z"/>
+</g>
+<g id="Center_on_Entity">
+</g>
+<g id="Export">
+</g>
+</svg>

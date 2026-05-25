@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 64 64" overflow="visible" xml:space="preserve">
+<g id="Imagery" display="none">
+	
+		<image display="inline" width="1024" height="1024" xlink:href="../../../../../Objects/UI/3D_Icons/!source/ui_icon_generic_marker.jpg"  transform="matrix(6.250000e-02 0 0 6.250000e-02 -1.394627e-05 6.421316e-06)">
+	</image>
+</g>
+<g id="Main" display="none">
+	<rect x="-1162" y="-276" display="inline" fill="#3F3F3F" width="2056" height="446"/>
+	<g>
+	</g>
+</g>
+<g id="_x30_1">
+	<g>
+		<circle fill="#FFFFFF" cx="32" cy="31.9" r="7.1"/>
+		<path fill="#FFFFFF" d="M32,51.3c-10.7,0-19.4-8.7-19.4-19.4S21.3,12.5,32,12.5c10.7,0,19.4,8.7,19.4,19.4S42.7,51.3,32,51.3z
+			 M32,17.4c-8,0-14.5,6.5-14.5,14.5S24,46.4,32,46.4c8,0,14.5-6.5,14.5-14.5S40,17.4,32,17.4z"/>
+	</g>
+</g>
+<g id="RINGS" display="none">
+	<path display="inline" fill="#FFFFFF" d="M32,0C14.3,0,0,14.3,0,32c0,17.7,14.3,32,32,32c17.7,0,32-14.3,32-32C64,14.3,49.7,0,32,0
+		z M32,62.1C15.4,62.1,1.9,48.6,1.9,32C1.9,15.4,15.4,1.9,32,1.9c16.6,0,30.1,13.5,30.1,30.1C62.1,48.6,48.6,62.1,32,62.1z"/>
+</g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_2_00000029010709152262916630000009148070437939437712_"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 386.7 672"
+	 overflow="visible" xml:space="preserve">
+<g>
+	<polygon fill="#B62E25" points="33.5,616.2 23.3,626.4 23.3,649.1 57.8,649.1 90.8,616.2 	"/>
+	<polygon fill="#B62E25" points="293.2,616.2 235.9,616.2 203,649.1 260.2,649.1 	"/>
+	<polygon fill="#B62E25" points="363.3,616.2 337.1,616.2 304.2,649.1 361.5,649.1 363.3,647.2 	"/>
+	<polygon fill="#B62E25" points="191.9,616.2 134.7,616.2 101.8,649.1 159,649.1 	"/>
+</g>
+<path fill="#B62E25" d="M34.1,476.5h317c2.1,0,3.8,1.7,3.8,3.8v112.4c0,2.1-1.7,3.8-3.8,3.8h-317c-2.1,0-3.8-1.7-3.8-3.8V480.2
+	C30.4,478.2,32.1,476.5,34.1,476.5z"/>
+<g id="Default">
+	<g id="button_background">
+		<g id="panel_border">
+			<path fill="#B62E25" d="M23.4,0.1l0.5,1.6h2.4c0.4,0,0.7,0.2,0.8,0.5L27.9,4c0.2,0.4,0.5,0.6,0.9,0.6h329.7
+				c0.4,0,0.7-0.2,0.9-0.6l0.8-1.8c0.1-0.3,0.5-0.5,0.8-0.5h2.4l0.6-1.5L23.4,0.1L23.4,0.1z"/>
+			<path fill="#B62E25" d="M363.6,671.8l-0.5-1.6h-2.4c-0.4,0-0.7-0.2-0.8-0.5l-0.8-1.7c-0.2-0.3-0.5-0.6-0.9-0.6h-330
+				c-0.4,0-0.7,0.2-0.9,0.6l-0.8,1.8c-0.1,0.3-0.5,0.5-0.8,0.5h-1.9l-0.6,1.6L363.6,671.8L363.6,671.8z"/>
+			<path fill="#B62E25" d="M386.6,21.4l-1.7,1v2c0,0.4-0.2,0.7-0.5,0.8l-1.6,0.8c-0.4,0.2-0.6,0.5-0.6,0.9v617.5
+				c0,0.4,0.2,0.7,0.6,0.9l1.6,0.8c0.3,0.2,0.5,0.5,0.5,0.8v2.4l1.7,0.7V21.4z"/>
+			<path fill="#B62E25" d="M0.5,649.9l1.7-0.7V647c0-0.3,0.2-0.7,0.5-0.8l1.6-0.8c0.3-0.2,0.6-0.5,0.6-0.9V27.3
+				c0-0.4-0.2-0.7-0.6-0.9l-1.7-0.8c-0.3-0.1-0.5-0.5-0.5-0.8v-2.4l-1.7-0.7C0.5,21.8,0.5,649.9,0.5,649.9z"/>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#FFFFFF" points="48.3,481.9 35.6,494.6 35.6,481.9 		"/>
+		<path fill="#1F2F3C" d="M34,476.6h317c2.1,0,3.8,1.7,3.8,3.8v112.4c0,2.1-1.7,3.8-3.8,3.8H34c-2.1,0-3.8-1.7-3.8-3.8V480.4
+			C30.3,478.4,32,476.6,34,476.6z"/>
+		<polygon fill="#FFFFFF" points="48.3,481.9 35.6,494.6 35.6,481.9 		"/>
+		<rect x="35.6" y="481.9" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="313.9" height="109.3"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#8EA6B2" stroke-miterlimit="10" x1="23.4" y1="21.6" x2="363.1" y2="21.6"/>
+		<path fill="#8EA6B2" d="M34.8,21.2L23.9,32.1c-0.6,0.6-1.7,0.2-1.7-0.7v-9.3c0-0.5,0.5-1,1-1C23.1,21.2,34.8,21.2,34.8,21.2z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#8EA6B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M334.2,470.9h18.4
+			c5,0,9.1,4.1,9.1,9.1v17.9"/>
+		<path fill="none" stroke="#8EA6B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M23.7,496.9V480
+			c0-5,4.1-9.1,9.1-9.1h14.9"/>
+		<path fill="none" stroke="#8EA6B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M50.9,602.9H32.8
+			c-5,0-9.1-4.1-9.1-9.1v-16.9"/>
+		<path fill="none" stroke="#8EA6B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" d="M361.8,576.9v16.9
+			c0,5-4.1,9.1-9.1,9.1h-18.8"/>
+	</g>
+	<g>
+		<rect x="21.9" y="73.9" fill="#8DA4B1" width="340.5" height="0.9"/>
+	</g>
+</g>
+</svg>

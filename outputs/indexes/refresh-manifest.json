@@ -1,11 +1,11 @@
 {
-    "startedAt":  "2026-05-22T15:03:30",
-    "finishedAt":  "2026-05-22T15:32:12",
+    "startedAt":  "2026-05-25T22:42:01",
+    "finishedAt":  "2026-05-25T22:44:22",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
-                          "size":  154363281408,
-                          "lastWriteTimeUtc":  "2026-05-14T15:14:23.9505332Z",
-                          "sha256":  "7F768EB71AD331B87B4352AB917194A4B57B2343FC5DC6FAD1E1E5460A813701",
+                          "size":  158181171200,
+                          "lastWriteTimeUtc":  "2026-05-21T16:31:24.8941756Z",
+                          "sha256":  "D4B86CB807094CD6FF111E390E7360215BB14DCF76EF935D4B333F84DFECD975",
                           "hashSkipped":  false
                       },
     "configuredSourceArchive":  "Data.p4k",
@@ -34,13 +34,14 @@
                   {
                       "step":  "enrich",
                       "succeeded":  true,
-                      "rulesPath":  "src\\contracts\\normalization-rules-v2.json"
+                      "skipped":  true,
+                      "reason":  "SkipEnrichment switch was set"
                   },
                   {
                       "step":  "push-outputs",
-                      "succeeded":  true,
-                      "outputRepoPath":  "c:/Users/mail/OneDrive/Star citizen stuff/Exovant/sc-gamedata-outputs"
+                      "succeeded":  false,
+                      "exitCode":  1
                   }
               ],
-    "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
+    "enrichmentManifestPath":  null
 }

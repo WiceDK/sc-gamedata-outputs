@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.5.0, SVG Export Plug-In . SVG Version: 9.03 Build 54727)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="1370.9px" height="171.4px" viewBox="0 0 1370.9 171.4" overflow="visible" xml:space="preserve">
+<rect id="colorstyle:Selected_opacity:100_-bgblock5" x="712.7" y="0.4" fill="#ED6B1E" width="267.8" height="96.2"/>
+<rect id="colorstyle:Critical_opacity:20_-bgblock4" x="712.7" y="108.2" fill="#E63220" width="267.9" height="63.2"/>
+<rect id="colorstyle:Critical_opacity:20_-bgblock3" y="108.1" fill="#E63220" width="700.1" height="63.2"/>
+<rect id="colorstyle:Critical_opacity:20_-bgblock2" x="993.2" y="0.5" fill="#E63220" width="377.7" height="170.8"/>
+<polygon id="colorstyle:Critical_opacity:20_-bgblock1" fill="#E63220" points="0.1,96.7 700.7,96.7 700.9,0.5 0.2,0.5 "/>
+<rect id="colorstyle:Critical_opacity:70_-criticalzone" x="0.5" fill="#E63220" width="70.6" height="96.5"/>
+<rect id="colorstyle:Moderate_opacity:30_-cautionzone" x="71.6" fill="#DCDC00" width="216.5" height="96.5"/>
+<g id="colorstyle:Selected_opacity:100_-partitions">
+	<rect x="680.2" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="559.1" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="454.6" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="364.6" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="287" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="220.1" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="162.4" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="112.7" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="69.8" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="32.9" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+	<rect x="1" y="0.5" fill="#F59C3F" width="2.2" height="96"/>
+</g>
+</svg>

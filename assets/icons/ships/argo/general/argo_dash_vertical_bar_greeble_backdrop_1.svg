@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.7.4, SVG Export Plug-In . SVG Version: 9.03 Build 55973)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 107.7 1005.4" overflow="visible" xml:space="preserve">
+<g id="opacity:75_00000010991332074440620660000001990574482125158577_">
+	<g>
+		<polygon id="opacity:100_00000124842091624270888040000012811964463592170125_" fill="#494849" points="9.2,986.7 18.8,996.2 
+			38,996.2 47.2,1005.4 14.9,1005.4 0,990.5 0,972.8 9.2,972.8 		"/>
+		
+			<rect id="opacity:100_00000039119569045190228340000017861529807608657593_" x="0" y="654.7" fill="#494849" width="9.2" height="307.8"/>
+	</g>
+	<g>
+		
+			<image width="198" height="137" id="opacity:100_00000029751525670406057280000008598464293085656713_" xlink:href="9A759E6B.png"  transform="matrix(0.24 0 0 0.24 -9.442765e-02 972.6391)">
+		</image>
+		
+			<image width="39" height="1283" id="opacity:100_00000061459833873325170860000011464884674794357894_" xlink:href="9A759E69.png"  transform="matrix(0.24 0 0 0.24 -9.442765e-02 654.6391)">
+		</image>
+	</g>
+</g>
+<g id="opacity:75">
+	<g>
+		<polygon id="opacity:100_00000068668338660537394400000000038994159399526552_" fill-rule="evenodd" fill="#494849" points="
+			0,352.8 0,50.7 9.2,60 9.2,352.8 		"/>
+		<polygon id="opacity:100_00000141423416177392881550000012686989699277908628_" fill-rule="evenodd" fill="#494849" points="
+			14.9,0 47.2,0 38,9.2 18.8,9.2 9.2,18.8 9.2,49.6 0,40.4 0,14.9 		"/>
+	</g>
+	<g>
+		
+			<image width="39" height="1260" id="opacity:100_00000016769016061919040890000000869904104358257307_" xlink:href="9A759E6F.png"  transform="matrix(0.24 0 0 0.24 -9.442765e-02 50.5591)">
+		</image>
+		
+			<image width="198" height="208" id="opacity:100_00000119799970207404856800000003422468176303661996_" xlink:href="9A759E68.png"  transform="matrix(0.24 0 0 0.24 -9.442765e-02 -8.090427e-02)">
+		</image>
+	</g>
+</g>
+<path id="opacity:25" fill="#494849" d="M98.4,972.8h9.2v17.7l-14.9,14.9H60.5l9.2-9.2h19.2l9.6-9.6V972.8z M92.8,0H60.5l9.2,9.2
+	h19.2l9.6,9.6v30.8l9.2-9.2V14.9L92.8,0z M107.7,962.5h-9.2V60l9.2-9.2V962.5z"/>
+</svg>

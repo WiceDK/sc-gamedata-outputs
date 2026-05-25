@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 648 1152" overflow="visible" xml:space="preserve">
+<rect y="0.5" fill="#062744" width="648" height="1152"/>
+<path d="M0,0.5h143.7l0,25.3c0,10.6,4.6,20.2,11.6,24.5L648,352.2v800.3H413L0,924.1V0.5z"/>
+<path fill="#1A5988" d="M564.8,1070c8.3,5.3,17.9-3,17.9-15.6l0.1-122.5c0-12.5-5.2-23.8-13.4-29.2L158.3,635H59.6
+	c-9.4,0.1-16.9,10.4-16.9,23.2v60.6c0,10,4.2,19.1,10.8,23.3L564.8,1070z"/>
+<path fill="#1A5988" d="M564.8,613c8.3,5.3,17.9-3,17.9-15.6l0.1-122.5c0-12.5-5.2-23.8-13.4-29.2L158.3,178H59.6
+	c-9.4,0.1-16.9,10.4-16.9,23.2v60.6c0,10,4.2,19.1,10.8,23.3L564.8,613z"/>
+<text transform="matrix(0.8266 -1.025897e-02 6.510000e-03 1 58.6722 218.4443)" display="none" fill="#FFFFFF" font-family="'MicrostyleBoldExtendedATT'" font-size="25.9982px">DOORS</text>
+<text transform="matrix(0.7459 -9.503912e-03 6.790000e-03 1 55.2956 674.3467)" display="none" fill="#FFFFFF" font-family="'MicrostyleBoldExtendedATT'" font-size="25.9982px">SENSORS</text>
+<path fill="none" stroke="#1A5988" stroke-width="3" stroke-miterlimit="10" d="M99.5,5.7v55.9c0,24.8,12.6,48,33.4,61.5L585,416
+	c16.8,10.9,27,29.6,27,49.6V698c0,10.8-8.7,19.5-19.5,19.5H567c-10.8,0-19.5-8.7-19.5-19.5v-36c0-14-7.2-27-19.1-34.4L205.6,426.3
+	c-6.1-3.8-13.2-6-20.4-6.2l-56.6-1.8c-15.9-0.5-29.1,12.3-29.1,28.2v87.9c0,16.9,8.6,32.6,22.7,41.7L584.9,874
+	c16.9,10.9,27.1,29.6,27.1,49.7l0.1,224.2h-64.5l0.6-33.6c0.2-14.2-7-27.5-19-35L212.8,886.1c-5.1-3.1-11-4.8-17-4.7l-138,0.9
+	c-16.9,0.7-31-12.9-31-29.8V5.7H99.5z"/>
+</svg>
