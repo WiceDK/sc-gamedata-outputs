@@ -58,64 +58,6 @@
                                       }
     },
     {
-        "ref":  "7abd6c08-3755-4a2a-ba3f-cb3019c2f213",
-        "codeName":  "AceInterceptorHelmet",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetype.aceinterceptorhelmet.xml",
-        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
-        "displayNameToken":  "@item_Name_basl_combat_light_helmet_02_01_01",
-        "displayName":  "Ace Interceptor Helmet",
-        "description":  "Item Type: Racing Helmet\\nDamage Reduction: 5%\\nTemp. Rating: -35 / 65 °C\\nRadiation Protection: 26000 REM\\nRadiation Scrub Rate: 145.8 REM/s\\n\\nThe unique open-faced design makes the Ace Interceptor helmet a lightweight and liberating option for operating in atmosphere. It features precisely layered plating to protect the head from a variety of combat and environmental hazards and an impact resistant, anti-glare visor over the eyes. Visor is AR crosshair compatible.",
-        "commodityTypeKey":  "ProcessedGoods",
-        "commodityType":  "Processed Goods",
-        "availableCargoSizes":  [
-                                    1,
-                                    2,
-                                    4,
-                                    8,
-                                    16,
-                                    24,
-                                    32
-                                ],
-        "isRefinable":  false,
-        "refinedVersionRef":  null,
-        "refinesIntoRef":  null,
-        "refinesIntoName":  null,
-        "isMineable":  false,
-        "miningType":  null,
-        "miningElementResourceRef":  null,
-        "illegalInJurisdictionRefs":  [
-
-                                      ],
-        "illegalInJurisdictions":  [
-
-                                   ],
-        "isRaw":  false,
-        "isPure":  false,
-        "isExplosive":  false,
-        "isVolatileInQuantum":  false,
-        "isHarvestable":  false,
-        "isSalvageable":  false,
-        "salvageRefinesIntoRef":  null,
-        "salvageRefinesIntoName":  null,
-        "densityGcm3":  1,
-        "healthDecayOverTime":  null,
-        "leafGroupRef":  "9379b129-8688-4777-9f65-9dc09ba935ee",
-        "leafGroupCodeName":  "ProcessedGoods",
-        "leafGroupName":  "Processed Goods",
-        "topLevelGroupRef":  "9379b129-8688-4777-9f65-9dc09ba935ee",
-        "topLevelGroupCodeName":  "ProcessedGoods",
-        "topLevelGroupName":  "Processed Goods",
-        "defaultCargoContainerRefs":  {
-                                          "oneSCU":  "8c466409-fe60-4c6b-9832-30faa2674694",
-                                          "twoSCU":  "51fb5d35-749d-47b2-98f8-81f5143b27d7",
-                                          "fourSCU":  "035ccf67-502f-4ff2-8916-95cb61a2eeac",
-                                          "eightSCU":  "bd6de2d9-b3d3-4429-b342-5d5aa1f6ecb2",
-                                          "sixteenSCU":  "0412e7b0-8e23-415d-8af1-386e9b0c903a",
-                                          "twentyFourSCU":  "7ac90492-0055-4ae1-b87e-9d01f36d4851",
-                                          "thirtyTwoSCU":  "5d11ccf4-120b-48ff-922c-ab376c95f614"
-                                      }
-    },
-    {
         "ref":  "d32df14b-43f3-44dc-a39c-124217fac045",
         "codeName":  "ProcyonCanister_Damage",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetype.procyoncanister_damage.xml",
@@ -3082,7 +3024,7 @@
         "isRaw":  false,
         "isPure":  false,
         "isExplosive":  false,
-        "isVolatileInQuantum":  false,
+        "isVolatileInQuantum":  true,
         "isHarvestable":  false,
         "isSalvageable":  false,
         "salvageRefinesIntoRef":  null,

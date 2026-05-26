@@ -24,25 +24,6 @@
                    ]
     },
     {
-        "ref":  "ea3c2e6f-5dbb-4a98-b2c2-491cde65201d",
-        "category":  "missionitems",
-        "outputItemName":  null,
-        "outputItemType":  "Misc",
-        "craftTimeMins":  0.17,
-        "inputs":  [
-                       {
-                           "name":  "Aluminum",
-                           "slot":  "Frame",
-                           "scu":  0.2
-                       },
-                       {
-                           "name":  "Silicon",
-                           "slot":  "Electronics",
-                           "scu":  0.2
-                       }
-                   ]
-    },
-    {
         "ref":  "7ab8c5b1-2b1c-4388-8931-ad2aefa812e3",
         "category":  "vehiclegear",
         "outputItemName":  null,
@@ -67,6 +48,25 @@
                    ]
     },
     {
+        "ref":  "ea3c2e6f-5dbb-4a98-b2c2-491cde65201d",
+        "category":  "missionitems",
+        "outputItemName":  null,
+        "outputItemType":  "Misc",
+        "craftTimeMins":  0.17,
+        "inputs":  [
+                       {
+                           "name":  "Aluminum",
+                           "slot":  "Frame",
+                           "scu":  0.2
+                       },
+                       {
+                           "name":  "Silicon",
+                           "slot":  "Electronics",
+                           "scu":  0.2
+                       }
+                   ]
+    },
+    {
         "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
         "category":  "vehiclegear",
         "outputItemName":  null,
@@ -85,30 +85,6 @@
                        },
                        {
                            "name":  "Borase",
-                           "slot":  "Pump Impeller",
-                           "scu":  3.15
-                       }
-                   ]
-    },
-    {
-        "ref":  "d7f3ad24-fca7-4393-b026-f55675cfe820",
-        "category":  "vehiclegear",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMins":  17,
-        "inputs":  [
-                       {
-                           "name":  "Tungsten",
-                           "slot":  "Shell",
-                           "scu":  5.25
-                       },
-                       {
-                           "name":  "Pressurized Ice",
-                           "slot":  "Coolant",
-                           "scu":  5.25
-                       },
-                       {
-                           "name":  "Agricium",
                            "slot":  "Pump Impeller",
                            "scu":  3.15
                        }
@@ -145,6 +121,30 @@
                            "name":  "Stileron",
                            "slot":  "Signal Provessor",
                            "scu":  0.8
+                       }
+                   ]
+    },
+    {
+        "ref":  "d7f3ad24-fca7-4393-b026-f55675cfe820",
+        "category":  "vehiclegear",
+        "outputItemName":  null,
+        "outputItemType":  null,
+        "craftTimeMins":  17,
+        "inputs":  [
+                       {
+                           "name":  "Tungsten",
+                           "slot":  "Shell",
+                           "scu":  5.25
+                       },
+                       {
+                           "name":  "Pressurized Ice",
+                           "slot":  "Coolant",
+                           "scu":  5.25
+                       },
+                       {
+                           "name":  "Agricium",
+                           "slot":  "Pump Impeller",
+                           "scu":  3.15
                        }
                    ]
     },
@@ -254,7 +254,7 @@
                    ]
     },
     {
-        "ref":  "a80d62fb-6742-408b-9328-0d833511f4c1",
+        "ref":  "cd86dd07-2425-4cd2-81c4-88e62499c113",
         "category":  "vehiclegear",
         "outputItemName":  "6CA 'Bila'",
         "outputItemType":  "Shield",
@@ -273,7 +273,7 @@
                    ]
     },
     {
-        "ref":  "cd86dd07-2425-4cd2-81c4-88e62499c113",
+        "ref":  "a80d62fb-6742-408b-9328-0d833511f4c1",
         "category":  "vehiclegear",
         "outputItemName":  "6CA 'Bila'",
         "outputItemType":  "Shield",
@@ -2402,30 +2402,6 @@
                    ]
     },
     {
-        "ref":  "9876eb01-42b0-474c-a002-491ff662a3bf",
-        "category":  "fpsgear",
-        "outputItemName":  "Antium Core Jet",
-        "outputItemType":  "Char_Armor_Torso",
-        "craftTimeMins":  4.5,
-        "inputs":  [
-                       {
-                           "name":  "Tungsten",
-                           "slot":  "Protective Sheathing",
-                           "scu":  0.07
-                       },
-                       {
-                           "name":  "Aslarite",
-                           "slot":  "Insulative Liner",
-                           "scu":  0.02
-                       },
-                       {
-                           "name":  "Stileron",
-                           "slot":  "Sheathing Coating",
-                           "scu":  0.06
-                       }
-                   ]
-    },
-    {
         "ref":  "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
         "category":  "fpsgear",
         "outputItemName":  "Antium Core Jet",
@@ -2446,6 +2422,30 @@
                            "name":  "Stileron",
                            "slot":  "Sheathing Coating",
                            "scu":  0.05
+                       }
+                   ]
+    },
+    {
+        "ref":  "9876eb01-42b0-474c-a002-491ff662a3bf",
+        "category":  "fpsgear",
+        "outputItemName":  "Antium Core Jet",
+        "outputItemType":  "Char_Armor_Torso",
+        "craftTimeMins":  4.5,
+        "inputs":  [
+                       {
+                           "name":  "Tungsten",
+                           "slot":  "Protective Sheathing",
+                           "scu":  0.07
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Sheathing Coating",
+                           "scu":  0.06
                        }
                    ]
     },
@@ -3434,7 +3434,7 @@
                    ]
     },
     {
-        "ref":  "4af9c036-1a8f-499c-b1d2-614ece3ff140",
+        "ref":  "b0984c3d-aa5f-4a9d-9df3-94a4edcd30f9",
         "category":  "fpsgear",
         "outputItemName":  "Argus Helmet Black/Silver",
         "outputItemType":  "Char_Armor_Helmet",
@@ -3453,7 +3453,7 @@
                    ]
     },
     {
-        "ref":  "b0984c3d-aa5f-4a9d-9df3-94a4edcd30f9",
+        "ref":  "4af9c036-1a8f-499c-b1d2-614ece3ff140",
         "category":  "fpsgear",
         "outputItemName":  "Argus Helmet Black/Silver",
         "outputItemType":  "Char_Armor_Helmet",
@@ -6879,6 +6879,30 @@
                    ]
     },
     {
+        "ref":  "fce03855-b03a-490b-8d33-017ad86ef6c7",
+        "category":  "vehiclegear",
+        "outputItemName":  "BroadSpec-Go",
+        "outputItemType":  "Radar",
+        "craftTimeMins":  6,
+        "inputs":  [
+                       {
+                           "name":  "Tin",
+                           "slot":  "Case",
+                           "scu":  0.1
+                       },
+                       {
+                           "name":  "Quartz",
+                           "slot":  "Transmitter",
+                           "scu":  0.04
+                       },
+                       {
+                           "name":  "Silicon",
+                           "slot":  "Signal Provessor",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
         "ref":  "95462935-01f4-433e-ba74-05ab58884667",
         "category":  "vehiclegear",
         "outputItemName":  "BroadSpec-Go",
@@ -6899,30 +6923,6 @@
                            "name":  "Gold",
                            "slot":  "Signal Provessor",
                            "scu":  0.04
-                       }
-                   ]
-    },
-    {
-        "ref":  "ac477c55-78c8-4f7b-acc8-b9b6a6df2837",
-        "category":  "vehiclegear",
-        "outputItemName":  "BroadSpec-Go",
-        "outputItemType":  "Radar",
-        "craftTimeMins":  8,
-        "inputs":  [
-                       {
-                           "name":  "Tin",
-                           "slot":  "Case",
-                           "scu":  0.28
-                       },
-                       {
-                           "name":  "Quartz",
-                           "slot":  "Transmitter",
-                           "scu":  0.1
-                       },
-                       {
-                           "name":  "Silicon",
-                           "slot":  "Signal Provessor",
-                           "scu":  0.1
                        }
                    ]
     },
@@ -6951,26 +6951,26 @@
                    ]
     },
     {
-        "ref":  "fce03855-b03a-490b-8d33-017ad86ef6c7",
+        "ref":  "ac477c55-78c8-4f7b-acc8-b9b6a6df2837",
         "category":  "vehiclegear",
         "outputItemName":  "BroadSpec-Go",
         "outputItemType":  "Radar",
-        "craftTimeMins":  6,
+        "craftTimeMins":  8,
         "inputs":  [
                        {
                            "name":  "Tin",
                            "slot":  "Case",
-                           "scu":  0.1
+                           "scu":  0.28
                        },
                        {
                            "name":  "Quartz",
                            "slot":  "Transmitter",
-                           "scu":  0.04
+                           "scu":  0.1
                        },
                        {
                            "name":  "Silicon",
                            "slot":  "Signal Provessor",
-                           "scu":  0.04
+                           "scu":  0.1
                        }
                    ]
     },
@@ -8254,6 +8254,54 @@
                    ]
     },
     {
+        "ref":  "7adc3861-6bfb-48ce-868c-2a168ffe9188",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Arms",
+        "outputItemType":  "Char_Armor_Arms",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.03
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.03
+                       }
+                   ]
+    },
+    {
+        "ref":  "8e0b43aa-3353-4601-9053-c8bf63b1aa68",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Arms Purgatory Camo",
+        "outputItemType":  "Char_Armor_Arms",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.03
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.03
+                       }
+                   ]
+    },
+    {
         "ref":  "b411ee6c-20ba-4697-a77c-3338e0062ab1",
         "category":  "fpsgear",
         "outputItemName":  "Chiron Backpack Purgatory Camo",
@@ -8263,6 +8311,150 @@
                        {
                            "name":  "Aluminum",
                            "slot":  "Frame",
+                           "scu":  0.03
+                       }
+                   ]
+    },
+    {
+        "ref":  "371b65bf-8ea6-472a-9c30-31779ba3bc3a",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Core",
+        "outputItemType":  "Char_Armor_Torso",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.04
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
+        "ref":  "315a8008-c78b-4536-bb02-f9177de66f14",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Core Purgatory Camo",
+        "outputItemType":  "Char_Armor_Torso",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.04
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
+        "ref":  "76438070-9e7d-4518-999a-1965162ec5b4",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Helmet",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.01
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.02
+                       }
+                   ]
+    },
+    {
+        "ref":  "fd0caafc-d49d-4eb4-ad4d-5f57d64f4f34",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Helmet Purgatory Camo",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.01
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.02
+                       }
+                   ]
+    },
+    {
+        "ref":  "6cf12e3d-6e7f-4c75-aeed-dfda398a3a8b",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Legs",
+        "outputItemType":  "Char_Armor_Legs",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.03
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
+                           "scu":  0.03
+                       }
+                   ]
+    },
+    {
+        "ref":  "89c217ab-473d-4464-ad24-3cf3e59b4cf7",
+        "category":  "fpsgear",
+        "outputItemName":  "Chiron Legs Purgatory Camo",
+        "outputItemType":  "Char_Armor_Legs",
+        "craftTimeMins":  2.5,
+        "inputs":  [
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Casing",
+                           "scu":  0.03
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
+                       },
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Casing Weave",
                            "scu":  0.03
                        }
                    ]
@@ -8287,7 +8479,7 @@
                    ]
     },
     {
-        "ref":  "57a536c1-cd88-4b2c-8fab-5b871fffa458",
+        "ref":  "b4160c11-75f9-4699-8aab-7b21abf75bc6",
         "category":  "vehiclegear",
         "outputItemName":  "Cinch Scraper Module",
         "outputItemType":  "SalvageModifier",
@@ -8306,7 +8498,7 @@
                    ]
     },
     {
-        "ref":  "b4160c11-75f9-4699-8aab-7b21abf75bc6",
+        "ref":  "57a536c1-cd88-4b2c-8fab-5b871fffa458",
         "category":  "vehiclegear",
         "outputItemName":  "Cinch Scraper Module",
         "outputItemType":  "SalvageModifier",
@@ -9385,6 +9577,30 @@
                    ]
     },
     {
+        "ref":  "dc08fa4e-07fa-408a-a71b-b03b2168d1df",
+        "category":  "vehiclegear",
+        "outputItemName":  "Cryo-Star SL",
+        "outputItemType":  "Cooler",
+        "craftTimeMins":  12.5,
+        "inputs":  [
+                       {
+                           "name":  "Savrilium",
+                           "slot":  "Shell",
+                           "scu":  0.5
+                       },
+                       {
+                           "name":  "Pressurized Ice",
+                           "slot":  "Coolant",
+                           "scu":  0.5
+                       },
+                       {
+                           "name":  "Borase",
+                           "slot":  "Pump Impeller",
+                           "scu":  0.3
+                       }
+                   ]
+    },
+    {
         "ref":  "caaf41d5-d10c-49d7-bfad-fd5b3aa839c8",
         "category":  "vehiclegear",
         "outputItemName":  "Cryo-Star SL",
@@ -9409,14 +9625,14 @@
                    ]
     },
     {
-        "ref":  "dc08fa4e-07fa-408a-a71b-b03b2168d1df",
+        "ref":  "09016880-5718-4e0a-b065-6166b994c634",
         "category":  "vehiclegear",
         "outputItemName":  "Cryo-Star SL",
         "outputItemType":  "Cooler",
-        "craftTimeMins":  12.5,
+        "craftTimeMins":  11.5,
         "inputs":  [
                        {
-                           "name":  "Savrilium",
+                           "name":  "Borase",
                            "slot":  "Shell",
                            "scu":  0.5
                        },
@@ -9426,7 +9642,7 @@
                            "scu":  0.5
                        },
                        {
-                           "name":  "Borase",
+                           "name":  "Agricium",
                            "slot":  "Pump Impeller",
                            "scu":  0.3
                        }
@@ -9457,30 +9673,6 @@
                    ]
     },
     {
-        "ref":  "09016880-5718-4e0a-b065-6166b994c634",
-        "category":  "vehiclegear",
-        "outputItemName":  "Cryo-Star SL",
-        "outputItemType":  "Cooler",
-        "craftTimeMins":  11.5,
-        "inputs":  [
-                       {
-                           "name":  "Borase",
-                           "slot":  "Shell",
-                           "scu":  0.5
-                       },
-                       {
-                           "name":  "Pressurized Ice",
-                           "slot":  "Coolant",
-                           "scu":  0.5
-                       },
-                       {
-                           "name":  "Agricium",
-                           "slot":  "Pump Impeller",
-                           "scu":  0.3
-                       }
-                   ]
-    },
-    {
         "ref":  "95fc7cad-58d5-4bc4-b643-c0633c6f2b0e",
         "category":  "vehiclegear",
         "outputItemName":  "Cryo-Star XL",
@@ -9505,6 +9697,20 @@
                    ]
     },
     {
+        "ref":  "292f90d9-dbbd-4c9d-bd81-b474bc48e2ed",
+        "category":  "fpsgear",
+        "outputItemName":  "CSP-68H Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Ouratite",
+                           "slot":  "Frame",
+                           "scu":  0.06
+                       }
+                   ]
+    },
+    {
         "ref":  "bbee9843-cca8-4ff2-977e-fb60b235e8ce",
         "category":  "fpsgear",
         "outputItemName":  "CSP-68L Backpack",
@@ -9520,6 +9726,20 @@
                            "name":  "Aslarite",
                            "slot":  "Insulative Liner",
                            "scu":  0.02
+                       }
+                   ]
+    },
+    {
+        "ref":  "82e51d72-b371-4720-83a0-b8bc7ffb7ece",
+        "category":  "fpsgear",
+        "outputItemName":  "CSP-68M Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Ouratite",
+                           "slot":  "Frame",
+                           "scu":  0.04
                        }
                    ]
     },
@@ -10509,6 +10729,30 @@
                    ]
     },
     {
+        "ref":  "ea73da29-d597-4930-91ac-846310561bb0",
+        "category":  "vehiclegear",
+        "outputItemName":  "Defiant",
+        "outputItemType":  "PowerPlant",
+        "craftTimeMins":  13,
+        "inputs":  [
+                       {
+                           "name":  "Borase",
+                           "slot":  "Shell",
+                           "scu":  0.35
+                       },
+                       {
+                           "name":  "Laranite",
+                           "slot":  "Voltage Regulator",
+                           "scu":  0.14
+                       },
+                       {
+                           "name":  "Bexalite",
+                           "slot":  "Stator Cores",
+                           "scu":  0.24
+                       }
+                   ]
+    },
+    {
         "ref":  "3aad9a44-5f8c-44d0-b3a4-80f55602fade",
         "category":  "vehiclegear",
         "outputItemName":  "Defiant",
@@ -10551,30 +10795,6 @@
                        },
                        {
                            "name":  "Taranite",
-                           "slot":  "Stator Cores",
-                           "scu":  0.24
-                       }
-                   ]
-    },
-    {
-        "ref":  "ea73da29-d597-4930-91ac-846310561bb0",
-        "category":  "vehiclegear",
-        "outputItemName":  "Defiant",
-        "outputItemType":  "PowerPlant",
-        "craftTimeMins":  13,
-        "inputs":  [
-                       {
-                           "name":  "Borase",
-                           "slot":  "Shell",
-                           "scu":  0.35
-                       },
-                       {
-                           "name":  "Laranite",
-                           "slot":  "Voltage Regulator",
-                           "scu":  0.14
-                       },
-                       {
-                           "name":  "Bexalite",
                            "slot":  "Stator Cores",
                            "scu":  0.24
                        }
@@ -11459,7 +11679,7 @@
                    ]
     },
     {
-        "ref":  "6380ece6-3393-4900-b65c-dbb5404e63d2",
+        "ref":  "e12a7921-95ad-493b-b972-e36198611d7e",
         "category":  "fpsgear",
         "outputItemName":  "DustUp Legs Desert",
         "outputItemType":  "Char_Armor_Legs",
@@ -11478,7 +11698,7 @@
                    ]
     },
     {
-        "ref":  "e12a7921-95ad-493b-b972-e36198611d7e",
+        "ref":  "6380ece6-3393-4900-b65c-dbb5404e63d2",
         "category":  "fpsgear",
         "outputItemName":  "DustUp Legs Desert",
         "outputItemType":  "Char_Armor_Legs",
@@ -14619,7 +14839,7 @@
                    ]
     },
     {
-        "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
+        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
         "category":  "vehiclegear",
         "outputItemName":  "Glacis",
         "outputItemType":  "Shield",
@@ -14638,7 +14858,7 @@
                    ]
     },
     {
-        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
+        "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
         "category":  "vehiclegear",
         "outputItemName":  "Glacis",
         "outputItemType":  "Shield",
@@ -16041,7 +16261,7 @@
                    ]
     },
     {
-        "ref":  "9b7f9fc2-b766-44ff-861b-6fb1d7c6f63c",
+        "ref":  "ad77c4ef-57da-469d-88f8-c4dcd5ed7e47",
         "category":  "fpsgear",
         "outputItemName":  "Inquisitor Core Olive",
         "outputItemType":  "Char_Armor_Torso",
@@ -16065,7 +16285,7 @@
                    ]
     },
     {
-        "ref":  "ad77c4ef-57da-469d-88f8-c4dcd5ed7e47",
+        "ref":  "9b7f9fc2-b766-44ff-861b-6fb1d7c6f63c",
         "category":  "fpsgear",
         "outputItemName":  "Inquisitor Core Olive",
         "outputItemType":  "Char_Armor_Torso",
@@ -18172,6 +18392,25 @@
                            "name":  "Agricium",
                            "slot":  "Frame",
                            "scu":  6.74
+                       }
+                   ]
+    },
+    {
+        "ref":  "1efa4123-ffa9-4688-b7ed-e3be44c16f46",
+        "category":  "fpsgear",
+        "outputItemName":  "MacFlex \"Rucksack\" Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Taranite",
+                           "slot":  "Segment Paneling",
+                           "scu":  0.03
+                       },
+                       {
+                           "name":  "Aslarite",
+                           "slot":  "Insulative Liner",
+                           "scu":  0.02
                        }
                    ]
     },
@@ -20285,6 +20524,20 @@
         "ref":  "c307d42e-24ad-4001-a3df-aa7fc3a604f9",
         "category":  "fpsgear",
         "outputItemName":  "Novikov Backpack Patina",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Shell",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
+        "ref":  "17429bd8-bc49-4b73-9844-ed820f65f153",
+        "category":  "fpsgear",
+        "outputItemName":  "Novikov Backpack Smolder",
         "outputItemType":  "Char_Armor_Backpack",
         "craftTimeMins":  1.5,
         "inputs":  [
@@ -25366,6 +25619,20 @@
                    ]
     },
     {
+        "ref":  "82a1fb35-ebcb-4121-b444-21545da88f2b",
+        "category":  "fpsgear",
+        "outputItemName":  "Pembroke Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Stileron",
+                           "slot":  "Shell",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
         "ref":  "7e181fa5-d8a6-4877-89b7-40c04c03d4a1",
         "category":  "fpsgear",
         "outputItemName":  "Pembroke Exploration Suit",
@@ -27444,6 +27711,20 @@
                    ]
     },
     {
+        "ref":  "bb9d2c50-18b7-476f-a98c-5db95cc7d523",
+        "category":  "fpsgear",
+        "outputItemName":  "Sinkhole Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Ouratite",
+                           "slot":  "Frame",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
         "ref":  "b8d285a5-915d-4c63-8a48-ec67f4aa249d",
         "category":  "vehiclegear",
         "outputItemName":  "Siren",
@@ -28101,7 +28382,7 @@
                    ]
     },
     {
-        "ref":  "093d67a2-c4d2-4141-9b9e-8dd9978e96b2",
+        "ref":  "e87c8612-28ed-45b1-a03a-7941984c93fe",
         "category":  "vehiclegear",
         "outputItemName":  "Stellate",
         "outputItemType":  "PowerPlant",
@@ -28125,7 +28406,7 @@
                    ]
     },
     {
-        "ref":  "e87c8612-28ed-45b1-a03a-7941984c93fe",
+        "ref":  "093d67a2-c4d2-4141-9b9e-8dd9978e96b2",
         "category":  "vehiclegear",
         "outputItemName":  "Stellate",
         "outputItemType":  "PowerPlant",
@@ -29863,6 +30144,20 @@
                    ]
     },
     {
+        "ref":  "0dd198ba-20ab-4119-88bb-d7d2deaa147a",
+        "category":  "fpsgear",
+        "outputItemName":  "Testudo Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMins":  1.5,
+        "inputs":  [
+                       {
+                           "name":  "Ouratite",
+                           "slot":  "Frame",
+                           "scu":  0.04
+                       }
+                   ]
+    },
+    {
         "ref":  "b60850f6-0aeb-4b3c-8104-49baa4a61aa7",
         "category":  "fpsgear",
         "outputItemName":  "Testudo Backpack Combustion",
@@ -30876,7 +31171,7 @@
                    ]
     },
     {
-        "ref":  "4ae02769-a60a-41ee-96eb-f6cff99b30ef",
+        "ref":  "29815dc0-d7d1-4385-8181-32ddbb6d2188",
         "category":  "fpsgear",
         "outputItemName":  "TrueDef-Pro Arms Black/Silver",
         "outputItemType":  "Char_Armor_Arms",
@@ -30895,7 +31190,7 @@
                    ]
     },
     {
-        "ref":  "29815dc0-d7d1-4385-8181-32ddbb6d2188",
+        "ref":  "4ae02769-a60a-41ee-96eb-f6cff99b30ef",
         "category":  "fpsgear",
         "outputItemName":  "TrueDef-Pro Arms Black/Silver",
         "outputItemType":  "Char_Armor_Arms",

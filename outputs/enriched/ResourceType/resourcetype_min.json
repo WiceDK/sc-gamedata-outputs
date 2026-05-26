@@ -36,42 +36,6 @@
         "topLevelGroupName":  "Natural Materials"
     },
     {
-        "ref":  "7abd6c08-3755-4a2a-ba3f-cb3019c2f213",
-        "displayName":  "Ace Interceptor Helmet",
-        "description":  "Item Type: Racing Helmet\\nDamage Reduction: 5%\\nTemp. Rating: -35 / 65 °C\\nRadiation Protection: 26000 REM\\nRadiation Scrub Rate: 145.8 REM/s\\n\\nThe unique open-faced design makes the Ace Interceptor helmet a lightweight and liberating option for operating in atmosphere. It features precisely layered plating to protect the head from a variety of combat and environmental hazards and an impact resistant, anti-glare visor over the eyes. Visor is AR crosshair compatible.",
-        "commodityTypeKey":  "ProcessedGoods",
-        "commodityType":  "Processed Goods",
-        "availableCargoSizes":  [
-                                    1,
-                                    2,
-                                    4,
-                                    8,
-                                    16,
-                                    24,
-                                    32
-                                ],
-        "isRefinable":  false,
-        "refinesInto":  null,
-        "isMineable":  false,
-        "miningType":  null,
-        "illegalInJurisdictions":  [
-
-                                   ],
-        "isRaw":  false,
-        "isPure":  false,
-        "isExplosive":  false,
-        "isVolatileInQuantum":  false,
-        "isHarvestable":  false,
-        "isSalvageable":  false,
-        "salvageRefinesInto":  null,
-        "densityGcm3":  1,
-        "healthDecayOverTime":  null,
-        "leafGroupCodeName":  "ProcessedGoods",
-        "leafGroupName":  "Processed Goods",
-        "topLevelGroupCodeName":  "ProcessedGoods",
-        "topLevelGroupName":  "Processed Goods"
-    },
-    {
         "ref":  "d32df14b-43f3-44dc-a39c-124217fac045",
         "displayName":  "AcryliPlex Composite",
         "description":  "This composite is a moldable material used in the construction of explosives. In addition to being commonly used in demolition applications for heavy industry and mining, it is also used to create small potent warheads. Care must be taken while transporting larger quantities of the composite as it is impact and heat sensitive.",
@@ -1922,7 +1886,7 @@
         "isRaw":  false,
         "isPure":  false,
         "isExplosive":  false,
-        "isVolatileInQuantum":  false,
+        "isVolatileInQuantum":  true,
         "isHarvestable":  false,
         "isSalvageable":  false,
         "salvageRefinesInto":  null,

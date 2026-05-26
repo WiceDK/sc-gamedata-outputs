@@ -25,45 +25,45 @@
     },
     {
         "ref":  "903fb48b-ea72-48c0-b6d1-ece7c7f1e2f3",
-        "displayName":  null,
+        "displayName":  "J",
         "blueprintCount":  7,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "f14e629c-3346-4ca8-9204-df523ae54822",
-        "displayName":  null,
+        "displayName":  "V",
         "blueprintCount":  4,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "6d549de3-21d6-4c46-ba89-2970a4cf7286",
-        "displayName":  null,
+        "displayName":  "V",
         "blueprintCount":  8,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "4937f5e9-f42e-4d8a-a6c4-96517028c548",
-        "displayName":  null,
+        "displayName":  "~mission(Contractor|BlackBoxRecoverTitleEasy)",
         "blueprintCount":  12,
-        "missionCount":  0
+        "missionCount":  7
     },
     {
         "ref":  "fa0be2ae-124b-4505-a45d-80175c8f0b37",
-        "displayName":  null,
+        "displayName":  "~",
         "blueprintCount":  8,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "636a76a2-0fbb-4f7f-aa69-7187f84aa961",
-        "displayName":  null,
+        "displayName":  "~",
         "blueprintCount":  9,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "0f03e098-cc68-4a14-abe8-7b17a8bec97e",
-        "displayName":  null,
+        "displayName":  "Additional Resources For Research",
         "blueprintCount":  10,
-        "missionCount":  0
+        "missionCount":  2
     },
     {
         "ref":  "6bfc32c9-fb2c-4945-b2e1-c29666842477",
@@ -103,21 +103,21 @@
     },
     {
         "ref":  "cf847b27-bf3b-4d50-87c0-de3c68e4e387",
-        "displayName":  null,
+        "displayName":  "Assistance Needed Against XenoThreat Raid",
         "blueprintCount":  14,
-        "missionCount":  0
+        "missionCount":  13
     },
     {
         "ref":  "16948a53-7be2-4869-9b21-3af06e99f8b7",
-        "displayName":  null,
+        "displayName":  "Destroy Headhunter Stolen Data",
         "blueprintCount":  12,
-        "missionCount":  0
+        "missionCount":  8
     },
     {
         "ref":  "6ba44ab4-9681-4bbf-9fd6-475da08bafd5",
-        "displayName":  null,
+        "displayName":  "Cargo Shipment Must Be Completed",
         "blueprintCount":  14,
-        "missionCount":  0
+        "missionCount":  5
     },
     {
         "ref":  "e489ca64-3152-4ef3-8e86-10e05120d84d",
@@ -127,21 +127,21 @@
     },
     {
         "ref":  "af21edb5-3938-45ac-8a35-130e52463f44",
-        "displayName":  null,
+        "displayName":  "Orange Level Contract: Return the Favor",
         "blueprintCount":  6,
-        "missionCount":  0
+        "missionCount":  6
     },
     {
         "ref":  "ad7ee842-5a39-4f35-a337-91b8e274179f",
-        "displayName":  null,
+        "displayName":  "Orange Level Contract: Protect Our Client’s Interests",
         "blueprintCount":  6,
-        "missionCount":  0
+        "missionCount":  6
     },
     {
         "ref":  "5b74b911-ef2e-4bcd-8767-84abdc6bf6f9",
         "displayName":  "~mission(Contractor|DestroyProbeTitle)",
         "blueprintCount":  8,
-        "missionCount":  18
+        "missionCount":  24
     },
     {
         "ref":  "2fefd608-1c2c-4b0f-9c48-24b797f3ba3f",
@@ -211,45 +211,45 @@
     },
     {
         "ref":  "7c495074-f31a-4f52-bde2-c912b183ac81",
-        "displayName":  null,
+        "displayName":  "Need Resource for Research",
         "blueprintCount":  9,
-        "missionCount":  0
+        "missionCount":  2
     },
     {
         "ref":  "5abbcbe8-8af1-4b76-8a85-631eeff5903d",
-        "displayName":  null,
+        "displayName":  "A",
         "blueprintCount":  7,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "61b089a0-880c-41da-a2c2-482a1bffe96f",
-        "displayName":  null,
-        "blueprintCount":  11,
-        "missionCount":  0
-    },
-    {
-        "ref":  "1e31d7e8-3033-4c98-a477-c474810d48c1",
-        "displayName":  "QV Breaker Station Mining Rights (Exclusive)",
+        "displayName":  "End of a Salamander",
         "blueprintCount":  11,
         "missionCount":  2
     },
     {
+        "ref":  "1e31d7e8-3033-4c98-a477-c474810d48c1",
+        "displayName":  "~mission(Contractor|RecoverItemTitle)",
+        "blueprintCount":  11,
+        "missionCount":  3
+    },
+    {
         "ref":  "e52bf354-8918-474d-987e-55c01bfecdd3",
-        "displayName":  "Come to Aid of Convoy",
+        "displayName":  "A Well Deserved Break",
         "blueprintCount":  10,
-        "missionCount":  19
+        "missionCount":  22
     },
     {
         "ref":  "5e79204c-6d26-4ddb-95c8-6940028e4d89",
-        "displayName":  null,
+        "displayName":  "Lrg. Purchase Order: Hand Mined Materials",
         "blueprintCount":  7,
-        "missionCount":  0
+        "missionCount":  4
     },
     {
         "ref":  "ebe453ce-10cc-4811-8c68-217c5fecb79e",
-        "displayName":  null,
+        "displayName":  "Lrg. Purchase Order: Hand Mined Materials",
         "blueprintCount":  6,
-        "missionCount":  0
+        "missionCount":  4
     },
     {
         "ref":  "c2bd6ae6-c4a1-4fb1-8421-bd2979f39f77",
@@ -265,15 +265,15 @@
     },
     {
         "ref":  "6876ee7a-114b-4414-9af1-bfdcdd303204",
-        "displayName":  null,
+        "displayName":  "All Things Come To An End",
         "blueprintCount":  11,
-        "missionCount":  0
+        "missionCount":  2
     },
     {
         "ref":  "67a07f1a-ca8c-400d-984a-6088ecd3b482",
-        "displayName":  null,
+        "displayName":  "A Challenging Contract",
         "blueprintCount":  12,
-        "missionCount":  0
+        "missionCount":  2
     },
     {
         "ref":  "41371e2a-09d2-4eb6-b046-69e2ce34521d",
@@ -313,9 +313,9 @@
     },
     {
         "ref":  "9b457916-07e2-49bd-b4c0-52ac963508c9",
-        "displayName":  null,
+        "displayName":  "J",
         "blueprintCount":  3,
-        "missionCount":  0
+        "missionCount":  1
     },
     {
         "ref":  "ed1f79f8-28a6-4d86-9f47-ac7a8dda8564",
@@ -349,21 +349,21 @@
     },
     {
         "ref":  "7d0ecc93-a6e0-4096-acdc-dcc7969e6b96",
-        "displayName":  null,
+        "displayName":  "Executive Protection Detail",
         "blueprintCount":  5,
-        "missionCount":  0
+        "missionCount":  6
     },
     {
         "ref":  "0624864b-bb2d-4dd3-87cb-3b9599285fbe",
-        "displayName":  null,
+        "displayName":  "Protection Detail Needed. High Risk.",
         "blueprintCount":  6,
-        "missionCount":  0
+        "missionCount":  3
     },
     {
         "ref":  "65744944-bca2-4467-aa8e-9a948b13a6b0",
-        "displayName":  null,
+        "displayName":  "Experienced Protection Detail Needed",
         "blueprintCount":  5,
-        "missionCount":  0
+        "missionCount":  4
     },
     {
         "ref":  "7d65ed76-f824-430a-8597-045b6b759dfb",
@@ -552,25 +552,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "f638ceff-38a2-442f-9233-389619957104",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "4d724371-4658-4a22-828a-0b077b163e1a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "4d724371-4658-4a22-828a-0b077b163e1a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "1bcdf005-1192-4b2f-b8c1-86e48e084f97",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -588,25 +570,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "ee32c370-c77f-4b22-a28e-0b52a3764d85",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "5f4206eb-5dbd-462e-addc-35ed2e9ab53b",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "5f4206eb-5dbd-462e-addc-35ed2e9ab53b",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "74d9273e-e262-4669-b462-e7ef82027f34",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -624,25 +588,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "7e73f59e-43ae-4943-a03d-208569ccb462",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "eb0a196c-b252-4fac-931f-cdc43258fb69",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "eb0a196c-b252-4fac-931f-cdc43258fb69",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "343ae5e1-2072-4f43-bb5a-0c73de2d21be",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -660,25 +606,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "4da274e1-b462-4b5b-98ae-34a5d65a7a9b",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "e052cb6e-dfb2-489f-b4c7-2ee41195e101",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "e052cb6e-dfb2-489f-b4c7-2ee41195e101",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "a05e07ed-92bb-4ae4-8fe7-8e4234228f8b",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -696,25 +624,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "96ddab13-025f-40e2-8757-f91c761fc38a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "668ab288-0f84-4253-9e21-16f9bbcb921b",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "668ab288-0f84-4253-9e21-16f9bbcb921b",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "89098afb-1035-43e9-8d65-857a5070efd2",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -732,25 +642,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "bb1ddea2-d086-4821-9662-caad87c48cff",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "1c47b046-c2c5-4356-a2c5-2f8c6aa42d7a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "1c47b046-c2c5-4356-a2c5-2f8c6aa42d7a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "baec53f2-2ab1-4507-9882-7bb03966273e",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -768,25 +660,7 @@
         "missionCount":  0
     },
     {
-        "ref":  "8a02761e-cd85-4f94-a371-26458465594e",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "43bacc63-c4e7-4428-b4b4-db41e555787a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "43bacc63-c4e7-4428-b4b4-db41e555787a",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "726db62d-ee52-467d-9e12-0b0fcdc487e4",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
@@ -804,18 +678,6 @@
         "missionCount":  0
     },
     {
-        "ref":  "2c7c5545-2f23-4297-b4f1-6131c427c9fb",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "34dfefee-28f7-44d3-a63e-a73d646bc3a8",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
         "ref":  "34dfefee-28f7-44d3-a63e-a73d646bc3a8",
         "displayName":  null,
         "blueprintCount":  1,
@@ -823,18 +685,6 @@
     },
     {
         "ref":  "ddb463e6-1bf8-47da-8816-e1eab8347beb",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "ddb463e6-1bf8-47da-8816-e1eab8347beb",
-        "displayName":  null,
-        "blueprintCount":  1,
-        "missionCount":  0
-    },
-    {
-        "ref":  "51f3df33-47f4-459a-bec1-b1c77f4e8158",
         "displayName":  null,
         "blueprintCount":  1,
         "missionCount":  0
