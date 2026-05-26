@@ -1,43 +1,43 @@
 [
     {
         "ref":  "5d78a8d6-6911-4eda-97b6-9e315025147d",
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Energy Anomaly Data",
         "blueprintCount":  12,
         "missionCount":  1
     },
     {
         "ref":  "3ebf3bfa-dde3-4782-90f6-b003b5af1877",
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Security Data",
         "blueprintCount":  12,
         "missionCount":  1
     },
     {
         "ref":  "a79a915d-5186-4f87-8140-69bca9fc335e",
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Seismic Data",
         "blueprintCount":  15,
         "missionCount":  1
     },
     {
         "ref":  "e0c72a9a-38be-4850-bc0d-dc4f3ee687c2",
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Power Usage Data",
         "blueprintCount":  15,
         "missionCount":  1
     },
     {
         "ref":  "903fb48b-ea72-48c0-b6d1-ece7c7f1e2f3",
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Project Hyperion",
         "blueprintCount":  7,
         "missionCount":  1
     },
     {
         "ref":  "f14e629c-3346-4ca8-9204-df523ae54822",
-        "displayName":  "V",
+        "displayName":  "Verified Bounty: ~mission(TargetName) at ~mission(Location)",
         "blueprintCount":  4,
         "missionCount":  1
     },
     {
         "ref":  "6d549de3-21d6-4c46-ba89-2970a4cf7286",
-        "displayName":  "V",
+        "displayName":  "Verified Bounty: ~mission(TargetName) at ~mission(Location)",
         "blueprintCount":  8,
         "missionCount":  1
     },
@@ -49,13 +49,13 @@
     },
     {
         "ref":  "fa0be2ae-124b-4505-a45d-80175c8f0b37",
-        "displayName":  "~",
+        "displayName":  "~mission(Contractor|RecoverItemTitle)",
         "blueprintCount":  8,
         "missionCount":  1
     },
     {
         "ref":  "636a76a2-0fbb-4f7f-aa69-7187f84aa961",
-        "displayName":  "~",
+        "displayName":  "~mission(Contractor|RecoverItemTitle)",
         "blueprintCount":  9,
         "missionCount":  1
     },
@@ -163,7 +163,7 @@
     },
     {
         "ref":  "b81b328f-28a5-4d76-b06a-604cc7d5f2b0",
-        "displayName":  "N",
+        "displayName":  "Need a death at ~mission(Location)",
         "blueprintCount":  8,
         "missionCount":  1
     },
@@ -181,7 +181,7 @@
     },
     {
         "ref":  "c9b51f5a-6073-49f8-bd40-b240d7d35ceb",
-        "displayName":  "R",
+        "displayName":  "Retrieve Additional Smuggler Intel",
         "blueprintCount":  14,
         "missionCount":  1
     },
@@ -205,7 +205,7 @@
     },
     {
         "ref":  "ce014e33-cfcb-45e9-a12f-06f9baff9db2",
-        "displayName":  "B",
+        "displayName":  "Bounty Assignment: ~mission(TargetName) (HRT)",
         "blueprintCount":  12,
         "missionCount":  1
     },
@@ -217,7 +217,7 @@
     },
     {
         "ref":  "5abbcbe8-8af1-4b76-8a85-631eeff5903d",
-        "displayName":  "A",
+        "displayName":  "Additional Resources For Research",
         "blueprintCount":  7,
         "missionCount":  1
     },
@@ -277,7 +277,7 @@
     },
     {
         "ref":  "41371e2a-09d2-4eb6-b046-69e2ce34521d",
-        "displayName":  "E",
+        "displayName":  "Extra Special Wolf",
         "blueprintCount":  1,
         "missionCount":  1
     },
@@ -289,19 +289,19 @@
     },
     {
         "ref":  "ef7eca0b-6f20-44e1-9308-8dcce92d713f",
-        "displayName":  "Y",
+        "displayName":  "Your Best Shot",
         "blueprintCount":  1,
         "missionCount":  1
     },
     {
         "ref":  "e71e1a05-1817-46b4-8123-7bcc6c5927a3",
-        "displayName":  "S",
+        "displayName":  "Suit Up Take Off",
         "blueprintCount":  1,
         "missionCount":  1
     },
     {
         "ref":  "b652a50f-657b-4e2f-92a2-55962d1f4f72",
-        "displayName":  "S",
+        "displayName":  "Suit Up Take Off",
         "blueprintCount":  1,
         "missionCount":  1
     },
@@ -313,31 +313,31 @@
     },
     {
         "ref":  "9b457916-07e2-49bd-b4c0-52ac963508c9",
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Project Hyperion",
         "blueprintCount":  3,
         "missionCount":  1
     },
     {
         "ref":  "ed1f79f8-28a6-4d86-9f47-ac7a8dda8564",
-        "displayName":  "A",
+        "displayName":  "Assist People's Alliance Vessel Tranquility",
         "blueprintCount":  6,
         "missionCount":  1
     },
     {
         "ref":  "e7b17f94-74ef-4337-9aa9-11f25fbb4d2a",
-        "displayName":  "A",
+        "displayName":  "Assist People's Alliance Vessel Tranquility",
         "blueprintCount":  3,
         "missionCount":  1
     },
     {
         "ref":  "d16ca80c-eb03-41ad-8574-aa0dc0a5f6e3",
-        "displayName":  "S",
+        "displayName":  "Strategic Bombing",
         "blueprintCount":  6,
         "missionCount":  1
     },
     {
         "ref":  "2190957e-a832-4a10-ad68-ec640de2c3d1",
-        "displayName":  "S",
+        "displayName":  "Strategic Bombing",
         "blueprintCount":  3,
         "missionCount":  1
     },
@@ -403,13 +403,13 @@
     },
     {
         "ref":  "dbaf603a-534f-4bbf-9dfd-e64e4aaec62e",
-        "displayName":  "T",
+        "displayName":  "Tactical Strike Group Needed",
         "blueprintCount":  14,
         "missionCount":  1
     },
     {
         "ref":  "fb2a7d3e-8e67-4567-a08f-409d88cccc8a",
-        "displayName":  "T",
+        "displayName":  "Tactical Strike Group Needed",
         "blueprintCount":  10,
         "missionCount":  1
     },
@@ -439,7 +439,7 @@
     },
     {
         "ref":  "1817df4b-2d1c-4735-872d-cb471cf07201",
-        "displayName":  "R",
+        "displayName":  "Retrieve Additional Smuggler Intel",
         "blueprintCount":  3,
         "missionCount":  1
     },

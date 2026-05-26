@@ -2,11 +2,13 @@
     {
         "ref":  "5d78a8d6-6911-4eda-97b6-9e315025147d",
         "displayNameToken":  null,
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Energy Anomaly Data",
         "codeName":  "BP_MISSIONREWARD_ASD2A",
         "blueprintCount":  12,
         "missionCount":  1,
-        "missionTitles":  "Jorrit Dossier: Updated Energy Anomaly Data",
+        "missionTitles":  [
+                              "Jorrit Dossier: Updated Energy Anomaly Data"
+                          ],
         "blueprintRefs":  [
                               "408fbaaf-41b0-4059-9ca8-08cfbe9f84e3",
                               "807fac7d-6b86-413b-b279-29a3a07337b2",
@@ -25,11 +27,13 @@
     {
         "ref":  "3ebf3bfa-dde3-4782-90f6-b003b5af1877",
         "displayNameToken":  null,
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Security Data",
         "codeName":  "BP_MISSIONREWARD_ASD2B",
         "blueprintCount":  12,
         "missionCount":  1,
-        "missionTitles":  "Jorrit Dossier: Updated Security Data",
+        "missionTitles":  [
+                              "Jorrit Dossier: Updated Security Data"
+                          ],
         "blueprintRefs":  [
                               "f4257ce3-9afa-4694-a707-aade876dc75c",
                               "202ed065-69ba-4b16-945c-0856cefce789",
@@ -48,11 +52,13 @@
     {
         "ref":  "a79a915d-5186-4f87-8140-69bca9fc335e",
         "displayNameToken":  null,
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Seismic Data",
         "codeName":  "BP_MISSIONREWARD_ASD2C",
         "blueprintCount":  15,
         "missionCount":  1,
-        "missionTitles":  "Jorrit Dossier: Updated Seismic Data",
+        "missionTitles":  [
+                              "Jorrit Dossier: Updated Seismic Data"
+                          ],
         "blueprintRefs":  [
                               "55f51eb4-b71e-4048-8dcf-039bc5034be5",
                               "2017fa82-1eab-412d-b9cf-7bf8d0e14ed5",
@@ -74,11 +80,13 @@
     {
         "ref":  "e0c72a9a-38be-4850-bc0d-dc4f3ee687c2",
         "displayNameToken":  null,
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Updated Power Usage Data",
         "codeName":  "BP_MISSIONREWARD_ASD2D",
         "blueprintCount":  15,
         "missionCount":  1,
-        "missionTitles":  "Jorrit Dossier: Updated Power Usage Data",
+        "missionTitles":  [
+                              "Jorrit Dossier: Updated Power Usage Data"
+                          ],
         "blueprintRefs":  [
                               "4e5cfca9-312e-4ef0-93fd-0cd01dcad86b",
                               "8248912d-7803-4ef8-b338-632a0d488515",
@@ -100,11 +108,13 @@
     {
         "ref":  "903fb48b-ea72-48c0-b6d1-ece7c7f1e2f3",
         "displayNameToken":  null,
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Project Hyperion",
         "codeName":  "BP_MISSIONREWARD_ASD3",
         "blueprintCount":  7,
         "missionCount":  1,
-        "missionTitles":  "Jorrit Dossier: Project Hyperion",
+        "missionTitles":  [
+                              "Jorrit Dossier: Project Hyperion"
+                          ],
         "blueprintRefs":  [
                               "d7b36a9b-cf60-49a4-b822-a6271e8a7323",
                               "b0b3fdea-eb1a-46e8-bdf8-9662f0e7c997",
@@ -118,11 +128,13 @@
     {
         "ref":  "f14e629c-3346-4ca8-9204-df523ae54822",
         "displayNameToken":  null,
-        "displayName":  "V",
+        "displayName":  "Verified Bounty: ~mission(TargetName) at ~mission(Location)",
         "codeName":  "BP_MISSIONREWARD_BHG_ASDFacilityDelving_EngineeringWing_EliminateSpecific",
         "blueprintCount":  4,
         "missionCount":  1,
-        "missionTitles":  "Verified Bounty: ~mission(TargetName) at ~mission(Location)",
+        "missionTitles":  [
+                              "Verified Bounty: ~mission(TargetName) at ~mission(Location)"
+                          ],
         "blueprintRefs":  [
                               "5cb4fa28-dfc9-44b7-8d3d-5a99b6ad3143",
                               "6736c770-f444-40c7-a570-1b5e4d2b7ecd",
@@ -133,11 +145,13 @@
     {
         "ref":  "6d549de3-21d6-4c46-ba89-2970a4cf7286",
         "displayNameToken":  null,
-        "displayName":  "V",
+        "displayName":  "Verified Bounty: ~mission(TargetName) at ~mission(Location)",
         "codeName":  "BP_MISSIONREWARD_BHG_ASDFacilityDelving_ResearchWing_EliminateSpecific",
         "blueprintCount":  8,
         "missionCount":  1,
-        "missionTitles":  "Verified Bounty: ~mission(TargetName) at ~mission(Location)",
+        "missionTitles":  [
+                              "Verified Bounty: ~mission(TargetName) at ~mission(Location)"
+                          ],
         "blueprintRefs":  [
                               "cbdb6663-b54a-482f-a194-c6c2edccbbec",
                               "c12bbffd-b102-4ea2-81ff-f0bad777a3d3",
@@ -183,11 +197,13 @@
     {
         "ref":  "fa0be2ae-124b-4505-a45d-80175c8f0b37",
         "displayNameToken":  null,
-        "displayName":  "~",
+        "displayName":  "~mission(Contractor|RecoverItemTitle)",
         "codeName":  "BP_MISSIONREWARD_BitZeros_RecoverItem_PyroNyx",
         "blueprintCount":  8,
         "missionCount":  1,
-        "missionTitles":  "~mission(Contractor|RecoverItemTitle)",
+        "missionTitles":  [
+                              "~mission(Contractor|RecoverItemTitle)"
+                          ],
         "blueprintRefs":  [
                               "41cf01a5-1600-4017-b0a8-62344627803c",
                               "135f8c5f-3667-4887-9d7b-c145a586568d",
@@ -202,11 +218,13 @@
     {
         "ref":  "636a76a2-0fbb-4f7f-aa69-7187f84aa961",
         "displayNameToken":  null,
-        "displayName":  "~",
+        "displayName":  "~mission(Contractor|RecoverItemTitle)",
         "codeName":  "BP_MISSIONREWARD_BitZeros_RecoverItem_Stanton",
         "blueprintCount":  9,
         "missionCount":  1,
-        "missionTitles":  "~mission(Contractor|RecoverItemTitle)",
+        "missionTitles":  [
+                              "~mission(Contractor|RecoverItemTitle)"
+                          ],
         "blueprintRefs":  [
                               "65011209-ad59-4d41-99da-ffbc8f174863",
                               "02703156-1d36-4aa8-913b-579ce01077e5",
@@ -250,9 +268,9 @@
         "codeName":  "BP_MISSIONREWARD_Carryable_2H_FL_MissionItem_Microsatellite_a",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "ea3c2e6f-5dbb-4a98-b2c2-491cde65201d"
                           ]
@@ -700,11 +718,13 @@
     {
         "ref":  "b81b328f-28a5-4d76-b06a-604cc7d5f2b0",
         "displayNameToken":  null,
-        "displayName":  "N",
+        "displayName":  "Need a death at ~mission(Location)",
         "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateBoss",
         "blueprintCount":  8,
         "missionCount":  1,
-        "missionTitles":  "Need a death at ~mission(Location)",
+        "missionTitles":  [
+                              "Need a death at ~mission(Location)"
+                          ],
         "blueprintRefs":  [
                               "a98a8834-d924-468d-8d1b-8e4aba3e8291",
                               "ef686d26-24a4-4244-b55b-856d995a0ff2",
@@ -779,11 +799,13 @@
     {
         "ref":  "c9b51f5a-6073-49f8-bd40-b240d7d35ceb",
         "displayNameToken":  null,
-        "displayName":  "R",
+        "displayName":  "Retrieve Additional Smuggler Intel",
         "codeName":  "BP_MISSIONREWARD_IDS_RecoverEncryptedData",
         "blueprintCount":  14,
         "missionCount":  1,
-        "missionTitles":  "Retrieve Additional Smuggler Intel",
+        "missionTitles":  [
+                              "Retrieve Additional Smuggler Intel"
+                          ],
         "blueprintRefs":  [
                               "2d084e7a-056d-4e29-a824-cd459888d27f",
                               "656bcd59-44ca-4812-a5f2-f1d2ec305571",
@@ -877,11 +899,13 @@
     {
         "ref":  "ce014e33-cfcb-45e9-a12f-06f9baff9db2",
         "displayNameToken":  null,
-        "displayName":  "B",
+        "displayName":  "Bounty Assignment: ~mission(TargetName) (HRT)",
         "codeName":  "BP_MISSIONREWARD_NorthRockFPSKill_EliminateBoss",
         "blueprintCount":  12,
         "missionCount":  1,
-        "missionTitles":  "Bounty Assignment: ~mission(TargetName) (HRT)",
+        "missionTitles":  [
+                              "Bounty Assignment: ~mission(TargetName) (HRT)"
+                          ],
         "blueprintRefs":  [
                               "87db0bbb-ff12-4a7e-8044-72dddb8ddf36",
                               "efdfd631-c2c4-4a0c-9520-f12a7a2bffbc",
@@ -923,11 +947,13 @@
     {
         "ref":  "5abbcbe8-8af1-4b76-8a85-631eeff5903d",
         "displayNameToken":  null,
-        "displayName":  "A",
+        "displayName":  "Additional Resources For Research",
         "codeName":  "BP_MISSIONREWARD_Rayari_RecoverItem_Irradiated",
         "blueprintCount":  7,
         "missionCount":  1,
-        "missionTitles":  "Additional Resources For Research",
+        "missionTitles":  [
+                              "Additional Resources For Research"
+                          ],
         "blueprintRefs":  [
                               "d0d3aa5c-0db2-4f62-af6a-b6976e202b87",
                               "82f6965b-39ec-42fb-8286-ac543c4fa904",
@@ -1184,11 +1210,13 @@
     {
         "ref":  "41371e2a-09d2-4eb6-b046-69e2ce34521d",
         "displayNameToken":  null,
-        "displayName":  "E",
+        "displayName":  "Extra Special Wolf",
         "codeName":  "BP_REWARD_CollectorMaterial_001",
         "blueprintCount":  1,
         "missionCount":  1,
-        "missionTitles":  "Extra Special Wolf",
+        "missionTitles":  [
+                              "Extra Special Wolf"
+                          ],
         "blueprintRefs":  [
                               "c9c67e69-063a-4d28-a156-d5809776ee22"
                           ]
@@ -1200,9 +1228,9 @@
         "codeName":  "BP_REWARD_CollectorMaterial_002",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "d31e71e2-38f1-4773-8c4f-2507ca0470db"
                           ]
@@ -1210,11 +1238,13 @@
     {
         "ref":  "ef7eca0b-6f20-44e1-9308-8dcce92d713f",
         "displayNameToken":  null,
-        "displayName":  "Y",
+        "displayName":  "Your Best Shot",
         "codeName":  "BP_REWARD_none_rifle_multi_01_collector01",
         "blueprintCount":  1,
         "missionCount":  1,
-        "missionTitles":  "Your Best Shot",
+        "missionTitles":  [
+                              "Your Best Shot"
+                          ],
         "blueprintRefs":  [
                               "f2bd99fe-904b-4b23-9aa4-8aa6ae2c530f"
                           ]
@@ -1222,11 +1252,13 @@
     {
         "ref":  "e71e1a05-1817-46b4-8123-7bcc6c5927a3",
         "displayNameToken":  null,
-        "displayName":  "S",
+        "displayName":  "Suit Up Take Off",
         "codeName":  "BP_REWARD_vgl_flightsuit_01_02_01",
         "blueprintCount":  1,
         "missionCount":  1,
-        "missionTitles":  "Suit Up Take Off",
+        "missionTitles":  [
+                              "Suit Up Take Off"
+                          ],
         "blueprintRefs":  [
                               "51094096-711d-4779-a1c1-cda936211a1b"
                           ]
@@ -1234,11 +1266,13 @@
     {
         "ref":  "b652a50f-657b-4e2f-92a2-55962d1f4f72",
         "displayNameToken":  null,
-        "displayName":  "S",
+        "displayName":  "Suit Up Take Off",
         "codeName":  "BP_REWARD_vgl_flightsuit_helmet_01_02_01",
         "blueprintCount":  1,
         "missionCount":  1,
-        "missionTitles":  "Suit Up Take Off",
+        "missionTitles":  [
+                              "Suit Up Take Off"
+                          ],
         "blueprintRefs":  [
                               "ffaa61a2-1c00-4f0a-a855-a06855f9ce6b"
                           ]
@@ -1271,11 +1305,13 @@
     {
         "ref":  "9b457916-07e2-49bd-b4c0-52ac963508c9",
         "displayNameToken":  null,
-        "displayName":  "J",
+        "displayName":  "Jorrit Dossier: Project Hyperion",
         "codeName":  "BP_REWARDS_ASD3Vgear",
         "blueprintCount":  3,
         "missionCount":  1,
-        "missionTitles":  "Jorrit Dossier: Project Hyperion",
+        "missionTitles":  [
+                              "Jorrit Dossier: Project Hyperion"
+                          ],
         "blueprintRefs":  [
                               "6f79231c-4c4b-4e8d-a5aa-9a7b8687b926",
                               "8601e542-8c86-4504-981f-aaf24f3b5fd2",
@@ -1285,11 +1321,13 @@
     {
         "ref":  "ed1f79f8-28a6-4d86-9f47-ac7a8dda8564",
         "displayNameToken":  null,
-        "displayName":  "A",
+        "displayName":  "Assist People's Alliance Vessel Tranquility",
         "codeName":  "BP_REWARDS_AssistShipInCombatA",
         "blueprintCount":  6,
         "missionCount":  1,
-        "missionTitles":  "Assist People's Alliance Vessel Tranquility",
+        "missionTitles":  [
+                              "Assist People's Alliance Vessel Tranquility"
+                          ],
         "blueprintRefs":  [
                               "fca087e5-c043-4638-99e8-3c0bd668ab89",
                               "82b2cc9d-aa04-4dfa-8bc1-bd972c17276d",
@@ -1302,11 +1340,13 @@
     {
         "ref":  "e7b17f94-74ef-4337-9aa9-11f25fbb4d2a",
         "displayNameToken":  null,
-        "displayName":  "A",
+        "displayName":  "Assist People's Alliance Vessel Tranquility",
         "codeName":  "BP_REWARDS_AssistShipInCombatB",
         "blueprintCount":  3,
         "missionCount":  1,
-        "missionTitles":  "Assist People's Alliance Vessel Tranquility",
+        "missionTitles":  [
+                              "Assist People's Alliance Vessel Tranquility"
+                          ],
         "blueprintRefs":  [
                               "4a8393d9-81a5-43da-86a1-0257d810ade4",
                               "59464ab4-fff9-4727-9013-1bccf176f612",
@@ -1316,11 +1356,13 @@
     {
         "ref":  "d16ca80c-eb03-41ad-8574-aa0dc0a5f6e3",
         "displayNameToken":  null,
-        "displayName":  "S",
+        "displayName":  "Strategic Bombing",
         "codeName":  "BP_REWARDS_BombingRun",
         "blueprintCount":  6,
         "missionCount":  1,
-        "missionTitles":  "Strategic Bombing",
+        "missionTitles":  [
+                              "Strategic Bombing"
+                          ],
         "blueprintRefs":  [
                               "a0802d45-54d4-4e9b-8fa8-6b45ac193463",
                               "08edebc6-4c64-49e6-ba3a-c62140ead490",
@@ -1333,11 +1375,13 @@
     {
         "ref":  "2190957e-a832-4a10-ad68-ec640de2c3d1",
         "displayNameToken":  null,
-        "displayName":  "S",
+        "displayName":  "Strategic Bombing",
         "codeName":  "BP_REWARDS_BombingRunB",
         "blueprintCount":  3,
         "missionCount":  1,
-        "missionTitles":  "Strategic Bombing",
+        "missionTitles":  [
+                              "Strategic Bombing"
+                          ],
         "blueprintRefs":  [
                               "4a8393d9-81a5-43da-86a1-0257d810ade4",
                               "eec452b5-39dd-45b0-9a50-328d803ad16c",
@@ -1566,11 +1610,13 @@
     {
         "ref":  "dbaf603a-534f-4bbf-9dfd-e64e4aaec62e",
         "displayNameToken":  null,
-        "displayName":  "T",
+        "displayName":  "Tactical Strike Group Needed",
         "codeName":  "BP_REWARDS_FullStrikeOnStationA",
         "blueprintCount":  14,
         "missionCount":  1,
-        "missionTitles":  "Tactical Strike Group Needed",
+        "missionTitles":  [
+                              "Tactical Strike Group Needed"
+                          ],
         "blueprintRefs":  [
                               "ef2fe5ec-e7c3-4c44-b589-b3cdf2f83db5",
                               "a94dcfee-51b0-439a-bbc7-62086dbd2395",
@@ -1591,11 +1637,13 @@
     {
         "ref":  "fb2a7d3e-8e67-4567-a08f-409d88cccc8a",
         "displayNameToken":  null,
-        "displayName":  "T",
+        "displayName":  "Tactical Strike Group Needed",
         "codeName":  "BP_REWARDS_FullStrikeOnStationB",
         "blueprintCount":  10,
         "missionCount":  1,
-        "missionTitles":  "Tactical Strike Group Needed",
+        "missionTitles":  [
+                              "Tactical Strike Group Needed"
+                          ],
         "blueprintRefs":  [
                               "280f47b7-8434-410c-b854-380768fdccec",
                               "3e1831e2-fe5d-4383-9709-d1125cb2f174",
@@ -1733,11 +1781,13 @@
     {
         "ref":  "1817df4b-2d1c-4735-872d-cb471cf07201",
         "displayNameToken":  null,
-        "displayName":  "R",
+        "displayName":  "Retrieve Additional Smuggler Intel",
         "codeName":  "BP_REWARDS_IDSRecoverEncryptedDataVgear",
         "blueprintCount":  3,
         "missionCount":  1,
-        "missionTitles":  "Retrieve Additional Smuggler Intel",
+        "missionTitles":  [
+                              "Retrieve Additional Smuggler Intel"
+                          ],
         "blueprintRefs":  [
                               "4c5a8d37-1eb2-4395-8c3e-54b8f738639d",
                               "8f166b36-2bb7-4d38-9e3a-464801b40f83",
@@ -1983,9 +2033,9 @@
         "codeName":  "BP_REWARDS_RedWind",
         "blueprintCount":  6,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "b93b1228-2432-47a9-929e-15d04f95a440",
                               "39e6a987-6b8f-4a75-95da-945522219147",
@@ -2178,9 +2228,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_100_01",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "09b57272-8ed3-4f91-94cd-13f0bc5796fa"
                           ]
@@ -2192,9 +2242,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_100_02",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "d3424c2f-7bf0-48f3-ba9f-133ee41ede1a"
                           ]
@@ -2206,9 +2256,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_100_03",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "3604eb86-8850-41de-8c50-279268401355"
                           ]
@@ -2220,9 +2270,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_15_01",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "8e0b43aa-3353-4601-9053-c8bf63b1aa68"
                           ]
@@ -2234,9 +2284,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_15_02",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "b411ee6c-20ba-4697-a77c-3338e0062ab1"
                           ]
@@ -2248,9 +2298,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_15_03",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "315a8008-c78b-4536-bb02-f9177de66f14"
                           ]
@@ -2262,9 +2312,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_15_04",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "89c217ab-473d-4464-ad24-3cf3e59b4cf7"
                           ]
@@ -2276,9 +2326,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_15_05",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "fd0caafc-d49d-4eb4-ad4d-5f57d64f4f34"
                           ]
@@ -2290,9 +2340,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_15_06",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "90dd0843-d876-45a3-9c70-1bdae12fd5a4"
                           ]
@@ -2304,9 +2354,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_25_01",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "797ad37f-6386-45e5-b219-65ce7951057f"
                           ]
@@ -2318,9 +2368,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_25_02",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "b1d0a06d-63bd-40b1-8c98-401f0ee9baa4"
                           ]
@@ -2332,9 +2382,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_25_03",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "348f097c-8318-4e4f-81a5-2c7f0e02d586"
                           ]
@@ -2346,9 +2396,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_25_04",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "01af7aea-78a8-4fb3-9b0e-d8cf896bcd3c"
                           ]
@@ -2360,9 +2410,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_25_05",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "b75f9854-5037-4c2c-95ff-bd497db0784c"
                           ]
@@ -2374,9 +2424,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_25_06",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "87588736-1f17-40dd-8f28-79d46263ce3c"
                           ]
@@ -2388,9 +2438,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_50_01",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "df419614-3101-4332-940a-59b1fda563c9"
                           ]
@@ -2402,9 +2452,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_50_02",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "5b8f7276-a697-4118-b17c-ceb423d31513"
                           ]
@@ -2416,9 +2466,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_50_03",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "5bf27739-fb9b-4d6b-b389-23f443753517"
                           ]
@@ -2430,9 +2480,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_50_04",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "84fa0308-b20f-40f7-b711-531f5fc0a83a"
                           ]
@@ -2444,9 +2494,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_50_05",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "b6169295-fc77-47b9-ac93-28a5071e4c3f"
                           ]
@@ -2458,9 +2508,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_50_06",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "7022945b-fa64-4478-ac6f-5575cf1ee34f"
                           ]
@@ -2472,9 +2522,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_60_01",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "8de23a42-7652-4de0-bb2c-c51edf8a6c23"
                           ]
@@ -2486,9 +2536,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_60_02",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "938b9037-160f-43fd-91df-f3aae5412f84"
                           ]
@@ -2500,9 +2550,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_85_01",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "db3f4c97-8d40-4b36-b397-452dea1594fc"
                           ]
@@ -2514,9 +2564,9 @@
         "codeName":  "BP_REWARDS_Xenothreat2_85_02",
         "blueprintCount":  1,
         "missionCount":  0,
-        "missionTitles":  {
+        "missionTitles":  [
 
-                          },
+                          ],
         "blueprintRefs":  [
                               "6748a7c7-5e6f-463e-87c2-05b20a7bd3ae"
                           ]
