@@ -1,0 +1,2818 @@
+[
+    {
+        "ref":  "5d78a8d6-6911-4eda-97b6-9e315025147d",
+        "displayNameToken":  null,
+        "displayName":  "J",
+        "codeName":  "BP_MISSIONREWARD_ASD2A",
+        "blueprintCount":  12,
+        "missionCount":  1,
+        "missionTitles":  "Jorrit Dossier: Updated Energy Anomaly Data",
+        "blueprintRefs":  [
+                              "408fbaaf-41b0-4059-9ca8-08cfbe9f84e3",
+                              "807fac7d-6b86-413b-b279-29a3a07337b2",
+                              "c80bb01c-67f4-4675-b986-f1834e20b1e1",
+                              "6eee0eeb-7ea8-4b8d-b433-7dd288770f9e",
+                              "bdbb6663-e386-4cc9-bccb-466d63d05701",
+                              "996096f0-f0a0-4eaa-9b8d-f123d3924219",
+                              "487add1d-5f94-46b2-a16d-7aef94ab9e55",
+                              "69170346-2356-4f88-a168-36b66da6c9e0",
+                              "ff1f92c2-04d7-43ab-95ce-9dbf2fc51a97",
+                              "3b768354-178c-49ca-bc83-40a06e055bf4",
+                              "94a6c979-60c2-4598-9005-db9fe2caa71e",
+                              "88c45b48-86e0-4b74-96a8-b567a55fb6f9"
+                          ]
+    },
+    {
+        "ref":  "3ebf3bfa-dde3-4782-90f6-b003b5af1877",
+        "displayNameToken":  null,
+        "displayName":  "J",
+        "codeName":  "BP_MISSIONREWARD_ASD2B",
+        "blueprintCount":  12,
+        "missionCount":  1,
+        "missionTitles":  "Jorrit Dossier: Updated Security Data",
+        "blueprintRefs":  [
+                              "f4257ce3-9afa-4694-a707-aade876dc75c",
+                              "202ed065-69ba-4b16-945c-0856cefce789",
+                              "e17d42b5-71f1-40cb-b545-fa95baea8653",
+                              "2d626cac-783d-482f-b9d3-d4fdb3574c6a",
+                              "73ded5e4-44c7-4eb0-a293-87a0e785b1da",
+                              "9ad2c193-7246-4a14-a79d-642e0854fb13",
+                              "bcb21a22-affa-4f10-940e-3d5b2f2975b7",
+                              "d0bf04b4-299c-4265-a5f2-4b6e64d094fb",
+                              "af90f16c-fb9b-4ff2-a322-2d884dc069a9",
+                              "dddbeeca-201d-4817-9632-1ac252c2ba3c",
+                              "94a6c979-60c2-4598-9005-db9fe2caa71e",
+                              "c307d42e-24ad-4001-a3df-aa7fc3a604f9"
+                          ]
+    },
+    {
+        "ref":  "a79a915d-5186-4f87-8140-69bca9fc335e",
+        "displayNameToken":  null,
+        "displayName":  "J",
+        "codeName":  "BP_MISSIONREWARD_ASD2C",
+        "blueprintCount":  15,
+        "missionCount":  1,
+        "missionTitles":  "Jorrit Dossier: Updated Seismic Data",
+        "blueprintRefs":  [
+                              "55f51eb4-b71e-4048-8dcf-039bc5034be5",
+                              "2017fa82-1eab-412d-b9cf-7bf8d0e14ed5",
+                              "73206738-149b-490d-b012-26f2e8c14e7b",
+                              "f4ad03d5-e6c8-4d44-9c9a-3a5650d5fc42",
+                              "018bf78d-bc6c-4194-a204-a1230e1aab89",
+                              "82d57708-0949-44b6-9362-ac73617c9e0f",
+                              "abc676cc-7608-4a59-8f02-15686b13d813",
+                              "e1b7cbc7-9a68-4d4a-bcdb-e4d03863637b",
+                              "aceefa85-206b-4bc5-a7cd-3202b2474e6c",
+                              "aa836492-91d5-4123-a5cd-6eb7268d09e0",
+                              "9d6aafae-5ada-40ae-9fc5-9b42bc79d234",
+                              "23e786cf-de89-41f2-903d-9d0ac80c5b8d",
+                              "407ccdd7-d6f4-4b87-9d9d-8397095aa541",
+                              "7ba122fe-2879-47f5-a424-c5f9a21c516a",
+                              "cabc040d-fd20-4bc6-a882-ed1c590c5fe8"
+                          ]
+    },
+    {
+        "ref":  "e0c72a9a-38be-4850-bc0d-dc4f3ee687c2",
+        "displayNameToken":  null,
+        "displayName":  "J",
+        "codeName":  "BP_MISSIONREWARD_ASD2D",
+        "blueprintCount":  15,
+        "missionCount":  1,
+        "missionTitles":  "Jorrit Dossier: Updated Power Usage Data",
+        "blueprintRefs":  [
+                              "4e5cfca9-312e-4ef0-93fd-0cd01dcad86b",
+                              "8248912d-7803-4ef8-b338-632a0d488515",
+                              "2d49c896-d52f-4ee9-bb11-4f2fed816b9e",
+                              "9708d3fc-084b-49f0-962b-bc210768cbc0",
+                              "1ad75caa-7580-482b-a432-1b31d5c47c90",
+                              "82d57708-0949-44b6-9362-ac73617c9e0f",
+                              "abc676cc-7608-4a59-8f02-15686b13d813",
+                              "e1b7cbc7-9a68-4d4a-bcdb-e4d03863637b",
+                              "aceefa85-206b-4bc5-a7cd-3202b2474e6c",
+                              "6940a96b-b26e-4547-b302-3cef3ec273ee",
+                              "d4bcbab1-b2e8-432d-9427-9a471eef2aa9",
+                              "42af157a-aa29-4784-88f6-374984d4c4cd",
+                              "3f68723c-a32c-4b03-b300-14fec1dc025d",
+                              "94a6c979-60c2-4598-9005-db9fe2caa71e",
+                              "17429bd8-bc49-4b73-9844-ed820f65f153"
+                          ]
+    },
+    {
+        "ref":  "903fb48b-ea72-48c0-b6d1-ece7c7f1e2f3",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_ASD3",
+        "blueprintCount":  7,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "d7b36a9b-cf60-49a4-b822-a6271e8a7323",
+                              "b0b3fdea-eb1a-46e8-bdf8-9662f0e7c997",
+                              "3175fcf7-70c1-4a4a-964e-50bca2cfe3a8",
+                              "1b32bedf-274f-4cb2-a599-749b6b631d2e",
+                              "81d8b2da-0d15-447d-ad48-c21f85644627",
+                              "be0b78da-0014-4264-889a-3d008aa00bc1",
+                              "7ba122fe-2879-47f5-a424-c5f9a21c516a"
+                          ]
+    },
+    {
+        "ref":  "f14e629c-3346-4ca8-9204-df523ae54822",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_BHG_ASDFacilityDelving_EngineeringWing_EliminateSpecific",
+        "blueprintCount":  4,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "5cb4fa28-dfc9-44b7-8d3d-5a99b6ad3143",
+                              "6736c770-f444-40c7-a570-1b5e4d2b7ecd",
+                              "47b2e6d5-2339-45db-8f44-9f2e7e078733",
+                              "9a620b0a-9d96-4705-a20d-d09bd0fbe0f5"
+                          ]
+    },
+    {
+        "ref":  "6d549de3-21d6-4c46-ba89-2970a4cf7286",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_BHG_ASDFacilityDelving_ResearchWing_EliminateSpecific",
+        "blueprintCount":  8,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "cbdb6663-b54a-482f-a194-c6c2edccbbec",
+                              "c12bbffd-b102-4ea2-81ff-f0bad777a3d3",
+                              "2d5c93b6-edb6-4203-a8b4-5fdff0bf19eb",
+                              "75a5706c-6760-4601-ac90-252eaedeb20d",
+                              "72957b65-4ca6-415e-9aa1-b47fb054ff7c",
+                              "e0d76040-d679-4d1a-b525-a11c499965b5",
+                              "d9bbf475-784f-432e-a018-63282c33f2ea",
+                              "b4c5011f-e993-4654-9fb2-c2f1b40d5e1a"
+                          ]
+    },
+    {
+        "ref":  "4937f5e9-f42e-4d8a-a6c4-96517028c548",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_BitZeros_BlackBoxRecovery",
+        "blueprintCount":  12,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "65011209-ad59-4d41-99da-ffbc8f174863",
+                              "29c905e3-d7e3-413b-aa11-e739e370ec41",
+                              "87e05846-69fd-4328-a809-5fd78c31c86c",
+                              "410c4762-383c-4d52-a8ee-89c38c13219f",
+                              "ead349bb-2dfb-47b9-b10c-f7dbff6fbb52",
+                              "449cdf79-e7af-4ca3-b30e-db136056a079",
+                              "7a30e39c-bb49-492f-89cf-7d9711fbb54a",
+                              "e940e198-e2df-4e00-96d5-5a076e6e7a36",
+                              "442c80ef-8e5e-411e-8364-737d5d17e4d7",
+                              "045a6cb0-6231-46cb-97b5-fa980b95f4b2",
+                              "48acd0ca-9877-4218-9662-cb5b6f5a211a",
+                              "28b6825f-e1ae-4b4f-b8fe-ac31367679f0"
+                          ]
+    },
+    {
+        "ref":  "fa0be2ae-124b-4505-a45d-80175c8f0b37",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_BitZeros_RecoverItem_PyroNyx",
+        "blueprintCount":  8,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "41cf01a5-1600-4017-b0a8-62344627803c",
+                              "135f8c5f-3667-4887-9d7b-c145a586568d",
+                              "6a325380-0126-497e-9b2f-86e8add090a1",
+                              "18346364-4137-4abd-8fa7-b3d223aa3408",
+                              "419cb122-24f3-4d62-9fb5-4f0431958eaf",
+                              "e874d6df-2aee-4a43-91b4-cd77283cca7f",
+                              "34a54dbc-e45b-482b-a448-07e5f494ee4b",
+                              "c447b13a-2a5a-4183-8f30-d8073ed5ebaa"
+                          ]
+    },
+    {
+        "ref":  "636a76a2-0fbb-4f7f-aa69-7187f84aa961",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_BitZeros_RecoverItem_Stanton",
+        "blueprintCount":  9,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "65011209-ad59-4d41-99da-ffbc8f174863",
+                              "02703156-1d36-4aa8-913b-579ce01077e5",
+                              "55e30d7e-527d-48c2-a991-faccd8000c66",
+                              "23716f0d-967f-446a-b27d-c25062acde29",
+                              "43b31eb9-4ca1-4df3-90f9-4accce8aadf9",
+                              "3fe2d83c-9490-44cf-8e66-0a8b2b9846c6",
+                              "cc19d747-8a42-44a2-95f9-b643e8a97026",
+                              "351a1860-0ff7-491a-a1b4-339fc99283ce",
+                              "48acd0ca-9877-4218-9662-cb5b6f5a211a"
+                          ]
+    },
+    {
+        "ref":  "0f03e098-cc68-4a14-abe8-7b17a8bec97e",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_BountyHuntersGuild_PAF_EliminateSpecific",
+        "blueprintCount":  10,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "510d2cc3-9836-435b-bbd7-47f8e81a47ae",
+                              "77f68dc2-627b-4759-959e-4412868eea74",
+                              "82cb5508-47ad-4cdc-8e8d-1af302c7a3c7",
+                              "d61972a1-b0eb-4f33-8a2f-2dd1c62bedf9",
+                              "947f8d7f-9101-48e4-b5c4-95bda222c03c",
+                              "369ff871-956f-4c6a-923b-1f49984f7e07",
+                              "88ec9807-6a6e-4739-ac55-6c61b1787135",
+                              "ed5cb4c0-a292-4913-a977-da104950fb07",
+                              "db07e633-0281-4f0e-8209-d151e62f9269",
+                              "edcf3145-e9a9-471a-baa2-12f54da9ed26"
+                          ]
+    },
+    {
+        "ref":  "6bfc32c9-fb2c-4945-b2e1-c29666842477",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_Carryable_2H_FL_MissionItem_Microsatellite_a",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "ea3c2e6f-5dbb-4a98-b2c2-491cde65201d"
+                          ]
+    },
+    {
+        "ref":  "bd54c374-923e-4095-96c1-3a76e857c35a",
+        "displayNameToken":  null,
+        "displayName":  "Alert: ~mission(Location) under attack",
+        "codeName":  "BP_MISSIONREWARD_CFP_ChainElim_1and2",
+        "blueprintCount":  6,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Alert: ~mission(Location) under attack",
+                              "Call for Help: ~mission(Location)",
+                              "Outlaw attack at ~mission(Location)",
+                              "Reclaiming Outposts from XenoThreat",
+                              "Retaking Outposts from Headhunters",
+                              "Taking back from the Headhunters"
+                          ],
+        "blueprintRefs":  [
+                              "daa57ef9-0e2d-46f0-84e7-ca8dcc06b963",
+                              "951446c7-10fb-4023-ac29-c2e29b29b886",
+                              "34dd7fd6-d539-475b-81a8-0d64c0453b8a",
+                              "bdd0799a-eb8e-4b38-94ee-80dd4e570525",
+                              "9b2c039f-d345-4abd-b800-d76d5ed78076",
+                              "e3596782-22aa-4d83-a50b-b70e7c4f418e"
+                          ]
+    },
+    {
+        "ref":  "6a166ec8-afd6-4e50-82aa-8b7533f82b41",
+        "displayNameToken":  null,
+        "displayName":  "Campaign to reclaim XenoThreat outposts",
+        "codeName":  "BP_MISSIONREWARD_CFP_ChainElim_3",
+        "blueprintCount":  4,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Campaign to reclaim XenoThreat outposts",
+                              "Defend ~mission(Location) from Outlaws",
+                              "Help defend ~mission(Location) from Headhunters",
+                              "Need multiple CFP outposts retaken",
+                              "Protect ~mission(Location) from XenoThreat Attack",
+                              "Reclaiming Clusters from Headhunters"
+                          ],
+        "blueprintRefs":  [
+                              "a7e71660-5b3b-452a-aafe-eb22151551dd",
+                              "52bdf189-2df3-4e37-bdcc-c40255c81d81",
+                              "2d17080d-2aac-4ee4-b23c-e373b1900c7d",
+                              "e3596782-22aa-4d83-a50b-b70e7c4f418e"
+                          ]
+    },
+    {
+        "ref":  "633d4069-c160-43d2-892d-2d8222261c20",
+        "displayNameToken":  null,
+        "displayName":  "~mission(Location) needs assistance",
+        "codeName":  "BP_MISSIONREWARD_CFP_Outpost_RegionAB",
+        "blueprintCount":  6,
+        "missionCount":  8,
+        "missionTitles":  [
+                              "~mission(Location) needs assistance",
+                              "Assistance needed at ~mission(Location)",
+                              "Call for Help: ~mission(Location)",
+                              "Defend ~mission(Location) from Outlaws",
+                              "Headhunter attack on ~mission(Location)",
+                              "Protect ~mission(Location) from XenoThreat Incursion",
+                              "Protect ~mission(Location) from XenoThreat Raid",
+                              "Reclaim Headhunter Outpost"
+                          ],
+        "blueprintRefs":  [
+                              "5ae7f14f-5853-4277-800e-cadbba88f960",
+                              "d997d044-7777-4675-a872-7f1c389b4af5",
+                              "1d08464a-1b62-4ec7-bd92-68fc842a9a4f",
+                              "89110801-b093-4fa7-8622-562e8fb386ff",
+                              "e330fc52-1492-4589-850b-1707c78d60de",
+                              "e3596782-22aa-4d83-a50b-b70e7c4f418e"
+                          ]
+    },
+    {
+        "ref":  "a2da9707-9859-4da0-9f4b-90e5afe45833",
+        "displayNameToken":  null,
+        "displayName":  "~mission(Location|Address) needs help",
+        "codeName":  "BP_MISSIONREWARD_CFP_Outpost_RegionC",
+        "blueprintCount":  6,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "~mission(Location|Address) needs help",
+                              "Attack on CFP outpost",
+                              "Call for Help: ~mission(Location)",
+                              "Defenders needed against Headhunters",
+                              "Protecting outpost from XenoThreat",
+                              "Reclaim XenoThreat Outpost"
+                          ],
+        "blueprintRefs":  [
+                              "c3b0d88f-ba3b-4ed2-b2de-a6f212fe1a65",
+                              "e7da07a8-445c-4fdf-a854-a9acc29f29c1",
+                              "1a8413f9-42db-4544-a6be-cecba29e7579",
+                              "46fc2ac8-47b3-4772-b0d4-6a3807f23fc2",
+                              "bc21018e-29fd-4397-80e8-214cf17252fe",
+                              "e3596782-22aa-4d83-a50b-b70e7c4f418e"
+                          ]
+    },
+    {
+        "ref":  "e6bdf007-4469-46fd-88d7-8e139c59829a",
+        "displayNameToken":  null,
+        "displayName":  "Defenders needed against Headhunters",
+        "codeName":  "BP_MISSIONREWARD_CFP_Outpost_RegionD",
+        "blueprintCount":  6,
+        "missionCount":  2,
+        "missionTitles":  [
+                              "Defenders needed against Headhunters",
+                              "Reclaim Headhunter Outpost"
+                          ],
+        "blueprintRefs":  [
+                              "44503356-67a9-4063-8b51-7f76f23cacce",
+                              "b6a37cee-e3b1-4996-949e-6349d683eb62",
+                              "cdd44ae4-e3db-472c-ac3b-1c51bc251a42",
+                              "f8113e82-fe3c-48e8-9f23-92ae7a6ac219",
+                              "2122ef02-ebdb-45a9-8bd7-bee31f97ae32",
+                              "e3596782-22aa-4d83-a50b-b70e7c4f418e"
+                          ]
+    },
+    {
+        "ref":  "cf847b27-bf3b-4d50-87c0-de3c68e4e387",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_CitizensForProsperityDestroyItems_AB",
+        "blueprintCount":  14,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b627e348-29b5-44c8-a836-258df60bcd08",
+                              "52bf8b6a-b795-4c03-aedd-80d60945ff42",
+                              "5c6fa3ff-5913-4d74-aa4c-8a1f0b40bc23",
+                              "1244f177-7b33-4f16-8e63-8d19e87f2a48",
+                              "e5af6fcb-b69c-42ae-859d-462ec2d78782",
+                              "5aaa1189-c6a9-4154-8ae4-1fe34ac3c70e",
+                              "39480ccf-608c-4e41-ab7b-d8821aef3b96",
+                              "005d95db-96ca-45b7-9647-7e7537b8fac8",
+                              "f65a6b00-2c0b-4ee8-b76d-17713c56b36f",
+                              "c63cd790-9741-47f4-aba0-718077ccdcce",
+                              "33c91dc9-c6fe-4f38-ac17-4e5ebefcc7b9",
+                              "017bb372-2fe2-4615-8bcb-e18020baaa4f",
+                              "e191cc6b-bc91-4a06-a410-c8e0cfee3f61",
+                              "d0c3285f-0779-4120-9dec-85e7cf5bd5af"
+                          ]
+    },
+    {
+        "ref":  "16948a53-7be2-4869-9b21-3af06e99f8b7",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_CitizensForProsperityDestroyItems_CD",
+        "blueprintCount":  12,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "343ab6b2-5ffe-45cf-9fe7-b6ec48d30208",
+                              "eba027dc-b709-4911-bed5-4bc0ae9c8a0f",
+                              "2f976074-31fd-4a06-9ccc-ebf125b9ecd0",
+                              "90bf3459-4ad8-49f2-bc05-8103033cf49a",
+                              "85eee009-0a5c-43fa-804e-34766e464a08",
+                              "8457fd65-c1ae-43ba-834c-19f4f1d2371c",
+                              "02826831-2501-4e3c-ae60-6f97ff5353c1",
+                              "f5f2c887-2efb-4b0b-b66f-89f0ed873e88",
+                              "78ac5dc3-5f2f-47ab-86b8-052368eedddb",
+                              "1363635d-8c6c-4463-ae26-2bb1a681b5b5",
+                              "e5dbfcd7-031c-4483-82f5-37a616d327d1",
+                              "4940c111-ffb2-45bb-a7f6-abe9859599f7"
+                          ]
+    },
+    {
+        "ref":  "6ba44ab4-9681-4bbf-9fd6-475da08bafd5",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_CitizensForProsperityRecoverCargo_Pyro",
+        "blueprintCount":  14,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "73d270f0-3fc9-4bff-860d-aace2a6abbeb",
+                              "dd37e7a8-d366-4bba-93a6-be7fca2048a1",
+                              "9d733a8f-8a38-4a8a-8995-35592c1f9ce7",
+                              "e7b3f216-1409-417f-b3ef-cd35534fad24",
+                              "c87dbefb-d342-4998-bd7b-ee83bfc8623c",
+                              "396d2f59-125b-47f8-b5b6-601b58770bec",
+                              "d7dda5f9-cd8f-4376-b57a-e5a4b2cc69e3",
+                              "5748ffcc-b539-4e5e-b66c-fe86a3f887ed",
+                              "1cda1b30-b3d7-4cec-b218-3b2787275147",
+                              "478e8c5a-5e53-41e2-b259-3707d62d1e66",
+                              "ba85d4ec-2199-4ae2-9b73-a301a5a58f64",
+                              "39d39941-3c16-47fd-b7af-ce23e336d8e2",
+                              "d84901a7-cdf5-40fc-8f9b-a3610ef333c5",
+                              "2ab23481-28dc-400c-b883-b226be8f9e64"
+                          ]
+    },
+    {
+        "ref":  "e489ca64-3152-4ef3-8e86-10e05120d84d",
+        "displayNameToken":  null,
+        "displayName":  "Orange Level Contract: Destroy Outlaw Threat",
+        "codeName":  "BP_MISSIONREWARD_Foxwell_DefendEntitiesAndEscort",
+        "blueprintCount":  6,
+        "missionCount":  10,
+        "missionTitles":  [
+                              "Orange Level Contract: Destroy Outlaw Threat",
+                              "Orange Level Contract: Take Out Criminal Fleet",
+                              "Orange Lvl. Contract: Defend ~mission(Objects)",
+                              "Orange Lvl. Contract: Protect ~mission(Objects)",
+                              "Red Lvl. Contract: Defend ~mission(Objects)",
+                              "Red Lvl. Contract: Protect ~mission(Objects)",
+                              "Yellow Level Contract: Clear Shipjacking Group",
+                              "Yellow Level Contract: Neutralize Shipjacking Gang",
+                              "Yellow Lvl. Contract: Defend ~mission(Objects)",
+                              "Yellow Lvl. Contract: Protect ~mission(Objects)"
+                          ],
+        "blueprintRefs":  [
+                              "2ce77a10-6253-4585-8360-e9ca400ed9ea",
+                              "bd59af9e-e55c-40ca-8568-27fb2b8e10f3",
+                              "b9f0a8df-dabd-4f3e-a898-4164ac1e9eba",
+                              "1eb42a53-06ea-4436-a45e-bcd6d0f77de0",
+                              "c34c4d92-30da-4d8e-9049-869a10ca66e5",
+                              "c633e1c4-7d50-41ad-8411-fe924029eaa9"
+                          ]
+    },
+    {
+        "ref":  "af21edb5-3938-45ac-8a35-130e52463f44",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_Ambush",
+        "blueprintCount":  6,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "6157c081-0a9b-4319-bbbc-7f2cc1ef7158",
+                              "5dc3e1ce-22b9-4616-a4b6-5a7b18df07a9",
+                              "9876eb01-42b0-474c-a002-491ff662a3bf",
+                              "14442076-50ac-42a4-99c0-7d929e8c65b5",
+                              "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
+                              "c633e1c4-7d50-41ad-8411-fe924029eaa9"
+                          ]
+    },
+    {
+        "ref":  "ad7ee842-5a39-4f35-a337-91b8e274179f",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_EscortShips",
+        "blueprintCount":  6,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "f5f78868-8eed-4953-9859-ea405ff8fe91",
+                              "261ce634-2bd0-4111-b535-f09473864e2b",
+                              "b8bcf4b0-b42a-4a9f-8547-bcf3110245c0",
+                              "57931ddb-524a-4ed6-9a7d-d86d1627f792",
+                              "8ed18cbc-4d7c-4ea8-9f40-140cc6e4d35a",
+                              "c633e1c4-7d50-41ad-8411-fe924029eaa9"
+                          ]
+    },
+    {
+        "ref":  "5b74b911-ef2e-4bcd-8767-84abdc6bf6f9",
+        "displayNameToken":  null,
+        "displayName":  "~mission(Contractor|DestroyProbeTitle)",
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_Generator",
+        "blueprintCount":  8,
+        "missionCount":  18,
+        "missionTitles":  [
+                              "~mission(Contractor|DestroyProbeTitle)",
+                              "Carefully Clear Site",
+                              "Destroy Dangerous Drugs",
+                              "Destroy Illegal Drugs",
+                              "Help Protect Site",
+                              "Knock Out New Drug Op",
+                              "Orange Level Contract: ~mission(Ship) Needs Assistance",
+                              "Precision Strike on ~mission(TargetName)",
+                              "Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
+                              "Red Level Contract: Recoup Stolen Cargo Haul",
+                              "Red Level Contract: Retrieve Cargo Haul",
+                              "Red Level Contract: Ship Under Attack",
+                              "Still Looking for Work?",
+                              "Sweep and Clear Location",
+                              "Track Down ~mission(TargetName)",
+                              "Yellow Level Contract: Clear Out PAF",
+                              "Yellow Level Contract: Merc Work",
+                              "Yellow Level Contract: Ship Under Attack"
+                          ],
+        "blueprintRefs":  [
+                              "cdd236fa-56b9-4913-90cf-be7f4e6ca5a7",
+                              "197066ae-86df-40a1-a10b-1b927a43cbe7",
+                              "d68aeaa3-cb28-48ed-8233-a83439e3adad",
+                              "0f184cb6-2404-4a12-b12f-54ed9d6997ce",
+                              "46a6c1ed-8109-4cc3-9a82-9cd46337b3e5",
+                              "dbecb53a-9eaa-4f11-acd3-54690d502fe9",
+                              "dafc406f-d828-4904-bbed-4964158c09e3",
+                              "828aaaf9-03fb-4baf-bee5-26cefced3ddd"
+                          ]
+    },
+    {
+        "ref":  "2fefd608-1c2c-4b0f-9c48-24b797f3ba3f",
+        "displayNameToken":  null,
+        "displayName":  "Orange Level Contract: Potential Security Threat",
+        "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_Patrol",
+        "blueprintCount":  6,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Orange Level Contract: Potential Security Threat",
+                              "Orange Level Contract: Security Patrol",
+                              "Red Level Contract: High-Risk Security Patrol",
+                              "Red Level Contract: Secure Threatened Space",
+                              "Yellow Level Contract: Routine Patrol",
+                              "Yellow Level Contract: Security Sweep"
+                          ],
+        "blueprintRefs":  [
+                              "7fdd7f0c-5c40-4073-980c-3ec27d6ed4de",
+                              "3a8077f9-c66c-42b0-9a13-926edea06946",
+                              "36d48fa7-96de-458e-8aad-29886948bbe6",
+                              "74c0a6b8-db57-4000-85c2-e263f4118f1f",
+                              "b9062a61-1475-4b15-9a24-a15351d5e689",
+                              "c633e1c4-7d50-41ad-8411-fe924029eaa9"
+                          ]
+    },
+    {
+        "ref":  "e9947de1-6160-4d62-a319-2f4693140c88",
+        "displayNameToken":  null,
+        "displayName":  "~mission(Location) has been greenlit",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateALL_RegionAB",
+        "blueprintCount":  8,
+        "missionCount":  28,
+        "missionTitles":  [
+                              "~mission(Location) has been greenlit",
+                              "~mission(Location|Address) under attack",
+                              "A little retaliation",
+                              "A Swift Reprisal",
+                              "A tricky tricky task",
+                              "Block XenoThreat Expansion",
+                              "Butcher Kopion Pack at ~mission(Location)",
+                              "Deal with Kopions at ~mission(Location)",
+                              "Death and cargo",
+                              "Don't let Windfall Fall",
+                              "Driving CFP out",
+                              "Halt XenoThreat Expansion",
+                              "Hit a CFP Complex",
+                              "Hit on XenoThreat command",
+                              "Hit XenoThreat at ~mission(Location)",
+                              "Hitting a CFP site",
+                              "Kill Kopions at ~mission(Location)",
+                              "Need a hitter",
+                              "Rally at ~mission(Location)",
+                              "Reputation Management",
+                              "Sweep and clear some CFP haunts",
+                              "Take back Carvers Ridge",
+                              "Taking down a XenoThreat Hideout",
+                              "Taking out some XenoThreat trash",
+                              "Taking XenoThreat Turf",
+                              "The Yard's under attack",
+                              "Turf War",
+                              "Wipe ~mission(Location) out"
+                          ],
+        "blueprintRefs":  [
+                              "9eba6e0e-4ed7-457d-9fd7-4c450ada4be4",
+                              "e471e8d9-51d2-43cf-b94e-201e70a68a5b",
+                              "3eea6d43-d683-4ec7-9853-be654982f135",
+                              "c022fbee-2b9d-4bdb-9895-307812c30316",
+                              "a37bc293-33fb-4689-b6fb-44e39b86a410",
+                              "e1910d29-d413-4d91-b618-9b7ae278e7f8",
+                              "0e0a5872-3224-46be-baa7-1df604b70a41",
+                              "d1da140e-b7ee-46ba-b76a-f5dd33c0348c"
+                          ]
+    },
+    {
+        "ref":  "d10c81ec-fc38-4f3e-bb2d-ccea0d10c889",
+        "displayNameToken":  null,
+        "displayName":  "A tricky tricky task",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateALL_RegionCD",
+        "blueprintCount":  8,
+        "missionCount":  10,
+        "missionTitles":  [
+                              "A tricky tricky task",
+                              "Back up needed at outpost",
+                              "Death and cargo",
+                              "Go on the warpath",
+                              "Green light on ~mission(Location)",
+                              "Hit on XenoThreat command",
+                              "Looking for a little revenge",
+                              "Need a hitter",
+                              "Reputation Management",
+                              "Time to roll on CFP"
+                          ],
+        "blueprintRefs":  [
+                              "97847c70-ec56-4b59-b946-4416d8f38d1d",
+                              "7e51e245-9baa-4845-b9e5-7028f257adb9",
+                              "b7bf92c7-a3ee-4082-996b-46bc67b5929b",
+                              "2946fc90-9ad7-4554-9bdd-940ed97538c5",
+                              "c391c68a-30cd-4a09-971f-a6f816906337",
+                              "b19b4e92-2e22-4179-a647-0e13152a7302",
+                              "e277c982-f965-4c27-9377-1db753e1a8f6",
+                              "9c6ca949-c28c-40db-9e32-e4abd23ef3de"
+                          ]
+    },
+    {
+        "ref":  "b81b328f-28a5-4d76-b06a-604cc7d5f2b0",
+        "displayNameToken":  null,
+        "displayName":  "N",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateBoss",
+        "blueprintCount":  8,
+        "missionCount":  1,
+        "missionTitles":  "Need a death at ~mission(Location)",
+        "blueprintRefs":  [
+                              "a98a8834-d924-468d-8d1b-8e4aba3e8291",
+                              "ef686d26-24a4-4244-b55b-856d995a0ff2",
+                              "33468f8d-6272-41a8-8b43-16709772c1ef",
+                              "deb590b5-426d-4737-869d-04458f209f3f",
+                              "51187178-413a-40b9-bc10-a42f25369aa8",
+                              "bfb08c7d-88d3-486e-aa39-5bb97864c5c8",
+                              "d3e96412-ae77-4b5a-8e80-bc7575563be7",
+                              "a10bfaff-76a7-47c9-8535-44e982442cbd"
+                          ]
+    },
+    {
+        "ref":  "f05fa898-1580-4ce3-95e2-8f5c4a1d1891",
+        "displayNameToken":  null,
+        "displayName":  "Deep space hit",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateSpecific_RegionAB",
+        "blueprintCount":  10,
+        "missionCount":  12,
+        "missionTitles":  [
+                              "Deep space hit",
+                              "Green light on ~mission(TargetName|Last)",
+                              "Head of the snake",
+                              "Hit on XenoThreat at the Yard",
+                              "Kill the king",
+                              "Need a CFP taken down",
+                              "Need a hit on the Riviera",
+                              "Need a scalpel at Carver's",
+                              "Need someone taken out",
+                              "Shot in the chaos",
+                              "Wanted: ~mission(TargetName)",
+                              "XenoThreat Lieutenant needs some killing"
+                          ],
+        "blueprintRefs":  [
+                              "180baf29-ed81-42e2-a5a7-82b1f3dbc07f",
+                              "33ce3672-0606-48aa-98cf-7c94618f2e7d",
+                              "803b8613-00c9-4c1e-a7fa-04038310dc22",
+                              "089e5827-ec15-480a-877c-eca20dfd166f",
+                              "b9a41cf8-32b0-46ca-bb61-3e40a44c4a71",
+                              "0c474fba-0dd9-4cfa-ac52-082647835ef5",
+                              "981ed143-c8ee-4eb4-9560-d69354229cd1",
+                              "ac63d308-6b69-4b69-975e-3866dd241d96",
+                              "92b57ee6-9ff4-4d44-a4da-1d3b7bb1860d",
+                              "34d6d2d6-6937-44ae-85f9-a690c43668ce"
+                          ]
+    },
+    {
+        "ref":  "9cf3799c-2347-46a6-bd65-203f8a426f79",
+        "displayNameToken":  null,
+        "displayName":  "Deep space hit",
+        "codeName":  "BP_MISSIONREWARD_HeadHunters_MercenaryFPS_EliminateSpecific_RegionCD",
+        "blueprintCount":  8,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Deep space hit",
+                              "Drop a XenoThreat",
+                              "Kill the king",
+                              "Need a CFP taken down",
+                              "Paid Target in CFP",
+                              "Plug a traitor"
+                          ],
+        "blueprintRefs":  [
+                              "f2947ab8-56b3-43e6-9ef6-6301070a1846",
+                              "5db147fd-8664-449b-8b07-fab752fda55f",
+                              "3c392f33-e51d-4255-bf7b-a09c98fce6b4",
+                              "861e4561-ae30-4da4-9ce2-ef98ca9fbffd",
+                              "28e21312-dc19-4c3f-85e0-14102acc41ad",
+                              "9fe788a3-1319-4f13-afd7-fc3e9653d43b",
+                              "6f3172a1-f6d1-4b10-bfc0-1ccdf95a5b62",
+                              "da837190-0a00-4a9c-b627-d2e41adc0029"
+                          ]
+    },
+    {
+        "ref":  "c9b51f5a-6073-49f8-bd40-b240d7d35ceb",
+        "displayNameToken":  null,
+        "displayName":  "R",
+        "codeName":  "BP_MISSIONREWARD_IDS_RecoverEncryptedData",
+        "blueprintCount":  14,
+        "missionCount":  1,
+        "missionTitles":  "Retrieve Additional Smuggler Intel",
+        "blueprintRefs":  [
+                              "2d084e7a-056d-4e29-a824-cd459888d27f",
+                              "656bcd59-44ca-4812-a5f2-f1d2ec305571",
+                              "b2ff9dfd-0b26-4b77-9118-e7e9ea60e42c",
+                              "d62c3e24-0b9a-4de9-8590-b22189fe030a",
+                              "82b03018-62d2-412e-b8c3-2471605e76fe",
+                              "af5b9b3b-2b13-4ff7-8b2f-8d251a4fa272",
+                              "f561bc08-cb5e-46c4-8441-111710560c68",
+                              "07e49825-48e7-454a-a20d-8e4257c52e61",
+                              "6024a6ca-197f-42eb-8446-91fb06953b27",
+                              "fba490b7-13e5-463b-a774-c8ebd215738e",
+                              "1ef86967-9f09-43af-b234-a5e9088345cc",
+                              "eed8ab0d-ad9c-41e2-996f-14cdd263e100",
+                              "58f2fe15-955e-4725-8b5f-7a5249186966",
+                              "0dd198ba-20ab-4119-88bb-d7d2deaa147a"
+                          ]
+    },
+    {
+        "ref":  "efacefc7-916b-4cd1-9f03-43053f6ae867",
+        "displayNameToken":  null,
+        "displayName":  "Defend InterSec Operative",
+        "codeName":  "BP_MISSIONREWARD_InterSec_DefendShip",
+        "blueprintCount":  7,
+        "missionCount":  5,
+        "missionTitles":  [
+                              "Defend InterSec Operative",
+                              "Handle Vanduul Attack on Ship",
+                              "Operative Extraction",
+                              "Pilot Under Fire From Vanduul",
+                              "Protect Vital Asset"
+                          ],
+        "blueprintRefs":  [
+                              "24d23220-2d11-40b4-bf90-530ced383413",
+                              "db80f6c7-d423-43f9-8e1b-5479154a5446",
+                              "c1b8649b-0189-4b88-ac32-6c4f0ae90530",
+                              "2bd88b63-f035-4d7d-992d-3bceafaacd29",
+                              "5e5eb75b-e32e-450e-9ac3-c2f659c063ee",
+                              "58f2fe15-955e-4725-8b5f-7a5249186966",
+                              "b60850f6-0aeb-4b3c-8104-49baa4a61aa7"
+                          ]
+    },
+    {
+        "ref":  "1fdd6657-5947-4f64-ab2b-3b001d88f1f7",
+        "displayNameToken":  null,
+        "displayName":  "Patrol Dangerous Sector",
+        "codeName":  "BP_MISSIONREWARD_InterSec_Patrol",
+        "blueprintCount":  13,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Patrol Dangerous Sector",
+                              "Patrol to Prevent Possible Attack",
+                              "Patrol Vanduul Hunting Ground"
+                          ],
+        "blueprintRefs":  [
+                              "4acc160d-9b38-40df-8b03-24074b9e2aaf",
+                              "afd1907d-fdaa-454e-85b0-2d240df18e98",
+                              "1c9bbc0c-843f-47c9-8f11-73ac3ad8db62",
+                              "2864d252-0e9f-461f-b81e-9c9eadb6a5a2",
+                              "9fd63c83-089a-4914-91da-9f705517aee2",
+                              "85831071-5a5d-49d3-a7ea-05354d95f8eb",
+                              "bdba2cf6-6aac-44a4-a265-8f0bb977df34",
+                              "7bbbfb57-16a8-49d7-9ae3-cc1381fadf08",
+                              "a62a4480-1c78-4418-b972-49eae09e9877",
+                              "c1d12ada-3d8f-4248-a86a-20fa6a4f82c1",
+                              "eed8ab0d-ad9c-41e2-996f-14cdd263e100",
+                              "cd7f1e71-fa55-4c5a-b794-1ca570561620",
+                              "d6a9f8c5-c859-48ae-9e68-163307e53100"
+                          ]
+    },
+    {
+        "ref":  "36e8ac4d-8962-4b03-89e7-cd7a06fc4adc",
+        "displayNameToken":  null,
+        "displayName":  "Recover Vanduul Corpses",
+        "codeName":  "BP_MISSIONREWARD_InterSec_ResourceGathering",
+        "blueprintCount":  7,
+        "missionCount":  2,
+        "missionTitles":  [
+                              "Recover Vanduul Corpses",
+                              "Recover Vanduul Tech"
+                          ],
+        "blueprintRefs":  [
+                              "f9de8917-a3a2-4471-974e-123b49910271",
+                              "7f5ec201-ae52-437a-9327-72732e7c4b84",
+                              "8f25d62c-40cb-4cda-9d7b-acfa7704606e",
+                              "9a5f0389-4850-442c-8d3d-73bde5418406",
+                              "1bfb2db6-2be8-4960-ae41-202cd89019a1",
+                              "58f2fe15-955e-4725-8b5f-7a5249186966",
+                              "47068d3b-a8e1-4329-ae08-8ed34eb76834"
+                          ]
+    },
+    {
+        "ref":  "ce014e33-cfcb-45e9-a12f-06f9baff9db2",
+        "displayNameToken":  null,
+        "displayName":  "B",
+        "codeName":  "BP_MISSIONREWARD_NorthRockFPSKill_EliminateBoss",
+        "blueprintCount":  12,
+        "missionCount":  1,
+        "missionTitles":  "Bounty Assignment: ~mission(TargetName) (HRT)",
+        "blueprintRefs":  [
+                              "87db0bbb-ff12-4a7e-8044-72dddb8ddf36",
+                              "efdfd631-c2c4-4a0c-9520-f12a7a2bffbc",
+                              "5c23d353-10be-45b5-a1c6-fb2c8eeb3ab6",
+                              "93421709-2065-4704-bd9a-44227a70f398",
+                              "a6f3b249-a825-4a67-bc85-617e0976c9e8",
+                              "a9a3c7ee-70d9-4f55-b78f-1f87ada03829",
+                              "fa136b5a-47c2-48ac-85ff-aec3c35d902c",
+                              "49913e31-a2e7-4286-a76e-01bddcf7f71d",
+                              "552c05db-d4ae-4988-afe0-a3166990e91e",
+                              "11975675-5061-4feb-8087-a35c523cdbd6",
+                              "9f11679b-027f-4a0b-903d-6655f2978e76",
+                              "9f11679b-027f-4a0b-903d-6655f2978e76"
+                          ]
+    },
+    {
+        "ref":  "7c495074-f31a-4f52-bde2-c912b183ac81",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_Rayari_RecoverItem_HathorLoot",
+        "blueprintCount":  9,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "f9de8917-a3a2-4471-974e-123b49910271",
+                              "2d084e7a-056d-4e29-a824-cd459888d27f",
+                              "24d23220-2d11-40b4-bf90-530ced383413",
+                              "656bcd59-44ca-4812-a5f2-f1d2ec305571",
+                              "85831071-5a5d-49d3-a7ea-05354d95f8eb",
+                              "b2ff9dfd-0b26-4b77-9118-e7e9ea60e42c",
+                              "4acc160d-9b38-40df-8b03-24074b9e2aaf",
+                              "eed8ab0d-ad9c-41e2-996f-14cdd263e100",
+                              "58f2fe15-955e-4725-8b5f-7a5249186966"
+                          ]
+    },
+    {
+        "ref":  "5abbcbe8-8af1-4b76-8a85-631eeff5903d",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_Rayari_RecoverItem_Irradiated",
+        "blueprintCount":  7,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "d0d3aa5c-0db2-4f62-af6a-b6976e202b87",
+                              "82f6965b-39ec-42fb-8286-ac543c4fa904",
+                              "0f23d221-eae2-462a-87cf-560942e515ef",
+                              "fc036002-09f5-4bb8-8f3d-8bddc54272e4",
+                              "12f9225e-98ec-4546-ba0a-4386c86100a9",
+                              "f74b672f-684a-4735-be47-71d8f1d24c32",
+                              "910b675f-2030-42e6-a301-de9c09894460"
+                          ]
+    },
+    {
+        "ref":  "61b089a0-880c-41da-a2c2-482a1bffe96f",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_RDC_Boss",
+        "blueprintCount":  11,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b08ee11e-5e2c-4fe5-9a10-b99c2a105d9b",
+                              "80304f3a-bfd9-4eaa-a0b3-dee61872377b",
+                              "ca04f474-538a-4d73-8b76-2c20d0433f0f",
+                              "7839dc1c-2881-406f-9f83-a1caaa99da25",
+                              "1df6b82c-8b0d-4179-8138-94f33f1bd073",
+                              "a0cfd9bb-9c32-4679-825c-3c7496b85cc6",
+                              "3aa99a29-3177-4008-b88c-efe0c93c2b3f",
+                              "6fb3b3ad-e39e-4d6b-a97a-84f7bad75b89",
+                              "51bb9eda-cc14-4b64-8b92-0565638d5d0d",
+                              "c2677899-cd03-45ac-ae90-8e9de0792c14",
+                              "34b5ab94-a752-427a-8cc4-757c5797783c"
+                          ]
+    },
+    {
+        "ref":  "1e31d7e8-3033-4c98-a477-c474810d48c1",
+        "displayNameToken":  null,
+        "displayName":  "QV Breaker Station Mining Rights (Exclusive)",
+        "codeName":  "BP_MISSIONREWARD_RDC_Exclusive",
+        "blueprintCount":  11,
+        "missionCount":  2,
+        "missionTitles":  [
+                              "QV Breaker Station Mining Rights (Exclusive)",
+                              "QV Breaker Station Mining Rights (Shared)"
+                          ],
+        "blueprintRefs":  [
+                              "878240ee-e1ee-47a9-ac1f-fe1b5171619c",
+                              "07eb22f2-17bb-4428-853b-d6777db53038",
+                              "c14689b3-71ba-4386-be4a-9ed558d97d4b",
+                              "f43c9684-1a3a-4783-9469-4a61fe0ccc98",
+                              "19bf2ec3-f114-4f27-982f-5236b35fe8c7",
+                              "fc095af7-3ced-4533-970a-007788ca8274",
+                              "e4a0800f-6c5f-4d88-8328-bff2ab46dd34",
+                              "1eff502e-f190-4906-b974-32c117eb1971",
+                              "c52b8f11-6bdb-49df-ac05-87c3b8fd48be",
+                              "4db9360f-dd3e-4aff-8ada-f79897951cae",
+                              "34b5ab94-a752-427a-8cc4-757c5797783c"
+                          ]
+    },
+    {
+        "ref":  "e52bf354-8918-474d-987e-55c01bfecdd3",
+        "displayNameToken":  null,
+        "displayName":  "Come to Aid of Convoy",
+        "codeName":  "BP_MISSIONREWARD_RDC_Generic",
+        "blueprintCount":  10,
+        "missionCount":  19,
+        "missionTitles":  [
+                              "Come to Aid of Convoy",
+                              "Convoy Caught in Brutal Attack",
+                              "Eliminate Vanduul Ship",
+                              "Extremely Dangerous Defense",
+                              "High-Risk Ship Encounter",
+                              "Neutralize UEE Threat: ~mission(TargetName)",
+                              "Neutralize Vanduul Target",
+                              "New Defense Contract: ~mission(TargetName) Elimination",
+                              "Pilot in Distress",
+                              "Pilot Seeking Combat Support",
+                              "Preemptive Strike On ~mission(TargetName)",
+                              "Reduce Valakkar Breaker Station Population",
+                              "Respond to Distress Beacon",
+                              "Save Ship",
+                              "Ship Needs Emergency Assistance",
+                              "Stop Attack on High-Profile Client",
+                              "Stop Deadly Ship Attack",
+                              "Support Client Under Attack",
+                              "Terrorist ~mission(TargetName) to be Neutralized"
+                          ],
+        "blueprintRefs":  [
+                              "b08ee11e-5e2c-4fe5-9a10-b99c2a105d9b",
+                              "2d5a4987-c430-4f28-9a74-7cb95d9020db",
+                              "42dd7691-8119-4643-9477-512b31aaccc8",
+                              "81f972e5-634e-42e4-bcfd-37e0a72ee9c3",
+                              "029d8838-3f83-4d3c-b44e-ba388cb5e347",
+                              "1db3e0db-610a-4a94-afec-9015335c574f",
+                              "b362b3f8-5393-4c42-b083-ac38411f6ff5",
+                              "508d602d-f4e9-4e83-9fe5-c054d6ad3b58",
+                              "93deb498-5eb4-42e4-ac0f-aa38791aee5f",
+                              "34b5ab94-a752-427a-8cc4-757c5797783c"
+                          ]
+    },
+    {
+        "ref":  "5e79204c-6d26-4ddb-95c8-6940028e4d89",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_FPSMining_Pyro",
+        "blueprintCount":  7,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "6e56d163-c45d-4ac8-bd6a-8a8dd4db4855",
+                              "7f3de2ba-0f58-4feb-bbb2-7230f0a5c3b6",
+                              "7e181fa5-d8a6-4877-89b7-40c04c03d4a1",
+                              "40515a7b-6dd8-48e2-8b69-1afc0938b140",
+                              "07332cfa-dc4d-4bf8-a9bf-032a0ae40e31",
+                              "d8ae387f-2e16-4080-b737-7fa301789573",
+                              "743efa96-8a73-40a7-ae6a-0890f34a3731"
+                          ]
+    },
+    {
+        "ref":  "ebe453ce-10cc-4811-8c68-217c5fecb79e",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_FPSMining_Stanton",
+        "blueprintCount":  6,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "494617be-9487-4919-93ae-d17c059d4639",
+                              "a5bd7711-4266-4712-bab3-0e439660748c",
+                              "a15468da-4d68-4f8b-a611-fa4829a70b73",
+                              "b0a52afc-765d-43e4-b3a4-98eafc71925a",
+                              "ba1fb9d7-b959-4f17-b7e0-90b892eaf501",
+                              "743efa96-8a73-40a7-ae6a-0890f34a3731"
+                          ]
+    },
+    {
+        "ref":  "c2bd6ae6-c4a1-4fb1-8421-bd2979f39f77",
+        "displayNameToken":  null,
+        "displayName":  "Lrg. Purchase Order: Ship Mined Ore",
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_ShipMining_PyroNyx",
+        "blueprintCount":  7,
+        "missionCount":  7,
+        "missionTitles":  [
+                              "Lrg. Purchase Order: Ship Mined Ore",
+                              "Med. Purchase Order: Ship Mined Ore",
+                              "Mjr. Purchase Order: Ship Mined Ore",
+                              "Small Purchase Order: Ship Mined Ore",
+                              "Special Purchase Order: Mined Materials",
+                              "XL Purchase Order: Ship Mined Ore",
+                              "XS Purchase Order: Ship Mined Ore"
+                          ],
+        "blueprintRefs":  [
+                              "4597b977-ae88-49c4-9667-5681d3c67319",
+                              "84c3ded1-19f0-43bb-bd49-ceb517e7264b",
+                              "dabddb4f-e559-4991-ba80-95a3a70a1fef",
+                              "1b1c4e5e-2a8b-4180-9857-1fe1b3322093",
+                              "f1b95cd0-5dde-4b32-9efb-dd87f2aa5567",
+                              "23451667-daed-476c-9eb8-b25e174929d6",
+                              "743efa96-8a73-40a7-ae6a-0890f34a3731"
+                          ]
+    },
+    {
+        "ref":  "40438f39-f78c-41bc-a8de-d6f4f4c2daec",
+        "displayNameToken":  null,
+        "displayName":  "Lrg. Purchase Order: Ship Mined Ore",
+        "codeName":  "BP_MISSIONREWARD_Shubin_ResourceGathering_ShipMining_Stanton",
+        "blueprintCount":  7,
+        "missionCount":  7,
+        "missionTitles":  [
+                              "Lrg. Purchase Order: Ship Mined Ore",
+                              "Med. Purchase Order: Ship Mined Ore",
+                              "Mjr. Purchase Order: Ship Mined Ore",
+                              "Small Purchase Order: Ship Mined Ore",
+                              "Special Purchase Order: Mined Materials",
+                              "XL Purchase Order: Ship Mined Ore",
+                              "XS Purchase Order: Ship Mined Ore"
+                          ],
+        "blueprintRefs":  [
+                              "11746131-a3a4-4d8d-acfd-e92d8963f94c",
+                              "6ec1ec0a-7865-4317-bc78-131a958c2300",
+                              "5aa839d6-93ce-4919-a039-a3f15fb7a331",
+                              "63ac18b1-83bd-4ec7-8580-b91e021a002b",
+                              "ffdede8d-4029-45d4-ae6e-582190efd062",
+                              "685cd29c-0308-48fe-bebc-859806afad5d",
+                              "743efa96-8a73-40a7-ae6a-0890f34a3731"
+                          ]
+    },
+    {
+        "ref":  "6876ee7a-114b-4414-9af1-bfdcdd303204",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_VaughnGenerator_EliminateBoss",
+        "blueprintCount":  11,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "35e047ab-51a5-4d25-bd6c-6d6b99c93ff6",
+                              "d202447d-5611-4cf7-96ed-4553d969c8c8",
+                              "ac19ee92-4541-49a7-a18c-c8bbe166f3db",
+                              "18ddec17-c4ac-4a97-8945-c832d9acaa08",
+                              "4149a505-b7c9-4a47-abb2-5b6d06aea7cd",
+                              "414f8b11-e4a3-427b-a763-274013eb8717",
+                              "d55d8b7a-398b-43d9-9391-805a5d0b1d5a",
+                              "4885f099-b226-4a44-8cb6-03c3c176749c",
+                              "4885f099-b226-4a44-8cb6-03c3c176749c",
+                              "8ae32b3f-2b5d-4ade-a067-214b8196a553",
+                              "97ad7b96-cacf-42bd-b4ff-6c2da37e549e"
+                          ]
+    },
+    {
+        "ref":  "67a07f1a-ca8c-400d-984a-6088ecd3b482",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_MISSIONREWARD_VaughnGenerator_EliminateSpecific",
+        "blueprintCount":  12,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "e3097998-28ef-48ad-a220-2ddaa1a85ce3",
+                              "950e8099-037e-4d73-86fe-6266a08b02d1",
+                              "1cc4c8ad-6bfe-4cfc-aa4f-f8af0bf871ea",
+                              "ccc84b06-ce85-4f82-9c7d-8b5eda13ea95",
+                              "ec377312-4b4c-4fbd-854c-ff45cb66229f",
+                              "0c04c0d4-e289-4571-84f5-ffae7e6994d9",
+                              "bcadaa79-db0f-40cd-a9c7-5015500a2a51",
+                              "e51e3af6-9fb6-41bb-bb34-b0b35750dccc",
+                              "4dbe4a9c-cce5-4679-9975-329c95eab9a1",
+                              "850ad61b-2bd1-4c0c-be77-84a7133ce899",
+                              "6ddb93d8-7f93-4086-9609-4520f06f7d9b",
+                              "a10bfaff-76a7-47c9-8535-44e982442cbd"
+                          ]
+    },
+    {
+        "ref":  "41371e2a-09d2-4eb6-b046-69e2ce34521d",
+        "displayNameToken":  null,
+        "displayName":  "E",
+        "codeName":  "BP_REWARD_CollectorMaterial_001",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  "Extra Special Wolf",
+        "blueprintRefs":  [
+                              "c9c67e69-063a-4d28-a156-d5809776ee22"
+                          ]
+    },
+    {
+        "ref":  "f1fe5e29-6a79-4245-b232-f79a63b78508",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARD_CollectorMaterial_002",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "d31e71e2-38f1-4773-8c4f-2507ca0470db"
+                          ]
+    },
+    {
+        "ref":  "ef7eca0b-6f20-44e1-9308-8dcce92d713f",
+        "displayNameToken":  null,
+        "displayName":  "Y",
+        "codeName":  "BP_REWARD_none_rifle_multi_01_collector01",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  "Your Best Shot",
+        "blueprintRefs":  [
+                              "f2bd99fe-904b-4b23-9aa4-8aa6ae2c530f"
+                          ]
+    },
+    {
+        "ref":  "e71e1a05-1817-46b4-8123-7bcc6c5927a3",
+        "displayNameToken":  null,
+        "displayName":  "S",
+        "codeName":  "BP_REWARD_vgl_flightsuit_01_02_01",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  "Suit Up Take Off",
+        "blueprintRefs":  [
+                              "51094096-711d-4779-a1c1-cda936211a1b"
+                          ]
+    },
+    {
+        "ref":  "b652a50f-657b-4e2f-92a2-55962d1f4f72",
+        "displayNameToken":  null,
+        "displayName":  "S",
+        "codeName":  "BP_REWARD_vgl_flightsuit_helmet_01_02_01",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  "Suit Up Take Off",
+        "blueprintRefs":  [
+                              "ffaa61a2-1c00-4f0a-a855-a06855f9ce6b"
+                          ]
+    },
+    {
+        "ref":  "16a99583-68a3-4f0e-b03c-87d70f6172dc",
+        "displayNameToken":  null,
+        "displayName":  "Adagio Holdings in Need of Salvagers",
+        "codeName":  "BP_REWARDS_AdagioResourceGatheringShipSalvage",
+        "blueprintCount":  5,
+        "missionCount":  8,
+        "missionTitles":  [
+                              "Adagio Holdings in Need of Salvagers",
+                              "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
+                              "Salvager Needed (Lrg. Supply of RMC / UCM / Components)",
+                              "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
+                              "Salvager Needed (Med. Supply of RMC / UCM / Components)",
+                              "Salvager Needed (Med. Supply of RMC)",
+                              "Salvager Needed (Small Supply of RMC / UCM)",
+                              "Salvager Needed (Small Supply of RMC)"
+                          ],
+        "blueprintRefs":  [
+                              "4e834db6-9b0e-461a-8465-ec90847bd7e5",
+                              "22782818-beab-4e09-90c4-306c17192c06",
+                              "f35d8068-b232-43d5-a8bb-744a1295c79c",
+                              "b4160c11-75f9-4699-8aab-7b21abf75bc6",
+                              "57a536c1-cd88-4b2c-8fab-5b871fffa458"
+                          ]
+    },
+    {
+        "ref":  "9b457916-07e2-49bd-b4c0-52ac963508c9",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_ASD3Vgear",
+        "blueprintCount":  3,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "6f79231c-4c4b-4e8d-a5aa-9a7b8687b926",
+                              "8601e542-8c86-4504-981f-aaf24f3b5fd2",
+                              "de7df91f-a1fd-4996-865f-1ae782dd6ec5"
+                          ]
+    },
+    {
+        "ref":  "ed1f79f8-28a6-4d86-9f47-ac7a8dda8564",
+        "displayNameToken":  null,
+        "displayName":  "A",
+        "codeName":  "BP_REWARDS_AssistShipInCombatA",
+        "blueprintCount":  6,
+        "missionCount":  1,
+        "missionTitles":  "Assist People's Alliance Vessel Tranquility",
+        "blueprintRefs":  [
+                              "fca087e5-c043-4638-99e8-3c0bd668ab89",
+                              "82b2cc9d-aa04-4dfa-8bc1-bd972c17276d",
+                              "d5e2dda5-e104-4e50-887e-10a583b6064d",
+                              "55c76311-f8ea-462a-94c4-3156a8707279",
+                              "968d85a2-6ee1-494e-b528-3ddae793a808",
+                              "dd81d455-8f3d-4552-9082-98de9333991f"
+                          ]
+    },
+    {
+        "ref":  "e7b17f94-74ef-4337-9aa9-11f25fbb4d2a",
+        "displayNameToken":  null,
+        "displayName":  "A",
+        "codeName":  "BP_REWARDS_AssistShipInCombatB",
+        "blueprintCount":  3,
+        "missionCount":  1,
+        "missionTitles":  "Assist People's Alliance Vessel Tranquility",
+        "blueprintRefs":  [
+                              "4a8393d9-81a5-43da-86a1-0257d810ade4",
+                              "59464ab4-fff9-4727-9013-1bccf176f612",
+                              "61ec59f2-84dd-4ede-8751-49820e8bb126"
+                          ]
+    },
+    {
+        "ref":  "d16ca80c-eb03-41ad-8574-aa0dc0a5f6e3",
+        "displayNameToken":  null,
+        "displayName":  "S",
+        "codeName":  "BP_REWARDS_BombingRun",
+        "blueprintCount":  6,
+        "missionCount":  1,
+        "missionTitles":  "Strategic Bombing",
+        "blueprintRefs":  [
+                              "a0802d45-54d4-4e9b-8fa8-6b45ac193463",
+                              "08edebc6-4c64-49e6-ba3a-c62140ead490",
+                              "8c003415-d13f-467f-8322-e00b7e2c6d5f",
+                              "b66bf071-0fac-4f54-885d-8891d61d1954",
+                              "dc2a2abc-36fb-4184-b380-3137b7d9e819",
+                              "0a5a202f-db9c-447e-b7bd-891040be1d19"
+                          ]
+    },
+    {
+        "ref":  "2190957e-a832-4a10-ad68-ec640de2c3d1",
+        "displayNameToken":  null,
+        "displayName":  "S",
+        "codeName":  "BP_REWARDS_BombingRunB",
+        "blueprintCount":  3,
+        "missionCount":  1,
+        "missionTitles":  "Strategic Bombing",
+        "blueprintRefs":  [
+                              "4a8393d9-81a5-43da-86a1-0257d810ade4",
+                              "eec452b5-39dd-45b0-9a50-328d803ad16c",
+                              "d8ce4bd6-46b2-42da-8e76-e6f0435a71ec"
+                          ]
+    },
+    {
+        "ref":  "907989eb-9ee8-46a8-b794-032da6bd8a5d",
+        "displayNameToken":  null,
+        "displayName":  "~mission(ReputationRank) Rank - ~mission(CargoGradeToken) Cargo Haul",
+        "codeName":  "BP_REWARDS_CovalexSuper",
+        "blueprintCount":  9,
+        "missionCount":  2,
+        "missionTitles":  [
+                              "~mission(ReputationRank) Rank - ~mission(CargoGradeToken) Cargo Haul",
+                              "~mission(ReputationRank) Rank - Direct ~mission(CargoGradeToken) Cargo Haul"
+                          ],
+        "blueprintRefs":  [
+                              "33be7f1a-3f75-4627-bb8b-88e6d6b42f4e",
+                              "b8d285a5-915d-4c63-8a48-ec67f4aa249d",
+                              "e55162ea-cd69-4ace-a519-ffd40bfb78a9",
+                              "07390e16-f481-4039-aeb8-a68c74cda400",
+                              "de3f2588-a15f-4866-8628-3a7063150877",
+                              "8842e26b-09cb-48fa-a5bb-e51d7bdaa225",
+                              "effce782-5e32-4402-b399-28b63eb573a7",
+                              "072e8086-c290-4c39-857c-19f657c30d4b",
+                              "feb14c78-6068-4436-8bea-0027a6b36480"
+                          ]
+    },
+    {
+        "ref":  "7d0ecc93-a6e0-4096-acdc-dcc7969e6b96",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_EckhartSecurityEscortShipsEasy",
+        "blueprintCount":  5,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "5c1b49d9-db7e-4898-8fe1-a97072f8cf37",
+                              "ccea53f3-0a4e-4a4d-a7b1-2b6c9e8f362f",
+                              "bad004a3-647a-463c-ab7f-539b992d2ac7",
+                              "6cf912b7-6aa4-4be8-81de-58bc03ba67a6",
+                              "9fe902be-8b39-4d71-9017-e2fed7b0604c"
+                          ]
+    },
+    {
+        "ref":  "0624864b-bb2d-4dd3-87cb-3b9599285fbe",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_EckhartSecurityEscortShipsHardPlus",
+        "blueprintCount":  6,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "49715f66-325c-4239-82b1-3a494c359e3e",
+                              "49e3ffa8-a54b-4af5-bbd3-2f0f39f54750",
+                              "6c7d0dd4-c604-4a5f-9836-30756cc15b43",
+                              "84e8ce98-b46f-4b03-aec2-472a4e93bd97",
+                              "fe989d57-d565-44a5-ae56-9d13801a60a6",
+                              "f8dc5f10-aa36-41fb-b209-37fd0166c4ac"
+                          ]
+    },
+    {
+        "ref":  "65744944-bca2-4467-aa8e-9a948b13a6b0",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_EckhartSecurityEscortShipsMed",
+        "blueprintCount":  5,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "d7ac6b06-bc08-4c9f-8c9f-3d8f2c2eedf0",
+                              "389088f8-c2ae-48d0-bf8c-0b0024b01744",
+                              "66596afa-8e0b-4414-ada8-a7844f1a7b08",
+                              "4bc3c371-85bf-44bb-87c5-3bb43892ae96",
+                              "fba80733-cd1e-4466-8bd9-3a49867d8cc4"
+                          ]
+    },
+    {
+        "ref":  "7d65ed76-f824-430a-8597-045b6b759dfb",
+        "displayNameToken":  null,
+        "displayName":  "Deal with ~mission(TargetName) and Support Forces",
+        "codeName":  "BP_REWARDS_EckhartSecurityKillNPCBoss",
+        "blueprintCount":  7,
+        "missionCount":  2,
+        "missionTitles":  [
+                              "Deal with ~mission(TargetName) and Support Forces",
+                              "High-Risk Bounty: ~mission(TargetName)"
+                          ],
+        "blueprintRefs":  [
+                              "373079a1-8480-49d8-bd97-ea0c4fa24432",
+                              "c7641484-d1cc-471c-aa9e-9da5419e3ee5",
+                              "f059b40e-51a3-49c0-89d7-26a72ffcdffc",
+                              "6713db41-8231-4e71-b7a2-74073ddd4b50",
+                              "28d4dfac-a77b-4c42-beae-60d82643f190",
+                              "28a5e6ff-7dde-494e-a938-deb133ce7d9f",
+                              "9e514c69-af37-4e55-808a-63c5822e6acf"
+                          ]
+    },
+    {
+        "ref":  "02642d19-8a53-481c-ab3e-f57a7f0dd7c7",
+        "displayNameToken":  null,
+        "displayName":  "Dangerous Ambush",
+        "codeName":  "BP_REWARDS_EckhartSecurityShipAmbushEasy",
+        "blueprintCount":  5,
+        "missionCount":  7,
+        "missionTitles":  [
+                              "Dangerous Ambush",
+                              "Highly Dangerous Ambush",
+                              "Launch Surprise Attack",
+                              "New Opportunity - Ambush Strike",
+                              "Settle a Score",
+                              "Time to Teach a Lesson",
+                              "Tricky Ambush"
+                          ],
+        "blueprintRefs":  [
+                              "2a8d359b-08da-41e2-8809-92ffeef0dc6f",
+                              "02a12ac4-9436-4f03-9da4-043427bd5678",
+                              "78b1bf49-bdd8-48e9-9cbe-1faeb95f24d5",
+                              "5907d8df-c6c0-4609-83d9-a6130a7b210a",
+                              "5ef6986b-12eb-4e2d-93d3-a4def34584c0"
+                          ]
+    },
+    {
+        "ref":  "125d96b9-5255-4443-b825-26c69064f08d",
+        "displayNameToken":  null,
+        "displayName":  "Dangerous Ambush",
+        "codeName":  "BP_REWARDS_EckhartSecurityShipAmbushHardPlus",
+        "blueprintCount":  5,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Dangerous Ambush",
+                              "Highly Dangerous Ambush",
+                              "Tricky Ambush"
+                          ],
+        "blueprintRefs":  [
+                              "36a88bbc-555d-468f-b333-9a8759e60426",
+                              "30ec1d99-ec11-4f6d-bdeb-bffcb5a93cfb",
+                              "628ef015-246b-49b5-9943-253aace1263f",
+                              "cecb97f4-200d-4ecf-b428-78c3d005dcea",
+                              "2483cc8f-f8b3-496e-8f77-9885d4751c1f"
+                          ]
+    },
+    {
+        "ref":  "c3bc2b3e-b943-4194-911d-f70b66741103",
+        "displayNameToken":  null,
+        "displayName":  "Dangerous Ambush",
+        "codeName":  "BP_REWARDS_EckhartSecurityShipAmbushMed",
+        "blueprintCount":  5,
+        "missionCount":  4,
+        "missionTitles":  [
+                              "Dangerous Ambush",
+                              "Highly Dangerous Ambush",
+                              "Launch Surprise Attack",
+                              "Tricky Ambush"
+                          ],
+        "blueprintRefs":  [
+                              "8e3ac3f9-a7ed-4959-8527-6bf030a0293d",
+                              "35f34597-906c-4cc6-b823-ab331fbb34b8",
+                              "f4a4939e-2d1c-40db-af6a-e29ec625fc7e",
+                              "721c2625-e684-4dfb-8a58-356fcf92022d",
+                              "323d25f0-7345-4a74-9c18-c29524eb0a6b"
+                          ]
+    },
+    {
+        "ref":  "2a22663d-da4c-4df1-a384-590fef2f2492",
+        "displayNameToken":  null,
+        "displayName":  "ENTRY LVL. COURIER NEEDED IN NYX",
+        "codeName":  "BP_REWARDS_FTL",
+        "blueprintCount":  6,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "ENTRY LVL. COURIER NEEDED IN NYX",
+                              "ENTRY LVL. COURIER NEEDED IN STANTON",
+                              "JR. LVL. COURIER NEEDED IN STANTON"
+                          ],
+        "blueprintRefs":  [
+                              "6ba5fce8-fac4-42f3-8606-0185b2823ee2",
+                              "126749c2-1e22-4e39-9c79-e04b7761bb3e",
+                              "c8e37bc7-6bd5-4225-a823-8975e46765e2",
+                              "3aad9a44-5f8c-44d0-b3a4-80f55602fade",
+                              "bf79619f-f10b-4f57-bd79-59f308e85e0f",
+                              "319ae36a-601c-47d5-b165-c71e9a624654"
+                          ]
+    },
+    {
+        "ref":  "819a9851-9c2e-4a24-872b-b860331d32d0",
+        "displayNameToken":  null,
+        "displayName":  "CRITICAL REFUEL REQUEST: ~mission(Ship)",
+        "codeName":  "BP_REWARDS_FuelNozzle",
+        "blueprintCount":  8,
+        "missionCount":  4,
+        "missionTitles":  [
+                              "CRITICAL REFUEL REQUEST: ~mission(Ship)",
+                              "REFUEL REQUEST: ~mission(Ship)",
+                              "URGENT FLEET REFUEL",
+                              "URGENT REFUEL REQUEST: ~mission(Ship)"
+                          ],
+        "blueprintRefs":  [
+                              "6f0487ce-1696-4b62-abb4-587d30d0e6da",
+                              "990aa98f-0674-466f-9875-113d414d690b",
+                              "dbe5c153-2149-4843-9b03-297f3e66d092",
+                              "96566b51-4fed-4711-ae6e-9565f54a1ffa",
+                              "6d1117b4-6bc0-4279-acfc-a675da2dad3d",
+                              "40e0d74b-2449-4102-a856-514c4c62400b",
+                              "52d84acb-6817-4fed-8741-e85ddba302cc",
+                              "ff1d331e-dfb1-4864-8755-cbf187be5ae3"
+                          ]
+    },
+    {
+        "ref":  "dbaf603a-534f-4bbf-9dfd-e64e4aaec62e",
+        "displayNameToken":  null,
+        "displayName":  "T",
+        "codeName":  "BP_REWARDS_FullStrikeOnStationA",
+        "blueprintCount":  14,
+        "missionCount":  1,
+        "missionTitles":  "Tactical Strike Group Needed",
+        "blueprintRefs":  [
+                              "ef2fe5ec-e7c3-4c44-b589-b3cdf2f83db5",
+                              "a94dcfee-51b0-439a-bbc7-62086dbd2395",
+                              "fdb77585-2af6-4ee7-b603-e5116618b966",
+                              "7aa43fa1-11d7-4ad2-a1b7-9b11a92b4d5c",
+                              "6ef10d50-8fde-4d6e-9fdd-71486a57cba8",
+                              "996b49dc-96ec-431d-8638-be232ef89596",
+                              "e03e2902-6fbc-49b5-8d97-08aa6cc8d043",
+                              "91e2ba6e-8cf3-48c6-aceb-0523e9b85a83",
+                              "d990dcb6-490d-4e3b-9627-8a1950fa25bc",
+                              "152d4fe6-b50a-4a46-82e4-69b52606f9b5",
+                              "d564c96b-1b6a-443d-b31a-57df452ad4d0",
+                              "662028d6-b908-4058-bb46-a00ea072645a",
+                              "a8200d22-2c1d-47a7-9106-032eb8994916",
+                              "73ea6995-568d-4bbe-82ce-a981cb20798b"
+                          ]
+    },
+    {
+        "ref":  "fb2a7d3e-8e67-4567-a08f-409d88cccc8a",
+        "displayNameToken":  null,
+        "displayName":  "T",
+        "codeName":  "BP_REWARDS_FullStrikeOnStationB",
+        "blueprintCount":  10,
+        "missionCount":  1,
+        "missionTitles":  "Tactical Strike Group Needed",
+        "blueprintRefs":  [
+                              "280f47b7-8434-410c-b854-380768fdccec",
+                              "3e1831e2-fe5d-4383-9709-d1125cb2f174",
+                              "d1172623-c96d-4d3a-9aef-a9fc75192183",
+                              "8af10b9c-dbe4-41b6-9e1b-5ff99a3360f4",
+                              "2dd642a7-7204-42c3-b45d-1d017bed5420",
+                              "0b456971-e99b-4950-a435-464b231640b8",
+                              "9585b0dc-b660-4e2a-9136-0092af1e72c1",
+                              "1535c647-30e7-493e-9494-132c511b2c3a",
+                              "799e4d02-1b04-45cb-ac67-2453588a8c99",
+                              "99f5c8a9-2721-439e-9f18-b2ad7d9fc0ed"
+                          ]
+    },
+    {
+        "ref":  "0e810eae-7b66-45aa-a18f-ffc1aae15585",
+        "displayNameToken":  null,
+        "displayName":  "~mission(TargetName) needs stomping",
+        "codeName":  "BP_REWARDS_HeadHuntersMercenaryShipRegionA",
+        "blueprintCount":  7,
+        "missionCount":  12,
+        "missionTitles":  [
+                              "~mission(TargetName) needs stomping",
+                              "Crash some ships",
+                              "Ghost some XenoTrash",
+                              "Hit a CFP Ship",
+                              "Kill Order",
+                              "Primo Target",
+                              "Simple Hit",
+                              "Target at ~mission(Location)",
+                              "Target takedown for a fast track in",
+                              "Treat yourself to a fight",
+                              "Wanna be a Headhunter?",
+                              "Wanted: ~mission(TargetName)"
+                          ],
+        "blueprintRefs":  [
+                              "ad0494d5-ca83-4f6a-a4c0-f29b7b221a20",
+                              "b04aff42-d892-4ca9-991e-101c869a7caa",
+                              "a8c6afe2-0920-43ca-a62f-01bf6908c93e",
+                              "b8f01d8f-9673-4a3b-8454-54ddb7962d47",
+                              "d6d9b647-15a8-4240-ad56-bce7fa1c9ddf",
+                              "15372a7f-d011-452f-bb27-17eb8bb06499",
+                              "547e0853-0d93-4ff5-8725-20f273ac77b6"
+                          ]
+    },
+    {
+        "ref":  "4b340951-c7f6-49af-bcc7-9fadcecf6c8c",
+        "displayNameToken":  null,
+        "displayName":  "~mission(TargetName) needs stomping",
+        "codeName":  "BP_REWARDS_HeadHuntersMercenaryShipRegionB",
+        "blueprintCount":  5,
+        "missionCount":  12,
+        "missionTitles":  [
+                              "~mission(TargetName) needs stomping",
+                              "Crash some ships",
+                              "Ghost some XenoTrash",
+                              "Hit a CFP Ship",
+                              "Kill Order",
+                              "Primo Target",
+                              "Simple Hit",
+                              "Target at ~mission(Location)",
+                              "Target takedown for a fast track in",
+                              "Treat yourself to a fight",
+                              "Wanna be a Headhunter?",
+                              "Wanted: ~mission(TargetName)"
+                          ],
+        "blueprintRefs":  [
+                              "bb0bcf7d-9953-4d81-9976-284c9bc356e1",
+                              "09016880-5718-4e0a-b065-6166b994c634",
+                              "bdbb4d6c-9ca4-4df8-9ae0-453740aa3386",
+                              "9138f384-0dff-4d10-81a0-f535a96fb698",
+                              "54d0f29f-9748-4a2d-9bba-88b512398c81"
+                          ]
+    },
+    {
+        "ref":  "de417e15-2936-497a-8f90-7a52eb2eb12a",
+        "displayNameToken":  null,
+        "displayName":  "~mission(TargetName) needs stomping",
+        "codeName":  "BP_REWARDS_HeadHuntersMercenaryShipRegionC",
+        "blueprintCount":  5,
+        "missionCount":  12,
+        "missionTitles":  [
+                              "~mission(TargetName) needs stomping",
+                              "Crash some ships",
+                              "Ghost some XenoTrash",
+                              "Hit a CFP Ship",
+                              "Kill Order",
+                              "Primo Target",
+                              "Simple Hit",
+                              "Target at ~mission(Location)",
+                              "Target takedown for a fast track in",
+                              "Treat yourself to a fight",
+                              "Wanna be a Headhunter?",
+                              "Wanted: ~mission(TargetName)"
+                          ],
+        "blueprintRefs":  [
+                              "b4e72df7-8386-4a6b-8bd8-de629a830676",
+                              "caaf41d5-d10c-49d7-bfad-fd5b3aa839c8",
+                              "19550053-2b2c-4382-9da0-cf72e32e7976",
+                              "8d85dc06-c989-4efd-89a8-1d73181480a6",
+                              "8739a357-7649-4498-8ada-b423d51aff37"
+                          ]
+    },
+    {
+        "ref":  "14ac943a-df05-4bd8-9596-b268d7e7748b",
+        "displayNameToken":  null,
+        "displayName":  "~mission(TargetName) needs stomping",
+        "codeName":  "BP_REWARDS_HeadHuntersMercenaryShipRegionD",
+        "blueprintCount":  8,
+        "missionCount":  12,
+        "missionTitles":  [
+                              "~mission(TargetName) needs stomping",
+                              "Crash some ships",
+                              "Ghost some XenoTrash",
+                              "Hit a CFP Ship",
+                              "Kill Order",
+                              "Primo Target",
+                              "Simple Hit",
+                              "Target at ~mission(Location)",
+                              "Target takedown for a fast track in",
+                              "Treat yourself to a fight",
+                              "Wanna be a Headhunter?",
+                              "Wanted: ~mission(TargetName)"
+                          ],
+        "blueprintRefs":  [
+                              "9b4499d4-b54c-4eb9-b661-e65f3d0f501d",
+                              "dc08fa4e-07fa-408a-a71b-b03b2168d1df",
+                              "f7ff5090-1c6b-497c-9ca5-a2156214c9ed",
+                              "aa1cb1df-fe5c-4067-8396-ef117e8e3c3d",
+                              "c3be6d25-0ed6-4ee1-9d80-cfe59950ad5c",
+                              "23092591-270b-4a8a-84d2-8b695f9750d1",
+                              "46783ecc-9b6d-4f3c-98a6-53c3a0c293d6",
+                              "d79ee29c-4528-4b5f-98cc-f5e6e225c528"
+                          ]
+    },
+    {
+        "ref":  "1817df4b-2d1c-4735-872d-cb471cf07201",
+        "displayNameToken":  null,
+        "displayName":  "R",
+        "codeName":  "BP_REWARDS_IDSRecoverEncryptedDataVgear",
+        "blueprintCount":  3,
+        "missionCount":  1,
+        "missionTitles":  "Retrieve Additional Smuggler Intel",
+        "blueprintRefs":  [
+                              "4c5a8d37-1eb2-4395-8c3e-54b8f738639d",
+                              "8f166b36-2bb7-4d38-9e3a-464801b40f83",
+                              "626da3a0-dc9c-49bd-ad97-497239675894"
+                          ]
+    },
+    {
+        "ref":  "8e69e4bd-3b6a-42a0-8b8b-808eede34d29",
+        "displayNameToken":  null,
+        "displayName":  "Cargo Hauling Opportunity with Ling Hauling",
+        "codeName":  "BP_REWARDS_LingHard",
+        "blueprintCount":  7,
+        "missionCount":  2,
+        "missionTitles":  [
+                              "Cargo Hauling Opportunity with Ling Hauling",
+                              "Ling Family ~mission(ReputationRank) Cargo Haul - ~mission(CargoGradeToken) Scale"
+                          ],
+        "blueprintRefs":  [
+                              "1f57b7a3-ae43-405f-b9cc-457efb01cbc8",
+                              "8d52ba42-4652-46cc-8ab2-80208d2a86af",
+                              "ae7c1cc4-0e85-44b4-b975-5307f44ab4fe",
+                              "99773ffb-9f57-40f0-9a52-1ff3235f0581",
+                              "dc29ad18-61c1-48c5-b72e-48558de31d8f",
+                              "9de8d5a0-7c70-4320-b67e-6adb4b0881e2",
+                              "b997eb17-cd7d-43a4-8e49-2a580d5019f9"
+                          ]
+    },
+    {
+        "ref":  "918ba6a6-772e-49c9-9d80-3f0c637a85e5",
+        "displayNameToken":  null,
+        "displayName":  "Orange Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+        "codeName":  "BP_REWARDS_NyxFoxwellEasy",
+        "blueprintCount":  16,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Orange Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Yellow Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Yellow Lvl. Contract: Protect ~mission(Objects) and Escort Employees"
+                          ],
+        "blueprintRefs":  [
+                              "bde33318-8438-4fdf-a181-4536963a600a",
+                              "a2d82829-3c39-410f-bdde-275fc165499f",
+                              "d4bbe697-a58d-4c55-aa8e-f980396ac925",
+                              "9de39ccc-d212-4784-b1d9-c51d353b9a79",
+                              "31f6cdd8-e293-48c5-a78e-1155a8fbba16",
+                              "9c0e0712-eed7-4277-b4f7-9367b75c48c3",
+                              "27d16810-745e-41f6-9332-bc914ec9765e",
+                              "80f82e57-67d7-464e-a3f1-10770d31440e",
+                              "0fc20c2e-3b7d-4f3d-ade1-57e65c3195c8",
+                              "c1d17db7-413a-48b7-83be-7f3dd47231ce",
+                              "2783ac7f-337e-4998-b77e-f8004bdb498f",
+                              "267970a8-095d-440a-a7ae-68215b8eafe2",
+                              "f046ebef-00e3-4427-853d-1c0bcd932068",
+                              "b74f7d57-dd8f-4295-a01d-794f899e4f40",
+                              "4725bf9e-2981-4a20-a7ae-9b0427638be6",
+                              "6572adc5-af6d-4eaa-a4b8-3e016a4d2f7f"
+                          ]
+    },
+    {
+        "ref":  "d3ddab48-c45a-4488-a416-887f2dc869fe",
+        "displayNameToken":  null,
+        "displayName":  "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+        "codeName":  "BP_REWARDS_NyxFoxwellHard",
+        "blueprintCount":  7,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Protect ~mission(Objects) and Escort Employees"
+                          ],
+        "blueprintRefs":  [
+                              "b3d5b701-727c-4277-8f0f-6e005160cf81",
+                              "e4103421-02a1-4636-8e38-bf06878fbc53",
+                              "fc04742c-2db3-4bfd-a5fb-833d4304a5fe",
+                              "3593e520-5a6a-466a-ac7d-d882fa07d3ef",
+                              "24430036-84e8-497b-98fa-075ac0bc907e",
+                              "3cc18579-1ba4-4217-9e3a-a7caed422693",
+                              "b7a15496-f49f-4d83-aeb3-34fcb0a94c3f"
+                          ]
+    },
+    {
+        "ref":  "ed0b8aaa-eec6-4c72-b9e7-b0b48ab5e135",
+        "displayNameToken":  null,
+        "displayName":  "Defend ~mission(Location) From Mercs",
+        "codeName":  "BP_REWARDS_NyxHeadhuntersEasy",
+        "blueprintCount":  17,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Defend ~mission(Location) From Mercs",
+                              "Guard ~mission(Location) From Rivals",
+                              "Keep ~mission(Location) Safe",
+                              "Provide Protection at ~mission(Location)",
+                              "Secure ~mission(Location) from Upstarts",
+                              "Stop Rival Attack at ~mission(Location)"
+                          ],
+        "blueprintRefs":  [
+                              "a1b5c9ef-be2e-4077-ba67-4a3028970c49",
+                              "f6c07dae-cca0-4abd-adc9-e1c6b6acfca1",
+                              "7f553855-0712-42cc-8d2a-1bc301b63ea4",
+                              "1239aec1-9d22-4fd8-a694-2eee52243aad",
+                              "0c113b8f-0bff-4b62-adf1-64c31786c85b",
+                              "1414bc9f-2a10-440d-86b0-91c85cfaa28d",
+                              "b19e0018-91e7-4f53-9d87-4c083131b851",
+                              "f24ec6ba-88fe-44a9-ae11-996385696c8f",
+                              "787f5cf3-cb9f-4811-b991-475b09d2d039",
+                              "7be41934-c13b-41a0-be05-5b8dab42cf23",
+                              "571b10ba-8033-4d00-b767-3f2edde7e9e3",
+                              "770ba210-bb7e-4b88-a7d8-2f132fa4bc0f",
+                              "524a5e92-3b86-459f-ac0f-cc4fb96d7577",
+                              "95fc7cad-58d5-4bc4-b643-c0633c6f2b0e",
+                              "8efd4e68-449f-48f2-a6d3-fda82c575e61",
+                              "6ec023c3-d739-40bf-899e-4a3e66520263",
+                              "abdb3c60-cdc5-4bd5-bbcc-55da792bc584"
+                          ]
+    },
+    {
+        "ref":  "3373506b-2ba7-4493-af0d-f336966d1151",
+        "displayNameToken":  null,
+        "displayName":  "Defend ~mission(Location) From Mercs",
+        "codeName":  "BP_REWARDS_NyxHeadhuntersHard",
+        "blueprintCount":  7,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Defend ~mission(Location) From Mercs",
+                              "Guard ~mission(Location) From Rivals",
+                              "Stop Rival Attack at ~mission(Location)"
+                          ],
+        "blueprintRefs":  [
+                              "511c22a9-7ba1-487b-b768-1b14d2ddbf2f",
+                              "4ac17f62-86b3-453c-adf0-b52fcf1ebf6c",
+                              "6851a453-e5c5-4d29-82d5-c233f04d92db",
+                              "d9999ce7-5565-4d8a-b31c-3a833b159756",
+                              "7ebefb45-b494-4d2c-9ae0-06360079c727",
+                              "1b6eb647-f144-4643-9d8d-ec76bf5c985f",
+                              "4f494fdb-d489-4b51-9f0a-c148e7d9f6b9"
+                          ]
+    },
+    {
+        "ref":  "82426625-1081-4bc2-a72f-04f8e6c7d463",
+        "displayNameToken":  null,
+        "displayName":  "Orange Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+        "codeName":  "BP_REWARDS_PyroFoxwellEasy",
+        "blueprintCount":  14,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Orange Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Yellow Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Yellow Lvl. Contract: Protect ~mission(Objects) and Escort Employees"
+                          ],
+        "blueprintRefs":  [
+                              "45d67f1d-42b4-41d0-83f5-7b712d3b17a2",
+                              "6bb290c1-49d4-418c-a97e-4f6c0d09929e",
+                              "85aca18f-43f2-475d-96d3-3c8e506b40a3",
+                              "76b86090-d310-4b66-8685-6cf7f3edddaf",
+                              "489787a2-175f-4a26-9bdb-81b86acbf4c8",
+                              "91acb06c-7a01-489d-8927-5a841f4c15a6",
+                              "8fe934b5-ac5a-448e-bc3c-cb22bd9cb3ab",
+                              "892b74ea-9651-4b74-bc41-763714c96229",
+                              "fa5951a5-5063-49c8-8f4c-a6b341801aea",
+                              "35b476f2-8c2f-4e09-aae4-20e4c754c6db",
+                              "cd9e8d71-16f5-473c-bbec-222c818e9443",
+                              "c851e5ce-1f84-4ae1-a09e-a8f1338e5ef1",
+                              "29ae5b0d-9fbd-4be5-89da-0b854f5065f8",
+                              "d4ff44e3-ece8-48bb-bcec-9a6f9bf86610"
+                          ]
+    },
+    {
+        "ref":  "f99fb032-c235-42c8-9e05-cb3443c26e55",
+        "displayNameToken":  null,
+        "displayName":  "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+        "codeName":  "BP_REWARDS_PyroFoxwellHard",
+        "blueprintCount":  6,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Protect ~mission(Objects) and Escort Employees"
+                          ],
+        "blueprintRefs":  [
+                              "64c8213c-7149-4b91-94ed-1011d64f6a25",
+                              "d9def0f6-9dc1-4267-b446-85a1ad9ce954",
+                              "81bd2f26-f106-4273-aed7-a66f52b14978",
+                              "9ead63a3-24a5-4338-8823-2343ccfb5a5d",
+                              "d72617b3-a862-4276-9cf9-653a59df1ae5",
+                              "58d61445-870d-4a25-a42d-89792faac8e8"
+                          ]
+    },
+    {
+        "ref":  "6b6f3678-9f0e-4188-ae68-f5c1177230be",
+        "displayNameToken":  null,
+        "displayName":  "Defend ~mission(Location) From Mercs",
+        "codeName":  "BP_REWARDS_PyroHeadhuntersEasy",
+        "blueprintCount":  7,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Defend ~mission(Location) From Mercs",
+                              "Guard ~mission(Location) From Rivals",
+                              "Keep ~mission(Location) Safe",
+                              "Provide Protection at ~mission(Location)",
+                              "Secure ~mission(Location) from Upstarts",
+                              "Stop Rival Attack at ~mission(Location)"
+                          ],
+        "blueprintRefs":  [
+                              "7a18b345-06c7-40be-b0ac-b7177307ab21",
+                              "8d09eac2-30e7-4787-b9d0-0ddf270c7dbd",
+                              "ea73da29-d597-4930-91ac-846310561bb0",
+                              "0ffe0e5a-e31a-4605-a7cc-1685b25a8047",
+                              "683c5b10-5dc3-48ee-aeb0-d830e0d398c0",
+                              "eecd464e-a8b5-4925-bc37-c80213bf3db6",
+                              "d2bf9a84-e5fb-4172-8d18-b7a83e8c080f"
+                          ]
+    },
+    {
+        "ref":  "9cc0425d-5101-4f8a-a89d-6d483466829e",
+        "displayNameToken":  null,
+        "displayName":  "Defend ~mission(Location) From Mercs",
+        "codeName":  "BP_REWARDS_PyroHeadhuntersHard",
+        "blueprintCount":  5,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Defend ~mission(Location) From Mercs",
+                              "Guard ~mission(Location) From Rivals",
+                              "Stop Rival Attack at ~mission(Location)"
+                          ],
+        "blueprintRefs":  [
+                              "1727fc8f-e31c-4d66-9670-084aadb15955",
+                              "ba842720-ad32-4d53-8f56-992bacb1fc45",
+                              "ac3dc178-0b5d-4a73-9ad6-6ce05e9c2620",
+                              "32267728-2647-485c-a565-cbe7e9e46a15",
+                              "a1125420-1e6a-4d09-97a7-0b4540605ea4"
+                          ]
+    },
+    {
+        "ref":  "5406fc34-0f96-4d22-ae59-84307ada0288",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_RedWind",
+        "blueprintCount":  6,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b93b1228-2432-47a9-929e-15d04f95a440",
+                              "39e6a987-6b8f-4a75-95da-945522219147",
+                              "a0060a30-6f2e-4fdc-ba5f-ef03c067412c",
+                              "342314db-2713-4e37-9982-6fb66a8fd871",
+                              "a1999fd1-97b7-48de-b8ea-b062fba7c426",
+                              "8676d6a2-25ec-4bfd-89a4-4b65f195fa28"
+                          ]
+    },
+    {
+        "ref":  "253e9697-5605-4732-b4fa-56af7a3dc140",
+        "displayNameToken":  null,
+        "displayName":  "Lrg. Purchase Order: Ship Mined Ore",
+        "codeName":  "BP_REWARDS_ShubinRank0to1",
+        "blueprintCount":  8,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Lrg. Purchase Order: Ship Mined Ore",
+                              "Mjr. Purchase Order: Ship Mined Ore",
+                              "Small Purchase Order: Ship Mined Ore",
+                              "Special Purchase Order: Mined Materials",
+                              "XL Purchase Order: Ship Mined Ore",
+                              "XS Purchase Order: Ship Mined Ore"
+                          ],
+        "blueprintRefs":  [
+                              "93dbf337-be86-4c3b-80ba-015955b8b9b8",
+                              "35f1121b-c021-4230-b68d-93e2cd578320",
+                              "1cc19fca-84a3-4e7f-8084-350e7bb31d42",
+                              "7a37ef95-bc0f-4a3b-93a2-05b9f160ee31",
+                              "b2bb2f91-d5de-4ea0-882d-013032f8a655",
+                              "86654362-5907-4139-a706-8ba6dcfd207f",
+                              "47f1994d-373b-4ade-b03e-c62f1eaa3538",
+                              "81f42807-1595-4dde-b88c-dc2578e8bf99"
+                          ]
+    },
+    {
+        "ref":  "32463294-45d5-4e92-a773-dce1f28a2a2b",
+        "displayNameToken":  null,
+        "displayName":  "Lrg. Purchase Order: Ship Mined Ore",
+        "codeName":  "BP_REWARDS_ShubinRank2to3",
+        "blueprintCount":  11,
+        "missionCount":  5,
+        "missionTitles":  [
+                              "Lrg. Purchase Order: Ship Mined Ore",
+                              "Med. Purchase Order: Ship Mined Ore",
+                              "Mjr. Purchase Order: Ship Mined Ore",
+                              "Special Purchase Order: Mined Materials",
+                              "XL Purchase Order: Ship Mined Ore"
+                          ],
+        "blueprintRefs":  [
+                              "bfb86b0e-d262-450f-a6ad-396ead48c40a",
+                              "ccbb801a-ad5e-4e15-a842-ad315f43dd4e",
+                              "04f1af4c-e8ed-4b99-8413-61622bdfcb30",
+                              "7ba597a6-b5c2-4513-b38c-62acd4cb138e",
+                              "20789dfa-a83c-4e00-8c43-e5828d65dfdd",
+                              "3a4ba1b4-a688-4c5a-ba88-e82929d384b0",
+                              "9105536e-507d-49c8-8d90-b6d778d95ce0",
+                              "b9380740-dc8d-41f5-b402-819d40230fba",
+                              "42097046-f08d-4202-aee0-5b5921ccacb9",
+                              "394c971b-2056-4c5b-9503-0c6efbe595ff",
+                              "2c09e00e-2250-479d-bbcd-713b1a411ce1"
+                          ]
+    },
+    {
+        "ref":  "e3254ad6-ef4d-4719-871f-f13a832038f5",
+        "displayNameToken":  null,
+        "displayName":  "Lrg. Purchase Order: Ship Mined Ore",
+        "codeName":  "BP_REWARDS_ShubinRank4",
+        "blueprintCount":  9,
+        "missionCount":  4,
+        "missionTitles":  [
+                              "Lrg. Purchase Order: Ship Mined Ore",
+                              "Mjr. Purchase Order: Ship Mined Ore",
+                              "Special Purchase Order: Mined Materials",
+                              "XL Purchase Order: Ship Mined Ore"
+                          ],
+        "blueprintRefs":  [
+                              "e8e41bb2-0fd2-47a3-99ea-5dbe2abe4b92",
+                              "959c2d65-301a-4b8c-88f1-d72c617cd405",
+                              "0b6cf9a1-ef55-47ee-ab8d-c734d4f3b073",
+                              "6da71823-7178-4110-b8ff-79e9b22e11fa",
+                              "18f54363-88cd-420a-9ab3-979256db55a2",
+                              "46c4b9c1-b7a8-423d-af4a-2e32b199bc02",
+                              "2bd502c9-cb83-4505-855e-0788b38325c9",
+                              "ba0b2f00-7790-4bbf-ae83-2fafceb32d4b",
+                              "e239f19b-e846-411d-ac57-b877a7d30d76"
+                          ]
+    },
+    {
+        "ref":  "f045d6b4-1c56-4975-b78f-a876a1c23cd3",
+        "displayNameToken":  null,
+        "displayName":  "Orange Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+        "codeName":  "BP_REWARDS_StantonFoxwellEasy",
+        "blueprintCount":  6,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Orange Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Yellow Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Yellow Lvl. Contract: Protect ~mission(Objects) and Escort Employees"
+                          ],
+        "blueprintRefs":  [
+                              "1b604dc8-0828-421d-844d-130c38aaf0d8",
+                              "d7566e60-ddc7-48a3-9288-d830b2fdb80d",
+                              "fa8b569a-1e5d-4384-ba41-20fa09a131ca",
+                              "443f490b-4fa8-43c5-9493-4a0a94132769",
+                              "4e85f727-1959-4de9-a457-c646cdc6d26e",
+                              "c1723f1c-b943-4508-8636-8e0fffacd095"
+                          ]
+    },
+    {
+        "ref":  "9bfa7f79-7301-49f8-a370-0e27c8a741df",
+        "displayNameToken":  null,
+        "displayName":  "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+        "codeName":  "BP_REWARDS_StantonFoxwellHard",
+        "blueprintCount":  6,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Orange Lvl. Contract: Protect ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Defend ~mission(Objects) and Escort Employees",
+                              "Red Lvl. Contract: Protect ~mission(Objects) and Escort Employees"
+                          ],
+        "blueprintRefs":  [
+                              "44fc600c-7523-4ce7-85a5-d02cd586cb4a",
+                              "f6cc35f9-96b6-4e58-90d0-9b50d4dc92ee",
+                              "668c64ba-05cf-47fb-88af-e815d176c7d5",
+                              "db6460d8-273e-4fe3-bf57-a02a61e7a3e2",
+                              "2d4b53b5-138a-4cc0-88ce-51d3f1f89f98",
+                              "2d85096b-c04e-4771-8f4b-dc16e6ae28a8"
+                          ]
+    },
+    {
+        "ref":  "a2cbf2c1-7691-422b-93ca-e6740f5ab4b6",
+        "displayNameToken":  null,
+        "displayName":  "Defend ~mission(Location) From Mercs",
+        "codeName":  "BP_REWARDS_StantonHeadhuntersEasy",
+        "blueprintCount":  13,
+        "missionCount":  6,
+        "missionTitles":  [
+                              "Defend ~mission(Location) From Mercs",
+                              "Guard ~mission(Location) From Rivals",
+                              "Keep ~mission(Location) Safe",
+                              "Provide Protection at ~mission(Location)",
+                              "Secure ~mission(Location) from Upstarts",
+                              "Stop Rival Attack at ~mission(Location)"
+                          ],
+        "blueprintRefs":  [
+                              "1e547029-e7c1-4d0f-8937-84fff8f669ac",
+                              "f2a77836-bceb-4f71-b0ff-7aef96f8cb4c",
+                              "87f0679a-3060-4763-a17a-9e35badea273",
+                              "e50d5650-673d-4358-b7db-9f5ffa6fc534",
+                              "b1ec2ffa-d1f5-4318-8c27-4d7442873443",
+                              "6a4393b4-b7fe-4913-85bc-dc803dc73acb",
+                              "fd9e81f2-c772-4292-95cd-0eec3ba6d0fa",
+                              "0a34a002-dd03-41df-b7d8-935f98fbb03d",
+                              "6033839c-deb5-42b6-9cab-74ffb711ae44",
+                              "6f72bc54-ddc6-4a08-b68e-0b8506cd43a8",
+                              "cd86dd07-2425-4cd2-81c4-88e62499c113",
+                              "a80d62fb-6742-408b-9328-0d833511f4c1",
+                              "89800887-d53c-4519-a5c2-45e551b889b4"
+                          ]
+    },
+    {
+        "ref":  "c5e14209-5994-4394-88df-a98f2d9bd728",
+        "displayNameToken":  null,
+        "displayName":  "Defend ~mission(Location) From Mercs",
+        "codeName":  "BP_REWARDS_StantonHeadhuntersHard",
+        "blueprintCount":  6,
+        "missionCount":  3,
+        "missionTitles":  [
+                              "Defend ~mission(Location) From Mercs",
+                              "Guard ~mission(Location) From Rivals",
+                              "Stop Rival Attack at ~mission(Location)"
+                          ],
+        "blueprintRefs":  [
+                              "87fff41b-b925-4fdf-b819-22eeb7be6406",
+                              "c2605bfa-f7ad-4ee5-bdf0-66b3e6a95cdc",
+                              "f311c57f-f1ae-4ca1-b4dc-7b516f475f9c",
+                              "30c41150-6f82-45b2-82f2-8c5d38648755",
+                              "f7140bab-c85f-48e5-bb03-a4d560130545",
+                              "2d85096b-c04e-4771-8f4b-dc16e6ae28a8"
+                          ]
+    },
+    {
+        "ref":  "f638ceff-38a2-442f-9233-389619957104",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_100_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "09b57272-8ed3-4f91-94cd-13f0bc5796fa"
+                          ]
+    },
+    {
+        "ref":  "f638ceff-38a2-442f-9233-389619957104",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_100_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "09b57272-8ed3-4f91-94cd-13f0bc5796fa"
+                          ]
+    },
+    {
+        "ref":  "4d724371-4658-4a22-828a-0b077b163e1a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_100_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "d3424c2f-7bf0-48f3-ba9f-133ee41ede1a"
+                          ]
+    },
+    {
+        "ref":  "4d724371-4658-4a22-828a-0b077b163e1a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_100_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "d3424c2f-7bf0-48f3-ba9f-133ee41ede1a"
+                          ]
+    },
+    {
+        "ref":  "1bcdf005-1192-4b2f-b8c1-86e48e084f97",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_100_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "3604eb86-8850-41de-8c50-279268401355"
+                          ]
+    },
+    {
+        "ref":  "1bcdf005-1192-4b2f-b8c1-86e48e084f97",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_100_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "3604eb86-8850-41de-8c50-279268401355"
+                          ]
+    },
+    {
+        "ref":  "ee32c370-c77f-4b22-a28e-0b52a3764d85",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "8e0b43aa-3353-4601-9053-c8bf63b1aa68"
+                          ]
+    },
+    {
+        "ref":  "ee32c370-c77f-4b22-a28e-0b52a3764d85",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "8e0b43aa-3353-4601-9053-c8bf63b1aa68"
+                          ]
+    },
+    {
+        "ref":  "5f4206eb-5dbd-462e-addc-35ed2e9ab53b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b411ee6c-20ba-4697-a77c-3338e0062ab1"
+                          ]
+    },
+    {
+        "ref":  "5f4206eb-5dbd-462e-addc-35ed2e9ab53b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b411ee6c-20ba-4697-a77c-3338e0062ab1"
+                          ]
+    },
+    {
+        "ref":  "74d9273e-e262-4669-b462-e7ef82027f34",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "315a8008-c78b-4536-bb02-f9177de66f14"
+                          ]
+    },
+    {
+        "ref":  "74d9273e-e262-4669-b462-e7ef82027f34",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "315a8008-c78b-4536-bb02-f9177de66f14"
+                          ]
+    },
+    {
+        "ref":  "7e73f59e-43ae-4943-a03d-208569ccb462",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_04",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "89c217ab-473d-4464-ad24-3cf3e59b4cf7"
+                          ]
+    },
+    {
+        "ref":  "7e73f59e-43ae-4943-a03d-208569ccb462",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_04",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "89c217ab-473d-4464-ad24-3cf3e59b4cf7"
+                          ]
+    },
+    {
+        "ref":  "eb0a196c-b252-4fac-931f-cdc43258fb69",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_05",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "fd0caafc-d49d-4eb4-ad4d-5f57d64f4f34"
+                          ]
+    },
+    {
+        "ref":  "eb0a196c-b252-4fac-931f-cdc43258fb69",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_05",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "fd0caafc-d49d-4eb4-ad4d-5f57d64f4f34"
+                          ]
+    },
+    {
+        "ref":  "343ae5e1-2072-4f43-bb5a-0c73de2d21be",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_06",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "90dd0843-d876-45a3-9c70-1bdae12fd5a4"
+                          ]
+    },
+    {
+        "ref":  "343ae5e1-2072-4f43-bb5a-0c73de2d21be",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_15_06",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "90dd0843-d876-45a3-9c70-1bdae12fd5a4"
+                          ]
+    },
+    {
+        "ref":  "4da274e1-b462-4b5b-98ae-34a5d65a7a9b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "797ad37f-6386-45e5-b219-65ce7951057f"
+                          ]
+    },
+    {
+        "ref":  "4da274e1-b462-4b5b-98ae-34a5d65a7a9b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "797ad37f-6386-45e5-b219-65ce7951057f"
+                          ]
+    },
+    {
+        "ref":  "e052cb6e-dfb2-489f-b4c7-2ee41195e101",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b1d0a06d-63bd-40b1-8c98-401f0ee9baa4"
+                          ]
+    },
+    {
+        "ref":  "e052cb6e-dfb2-489f-b4c7-2ee41195e101",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b1d0a06d-63bd-40b1-8c98-401f0ee9baa4"
+                          ]
+    },
+    {
+        "ref":  "a05e07ed-92bb-4ae4-8fe7-8e4234228f8b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "348f097c-8318-4e4f-81a5-2c7f0e02d586"
+                          ]
+    },
+    {
+        "ref":  "a05e07ed-92bb-4ae4-8fe7-8e4234228f8b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "348f097c-8318-4e4f-81a5-2c7f0e02d586"
+                          ]
+    },
+    {
+        "ref":  "96ddab13-025f-40e2-8757-f91c761fc38a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_04",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "01af7aea-78a8-4fb3-9b0e-d8cf896bcd3c"
+                          ]
+    },
+    {
+        "ref":  "96ddab13-025f-40e2-8757-f91c761fc38a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_04",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "01af7aea-78a8-4fb3-9b0e-d8cf896bcd3c"
+                          ]
+    },
+    {
+        "ref":  "668ab288-0f84-4253-9e21-16f9bbcb921b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_05",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b75f9854-5037-4c2c-95ff-bd497db0784c"
+                          ]
+    },
+    {
+        "ref":  "668ab288-0f84-4253-9e21-16f9bbcb921b",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_05",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b75f9854-5037-4c2c-95ff-bd497db0784c"
+                          ]
+    },
+    {
+        "ref":  "89098afb-1035-43e9-8d65-857a5070efd2",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_06",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "87588736-1f17-40dd-8f28-79d46263ce3c"
+                          ]
+    },
+    {
+        "ref":  "89098afb-1035-43e9-8d65-857a5070efd2",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_25_06",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "87588736-1f17-40dd-8f28-79d46263ce3c"
+                          ]
+    },
+    {
+        "ref":  "bb1ddea2-d086-4821-9662-caad87c48cff",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "df419614-3101-4332-940a-59b1fda563c9"
+                          ]
+    },
+    {
+        "ref":  "bb1ddea2-d086-4821-9662-caad87c48cff",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "df419614-3101-4332-940a-59b1fda563c9"
+                          ]
+    },
+    {
+        "ref":  "1c47b046-c2c5-4356-a2c5-2f8c6aa42d7a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "5b8f7276-a697-4118-b17c-ceb423d31513"
+                          ]
+    },
+    {
+        "ref":  "1c47b046-c2c5-4356-a2c5-2f8c6aa42d7a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "5b8f7276-a697-4118-b17c-ceb423d31513"
+                          ]
+    },
+    {
+        "ref":  "baec53f2-2ab1-4507-9882-7bb03966273e",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "5bf27739-fb9b-4d6b-b389-23f443753517"
+                          ]
+    },
+    {
+        "ref":  "baec53f2-2ab1-4507-9882-7bb03966273e",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_03",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "5bf27739-fb9b-4d6b-b389-23f443753517"
+                          ]
+    },
+    {
+        "ref":  "8a02761e-cd85-4f94-a371-26458465594e",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_04",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "84fa0308-b20f-40f7-b711-531f5fc0a83a"
+                          ]
+    },
+    {
+        "ref":  "8a02761e-cd85-4f94-a371-26458465594e",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_04",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "84fa0308-b20f-40f7-b711-531f5fc0a83a"
+                          ]
+    },
+    {
+        "ref":  "43bacc63-c4e7-4428-b4b4-db41e555787a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_05",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b6169295-fc77-47b9-ac93-28a5071e4c3f"
+                          ]
+    },
+    {
+        "ref":  "43bacc63-c4e7-4428-b4b4-db41e555787a",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_05",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "b6169295-fc77-47b9-ac93-28a5071e4c3f"
+                          ]
+    },
+    {
+        "ref":  "726db62d-ee52-467d-9e12-0b0fcdc487e4",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_06",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "7022945b-fa64-4478-ac6f-5575cf1ee34f"
+                          ]
+    },
+    {
+        "ref":  "726db62d-ee52-467d-9e12-0b0fcdc487e4",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_50_06",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "7022945b-fa64-4478-ac6f-5575cf1ee34f"
+                          ]
+    },
+    {
+        "ref":  "2c7c5545-2f23-4297-b4f1-6131c427c9fb",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_60_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "8de23a42-7652-4de0-bb2c-c51edf8a6c23"
+                          ]
+    },
+    {
+        "ref":  "2c7c5545-2f23-4297-b4f1-6131c427c9fb",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_60_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "8de23a42-7652-4de0-bb2c-c51edf8a6c23"
+                          ]
+    },
+    {
+        "ref":  "34dfefee-28f7-44d3-a63e-a73d646bc3a8",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_60_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "938b9037-160f-43fd-91df-f3aae5412f84"
+                          ]
+    },
+    {
+        "ref":  "34dfefee-28f7-44d3-a63e-a73d646bc3a8",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_60_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "938b9037-160f-43fd-91df-f3aae5412f84"
+                          ]
+    },
+    {
+        "ref":  "ddb463e6-1bf8-47da-8816-e1eab8347beb",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_85_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "db3f4c97-8d40-4b36-b397-452dea1594fc"
+                          ]
+    },
+    {
+        "ref":  "ddb463e6-1bf8-47da-8816-e1eab8347beb",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_85_01",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "db3f4c97-8d40-4b36-b397-452dea1594fc"
+                          ]
+    },
+    {
+        "ref":  "51f3df33-47f4-459a-bec1-b1c77f4e8158",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_85_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "6748a7c7-5e6f-463e-87c2-05b20a7bd3ae"
+                          ]
+    },
+    {
+        "ref":  "51f3df33-47f4-459a-bec1-b1c77f4e8158",
+        "displayNameToken":  null,
+        "displayName":  null,
+        "codeName":  "BP_REWARDS_Xenothreat2_85_02",
+        "blueprintCount":  1,
+        "missionCount":  0,
+        "missionTitles":  {
+
+                          },
+        "blueprintRefs":  [
+                              "6748a7c7-5e6f-463e-87c2-05b20a7bd3ae"
+                          ]
+    }
+]
