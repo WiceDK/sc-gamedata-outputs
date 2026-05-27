@@ -30488,6 +30488,71 @@
                        ]
     },
     {
+        "ref":  "0194943d-1164-4b5f-a85e-79ebc0ebe621",
+        "displayName":  "Tumbril Cyclone AA",
+        "shopName":  "Tumbril Cyclone AA",
+        "description":  "Manufacturer: Tumbril Land Systems \\nFocus: Anti-Air\\n\\nA battlefield equalizer, the Cyclone AA comes equipped with a surface-to-air missile and countermeasure package to provide cover for ground troops against airborne targets.",
+        "vehicleType":  "GroundVehicle",
+        "shipSize":  null,
+        "padType":  null,
+        "career":  "Combat",
+        "role":  "Anti-Air",
+        "crewSize":  1,
+        "size":  {
+                     "x":  8.75,
+                     "y":  6,
+                     "z":  3.5
+                 },
+        "mass":  null,
+        "fuelHydrogen":  null,
+        "fuelQuantum":  null,
+        "isQuantumCapable":  false,
+        "isCargo":  false,
+        "cargoSCU":  null,
+        "hardpoints":  [
+                           {
+                               "name":  "hardpoint_shield_generator",
+                               "displayName":  "Shield Generator 1",
+                               "minSize":  0,
+                               "maxSize":  0,
+                               "types":  [
+                                             "Shield"
+                                         ],
+                               "defaultComponent":  "PIN"
+                           },
+                           {
+                               "name":  "hardpoint_radar",
+                               "displayName":  "Radar",
+                               "minSize":  0,
+                               "maxSize":  0,
+                               "types":  [
+                                             "Radar"
+                                         ],
+                               "defaultComponent":  "Prevenir"
+                           },
+                           {
+                               "name":  "hardpoint_power_plant",
+                               "displayName":  "Power Plant 1",
+                               "minSize":  0,
+                               "maxSize":  0,
+                               "types":  [
+                                             "PowerPlant"
+                                         ],
+                               "defaultComponent":  "Radix"
+                           },
+                           {
+                               "name":  "hardpoint_cooler",
+                               "displayName":  "Cooler 1",
+                               "minSize":  0,
+                               "maxSize":  0,
+                               "types":  [
+                                             "Cooler"
+                                         ],
+                               "defaultComponent":  "Frost-Star SL"
+                           }
+                       ]
+    },
+    {
         "ref":  "bda93768-c01f-40b4-a92e-f31876cd33d0",
         "displayName":  "Tumbril Cyclone MT",
         "shopName":  "Tumbril Cyclone MT",
@@ -30692,71 +30757,6 @@
         "padType":  null,
         "career":  "Combat",
         "role":  "Anti-Vehicle",
-        "crewSize":  1,
-        "size":  {
-                     "x":  8.75,
-                     "y":  6,
-                     "z":  3.5
-                 },
-        "mass":  null,
-        "fuelHydrogen":  null,
-        "fuelQuantum":  null,
-        "isQuantumCapable":  false,
-        "isCargo":  false,
-        "cargoSCU":  null,
-        "hardpoints":  [
-                           {
-                               "name":  "hardpoint_shield_generator",
-                               "displayName":  "Shield Generator 1",
-                               "minSize":  0,
-                               "maxSize":  0,
-                               "types":  [
-                                             "Shield"
-                                         ],
-                               "defaultComponent":  "PIN"
-                           },
-                           {
-                               "name":  "hardpoint_radar",
-                               "displayName":  "Radar",
-                               "minSize":  0,
-                               "maxSize":  0,
-                               "types":  [
-                                             "Radar"
-                                         ],
-                               "defaultComponent":  "Prevenir"
-                           },
-                           {
-                               "name":  "hardpoint_power_plant",
-                               "displayName":  "Power Plant 1",
-                               "minSize":  0,
-                               "maxSize":  0,
-                               "types":  [
-                                             "PowerPlant"
-                                         ],
-                               "defaultComponent":  "Radix"
-                           },
-                           {
-                               "name":  "hardpoint_cooler",
-                               "displayName":  "Cooler 1",
-                               "minSize":  0,
-                               "maxSize":  0,
-                               "types":  [
-                                             "Cooler"
-                                         ],
-                               "defaultComponent":  "Frost-Star SL"
-                           }
-                       ]
-    },
-    {
-        "ref":  "0194943d-1164-4b5f-a85e-79ebc0ebe621",
-        "displayName":  "Tumbril Cyclone AA",
-        "shopName":  "Tumbril Cyclone AA",
-        "description":  "Manufacturer: Tumbril Land Systems \\nFocus: Anti-Air\\n\\nA battlefield equalizer, the Cyclone AA comes equipped with a surface-to-air missile and countermeasure package to provide cover for ground troops against airborne targets.",
-        "vehicleType":  "GroundVehicle",
-        "shipSize":  null,
-        "padType":  null,
-        "career":  "Combat",
-        "role":  "Anti-Air",
         "crewSize":  1,
         "size":  {
                      "x":  8.75,

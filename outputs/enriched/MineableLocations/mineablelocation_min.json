@@ -4385,6 +4385,434 @@
         "caveTiers":  null
     },
     {
+        "ref":  "daea90d5-e1e9-4cd3-94db-346b2dc05b13",
+        "system":  "stanton",
+        "bodyName":  "aaronhalo",
+        "groups":  [
+                       {
+                           "groupName":  "SpaceShip_Mineables",
+                           "groupProbability":  0.3,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  10.4,
+                                                "compositionRef":  "3fc54018-acc4-4b34-aac1-bb97aa2bbece",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Raw Ice",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            },
+                                            {
+                                                "relativeProbability":  10.3,
+                                                "compositionRef":  "836eb20c-3a2e-422d-a797-27c2f0ed755d",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Raw Silicon",
+                                                "secondaryOreResource":  "Hephaestanite (R)",
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            },
+                                            {
+                                                "relativeProbability":  10.3,
+                                                "compositionRef":  "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Aluminum (Ore)",
+                                                "secondaryOreResource":  "Corundum (Raw)",
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            },
+                                            {
+                                                "relativeProbability":  2,
+                                                "compositionRef":  "46c05568-b83a-4e7b-862c-cc31be4bae50",
+                                                "compositionRarity":  "legendary",
+                                                "primaryOreResource":  "Quantainium (Raw)",
+                                                "secondaryOreResource":  "Beryl (Raw)",
+                                                "clusteringRef":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
+                                                "clusteringRarity":  "legendary",
+                                                "expectedClusterSize":  2
+                                            },
+                                            {
+                                                "relativeProbability":  10.3,
+                                                "compositionRef":  "ece23c39-ebb8-4a72-871b-5413e70619bf",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Iron (Ore)",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            },
+                                            {
+                                                "relativeProbability":  10.3,
+                                                "compositionRef":  "f5bcbf37-d613-4b51-897f-a11572d5f575",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Copper (Ore)",
+                                                "secondaryOreResource":  "Tin (Ore)",
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            },
+                                            {
+                                                "relativeProbability":  14.2,
+                                                "compositionRef":  "2b934c4b-f47c-46b4-bad0-be8a24d6b94a",
+                                                "compositionRarity":  "uncommon",
+                                                "primaryOreResource":  "Aslarite (Raw)",
+                                                "secondaryOreResource":  "Agricium (Ore)",
+                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
+                                                "clusteringRarity":  "uncommon",
+                                                "expectedClusterSize":  3.5
+                                            },
+                                            {
+                                                "relativeProbability":  14.2,
+                                                "compositionRef":  "d33a13d8-3b81-429d-bb3e-b3f7de912983",
+                                                "compositionRarity":  "uncommon",
+                                                "primaryOreResource":  "Titanium (Ore)",
+                                                "secondaryOreResource":  "Agricium (Ore)",
+                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
+                                                "clusteringRarity":  "uncommon",
+                                                "expectedClusterSize":  3.5
+                                            },
+                                            {
+                                                "relativeProbability":  18,
+                                                "compositionRef":  "918f0b57-632b-4f0c-b8b5-869333ba5613",
+                                                "compositionRarity":  "rare",
+                                                "primaryOreResource":  "Beryl (Raw)",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "cd074871-2f6d-45c1-a88f-38b21ef02309",
+                                                "clusteringRarity":  "rare",
+                                                "expectedClusterSize":  2.5
+                                            }
+                                        ]
+                       },
+                       {
+                           "groupName":  "Salvage_FreshDerelicts",
+                           "groupProbability":  0.04,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  2,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  null,
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  5,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  null,
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  900,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "ea8562fe-4d9f-4366-a5c2-114d18a2f7c3",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            }
+                                        ]
+                       },
+                       {
+                           "groupName":  "Salvage_BrokenShips_Poor",
+                           "groupProbability":  0.01,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            }
+                                        ]
+                       },
+                       {
+                           "groupName":  "Salvage_BrokenShips_Normal",
+                           "groupProbability":  0.0057,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            }
+                                        ]
+                       },
+                       {
+                           "groupName":  "Salvage_BrokenShips_Elite",
+                           "groupProbability":  0.00033,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  1,
+                                                "compositionRef":  null,
+                                                "compositionRarity":  null,
+                                                "primaryOreResource":  null,
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            }
+                                        ]
+                       }
+                   ],
+        "caveTiers":  null
+    },
+    {
         "ref":  "d69da463-ee6d-48fb-89c1-d13aa9954181",
         "system":  "stanton",
         "bodyName":  "asteroidcluster_low_yield",
@@ -11716,434 +12144,6 @@
                                                 "primaryOreResource":  null,
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            }
-                                        ]
-                       }
-                   ],
-        "caveTiers":  null
-    },
-    {
-        "ref":  "daea90d5-e1e9-4cd3-94db-346b2dc05b13",
-        "system":  "stanton",
-        "bodyName":  "aaronhalo",
-        "groups":  [
-                       {
-                           "groupName":  "SpaceShip_Mineables",
-                           "groupProbability":  0.3,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  10.4,
-                                                "compositionRef":  "3fc54018-acc4-4b34-aac1-bb97aa2bbece",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Raw Ice",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            },
-                                            {
-                                                "relativeProbability":  10.3,
-                                                "compositionRef":  "836eb20c-3a2e-422d-a797-27c2f0ed755d",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Raw Silicon",
-                                                "secondaryOreResource":  "Hephaestanite (R)",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            },
-                                            {
-                                                "relativeProbability":  10.3,
-                                                "compositionRef":  "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Aluminum (Ore)",
-                                                "secondaryOreResource":  "Corundum (Raw)",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            },
-                                            {
-                                                "relativeProbability":  2,
-                                                "compositionRef":  "46c05568-b83a-4e7b-862c-cc31be4bae50",
-                                                "compositionRarity":  "legendary",
-                                                "primaryOreResource":  "Quantainium (Raw)",
-                                                "secondaryOreResource":  "Beryl (Raw)",
-                                                "clusteringRef":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
-                                                "clusteringRarity":  "legendary",
-                                                "expectedClusterSize":  2
-                                            },
-                                            {
-                                                "relativeProbability":  10.3,
-                                                "compositionRef":  "ece23c39-ebb8-4a72-871b-5413e70619bf",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Iron (Ore)",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            },
-                                            {
-                                                "relativeProbability":  10.3,
-                                                "compositionRef":  "f5bcbf37-d613-4b51-897f-a11572d5f575",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Copper (Ore)",
-                                                "secondaryOreResource":  "Tin (Ore)",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            },
-                                            {
-                                                "relativeProbability":  14.2,
-                                                "compositionRef":  "2b934c4b-f47c-46b4-bad0-be8a24d6b94a",
-                                                "compositionRarity":  "uncommon",
-                                                "primaryOreResource":  "Aslarite (Raw)",
-                                                "secondaryOreResource":  "Agricium (Ore)",
-                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
-                                                "clusteringRarity":  "uncommon",
-                                                "expectedClusterSize":  3.5
-                                            },
-                                            {
-                                                "relativeProbability":  14.2,
-                                                "compositionRef":  "d33a13d8-3b81-429d-bb3e-b3f7de912983",
-                                                "compositionRarity":  "uncommon",
-                                                "primaryOreResource":  "Titanium (Ore)",
-                                                "secondaryOreResource":  "Agricium (Ore)",
-                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
-                                                "clusteringRarity":  "uncommon",
-                                                "expectedClusterSize":  3.5
-                                            },
-                                            {
-                                                "relativeProbability":  18,
-                                                "compositionRef":  "918f0b57-632b-4f0c-b8b5-869333ba5613",
-                                                "compositionRarity":  "rare",
-                                                "primaryOreResource":  "Beryl (Raw)",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "cd074871-2f6d-45c1-a88f-38b21ef02309",
-                                                "clusteringRarity":  "rare",
-                                                "expectedClusterSize":  2.5
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_FreshDerelicts",
-                           "groupProbability":  0.04,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  2,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  5,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  900,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "ea8562fe-4d9f-4366-a5c2-114d18a2f7c3",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Poor",
-                           "groupProbability":  0.01,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Normal",
-                           "groupProbability":  0.0057,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Elite",
-                           "groupProbability":  0.00033,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  1,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
                                                 "clusteringRarity":  null,
                                                 "expectedClusterSize":  null
                                             }

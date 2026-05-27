@@ -1557,31 +1557,6 @@
                        }
     },
     {
-        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
-        "rootElement":  "Faction.Faction_LawfulSecurity_Generic",
-        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
-        "resolvedName":  "Security",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
-        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "factionType":  "PrivateSecurity",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  true,
-        "policesLawfulTrespass":  true,
-        "policesCriminality":  true,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_friendlytoall.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_special_friendlytoall.xml",
@@ -1621,6 +1596,31 @@
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
+        "rootElement":  "Faction.Faction_LawfulSecurity_Generic",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
+        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
+        "policesCriminality":  true,
         "noLegalRights":  false,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
