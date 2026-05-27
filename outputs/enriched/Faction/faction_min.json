@@ -510,6 +510,16 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_ruto.tif"
     },
     {
+        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "name":  "Security",
+        "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "faction_type":  "PrivateSecurity",
+        "default_reaction":  "Neutral",
+        "able_to_arrest":  true,
+        "is_lawful":  null,
+        "logo":  null
+    },
+    {
         "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
         "name":  "Security",
         "description":  null,
@@ -526,16 +536,6 @@
         "faction_type":  "PrivateSecurity",
         "default_reaction":  "Neutral",
         "able_to_arrest":  false,
-        "is_lawful":  null,
-        "logo":  null
-    },
-    {
-        "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
-        "name":  "Security",
-        "description":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "faction_type":  "PrivateSecurity",
-        "default_reaction":  "Neutral",
-        "able_to_arrest":  true,
         "is_lawful":  null,
         "logo":  null
     },
