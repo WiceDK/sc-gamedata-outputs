@@ -27,6 +27,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  5,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -67,6 +68,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  2,
+        "scanSignature":  3885,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -122,6 +124,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  -0.5,
+        "scanSignature":  4285,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -173,6 +176,7 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -205,6 +209,7 @@
         "optimalWindowMidpoint":  1,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -243,6 +248,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0.6,
+        "scanSignature":  3885,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -294,6 +300,7 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -330,6 +337,7 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0.25,
         "optimalWindowThinness":  1.5,
+        "scanSignature":  3540,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -387,6 +395,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  0.4,
+        "scanSignature":  3600,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -444,6 +453,7 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  3600,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -495,6 +505,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -527,6 +538,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -559,6 +571,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -595,6 +608,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  -0.9,
+        "scanSignature":  4240,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -650,6 +664,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  4285,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -701,6 +716,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.25,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -733,6 +749,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -765,6 +782,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -797,6 +815,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -837,6 +856,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.25,
         "optimalWindowThinness":  2.1,
+        "scanSignature":  3600,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -888,6 +908,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -926,6 +947,7 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  4255,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -979,6 +1001,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  -0.9,
+        "scanSignature":  4270,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1030,6 +1053,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  3,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -1062,6 +1086,7 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  10,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -1100,6 +1125,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  3870,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1153,6 +1179,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0.23,
+        "scanSignature":  3400,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1206,6 +1233,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  2.3,
+        "scanSignature":  3170,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1261,6 +1289,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  4210,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1314,6 +1343,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  4300,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1367,6 +1397,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0.6,
+        "scanSignature":  3370,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1424,6 +1455,7 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  4255,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1477,6 +1509,7 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  2.3,
+        "scanSignature":  3385,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1528,6 +1561,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -1560,6 +1594,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  5,
+        "scanSignature":  null,
         "densityProfiles":  [
 
                             ]
@@ -1595,6 +1630,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  2.3,
+        "scanSignature":  3200,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1648,6 +1684,7 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0.3,
         "optimalWindowThinness":  0.6,
+        "scanSignature":  3185,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1703,6 +1740,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0.6,
+        "scanSignature":  3555,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1758,6 +1796,7 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.15,
         "optimalWindowThinness":  0.5,
+        "scanSignature":  4240,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1815,6 +1854,7 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  -0.7,
+        "scanSignature":  3885,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1869,6 +1909,7 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.25,
         "optimalWindowThinness":  2.1,
+        "scanSignature":  3900,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
@@ -1926,6 +1967,7 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0.1,
         "optimalWindowThinness":  -0.7,
+        "scanSignature":  3870,
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
