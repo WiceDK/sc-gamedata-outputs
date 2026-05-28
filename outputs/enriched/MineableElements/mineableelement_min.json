@@ -4,7 +4,7 @@
         "fileName":  "minableelement_fps_vlklimpet.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  null,
         "refinedResourceTypeName":  null,
@@ -20,7 +20,10 @@
         "optimalWindowThinness":  5,
         "scanSignature":  null,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -92,7 +95,7 @@
         "fileName":  "minableelement_fps_aphorite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Aphorite",
         "refinedResourceTypeName":  null,
@@ -106,9 +109,12 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -116,7 +122,7 @@
         "fileName":  "minableelement_fps_flowstone.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Aphorite",
         "refinedResourceTypeName":  null,
@@ -132,7 +138,10 @@
         "optimalWindowThinness":  0,
         "scanSignature":  null,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -172,7 +181,7 @@
         "fileName":  "minableelement_groundvehicle_beradom.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "oreResourceTypeName":  "Beradom",
         "refinedResourceTypeName":  null,
@@ -186,9 +195,12 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -292,7 +304,7 @@
         "fileName":  "minableelement_fps_carinite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Carinite",
         "refinedResourceTypeName":  null,
@@ -306,9 +318,12 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -316,7 +331,7 @@
         "fileName":  "minableelement_groundvehicle_carinite.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "oreResourceTypeName":  "Carinite",
         "refinedResourceTypeName":  null,
@@ -330,9 +345,12 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -340,7 +358,7 @@
         "fileName":  "minableelement_fps_carinitepure.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Carinite (Pure)",
         "refinedResourceTypeName":  null,
@@ -354,9 +372,12 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -452,7 +473,7 @@
         "fileName":  "minableelement_fps_dolivine.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Dolivine",
         "refinedResourceTypeName":  null,
@@ -466,9 +487,12 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -476,7 +500,7 @@
         "fileName":  "minableelement_groundvehicle_feynmaline.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "oreResourceTypeName":  "Feynmaline",
         "refinedResourceTypeName":  null,
@@ -490,9 +514,12 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -500,7 +527,7 @@
         "fileName":  "minableelement_groundvehicle_glacosite.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "oreResourceTypeName":  "Glacosite",
         "refinedResourceTypeName":  null,
@@ -514,9 +541,12 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -556,7 +586,7 @@
         "fileName":  "minableelement_fps_hadanite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Hadanite",
         "refinedResourceTypeName":  null,
@@ -570,9 +600,12 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -644,7 +677,7 @@
         "fileName":  "minableelement_fps_jaclium.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Jaclium (Ore)",
         "refinedResourceTypeName":  null,
@@ -658,9 +691,12 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  3,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -668,7 +704,7 @@
         "fileName":  "minableelement_fps_janalite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Janalite",
         "refinedResourceTypeName":  null,
@@ -682,9 +718,12 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -948,7 +987,7 @@
         "fileName":  "minableelement_fps_sadaryx.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Sadaryx",
         "refinedResourceTypeName":  null,
@@ -962,9 +1001,12 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {
@@ -972,7 +1014,7 @@
         "fileName":  "minableelement_fps_saldynium.xml",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "oreResourceTypeName":  "Saldynium (Ore)",
         "refinedResourceTypeName":  null,
@@ -986,9 +1028,12 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  5,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "massPerSCU":  0.000333
+                                }
                             ]
     },
     {

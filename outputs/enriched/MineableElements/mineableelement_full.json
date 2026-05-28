@@ -7,10 +7,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_VLKLimpet",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "99f553b4-250b-4707-aa53-d96e80a36564"
                                   ],
         "resourceRef":  "272539c8-e211-4c82-8bd0-6ecaabbc9c10",
         "oreResourceTypeRef":  "272539c8-e211-4c82-8bd0-6ecaabbc9c10",
@@ -29,7 +29,16 @@
         "optimalWindowThinness":  5,
         "scanSignature":  null,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "de5a7526-142c-46ea-b568-1b8433b29682",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps_organic.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps_organic.xml"
+                                }
                             ]
     },
     {
@@ -156,10 +165,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Aphorite",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "cd0d31e5-4858-4ad5-824f-9b58936120ef"
                                   ],
         "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
         "oreResourceTypeRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
@@ -176,9 +185,18 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -189,10 +207,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Flowstone",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "edfb6acd-3507-4a2e-9127-29f5bf903965"
                                   ],
         "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
         "oreResourceTypeRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
@@ -211,7 +229,16 @@
         "optimalWindowThinness":  0,
         "scanSignature":  null,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "f65bd0df-562b-48f9-8d07-c187658eb796",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps_obstacle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps_obstacle.xml"
+                                }
                             ]
     },
     {
@@ -280,10 +307,10 @@
         "rootElement":  "MineableElement.MinableElement_GroundVehicle_Beradom",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "3c8b57fb-77d7-467d-b72e-7a2889554899"
                                   ],
         "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
         "oreResourceTypeRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
@@ -300,9 +327,18 @@
         "optimalWindowMidpoint":  0.7,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
+                                }
                             ]
     },
     {
@@ -485,10 +521,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Carinite",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "f8332ddb-07d8-416d-81ee-05acebb54ce2"
                                   ],
         "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
         "oreResourceTypeRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
@@ -505,9 +541,18 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -518,10 +563,10 @@
         "rootElement":  "MineableElement.MinableElement_GroundVehicle_Carinite",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "4a907bfe-8a0b-4608-b6e5-793ec1ab722d"
                                   ],
         "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
         "oreResourceTypeRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
@@ -538,9 +583,18 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
+                                }
                             ]
     },
     {
@@ -551,10 +605,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_CarinitePure",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "ca77b4fd-2d5a-4981-a59b-009659031dbd"
                                   ],
         "resourceRef":  "80dd9dd7-1a4e-41b9-9b3b-4f385b87396c",
         "oreResourceTypeRef":  "80dd9dd7-1a4e-41b9-9b3b-4f385b87396c",
@@ -571,9 +625,18 @@
         "optimalWindowMidpoint":  0.4,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -729,10 +792,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Dolivine",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "426dcee4-3bd9-4064-a415-0184b92191e6"
                                   ],
         "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
         "oreResourceTypeRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
@@ -749,9 +812,18 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -762,10 +834,10 @@
         "rootElement":  "MineableElement.MinableElement_GroundVehicle_Feynmaline",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "27ca5eac-b98f-4eb0-ab50-82e81490c7ab"
                                   ],
         "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
         "oreResourceTypeRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
@@ -782,9 +854,18 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
+                                }
                             ]
     },
     {
@@ -795,10 +876,10 @@
         "rootElement":  "MineableElement.MinableElement_GroundVehicle_Glacosite",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
-
+                               "groundvehicle"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "841a9a3e-cce6-4144-b22c-b0445579fa47"
                                   ],
         "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
         "oreResourceTypeRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
@@ -815,9 +896,18 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "groundvehicle",
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
+                                }
                             ]
     },
     {
@@ -888,10 +978,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Hadanite",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "b67114a3-683b-49be-b6a5-c712e7338901"
                                   ],
         "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
         "oreResourceTypeRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
@@ -908,9 +998,18 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -1033,10 +1132,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Jaclium",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "76cd0067-53dd-47c1-ab20-5d38be542389"
                                   ],
         "resourceRef":  "2c1e1693-4d19-446c-8224-ebad36feb618",
         "oreResourceTypeRef":  "2c1e1693-4d19-446c-8224-ebad36feb618",
@@ -1053,9 +1152,18 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  3,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -1066,10 +1174,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Janalite",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "50e8f768-6367-4139-b4ea-92b48fdfe9bd"
                                   ],
         "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
         "oreResourceTypeRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
@@ -1086,9 +1194,18 @@
         "optimalWindowMidpoint":  0.3,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  10,
-        "scanSignature":  null,
+        "scanSignature":  4000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -1541,10 +1658,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Sadaryx",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "81165186-bf7e-477c-8623-4ca66887be58"
                                   ],
         "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
         "oreResourceTypeRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
@@ -1561,9 +1678,18 @@
         "optimalWindowMidpoint":  0.6,
         "optimalWindowRandomness":  0.2,
         "optimalWindowThinness":  0,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
@@ -1574,10 +1700,10 @@
         "rootElement":  "MineableElement.MinableElement_FPS_Saldynium",
         "miningMode":  "fps",
         "miningContexts":  [
-
+                               "fps"
                            ],
         "linkedCompositionRefs":  [
-
+                                      "3c6e53f8-fe56-4000-b673-f90f42396876"
                                   ],
         "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
         "oreResourceTypeRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
@@ -1594,9 +1720,18 @@
         "optimalWindowMidpoint":  0.5,
         "optimalWindowRandomness":  0,
         "optimalWindowThinness":  5,
-        "scanSignature":  null,
+        "scanSignature":  3000,
         "densityProfiles":  [
-
+                                {
+                                    "miningContext":  "fps",
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
+                                }
                             ]
     },
     {
