@@ -8396,7 +8396,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "26dc23e6-cc07-4389-8e54-dd1c256182a7",
         "outputItemName":  "Bendix",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -15728,7 +15728,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "b564d9f5-e9fb-414c-abbf-48a3552044e8",
         "outputItemName":  "Ezra",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -19517,7 +19517,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "60a89f06-91da-4941-b77e-2c9b3f5f57e4",
         "outputItemName":  "Harkin",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -23506,7 +23506,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "78d86759-340e-4a05-bcbe-4f42dd78573c",
         "outputItemName":  "Lindstrom",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -24262,7 +24262,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "14dd63f4-538e-413f-aea9-a4c06b7db5ac",
         "outputItemName":  "Marlin",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -26528,7 +26528,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "d5456c35-a30b-4e13-bae2-b5609a43909a",
         "outputItemName":  "Norfield",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -35004,7 +35004,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "d6d41d8f-f2b7-45f7-8167-13f366c55e3e",
         "outputItemName":  "RN-7s",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
@@ -40254,7 +40254,7 @@
         "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
         "outputItemRef":  "76e7315c-44b8-4113-8837-d01cd839f15b",
         "outputItemName":  "Torrez",
-        "outputItemType":  null,
+        "outputItemType":  "DockingCollar",
         "craftTimeMinutes":  3.83,
         "inputs":  [
                        {
