@@ -1089,6 +1089,321 @@
                              ]
     },
     {
+        "ref":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Aphorite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Aphorite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "2ee59447-83e0-4f26-899e-df66780008e3",
+                                     "oreResourceTypeName":  "Aphorite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "99f553b4-250b-4707-aa53-d96e80a36564",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Aphorite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  null,
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "0a523c7c-6fa5-4061-81ce-f1537e255c3e",
+                                     "oreResourceTypeName":  null,
+                                     "resourceTypeGroup":  null,
+                                     "minPercentage":  100,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "edfb6acd-3507-4a2e-9127-29f5bf903965",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Calcified Coolant",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Aphorite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "a2b247b4-f3a8-4f51-9690-9773a0ce3bd7",
+                                     "oreResourceTypeName":  "Aphorite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "f8332ddb-07d8-416d-81ee-05acebb54ce2",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Carinite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Carinite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "169ed316-3944-432f-88fa-0a39c5e6d2de",
+                                     "oreResourceTypeName":  "Carinite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "ca77b4fd-2d5a-4981-a59b-009659031dbd",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Carinite (Pure)",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Carinite (Pure)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "60d46a41-5930-4a13-9c72-bd988192d3a1",
+                                     "oreResourceTypeName":  "Carinite (Pure)",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "426dcee4-3bd9-4064-a415-0184b92191e6",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Dolivine",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Dolivine",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "c2a1ab26-6b2a-4258-8bae-b32cf08818bc",
+                                     "oreResourceTypeName":  "Dolivine",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "b67114a3-683b-49be-b6a5-c712e7338901",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Hadanite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Hadanite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "3af2af8d-5850-4900-ac7a-f9b38a959a07",
+                                     "oreResourceTypeName":  "Hadanite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "76cd0067-53dd-47c1-ab20-5d38be542389",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Jaclium (Ore)",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Jaclium (Ore)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "f5b8c10a-521b-40f6-8761-1863e71fb8d4",
+                                     "oreResourceTypeName":  "Jaclium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Janalite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Janalite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "7e324c5c-1b28-400a-ab66-290188ef282c",
+                                     "oreResourceTypeName":  "Janalite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "81165186-bf7e-477c-8623-4ca66887be58",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Sadaryx",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Sadaryx",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "af5ae7e0-467e-44c1-abd1-b5ce8ed63bcf",
+                                     "oreResourceTypeName":  "Sadaryx",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "3c6e53f8-fe56-4000-b673-f90f42396876",
+        "miningContext":  "fps",
+        "rarity":  "unknown",
+        "compositionName":  "Saldynium (Ore)",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Saldynium (Ore)",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "8bb75cd2-f59d-40a5-9077-55089c1626c4",
+                                     "oreResourceTypeName":  "Saldynium (Ore)",
+                                     "resourceTypeGroup":  "Metal",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
+        "miningContext":  "groundvehicle",
+        "rarity":  "unknown",
+        "compositionName":  "Beradom",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Beradom",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "76e7e6e9-6508-47a1-a381-e34ec1c997ce",
+                                     "oreResourceTypeName":  "Beradom",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "4a907bfe-8a0b-4608-b6e5-793ec1ab722d",
+        "miningContext":  "groundvehicle",
+        "rarity":  "unknown",
+        "compositionName":  "Carinite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Carinite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "c793af1c-7dab-457e-a74d-88c435c9708b",
+                                     "oreResourceTypeName":  "Carinite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
+        "miningContext":  "groundvehicle",
+        "rarity":  "unknown",
+        "compositionName":  "Feynmaline",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Feynmaline",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "7e0eaf11-77e6-48c9-a184-f88648e7c148",
+                                     "oreResourceTypeName":  "Feynmaline",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
+        "ref":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
+        "miningContext":  "groundvehicle",
+        "rarity":  "unknown",
+        "compositionName":  "Glacosite",
+        "minimumDistinctElements":  1,
+        "primaryOreResource":  "Glacosite",
+        "secondaryOreResource":  null,
+        "tertiaryOreResource":  null,
+        "compositionParts":  [
+                                 {
+                                     "mineableElementRef":  "7e465c37-1d58-4533-a6e4-13abf1073554",
+                                     "oreResourceTypeName":  "Glacosite",
+                                     "resourceTypeGroup":  "Mineral",
+                                     "minPercentage":  50,
+                                     "maxPercentage":  100,
+                                     "probability":  1,
+                                     "qualityScale":  1
+                                 }
+                             ]
+    },
+    {
         "ref":  "454fd533-5d95-4619-a345-b0379ce94a12",
         "miningContext":  "surface",
         "rarity":  "common",

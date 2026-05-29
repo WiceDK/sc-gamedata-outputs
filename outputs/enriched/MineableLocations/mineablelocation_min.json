@@ -3091,8 +3091,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3101,8 +3101,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3111,8 +3111,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3127,8 +3127,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3213,8 +3213,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3223,8 +3223,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3233,8 +3233,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3249,8 +3249,8 @@
                                             {
                                                 "relativeProbability":  12.5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3319,8 +3319,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3329,8 +3329,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3339,8 +3339,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3355,8 +3355,8 @@
                                             {
                                                 "relativeProbability":  12.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3461,8 +3461,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3471,8 +3471,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3481,8 +3481,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3497,8 +3497,8 @@
                                             {
                                                 "relativeProbability":  8,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3584,8 +3584,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3594,8 +3594,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3604,8 +3604,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3620,8 +3620,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3690,8 +3690,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3700,8 +3700,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3710,8 +3710,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3726,8 +3726,8 @@
                                             {
                                                 "relativeProbability":  7,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3736,8 +3736,8 @@
                                             {
                                                 "relativeProbability":  7,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3806,8 +3806,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3816,8 +3816,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3826,8 +3826,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3842,8 +3842,8 @@
                                             {
                                                 "relativeProbability":  10,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3912,8 +3912,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3922,8 +3922,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -3932,8 +3932,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -3948,8 +3948,8 @@
                                             {
                                                 "relativeProbability":  9,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4028,8 +4028,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4038,8 +4038,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4048,8 +4048,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -4064,8 +4064,8 @@
                                             {
                                                 "relativeProbability":  4,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -4144,8 +4144,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4154,8 +4154,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4164,8 +4164,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -4180,8 +4180,8 @@
                                             {
                                                 "relativeProbability":  7,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4260,8 +4260,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4270,8 +4270,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -4280,8 +4280,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -4296,8 +4296,8 @@
                                             {
                                                 "relativeProbability":  12,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -9412,8 +9412,8 @@
                                             {
                                                 "relativeProbability":  8,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9422,8 +9422,8 @@
                                             {
                                                 "relativeProbability":  4,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9432,8 +9432,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -9448,8 +9448,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9458,8 +9458,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9468,8 +9468,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -9532,22 +9532,22 @@
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.3,
@@ -9578,22 +9578,22 @@
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.5,
@@ -9624,22 +9624,22 @@
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.7,
@@ -9759,8 +9759,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9769,8 +9769,8 @@
                                             {
                                                 "relativeProbability":  4,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9779,8 +9779,8 @@
                                             {
                                                 "relativeProbability":  6.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -9795,8 +9795,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9805,8 +9805,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -9815,8 +9815,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -9833,22 +9833,22 @@
                                                {
                                                    "relativeProbability":  41,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  25,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.4,
@@ -9879,22 +9879,22 @@
                                                {
                                                    "relativeProbability":  43,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  31,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  25,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.5,
@@ -9930,22 +9930,22 @@
                                                {
                                                    "relativeProbability":  42,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  31,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  26,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.7,
@@ -9960,12 +9960,12 @@
                                                {
                                                    "relativeProbability":  1,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Feynmaline"
                                                },
                                                {
                                                    "relativeProbability":  0.9,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Glacosite"
                                                },
                                                {
                                                    "relativeProbability":  0.6,
@@ -10059,8 +10059,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10069,8 +10069,8 @@
                                             {
                                                 "relativeProbability":  4,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10079,8 +10079,8 @@
                                             {
                                                 "relativeProbability":  8,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10095,8 +10095,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10105,8 +10105,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10115,8 +10115,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10195,8 +10195,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10205,8 +10205,8 @@
                                             {
                                                 "relativeProbability":  8,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10215,8 +10215,8 @@
                                             {
                                                 "relativeProbability":  5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10231,8 +10231,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10241,8 +10241,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10251,8 +10251,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10321,8 +10321,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10331,8 +10331,8 @@
                                             {
                                                 "relativeProbability":  9,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10341,8 +10341,8 @@
                                             {
                                                 "relativeProbability":  3.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10357,8 +10357,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10367,8 +10367,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10377,8 +10377,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10457,8 +10457,8 @@
                                             {
                                                 "relativeProbability":  7,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10467,8 +10467,8 @@
                                             {
                                                 "relativeProbability":  4,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10477,8 +10477,8 @@
                                             {
                                                 "relativeProbability":  1.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10493,8 +10493,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10503,8 +10503,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10513,8 +10513,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10599,8 +10599,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10609,8 +10609,8 @@
                                             {
                                                 "relativeProbability":  1.5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10619,8 +10619,8 @@
                                             {
                                                 "relativeProbability":  5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10635,8 +10635,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10645,8 +10645,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10655,8 +10655,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10673,22 +10673,22 @@
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.4,
@@ -10719,22 +10719,22 @@
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.6,
@@ -10765,22 +10765,22 @@
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Aphorite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Hadanite"
                                                },
                                                {
                                                    "relativeProbability":  33,
                                                    "relativeProbabilityDeepest":  null,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Dolivine"
                                                },
                                                {
                                                    "relativeProbability":  0.2,
                                                    "relativeProbabilityDeepest":  0.4,
-                                                   "primaryOreResource":  null
+                                                   "primaryOreResource":  "Janalite"
                                                },
                                                {
                                                    "relativeProbability":  0.8,
@@ -10874,8 +10874,8 @@
                                             {
                                                 "relativeProbability":  3,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10884,8 +10884,8 @@
                                             {
                                                 "relativeProbability":  8.5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10894,8 +10894,8 @@
                                             {
                                                 "relativeProbability":  1,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -10910,8 +10910,8 @@
                                             {
                                                 "relativeProbability":  58.6,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10920,8 +10920,8 @@
                                             {
                                                 "relativeProbability":  35.4,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -10930,8 +10930,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11388,8 +11388,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11398,8 +11398,8 @@
                                             {
                                                 "relativeProbability":  6,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11408,8 +11408,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11424,8 +11424,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11434,8 +11434,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11444,8 +11444,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11524,8 +11524,8 @@
                                             {
                                                 "relativeProbability":  7,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11534,8 +11534,8 @@
                                             {
                                                 "relativeProbability":  5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11544,8 +11544,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11560,8 +11560,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11570,8 +11570,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11580,8 +11580,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11706,8 +11706,8 @@
                                             {
                                                 "relativeProbability":  3.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11716,8 +11716,8 @@
                                             {
                                                 "relativeProbability":  8.5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11726,8 +11726,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11742,8 +11742,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11752,8 +11752,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11762,8 +11762,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11832,8 +11832,8 @@
                                             {
                                                 "relativeProbability":  1.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11842,8 +11842,8 @@
                                             {
                                                 "relativeProbability":  10.5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11852,8 +11852,8 @@
                                             {
                                                 "relativeProbability":  0.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11868,8 +11868,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11878,8 +11878,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11888,8 +11888,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11958,8 +11958,8 @@
                                             {
                                                 "relativeProbability":  2.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11968,8 +11968,8 @@
                                             {
                                                 "relativeProbability":  8.5,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -11978,8 +11978,8 @@
                                             {
                                                 "relativeProbability":  1.5,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -11994,8 +11994,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -12004,8 +12004,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -12014,8 +12014,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -12084,8 +12084,8 @@
                                             {
                                                 "relativeProbability":  1.5,
                                                 "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -12094,8 +12094,8 @@
                                             {
                                                 "relativeProbability":  11,
                                                 "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -12104,8 +12104,8 @@
                                             {
                                                 "relativeProbability":  0,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
@@ -12120,8 +12120,8 @@
                                             {
                                                 "relativeProbability":  61.1,
                                                 "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -12130,8 +12130,8 @@
                                             {
                                                 "relativeProbability":  36.9,
                                                 "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
                                                 "clusteringRarity":  null,
@@ -12140,8 +12140,8 @@
                                             {
                                                 "relativeProbability":  2,
                                                 "compositionRef":  "50e8f768-6367-4139-b4ea-92b48fdfe9bd",
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Janalite",
                                                 "secondaryOreResource":  null,
                                                 "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
                                                 "clusteringRarity":  null,
