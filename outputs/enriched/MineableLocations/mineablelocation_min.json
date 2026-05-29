@@ -1,6 +1,7 @@
 ﻿[
     {
         "ref":  "e9aa8f98-4c87-468f-ae03-10a96d9497e5",
+        "locationRef":  "15be8bc1-cb5b-4a94-ba1c-742baf7c1f0b",
         "system":  "nyx",
         "bodyName":  "nyx_glaciemring",
         "groups":  [
@@ -409,6 +410,7 @@
     },
     {
         "ref":  "230aecd3-2e5b-4d58-a884-bbba59a40cf7",
+        "locationRef":  "db2883b7-5d6e-4eb2-9e00-4f86e8e49447",
         "system":  "nyx",
         "bodyName":  "nyx_keegerbelt",
         "groups":  [
@@ -817,6 +819,7 @@
     },
     {
         "ref":  "a90785e4-5d6c-46f1-9d52-b92d6b65988a",
+        "locationRef":  "5658fbae-e6d2-493d-bfa5-6f23c230f12e",
         "system":  "pyro",
         "bodyName":  "pyro_akirocluster",
         "groups":  [
@@ -1225,6 +1228,7 @@
     },
     {
         "ref":  "25de7854-32f8-47d1-8359-0859ef7bec32",
+        "locationRef":  null,
         "system":  "pyro",
         "bodyName":  "pyro_cool01",
         "groups":  [
@@ -1583,6 +1587,7 @@
     },
     {
         "ref":  "f515ea3a-e855-4236-8401-88e5200ce590",
+        "locationRef":  null,
         "system":  "pyro",
         "bodyName":  "pyro_cool02",
         "groups":  [
@@ -1941,6 +1946,7 @@
     },
     {
         "ref":  "a8040a13-74aa-49b6-a0bd-8988555ee3f0",
+        "locationRef":  null,
         "system":  "pyro",
         "bodyName":  "pyro_deepspaceasteroids",
         "groups":  [
@@ -2329,6 +2335,7 @@
     },
     {
         "ref":  "163a6795-9108-4f92-a6f7-855d66347cc0",
+        "locationRef":  null,
         "system":  "pyro",
         "bodyName":  "pyro_warm01",
         "groups":  [
@@ -2687,6 +2694,7 @@
     },
     {
         "ref":  "ec88d32e-1a90-4cfe-91a2-59bd0f0e7aff",
+        "locationRef":  null,
         "system":  "pyro",
         "bodyName":  "pyro_warm02",
         "groups":  [
@@ -3045,6 +3053,7 @@
     },
     {
         "ref":  "65a11ec0-413e-4353-8254-c0f79423b60c",
+        "locationRef":  "bd473b11-e20d-415f-bac3-e9e8099582b2",
         "system":  "pyro",
         "bodyName":  "pyro1",
         "groups":  [
@@ -3187,6 +3196,7 @@
     },
     {
         "ref":  "6a414290-26f7-4a81-842d-93e33b7bbcbf",
+        "locationRef":  "ee842006-2374-4fe9-939d-8f02ac8cd4f3",
         "system":  "pyro",
         "bodyName":  "pyro2",
         "groups":  [
@@ -3309,6 +3319,7 @@
     },
     {
         "ref":  "1cd39971-0ad6-4b7c-8a65-1f3e588e7b44",
+        "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
         "system":  "pyro",
         "bodyName":  "pyro3",
         "groups":  [
@@ -3425,6 +3436,7 @@
     },
     {
         "ref":  "51d12165-68c1-4d25-a9f6-c183b54a1c30",
+        "locationRef":  "ac826dfb-7142-4a15-bcdd-8e15d337ad1f",
         "system":  "pyro",
         "bodyName":  "pyro4",
         "groups":  [
@@ -3567,6 +3579,7 @@
     },
     {
         "ref":  "e848a12f-8fc9-45a5-aab7-6e5ff6c8b9bc",
+        "locationRef":  "88c11b95-0d17-4d48-ad6f-2bbaad4a472f",
         "system":  "pyro",
         "bodyName":  "pyro5a",
         "groups":  [
@@ -3680,6 +3693,7 @@
     },
     {
         "ref":  "28c74b76-ecd7-4b65-826e-b4da3c73efe2",
+        "locationRef":  "baccdeb5-1960-487e-beab-d7b51f1871d1",
         "system":  "pyro",
         "bodyName":  "pyro5b",
         "groups":  [
@@ -3796,6 +3810,7 @@
     },
     {
         "ref":  "b6b45f86-bd46-4ba3-8f9d-5d855b8cdbf6",
+        "locationRef":  "d8935d2e-1b10-4b50-b188-80e35dd0876a",
         "system":  "pyro",
         "bodyName":  "pyro5c",
         "groups":  [
@@ -3902,6 +3917,7 @@
     },
     {
         "ref":  "1aceb47c-2930-49cc-834c-3d32d57446a3",
+        "locationRef":  "73733370-d920-4056-9326-8c1f8b5a8a04",
         "system":  "pyro",
         "bodyName":  "pyro5d",
         "groups":  [
@@ -4018,6 +4034,7 @@
     },
     {
         "ref":  "6a57f919-ee23-4533-b81d-977519a0d59e",
+        "locationRef":  "5a680a01-11c3-40f9-a200-42832cf8707a",
         "system":  "pyro",
         "bodyName":  "pyro5e",
         "groups":  [
@@ -4134,6 +4151,7 @@
     },
     {
         "ref":  "8ee6dea4-4fe5-435b-a8c3-228709025fd8",
+        "locationRef":  "b5240b3a-ee0e-4c3f-b93c-f7aaadc81b2e",
         "system":  "pyro",
         "bodyName":  "pyro5f",
         "groups":  [
@@ -4250,6 +4268,7 @@
     },
     {
         "ref":  "c48df8ec-ebad-4ce6-ac42-3d2795b36d24",
+        "locationRef":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
         "system":  "pyro",
         "bodyName":  "pyro6",
         "groups":  [
@@ -4386,6 +4405,7 @@
     },
     {
         "ref":  "daea90d5-e1e9-4cd3-94db-346b2dc05b13",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "aaronhalo",
         "groups":  [
@@ -4814,6 +4834,7 @@
     },
     {
         "ref":  "d69da463-ee6d-48fb-89c1-d13aa9954181",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "asteroidcluster_low_yield",
         "groups":  [
@@ -5202,6 +5223,7 @@
     },
     {
         "ref":  "b9cd52f4-fcf9-4c09-95b0-fe584718ad5c",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "asteroidcluster_medium_yield",
         "groups":  [
@@ -5590,6 +5612,7 @@
     },
     {
         "ref":  "3cbd2c0c-de80-4f8e-81e5-54520e2c6acd",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_a",
         "groups":  [
@@ -5958,6 +5981,7 @@
     },
     {
         "ref":  "4debe820-2780-48d2-a4c2-a85b1f1a8118",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_b",
         "groups":  [
@@ -6336,6 +6360,7 @@
     },
     {
         "ref":  "71dad029-1d32-406a-bd76-a66028c06e63",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_c",
         "groups":  [
@@ -6704,6 +6729,7 @@
     },
     {
         "ref":  "8b8f001f-120c-4c4e-ad2e-06508a12d7d9",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_d",
         "groups":  [
@@ -7082,6 +7108,7 @@
     },
     {
         "ref":  "a19adce6-af5b-4f62-b9f6-83360eee7f1e",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_e",
         "groups":  [
@@ -7460,6 +7487,7 @@
     },
     {
         "ref":  "9e0815b7-9b85-4dbc-ae1a-2b948eba38f1",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_f",
         "groups":  [
@@ -7838,6 +7866,7 @@
     },
     {
         "ref":  "f64ae7c9-932c-46c7-9b72-de48139030aa",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_g",
         "groups":  [
@@ -8206,6 +8235,7 @@
     },
     {
         "ref":  "48ef0bf3-9d42-48ba-8798-198852090ef2",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "lagrange_occupied",
         "groups":  [
@@ -8624,6 +8654,7 @@
     },
     {
         "ref":  "e9d9e8f5-12ef-4749-b365-f6d9bf8c3101",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "resourcerush_gold",
         "groups":  [
@@ -8648,6 +8679,7 @@
     },
     {
         "ref":  "da2c9d82-3f29-4779-a4b2-68ffd1c80d16",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "resourcerush_gold_highdensity",
         "groups":  [
@@ -8672,6 +8704,7 @@
     },
     {
         "ref":  "adbddd5e-c6fb-49bd-bd93-750cb54efd08",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "shipgraveyard_001",
         "groups":  [
@@ -9004,6 +9037,7 @@
     },
     {
         "ref":  "088cd938-b161-4dd3-a5be-616d7b16b28e",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "spacederelict_general",
         "groups":  [
@@ -9336,6 +9370,7 @@
     },
     {
         "ref":  "449763d3-5ba2-4a97-873d-cedf802b9aea",
+        "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
         "system":  "stanton",
         "bodyName":  "stanton1",
         "groups":  [
@@ -9667,6 +9702,7 @@
     },
     {
         "ref":  "1f712a22-c9d5-438e-8605-fac7651e30fc",
+        "locationRef":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
         "system":  "stanton",
         "bodyName":  "stanton1a",
         "groups":  [
@@ -9778,6 +9814,143 @@
                                             },
                                             {
                                                 "relativeProbability":  6.5,
+                                                "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Feynmaline",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            }
+                                        ]
+                       },
+                       {
+                           "groupName":  "FPS_Mineables",
+                           "groupProbability":  25,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  58.6,
+                                                "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Aphorite",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  35.4,
+                                                "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Dolivine",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  6,
+                                                "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Hadanite",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            }
+                                        ]
+                       }
+                   ],
+        "caveTiers":  null
+    },
+    {
+        "ref":  "8f6fb27e-e373-4eaa-991b-7c55303f4bbc",
+        "locationRef":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+        "system":  "stanton",
+        "bodyName":  "stanton1b",
+        "groups":  [
+                       {
+                           "groupName":  "SpaceShip_Mineables",
+                           "groupProbability":  6,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  29.7,
+                                                "compositionRef":  "454fd533-5d95-4619-a345-b0379ce94a12",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Aluminum (Ore)",
+                                                "secondaryOreResource":  "Corundum (Raw)",
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            },
+                                            {
+                                                "relativeProbability":  28.5,
+                                                "compositionRef":  "20724d8d-ab6e-4a69-8837-ebd850e2cfab",
+                                                "compositionRarity":  "uncommon",
+                                                "primaryOreResource":  "Titanium (Ore)",
+                                                "secondaryOreResource":  "Agricium (Ore)",
+                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
+                                                "clusteringRarity":  "uncommon",
+                                                "expectedClusterSize":  3.5
+                                            },
+                                            {
+                                                "relativeProbability":  10,
+                                                "compositionRef":  "9f6c0f45-2b55-4c5c-90d0-8f14b09a3149",
+                                                "compositionRarity":  "epic",
+                                                "primaryOreResource":  "Raw Ouratite",
+                                                "secondaryOreResource":  "Agricium (Ore)",
+                                                "clusteringRef":  "b097c899-4a14-4092-8d07-75c1cf9d05c2",
+                                                "clusteringRarity":  "epic",
+                                                "expectedClusterSize":  2.25
+                                            },
+                                            {
+                                                "relativeProbability":  2,
+                                                "compositionRef":  "f08cf919-8503-430e-9fe6-06e44f0fae31",
+                                                "compositionRarity":  "legendary",
+                                                "primaryOreResource":  "Quantainium (Raw)",
+                                                "secondaryOreResource":  "Beryl (Raw)",
+                                                "clusteringRef":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
+                                                "clusteringRarity":  "legendary",
+                                                "expectedClusterSize":  2
+                                            },
+                                            {
+                                                "relativeProbability":  29.8,
+                                                "compositionRef":  "0d5911b5-0eb3-47c4-a56f-89e4b1e82c1a",
+                                                "compositionRarity":  "common",
+                                                "primaryOreResource":  "Corundum (Raw)",
+                                                "secondaryOreResource":  "Aluminum (Ore)",
+                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
+                                                "clusteringRarity":  "common",
+                                                "expectedClusterSize":  4.5
+                                            }
+                                        ]
+                       },
+                       {
+                           "groupName":  "GroundVehicle_Mineables",
+                           "groupProbability":  12.5,
+                           "elements":  [
+                                            {
+                                                "relativeProbability":  0.5,
+                                                "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Beradom",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  4,
+                                                "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
+                                                "compositionRarity":  "unknown",
+                                                "primaryOreResource":  "Glacosite",
+                                                "secondaryOreResource":  null,
+                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
+                                                "clusteringRarity":  null,
+                                                "expectedClusterSize":  null
+                                            },
+                                            {
+                                                "relativeProbability":  8,
                                                 "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
                                                 "compositionRarity":  "unknown",
                                                 "primaryOreResource":  "Feynmaline",
@@ -9992,143 +10165,8 @@
                       ]
     },
     {
-        "ref":  "8f6fb27e-e373-4eaa-991b-7c55303f4bbc",
-        "system":  "stanton",
-        "bodyName":  "stanton1b",
-        "groups":  [
-                       {
-                           "groupName":  "SpaceShip_Mineables",
-                           "groupProbability":  6,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  29.7,
-                                                "compositionRef":  "454fd533-5d95-4619-a345-b0379ce94a12",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Aluminum (Ore)",
-                                                "secondaryOreResource":  "Corundum (Raw)",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            },
-                                            {
-                                                "relativeProbability":  28.5,
-                                                "compositionRef":  "20724d8d-ab6e-4a69-8837-ebd850e2cfab",
-                                                "compositionRarity":  "uncommon",
-                                                "primaryOreResource":  "Titanium (Ore)",
-                                                "secondaryOreResource":  "Agricium (Ore)",
-                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
-                                                "clusteringRarity":  "uncommon",
-                                                "expectedClusterSize":  3.5
-                                            },
-                                            {
-                                                "relativeProbability":  10,
-                                                "compositionRef":  "9f6c0f45-2b55-4c5c-90d0-8f14b09a3149",
-                                                "compositionRarity":  "epic",
-                                                "primaryOreResource":  "Raw Ouratite",
-                                                "secondaryOreResource":  "Agricium (Ore)",
-                                                "clusteringRef":  "b097c899-4a14-4092-8d07-75c1cf9d05c2",
-                                                "clusteringRarity":  "epic",
-                                                "expectedClusterSize":  2.25
-                                            },
-                                            {
-                                                "relativeProbability":  2,
-                                                "compositionRef":  "f08cf919-8503-430e-9fe6-06e44f0fae31",
-                                                "compositionRarity":  "legendary",
-                                                "primaryOreResource":  "Quantainium (Raw)",
-                                                "secondaryOreResource":  "Beryl (Raw)",
-                                                "clusteringRef":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
-                                                "clusteringRarity":  "legendary",
-                                                "expectedClusterSize":  2
-                                            },
-                                            {
-                                                "relativeProbability":  29.8,
-                                                "compositionRef":  "0d5911b5-0eb3-47c4-a56f-89e4b1e82c1a",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Corundum (Raw)",
-                                                "secondaryOreResource":  "Aluminum (Ore)",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "GroundVehicle_Mineables",
-                           "groupProbability":  12.5,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  0.5,
-                                                "compositionRef":  "3c8b57fb-77d7-467d-b72e-7a2889554899",
-                                                "compositionRarity":  "unknown",
-                                                "primaryOreResource":  "Beradom",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  4,
-                                                "compositionRef":  "841a9a3e-cce6-4144-b22c-b0445579fa47",
-                                                "compositionRarity":  "unknown",
-                                                "primaryOreResource":  "Glacosite",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  8,
-                                                "compositionRef":  "27ca5eac-b98f-4eb0-ab50-82e81490c7ab",
-                                                "compositionRarity":  "unknown",
-                                                "primaryOreResource":  "Feynmaline",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "FPS_Mineables",
-                           "groupProbability":  25,
-                           "elements":  [
-                                            {
-                                                "relativeProbability":  58.6,
-                                                "compositionRef":  "cd0d31e5-4858-4ad5-824f-9b58936120ef",
-                                                "compositionRarity":  "unknown",
-                                                "primaryOreResource":  "Aphorite",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  35.4,
-                                                "compositionRef":  "426dcee4-3bd9-4064-a415-0184b92191e6",
-                                                "compositionRarity":  "unknown",
-                                                "primaryOreResource":  "Dolivine",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "4ffceda3-639a-4c1f-9e24-cf4df9af1253",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            },
-                                            {
-                                                "relativeProbability":  6,
-                                                "compositionRef":  "b67114a3-683b-49be-b6a5-c712e7338901",
-                                                "compositionRarity":  "unknown",
-                                                "primaryOreResource":  "Hadanite",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRef":  "d3bc17e2-7a06-450a-82a0-1c5774329054",
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null
-                                            }
-                                        ]
-                       }
-                   ],
-        "caveTiers":  null
-    },
-    {
         "ref":  "5cef402e-105d-4ed7-8989-16cc726619a7",
+        "locationRef":  "6f22b292-38d6-4429-b504-99b39514a2f8",
         "system":  "stanton",
         "bodyName":  "stanton1c",
         "groups":  [
@@ -10265,6 +10303,7 @@
     },
     {
         "ref":  "3b19e5db-9780-47a2-b95c-80c88d90836d",
+        "locationRef":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
         "system":  "stanton",
         "bodyName":  "stanton1d",
         "groups":  [
@@ -10391,6 +10430,7 @@
     },
     {
         "ref":  "01307748-ddb7-426f-bfec-e722b869df98",
+        "locationRef":  "b41a1bc9-5bca-489b-8273-de90f18ec60d",
         "system":  "stanton",
         "bodyName":  "stanton2a",
         "groups":  [
@@ -10527,6 +10567,7 @@
     },
     {
         "ref":  "bbf69b47-bffd-48b7-b42e-3f092a4ee9f1",
+        "locationRef":  "e658b2b1-fae7-4945-89b8-b332f235d59b",
         "system":  "stanton",
         "bodyName":  "stanton2b",
         "groups":  [
@@ -10808,6 +10849,7 @@
     },
     {
         "ref":  "ab7bbad9-e58e-46ed-ad69-653934315ec2",
+        "locationRef":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
         "system":  "stanton",
         "bodyName":  "stanton2c",
         "groups":  [
@@ -10944,6 +10986,7 @@
     },
     {
         "ref":  "67d7df21-dd57-436f-97ae-2b7f72271950",
+        "locationRef":  null,
         "system":  "stanton",
         "bodyName":  "stanton2c_belt",
         "groups":  [
@@ -11332,6 +11375,7 @@
     },
     {
         "ref":  "be19bee9-6409-4bd9-b663-41be52cda6cb",
+        "locationRef":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
         "system":  "stanton",
         "bodyName":  "stanton3a",
         "groups":  [
@@ -11458,6 +11502,7 @@
     },
     {
         "ref":  "06278151-3593-4382-bd34-17172ff5467b",
+        "locationRef":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
         "system":  "stanton",
         "bodyName":  "stanton3b",
         "groups":  [
@@ -11594,6 +11639,7 @@
     },
     {
         "ref":  "2bdb874e-3ac2-4fe4-b952-21240f53bf47",
+        "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
         "system":  "stanton",
         "bodyName":  "stanton4",
         "groups":  [
@@ -11776,6 +11822,7 @@
     },
     {
         "ref":  "923d7729-b841-462f-943b-106e8b3d2a97",
+        "locationRef":  "3304263b-f133-41f8-85e7-79693e5bb2de",
         "system":  "stanton",
         "bodyName":  "stanton4a",
         "groups":  [
@@ -11902,6 +11949,7 @@
     },
     {
         "ref":  "703a18ca-7f7c-4489-a64a-cd0cd359b8fe",
+        "locationRef":  "2a21d86f-ebf0-4052-a134-c414c9998592",
         "system":  "stanton",
         "bodyName":  "stanton4b",
         "groups":  [
@@ -12028,6 +12076,7 @@
     },
     {
         "ref":  "dbcc732a-3497-4de4-a253-b1275c79989d",
+        "locationRef":  "732dedf3-9530-4972-98ab-2fcae64669db",
         "system":  "stanton",
         "bodyName":  "stanton4c",
         "groups":  [
