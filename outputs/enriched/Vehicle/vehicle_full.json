@@ -68028,6 +68028,182 @@
                                "defaultComponentManufacturer":  null
                            },
                            {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 03",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 04",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_5",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 05",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_6",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 06",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_7",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 07",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_8",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 08",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
                                "name":  "hardpoint_thruster_rear_vtol_left",
                                "displayName":  "Rear Left VTOL Engine",
                                "displayNameToken":  "port_NameThrusterVTOLRearLeft",
@@ -69203,6 +69379,182 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 03",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 04",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_5",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 05",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_6",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 06",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_7",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 07",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_8",
+                               "displayName":  "Argo Ore Pod",
+                               "displayNameToken":  "Cargo Pod 08",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Mole",
+                               "defaultComponentDisplayName":  "Argo Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Argo Astronautics"
                            },
                            {
                                "name":  "hardpoint_thruster_rear_vtol_left",
@@ -78626,6 +78978,28 @@
                                "defaultComponentManufacturer":  "Consolidated Outland"
                            },
                            {
+                               "name":  "hardpoint_cargo_module",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  4,
+                               "maxSize":  4,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "3ddc7e07-ae82-4b32-85c2-f09868177522",
+                               "defaultComponentCodeName":  "CNOU_Mustang_Cargo_Rack",
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  4,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Consolidated Outland"
+                           },
+                           {
                                "name":  "hardpoint_power_plant",
                                "displayName":  "Power Plant 1",
                                "displayNameToken":  "port_NamePowerplant01",
@@ -79534,6 +79908,28 @@
                                "defaultComponentType":  "ManneuverThruster",
                                "defaultComponentSubType":  "FixedThruster",
                                "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Consolidated Outland"
+                           },
+                           {
+                               "name":  "hardpoint_cargo_module",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  4,
+                               "maxSize":  4,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "584ab2f9-7ae4-48ff-90e3-f5a95f8b63e9",
+                               "defaultComponentCodeName":  "CNOU_Mustang_Beta_Cover_Back",
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  4,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Consolidated Outland"
                            },
@@ -80450,6 +80846,28 @@
                                "defaultComponentManufacturer":  "Consolidated Outland"
                            },
                            {
+                               "name":  "hardpoint_cargo_module",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  4,
+                               "maxSize":  4,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "3ddc7e07-ae82-4b32-85c2-f09868177522",
+                               "defaultComponentCodeName":  "CNOU_Mustang_Cargo_Rack",
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  4,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Consolidated Outland"
+                           },
+                           {
                                "name":  "hardpoint_power_plant",
                                "displayName":  "Power Plant 1",
                                "displayNameToken":  "port_NamePowerplant01",
@@ -81358,6 +81776,28 @@
                                "defaultComponentType":  "ManneuverThruster",
                                "defaultComponentSubType":  "FixedThruster",
                                "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Consolidated Outland"
+                           },
+                           {
+                               "name":  "hardpoint_cargo_module",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  4,
+                               "maxSize":  4,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "584ab2f9-7ae4-48ff-90e3-f5a95f8b63e9",
+                               "defaultComponentCodeName":  "CNOU_Mustang_Beta_Cover_Back",
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  4,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Consolidated Outland"
                            },
@@ -82274,6 +82714,28 @@
                                "defaultComponentManufacturer":  "Consolidated Outland"
                            },
                            {
+                               "name":  "hardpoint_cargo_module",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  4,
+                               "maxSize":  4,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "1ca4b132-5bca-41aa-ab95-4239bcfd0f3c",
+                               "defaultComponentCodeName":  "CNOU_Mustang_Gamma_Cover_Back",
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  4,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Consolidated Outland"
+                           },
+                           {
                                "name":  "hardpoint_power_plant",
                                "displayName":  "Power Plant 1",
                                "displayNameToken":  "port_NamePowerplant01",
@@ -83182,6 +83644,28 @@
                                "defaultComponentType":  "ManneuverThruster",
                                "defaultComponentSubType":  "FixedThruster",
                                "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Consolidated Outland"
+                           },
+                           {
+                               "name":  "hardpoint_cargo_module",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  4,
+                               "maxSize":  4,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "1ca4b132-5bca-41aa-ab95-4239bcfd0f3c",
+                               "defaultComponentCodeName":  "CNOU_Mustang_Gamma_Cover_Back",
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  4,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Consolidated Outland"
                            },
@@ -124027,6 +124511,28 @@
                                "defaultComponentManufacturer":  null
                            },
                            {
+                               "name":  "hardpoint_cargo_rear",
+                               "displayName":  "Drake Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Golem",
+                               "defaultComponentDisplayName":  "Drake Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Drake Interplanetary"
+                           },
+                           {
                                "name":  "hardpoint_fuel_intake",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -124345,6 +124851,28 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null
+                           },
+                           {
+                               "name":  "hardpoint_cargo_front",
+                               "displayName":  "Drake Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Golem",
+                               "defaultComponentDisplayName":  "Drake Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Drake Interplanetary"
                            }
                        ]
     },
@@ -125817,6 +126345,28 @@
                                "defaultComponentManufacturer":  null
                            },
                            {
+                               "name":  "hardpoint_cargo_rear",
+                               "displayName":  "Drake Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Golem",
+                               "defaultComponentDisplayName":  "Drake Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Drake Interplanetary"
+                           },
+                           {
                                "name":  "hardpoint_fuel_intake",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -126135,6 +126685,28 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null
+                           },
+                           {
+                               "name":  "hardpoint_cargo_front",
+                               "displayName":  "Drake Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Golem",
+                               "defaultComponentDisplayName":  "Drake Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Drake Interplanetary"
                            }
                        ]
     },
@@ -126713,6 +127285,28 @@
                                "defaultComponentManufacturer":  null
                            },
                            {
+                               "name":  "hardpoint_cargo_rear",
+                               "displayName":  "Drake Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Golem",
+                               "defaultComponentDisplayName":  "Drake Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Drake Interplanetary"
+                           },
+                           {
                                "name":  "hardpoint_fuel_intake",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -127031,6 +127625,28 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null
+                           },
+                           {
+                               "name":  "hardpoint_cargo_front",
+                               "displayName":  "Drake Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Golem",
+                               "defaultComponentDisplayName":  "Drake Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Drake Interplanetary"
                            }
                        ]
     },
@@ -141465,6 +142081,28 @@
                                "defaultComponentManufacturer":  "Juno Starwerk"
                            },
                            {
+                               "name":  "hardpoint_cargogrid_main",
+                               "displayName":  "Greycat ROC Ore Pod",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "eb6fc98d-83c6-4633-bcc4-bfc7a3c91cfe",
+                               "defaultComponentCodeName":  "Cargo_GroundVehicleMining_Pod_ROC",
+                               "defaultComponentDisplayName":  "Greycat ROC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Greycat Industrial"
+                           },
+                           {
                                "name":  "hardpoint_scanner",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -141690,6 +142328,28 @@
                                "tractorBeams":  null
                            },
         "hardpoints":  [
+                           {
+                               "name":  "hardpoint_cargogrid_main",
+                               "displayName":  "Greycat ROC-DS Ore Pod",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e8265869-5ca5-4cbc-8821-7fe0742b2c48",
+                               "defaultComponentCodeName":  "Cargo_GroundVehicleMining_Pod_ROC_DS",
+                               "defaultComponentDisplayName":  "Greycat ROC-DS Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Greycat Industrial"
+                           },
                            {
                                "name":  "hardpoint_power_plant_left",
                                "displayName":  "Power Plant 2",
@@ -178517,6 +179177,94 @@
                                "defaultComponentManufacturer":  "Flashfire Systems"
                            },
                            {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 03",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 04",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
                                "name":  "hardpoint_thruster_retro_top",
                                "displayName":  "Thruster Retro",
                                "displayNameToken":  "port_NameThrusterRetro",
@@ -179382,6 +180130,94 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Flashfire Systems"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 01",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 02",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 03",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "MISC Ore Pod",
+                               "displayNameToken":  "Cargo Pod 04",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "Container",
+                                                 "subTypes":  "Cargo"
+                                             }
+                                         ],
+                               "defaultComponentRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+                               "defaultComponentCodeName":  "Cargo_ShipMining_Pod_Prospector",
+                               "defaultComponentDisplayName":  "MISC Ore Pod",
+                               "defaultComponentType":  "Container",
+                               "defaultComponentSubType":  "Cargo",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  "Musashi Industrial & Starflight Concern"
                            },
                            {
                                "name":  "hardpoint_thruster_retro_top",

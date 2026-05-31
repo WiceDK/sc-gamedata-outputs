@@ -9819,6 +9819,86 @@
                                "defaultComponent":  "5CA 'Akura'"
                            },
                            {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_5",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_6",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_7",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_8",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
                                "name":  "hardpoint_battery",
                                "displayName":  null,
                                "minSize":  2,
@@ -9955,6 +10035,86 @@
                                              "Shield"
                                          ],
                                "defaultComponent":  "5CA 'Akura'"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_5",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_6",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_7",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_8",
+                               "displayName":  "Argo Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Argo Ore Pod"
                            },
                            {
                                "name":  "hardpoint_battery",
@@ -16133,6 +16293,16 @@
                                "defaultComponent":  "Bulwark"
                            },
                            {
+                               "name":  "hardpoint_cargo_rear",
+                               "displayName":  "Drake Ore Pod",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Drake Ore Pod"
+                           },
+                           {
                                "name":  "hardpoint_missile_left",
                                "displayName":  "Missile Rack - Left",
                                "minSize":  1,
@@ -16173,6 +16343,16 @@
                                              "WeaponGun"
                                          ],
                                "defaultComponent":  "VariPuck S1 Gimbal Mount"
+                           },
+                           {
+                               "name":  "hardpoint_cargo_front",
+                               "displayName":  "Drake Ore Pod",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Drake Ore Pod"
                            },
                            {
                                "name":  "hardpoint_mining_laser",
@@ -16379,6 +16559,16 @@
                                "defaultComponent":  "Guardian"
                            },
                            {
+                               "name":  "hardpoint_cargo_rear",
+                               "displayName":  "Drake Ore Pod",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Drake Ore Pod"
+                           },
+                           {
                                "name":  "hardpoint_missile_left",
                                "displayName":  "Missile Rack - Left",
                                "minSize":  1,
@@ -16419,6 +16609,16 @@
                                              "WeaponGun"
                                          ],
                                "defaultComponent":  "VariPuck S1 Gimbal Mount"
+                           },
+                           {
+                               "name":  "hardpoint_cargo_front",
+                               "displayName":  "Drake Ore Pod",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Drake Ore Pod"
                            },
                            {
                                "name":  "hardpoint_mining_laser",
@@ -16507,6 +16707,16 @@
                                "defaultComponent":  "Bulwark"
                            },
                            {
+                               "name":  "hardpoint_cargo_rear",
+                               "displayName":  "Drake Ore Pod",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Drake Ore Pod"
+                           },
+                           {
                                "name":  "hardpoint_missile_left",
                                "displayName":  "Missile Rack - Left",
                                "minSize":  1,
@@ -16547,6 +16757,16 @@
                                              "WeaponGun"
                                          ],
                                "defaultComponent":  "VariPuck S1 Gimbal Mount"
+                           },
+                           {
+                               "name":  "hardpoint_cargo_front",
+                               "displayName":  "Drake Ore Pod",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Drake Ore Pod"
                            },
                            {
                                "name":  "hardpoint_mining_laser",
@@ -18552,6 +18772,16 @@
                                "defaultComponent":  "Steadfast"
                            },
                            {
+                               "name":  "hardpoint_cargogrid_main",
+                               "displayName":  "Greycat ROC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Greycat ROC Ore Pod"
+                           },
+                           {
                                "name":  "hardpoint_radar",
                                "displayName":  "Radar",
                                "minSize":  0,
@@ -18607,6 +18837,16 @@
         "cargoSCU":  null,
         "resourceCapacitySCU":  3,
         "hardpoints":  [
+                           {
+                               "name":  "hardpoint_cargogrid_main",
+                               "displayName":  "Greycat ROC-DS Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "Greycat ROC-DS Ore Pod"
+                           },
                            {
                                "name":  "hardpoint_power_plant_left",
                                "displayName":  "Power Plant 2",
@@ -22595,6 +22835,46 @@
                                "defaultComponent":  "VariPuck S1 Gimbal Mount"
                            },
                            {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
                                "name":  "hardpoint_power_plant",
                                "displayName":  "Power Plant 1",
                                "minSize":  2,
@@ -22701,6 +22981,46 @@
                                              "WeaponGun"
                                          ],
                                "defaultComponent":  "VariPuck S1 Gimbal Mount"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_1",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_2",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_3",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
+                           },
+                           {
+                               "name":  "hardpoint_mining_pod_4",
+                               "displayName":  "MISC Ore Pod",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "types":  [
+                                             "Container"
+                                         ],
+                               "defaultComponent":  "MISC Ore Pod"
                            },
                            {
                                "name":  "hardpoint_power_plant",
