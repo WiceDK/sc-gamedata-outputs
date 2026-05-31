@@ -21,6 +21,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_class2_nose",
@@ -171,6 +172,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  8,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_class2_nose",
@@ -321,6 +323,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  8,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_class2_nose",
@@ -471,6 +474,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_class2_nose",
@@ -621,6 +625,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -738,6 +743,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_missilerack_left_wing_outer",
@@ -910,6 +916,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_missilerack_left_wing_outer",
@@ -1082,6 +1089,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_missilerack_left_wing_outer",
@@ -1254,6 +1262,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_missilerack_left_wing_outer",
@@ -1426,6 +1435,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant_l",
@@ -1611,6 +1621,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant_l",
@@ -1796,6 +1807,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  1326,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_front_turret",
@@ -1852,6 +1864,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  1374,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_front_turret",
@@ -1908,6 +1921,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  1374,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_front_turret",
@@ -1964,6 +1978,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  420,
+        "resourceCapacitySCU":  240,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_01",
@@ -2049,6 +2064,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  420,
+        "resourceCapacitySCU":  240,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_01",
@@ -2134,6 +2150,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  420,
+        "resourceCapacitySCU":  240,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_01",
@@ -2219,6 +2236,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  2,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -2336,6 +2354,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -2481,6 +2500,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_nose",
@@ -2650,6 +2670,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_nose",
@@ -2819,6 +2840,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_B",
@@ -2946,6 +2968,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_B",
@@ -3073,6 +3096,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_B",
@@ -3178,6 +3202,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_B",
@@ -3283,6 +3308,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_wing",
@@ -3427,9 +3453,10 @@
         "mass":  null,
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
-        "isQuantumCapable":  false,
+        "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -3456,6 +3483,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_nose",
@@ -3572,6 +3600,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_nose",
@@ -3688,6 +3717,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_nose",
@@ -3804,6 +3834,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_nose",
@@ -3920,6 +3951,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -4069,6 +4101,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  180,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -4204,6 +4237,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  180,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -4339,6 +4373,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -4414,6 +4449,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -4489,6 +4525,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -4564,6 +4601,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  4,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_right",
@@ -4705,6 +4743,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_right",
@@ -4846,6 +4885,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  4,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_right",
@@ -4987,6 +5027,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  456,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_l",
@@ -5092,6 +5133,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  456,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_l",
@@ -5197,6 +5239,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -5302,6 +5345,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -5428,6 +5472,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_4_center",
@@ -5589,6 +5634,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -5738,6 +5784,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_3_left_bay_door",
@@ -5897,6 +5944,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -6046,6 +6094,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_3_left_bay_door",
@@ -6205,6 +6254,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_3_left_bay_door",
@@ -6364,6 +6414,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -6490,6 +6541,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_3_left_bay_door",
@@ -6649,6 +6701,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -6775,6 +6828,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_3_left_bay_door",
@@ -6934,6 +6988,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -7083,6 +7138,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_class_3_left_bay_door",
@@ -7242,6 +7298,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_center",
@@ -7391,6 +7448,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_wing_outer",
@@ -7563,6 +7621,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_wing_outer",
@@ -7735,6 +7794,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_wing_outer",
@@ -7907,6 +7967,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_wing_outer",
@@ -8079,6 +8140,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left_wing_outer",
@@ -8251,6 +8313,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -8402,6 +8465,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_right",
@@ -8563,6 +8627,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -8710,6 +8775,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  4,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_missile_rack_3",
@@ -8795,6 +8861,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -8870,6 +8937,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -8975,6 +9043,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -9080,6 +9149,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -9185,6 +9255,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  90,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant_right",
@@ -9290,6 +9361,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  90,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant_right",
@@ -9390,11 +9462,12 @@
                      "z":  8.75
                  },
         "mass":  null,
-        "fuelHydrogen":  null,
-        "fuelQuantum":  null,
-        "isQuantumCapable":  false,
+        "fuelHydrogen":  26,
+        "fuelQuantum":  1.1,
+        "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9416,11 +9489,12 @@
                      "z":  5.15
                  },
         "mass":  null,
-        "fuelHydrogen":  null,
+        "fuelHydrogen":  1.5,
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9442,11 +9516,12 @@
                      "z":  5.15
                  },
         "mass":  null,
-        "fuelHydrogen":  null,
+        "fuelHydrogen":  1.5,
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9468,11 +9543,12 @@
                      "z":  5.15
                  },
         "mass":  null,
-        "fuelHydrogen":  null,
+        "fuelHydrogen":  1.5,
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9496,9 +9572,10 @@
         "mass":  null,
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
-        "isQuantumCapable":  false,
+        "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9521,6 +9598,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9543,6 +9621,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9565,6 +9644,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9587,6 +9667,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9609,6 +9690,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9635,6 +9717,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -9659,8 +9742,9 @@
         "fuelHydrogen":  200,
         "fuelQuantum":  2.6,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  96,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -9796,8 +9880,9 @@
         "fuelHydrogen":  200,
         "fuelQuantum":  2.6,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  96,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -9933,8 +10018,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  64,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -10072,6 +10158,7 @@
         "isQuantumCapable":  false,
         "isCargo":  true,
         "cargoSCU":  2,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -10147,6 +10234,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -10222,6 +10310,7 @@
         "isQuantumCapable":  false,
         "isCargo":  true,
         "cargoSCU":  16,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -10317,6 +10406,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  192,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_2",
@@ -10444,6 +10534,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  192,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_2",
@@ -10571,6 +10662,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -10652,6 +10744,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -10674,6 +10767,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -10696,6 +10790,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -10722,6 +10817,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_nose_right",
@@ -10883,6 +10979,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -10938,6 +11035,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -11055,6 +11153,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -11172,6 +11271,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -11289,6 +11389,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -11406,6 +11507,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -11523,6 +11625,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -11640,6 +11743,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_bottom",
@@ -11778,6 +11882,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_bottom",
@@ -11916,6 +12021,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -12033,6 +12139,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  216,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_l",
@@ -12160,6 +12267,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  216,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_l",
@@ -12287,6 +12395,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_03",
@@ -12422,6 +12531,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_03",
@@ -12557,6 +12667,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_03",
@@ -12692,6 +12803,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_03",
@@ -12827,6 +12939,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  64,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -12944,6 +13057,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  696,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_l",
@@ -13071,6 +13185,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -13156,6 +13271,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -13241,6 +13357,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  522,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_l",
@@ -13368,6 +13485,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  114,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar_pilot",
@@ -13507,6 +13625,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_Left_Wing_S03",
@@ -13669,6 +13788,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  576,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_right",
@@ -13796,6 +13916,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  576,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_right",
@@ -13923,6 +14044,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  576,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_right",
@@ -14050,6 +14172,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  12,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -14277,6 +14400,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  72,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -14478,6 +14602,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  46,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_Left_Body_Weapon",
@@ -14667,6 +14792,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  46,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_Left_Body_Weapon",
@@ -14856,6 +14982,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  12,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_Right_Wing_Weapon",
@@ -15045,6 +15172,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  12,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_Right_Wing_Weapon",
@@ -15174,6 +15302,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_Left_Body_Weapon",
@@ -15363,6 +15492,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  4,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -15480,6 +15610,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  2,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -15597,6 +15728,7 @@
         "isQuantumCapable":  false,
         "isCargo":  true,
         "cargoSCU":  2,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -15714,6 +15846,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -15791,6 +15924,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -15868,6 +16002,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -15943,8 +16078,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  32,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -16072,6 +16208,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  64,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -16187,8 +16324,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  32,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -16314,8 +16452,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  32,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -16443,6 +16582,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -16568,9 +16708,10 @@
         "mass":  null,
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
-        "isQuantumCapable":  false,
-        "isCargo":  false,
-        "cargoSCU":  null,
+        "isQuantumCapable":  true,
+        "isCargo":  true,
+        "cargoSCU":  2200,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -16594,9 +16735,10 @@
         "mass":  null,
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
-        "isQuantumCapable":  false,
-        "isCargo":  false,
-        "cargoSCU":  null,
+        "isQuantumCapable":  true,
+        "isCargo":  true,
+        "cargoSCU":  1440,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -16623,6 +16765,7 @@
         "isQuantumCapable":  false,
         "isCargo":  true,
         "cargoSCU":  1,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -16678,6 +16821,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -16704,6 +16848,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  12,
+        "resourceCapacitySCU":  13,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_nose_left",
@@ -16851,6 +16996,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  12,
+        "resourceCapacitySCU":  13,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_nose_left",
@@ -16998,6 +17144,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -17093,6 +17240,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant_left",
@@ -17188,6 +17336,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -17325,6 +17474,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -17472,6 +17622,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -17619,6 +17770,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -17800,6 +17952,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_right",
@@ -17939,6 +18092,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_right",
@@ -18078,6 +18232,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_bottom",
@@ -18196,6 +18351,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -18261,6 +18417,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -18326,6 +18483,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -18369,8 +18527,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  1,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant_right",
@@ -18444,8 +18603,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  3,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant_left",
@@ -18521,6 +18681,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -18574,8 +18735,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
-        "isCargo":  false,
-        "cargoSCU":  null,
+        "isCargo":  true,
+        "cargoSCU":  1,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -18602,6 +18764,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  32,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -18769,6 +18932,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  576,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_right",
@@ -18896,6 +19060,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_battery",
@@ -19001,6 +19166,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_battery",
@@ -19106,6 +19272,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_battery",
@@ -19211,6 +19378,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -19316,6 +19484,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -19421,6 +19590,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -19496,6 +19666,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -19571,6 +19742,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -19646,6 +19818,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -19765,6 +19938,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -19840,6 +20014,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -19959,6 +20134,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -20044,6 +20220,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_01",
@@ -20183,6 +20360,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_01",
@@ -20322,6 +20500,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -20407,6 +20586,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant",
@@ -20492,6 +20672,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -20547,6 +20728,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -20602,6 +20784,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -20657,6 +20840,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -20784,6 +20968,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -20911,6 +21096,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant",
@@ -21036,8 +21222,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  1.8,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  13,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -21163,8 +21350,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  1.8,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  13,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -21290,8 +21478,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  1.8,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  13,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -21419,6 +21608,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  66,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -21576,6 +21766,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  36,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -21733,6 +21924,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  120,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -21890,6 +22082,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  36,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -22046,7 +22239,8 @@
         "fuelQuantum":  null,
         "isQuantumCapable":  true,
         "isCargo":  true,
-        "cargoSCU":  16,
+        "cargoSCU":  64,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_1",
@@ -22122,6 +22316,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  512,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -22288,7 +22483,8 @@
         "fuelQuantum":  null,
         "isQuantumCapable":  false,
         "isCargo":  true,
-        "cargoSCU":  576,
+        "cargoSCU":  4608,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator01",
@@ -22332,8 +22528,9 @@
         "fuelHydrogen":  21,
         "fuelQuantum":  1.8,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  32,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -22439,8 +22636,9 @@
         "fuelHydrogen":  21,
         "fuelQuantum":  1.8,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  32,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -22548,6 +22746,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  6,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -22707,6 +22906,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -22866,6 +23066,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -23025,6 +23226,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  1,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -23184,6 +23386,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  291,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_fuel_intake",
@@ -23280,6 +23483,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  291,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_fuel_intake",
@@ -23376,6 +23580,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  291,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_fuel_intake",
@@ -23472,6 +23677,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  96,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_right",
@@ -23609,6 +23815,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  96,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_right",
@@ -23746,6 +23953,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  96,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant_left",
@@ -23841,6 +24049,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  96,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_power_plant_left",
@@ -23933,9 +24142,10 @@
         "mass":  null,
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
-        "isQuantumCapable":  false,
+        "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -23962,6 +24172,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  2,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -24069,6 +24280,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  2,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -24176,6 +24388,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -24283,6 +24496,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  8,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -24431,6 +24645,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  12,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -24579,6 +24794,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  4,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -24727,6 +24943,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  4,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_left",
@@ -24875,6 +25092,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -24972,6 +25190,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  44,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -25100,6 +25319,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  44,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -25228,6 +25448,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  44,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -25356,6 +25577,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  20,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -25484,6 +25706,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -25591,6 +25814,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  100,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -25617,6 +25841,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -25741,9 +25966,10 @@
         "mass":  null,
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
-        "isQuantumCapable":  false,
+        "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
 
                        ]
@@ -25770,6 +25996,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -25836,6 +26063,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -25902,6 +26130,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -25968,6 +26197,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  32,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_01",
@@ -26155,6 +26385,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  32,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_01",
@@ -26342,6 +26573,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "Hardpoint_Weapon_Nose_Right",
@@ -26491,6 +26723,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "Hardpoint_Weapon_Nose_Right",
@@ -26640,6 +26873,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "Hardpoint_Weapon_Nose_Right",
@@ -26789,6 +27023,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "Hardpoint_Weapon_Nose_Right",
@@ -26938,6 +27173,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "Hardpoint_Weapon_Nose_Right",
@@ -27087,6 +27323,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "Hardpoint_Weapon_Nose_Right",
@@ -27236,6 +27473,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_top_right",
@@ -27415,6 +27653,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -27554,6 +27793,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -27693,6 +27933,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -27832,6 +28073,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  6,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -27971,6 +28213,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  6,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -28110,6 +28353,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  288,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_01",
@@ -28297,6 +28541,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -28362,6 +28607,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_left",
@@ -28479,6 +28725,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -28658,6 +28905,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -28837,6 +29085,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -29016,6 +29265,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator_1",
@@ -29121,6 +29371,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  576,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_quantum_drive",
@@ -29154,8 +29405,9 @@
         "fuelHydrogen":  null,
         "fuelQuantum":  null,
         "isQuantumCapable":  true,
-        "isCargo":  false,
+        "isCargo":  true,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  6,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -29283,6 +29535,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_right_top",
@@ -29433,6 +29686,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_right_top",
@@ -29583,6 +29837,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_weapon_gun_right_top",
@@ -29733,6 +29988,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -29798,6 +30054,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -29863,6 +30120,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -29928,6 +30186,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler",
@@ -29993,6 +30252,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  128,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -30150,6 +30410,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  32,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -30297,6 +30558,7 @@
         "isQuantumCapable":  true,
         "isCargo":  true,
         "cargoSCU":  32,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_left",
@@ -30444,6 +30706,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -30509,6 +30772,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -30574,6 +30838,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -30639,6 +30904,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -30704,6 +30970,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -30769,6 +31036,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_shield_generator",
@@ -30834,6 +31102,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_cooler_02",
@@ -30949,6 +31218,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -31014,6 +31284,7 @@
         "isQuantumCapable":  false,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_radar",
@@ -31079,6 +31350,7 @@
         "isQuantumCapable":  true,
         "isCargo":  false,
         "cargoSCU":  null,
+        "resourceCapacitySCU":  null,
         "hardpoints":  [
                            {
                                "name":  "hardpoint_powerplant_left",

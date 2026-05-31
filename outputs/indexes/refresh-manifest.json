@@ -1,6 +1,6 @@
 {
-    "startedAt":  "2026-05-29T10:39:46",
-    "finishedAt":  "2026-05-29T10:42:16",
+    "startedAt":  "2026-05-31T08:44:05",
+    "finishedAt":  "2026-05-31T08:59:37",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  158181171200,
@@ -29,14 +29,14 @@
                   {
                       "step":  "enrich",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipEnrichment switch was set"
+                      "rulesPath":  "src\\contracts\\normalization-rules-v2.json"
                   },
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "outputRepoPath":  "c:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-gamedata-outputs"
+                      "skipped":  true,
+                      "reason":  "OutputRepoPath not provided"
                   }
               ],
-    "enrichmentManifestPath":  null
+    "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
 }
