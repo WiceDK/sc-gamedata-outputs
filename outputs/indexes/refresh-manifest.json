@@ -1,11 +1,11 @@
 {
-    "startedAt":  "2026-05-31T21:15:21",
-    "finishedAt":  "2026-05-31T21:50:20",
+    "startedAt":  "2026-06-05T20:10:02",
+    "finishedAt":  "2026-06-05T20:29:09",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  158181171200,
-                          "lastWriteTimeUtc":  "2026-05-21T16:31:24.8941756Z",
-                          "sha256":  "D4B86CB807094CD6FF111E390E7360215BB14DCF76EF935D4B333F84DFECD975",
+                          "lastWriteTimeUtc":  "2026-06-03T17:54:18.6348717Z",
+                          "sha256":  "2960644BA4576806AE4A860212F4F0FD8A5ABA0D740D5833DAB3C03C89D4D0E2",
                           "hashSkipped":  false
                       },
     "configuredSourceArchive":  "Data.p4k",
@@ -34,7 +34,8 @@
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "outputRepoPath":  "c:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-gamedata-outputs"
+                      "skipped":  true,
+                      "reason":  "OutputRepoPath not provided"
                   }
               ],
     "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
