@@ -1,552 +1,1432 @@
-[
+ï»¿[
     {
         "ref":  "3b54a8cc-5700-45f1-940a-2436b213926f",
+        "code":  "987",
         "displayName":  "987",
-        "description":  "Known for their more aggressive urban styling. Asymmetrical. Bold graphic prints."
+        "displayNameToken":  "@manufacturer_Name987",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Known for their more aggressive urban styling. Asymmetrical. Bold graphic prints.",
+        "descriptionToken":  "@manufacturer_Desc987",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/987_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "cfc0122d-5275-415a-a656-3dcb3346feb5",
+        "code":  "ACAS",
         "displayName":  "Ace Astrogation",
-        "description":  "Corp focusing on the structural (non-combat) aspects of the ship. Builds sleek, elegant but powerful power plants."
+        "displayNameToken":  "@manufacturer_NameACAS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Corp focusing on the structural (non-combat) aspects of the ship. Builds sleek, elegant but powerful power plants.",
+        "descriptionToken":  "@manufacturer_DescACAS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/AceAstrogation_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "b99ddb18-b325-44de-abfa-ce2e978424e4",
+        "code":  "ACDO",
         "displayName":  "Aciedo CommRelay",
-        "description":  "Responsible for building the CommRelay infrastructure around the UEE, Aciedo also developed the technology to allow for system to system communications."
+        "displayNameToken":  "@manufacturer_NameACDO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Responsible for building the CommRelay infrastructure around the UEE, Aciedo also developed the technology to allow for system to system communications.",
+        "descriptionToken":  "@manufacturer_DescACDO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Aciedo_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "5d616e6f-3257-4d19-90c3-11ab974f12e7",
+        "code":  "ACOM",
         "displayName":  "ACOM",
-        "description":  "In racing circles, the term ACOM has come to have two meanings. The first is an abbreviation of the phrase ‘a commanding lead’ – meaning to pull so far ahead that the rest of the pack doesn’t stand a chance of catching up. The second is a more recent usage in that it refers to the start-up manufacturing company who took the phrase as their epithet. ACOM focuses on creating ship components that handle as much power as possible as quickly as possible in order to give pilots the all-important extra edge during a race. Founded by the children of famed pit crew chief Garrit Bijarani, siblings Jayce and Zan took four generations of racing knowledge and gave it form in ACOM’s full line of power plants and coolers."
+        "displayNameToken":  "@manufacturer_NameACOM",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "In racing circles, the term ACOM has come to have two meanings. The first is an abbreviation of the phrase ï¿½a commanding leadï¿½ ï¿½ meaning to pull so far ahead that the rest of the pack doesnï¿½t stand a chance of catching up. The second is a more recent usage in that it refers to the start-up manufacturing company who took the phrase as their epithet. ACOM focuses on creating ship components that handle as much power as possible as quickly as possible in order to give pilots the all-important extra edge during a race. Founded by the children of famed pit crew chief Garrit Bijarani, siblings Jayce and Zan took four generations of racing knowledge and gave it form in ACOMï¿½s full line of power plants and coolers.",
+        "descriptionToken":  "@manufacturer_DescACOM",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Acom_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "5f81335d-44e6-4104-841e-c5af9df06829",
+        "code":  "FSKI",
         "displayName":  "Aegis Dynamics",
-        "description":  "Aegis grew to prominence as a manufacturer of military spacecraft during the First Tevarin War. Favored by Ivar Messer, their orbital bombers grew to public prominence after his infamous victory on Idris IV and became synonymous with the ruthless Messer regime that followed. After the Fall of the Imperator, Aegis' contracts were stripped, their ships fell out of favor with the public, and the company went into a tailspin. They downsized their craft production and turned to manufacturing parts. However, time heals all wounds and today Aegis has risen once again to be a top military contractor of ships and components."
+        "displayNameToken":  "@manufacturer_NameAEGS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Aegis grew to prominence as a manufacturer of military spacecraft during the First Tevarin War. Favored by Ivar Messer, their orbital bombers grew to public prominence after his infamous victory on Idris IV and became synonymous with the ruthless Messer regime that followed. After the Fall of the Imperator, Aegis\u0027 contracts were stripped, their ships fell out of favor with the public, and the company went into a tailspin. They downsized their craft production and turned to manufacturing parts. However, time heals all wounds and today Aegis has risen once again to be a top military contractor of ships and components.",
+        "descriptionToken":  "@manufacturer_DescAEGS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/FirestormKinetics_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "dd14fd7f-eead-4f7d-8057-2d95405a0183",
+        "code":  "ALB",
         "displayName":  "Alejo Brothers",
-        "description":  "Reflect your rugged independence and attitude with Alejo Brothers gear."
+        "displayNameToken":  "@manufacturer_NameALB",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Reflect your rugged independence and attitude with Alejo Brothers gear.",
+        "descriptionToken":  "@manufacturer_DescALB",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/alejobros_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "eccba58a-f6d9-42e8-95c6-d0a65763e583",
-        "displayName":  "Amon & Reese Co.",
-        "description":  "Formed early in the Messer era by recent veterans Marcelo Amon and Travis Reese, A&R Co. is one of the oldest energy weapon manufacturers in the UEE. Their designs have always been user focused and they have a well-earned reputation for dependability and ease of use, something the company claims derives from a dedication to field testing that well exceeds what other companies do."
+        "code":  "AMRS",
+        "displayName":  "Amon \u0026 Reese Co.",
+        "displayNameToken":  "@manufacturer_NameAMRS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Formed early in the Messer era by recent veterans Marcelo Amon and Travis Reese, A\u0026R Co. is one of the oldest energy weapon manufacturers in the UEE. Their designs have always been user focused and they have a well-earned reputation for dependability and ease of use, something the company claims derives from a dedication to field testing that well exceeds what other companies do.",
+        "descriptionToken":  "@manufacturer_DescAMRS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/AR_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "b922abdb-0634-4358-9eee-60118f3cf3a7",
+        "code":  "ANVL",
         "displayName":  "Anvil Aerospace",
-        "description":  "For civilians, Anvil Aerospace produces small fighting craft but with less of the pirate stigma. These ships are more expensive, less spit-and-glue, and built to take more hits than a comparable Drake model. The bulk of Anvil's income is from its military contracts with the UEE to design and build their warships, especially the iconic Hornet."
+        "displayNameToken":  "@manufacturer_NameANVL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "For civilians, Anvil Aerospace produces small fighting craft but with less of the pirate stigma. These ships are more expensive, less spit-and-glue, and built to take more hits than a comparable Drake model. The bulk of Anvil\u0027s income is from its military contracts with the UEE to design and build their warships, especially the iconic Hornet.",
+        "descriptionToken":  "@manufacturer_DescANVL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Anvil_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_anvl_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_anvl_square_white.tif"
     },
     {
         "ref":  "06370f79-4741-4781-be08-d5acc9e28047",
+        "code":  "XNAA",
         "displayName":  "Aopoa",
-        "description":  "Though many attributed their elevation to the sole provider of light craft to audacity and daring, Aopoa cemented their position thanks to the innovative dual-vector thruster technology that has revolutionized their ship design."
+        "displayNameToken":  "@manufacturer_NameXNAA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Though many attributed their elevation to the sole provider of light craft to audacity and daring, Aopoa cemented their position thanks to the innovative dual-vector thruster technology that has revolutionized their ship design.",
+        "descriptionToken":  "@manufacturer_DescXNAA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Aopoa_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "77f7999a-b23b-4812-94c2-09b5e15e1b0e",
+        "code":  "APAR",
         "displayName":  "Apocalypse Arms",
-        "description":  "Apocalypse Arms produces aggressive, devastating weapons inspired by Messer-Era technology."
+        "displayNameToken":  "@manufacturer_NameAPAR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Apocalypse Arms produces aggressive, devastating weapons inspired by Messer-Era technology.",
+        "descriptionToken":  "@manufacturer_DescAPAR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/ApocalypseArms_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "0ade6e45-ecdd-42a9-9046-3e96dbe4f5d0",
+        "code":  "ARCC",
         "displayName":  "ArcCorp",
-        "description":  "This massive conglomerate owns one of the planets in the Stanton system, but got its start building fusion engines for industrial craft. They also have a division for terraforming that's diverged into more of a mining consortium."
+        "displayNameToken":  "@manufacturer_NameARCC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "This massive conglomerate owns one of the planets in the Stanton system, but got its start building fusion engines for industrial craft. They also have a division for terraforming that\u0027s diverged into more of a mining consortium.",
+        "descriptionToken":  "@manufacturer_DescARCC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/ArcCorp_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "9e1f5a35-edcc-4d19-bede-08e2730043c5",
+        "code":  "ARGO",
         "displayName":  "Argo Astronautics",
-        "description":  "This commercial ship manufacturer focuses on building shuttles, transport vessels and utility vehicles that can be seen around the universe."
+        "displayNameToken":  "@manufacturer_NameARGO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "This commercial ship manufacturer focuses on building shuttles, transport vessels and utility vehicles that can be seen around the universe.",
+        "descriptionToken":  "@manufacturer_DescARGO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Argo_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_argo_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_argo_square_white.tif"
     },
     {
         "ref":  "f2ca879c-deb6-49bf-a4b1-dc3a9cf91e7a",
+        "code":  "ARMA",
         "displayName":  "ArmaMod",
-        "description":  "ArmaMod"
+        "displayNameToken":  "@manufacturer_NameARMA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "ArmaMod",
+        "descriptionToken":  "@manufacturer_NameARMA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/ArmaMod_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "abca0ae0-a819-4aeb-a1a7-f8f1d7e277cf",
+        "code":  "ASAS",
         "displayName":  "Ascension Astro",
-        "description":  "Ascension Astro started off as a boutique specialty company; selling high-end, low IR thrusters to wealthy clients who wanted to fly their luxury ships while avoiding the eyes of greedy pirates. As good as their thrusters were at being low-sig, the effect was often ruined when the engines or shielding made by other manufacturers would be screaming the ship’s presence. Slowly, Ascension began expanding their line to include a whole suite of components that, when working in conjunction, would provide an extremely low profile and a safer journey."
+        "displayNameToken":  "@manufacturer_NameASAS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Ascension Astro started off as a boutique specialty company; selling high-end, low IR thrusters to wealthy clients who wanted to fly their luxury ships while avoiding the eyes of greedy pirates. As good as their thrusters were at being low-sig, the effect was often ruined when the engines or shielding made by other manufacturers would be screaming the shipï¿½s presence. Slowly, Ascension began expanding their line to include a whole suite of components that, when working in conjunction, would provide an extremely low profile and a safer journey.",
+        "descriptionToken":  "@manufacturer_DescASAS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Ascension_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2948496b-45d2-41f8-bdff-97587f1e6981",
+        "code":  "BASL",
         "displayName":  "Basilisk",
-        "description":  "Defensive system manufacturer who produces shield systems, ship armor and personal armor for both the military and private sector."
+        "displayNameToken":  "@manufacturer_NameBASL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Defensive system manufacturer who produces shield systems, ship armor and personal armor for both the military and private sector.",
+        "descriptionToken":  "@manufacturer_DescBASL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Basilisk_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "65a5d887-3b21-4046-a718-6912c0c7c3be",
+        "code":  "BEH",
         "displayName":  "Behring",
-        "description":  "The Behring Research Consortium was founded in 2554 on Terra as the end result of several years of buyouts and consolidation of dozens of small research and development firms by Behring Equity Investments. By having so many different research units focusing on a wide variety of developments, the Behring group hoped to increase the likelihood of expensive research resulting in a marketable product. Their history speaks for itself as the famed laboratory is accredited for the standardization of laser weaponry and dozens of other innovations. Today, Behring is still going strong with their technological forward products featuring straight forward and simple designs, making everything from guns, missiles, sentry drones, to shields and armor."
+        "displayNameToken":  "@manufacturer_NameBEHR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "The Behring Research Consortium was founded in 2554 on Terra as the end result of several years of buyouts and consolidation of dozens of small research and development firms by Behring Equity Investments. By having so many different research units focusing on a wide variety of developments, the Behring group hoped to increase the likelihood of expensive research resulting in a marketable product. Their history speaks for itself as the famed laboratory is accredited for the standardization of laser weaponry and dozens of other innovations. Today, Behring is still going strong with their technological forward products featuring straight forward and simple designs, making everything from guns, missiles, sentry drones, to shields and armor.",
+        "descriptionToken":  "@manufacturer_DescBEHR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Behring_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "bcea197e-ac9d-49f4-a692-d77c6927077f",
+        "code":  "BLTR",
         "displayName":  "Blue Triangle Inc.",
-        "description":  "Makers of advanced computer and analytic systems, Blue Triangle prides itself on hiring only the best engineers and programmers, many of whom started their careers as black hat hackers."
+        "displayNameToken":  "@manufacturer_NameBLTR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Makers of advanced computer and analytic systems, Blue Triangle prides itself on hiring only the best engineers and programmers, many of whom started their careers as black hat hackers.",
+        "descriptionToken":  "@manufacturer_DescBLTR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_bluetriangle_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "ad865899-f5ba-4818-ae8c-fe80a55108b7",
-        "displayName":  "Broad & Rabiee",
-        "description":  "Founded by a pair of aerospace engineers, Broad & Rabiee began with a line of computers and components before branching out to turrets."
+        "code":  "BRRA",
+        "displayName":  "Broad \u0026 Rabiee",
+        "displayNameToken":  "@manufacturer_NameBRRA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Founded by a pair of aerospace engineers, Broad \u0026 Rabiee began with a line of computers and components before branching out to turrets.",
+        "descriptionToken":  "@manufacturer_DescBRRA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_BRRA_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "eddc1a94-7840-4855-9889-544821d4d739",
+        "code":  "CLDA",
         "displayName":  "Caldera",
-        "description":  "Caldera Description."
+        "displayNameToken":  "@manufacturer_NameCLDA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Caldera Description.",
+        "descriptionToken":  "@manufacturer_DescCLDA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Caldera_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "64eef2d9-5d3d-431d-a83b-ae077a16b4e2",
+        "code":  "CBD",
         "displayName":  "CBD",
-        "description":  "CBD. They're clothes. Either buy them or don't."
+        "displayNameToken":  "@manufacturer_NameCBD",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "CBD. They\u0027re clothes. Either buy them or don\u0027t.",
+        "descriptionToken":  "@manufacturer_DescCBD",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/cbd_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "be4a26fd-0585-4aaf-bad9-d234091bd02e",
-        "displayName":  "CC's Conversions",
-        "description":  "CC's Conversions Description"
+        "code":  "CCC",
+        "displayName":  "CC\u0027s Conversions",
+        "displayNameToken":  "@manufacturer_NameCCC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "CC\u0027s Conversions Description",
+        "descriptionToken":  "@manufacturer_DescCCC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/CCConversions_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "8af71a8a-7da0-4e31-afc7-648fc916e387",
+        "code":  "CHCO",
         "displayName":  "Chimera Communications",
-        "description":  "A dedicated manufacturer of communication, radar and scan systems. They are the rugged go-to company for miners and explorers alike with their sturdy, well-tested and dependable products."
+        "displayNameToken":  "@manufacturer_NameCHCO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "A dedicated manufacturer of communication, radar and scan systems. They are the rugged go-to company for miners and explorers alike with their sturdy, well-tested and dependable products.",
+        "descriptionToken":  "@manufacturer_DescCHCO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_chimera_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "5ca8a669-44c2-40e4-89b2-7a5da790b832",
+        "code":  "CTL",
         "displayName":  "City Lights",
-        "description":  "City Lights makes timeless, affordable fashion for the entire family."
+        "displayNameToken":  "@manufacturer_NameCTL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "City Lights makes timeless, affordable fashion for the entire family.",
+        "descriptionToken":  "@manufacturer_DescCTL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/CityLights_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "8a7bd715-5b97-404f-b02e-0d0cc593f608",
+        "code":  "CDS",
         "displayName":  "Clark Defense Systems",
-        "description":  "Ground-combat defensive systems, covers a lot of commercial territory from personal armor to defense systems. Naming convention tend to be pretty straight-forward and logical.\\n\\nModels: PAB-4 (Personal Ablative/Ballistic Light Armor)\\n\\nQDB-12 QuiKCade (Quick Deployment Barricade)"
+        "displayNameToken":  "@manufacturer_NameCDS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Ground-combat defensive systems, covers a lot of commercial territory from personal armor to defense systems. Naming convention tend to be pretty straight-forward and logical.\\n\\nModels: PAB-4 (Personal Ablative/Ballistic Light Armor)\\n\\nQDB-12 QuiKCade (Quick Deployment Barricade)",
+        "descriptionToken":  "@manufacturer_DescCDS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/CDS_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d9179d05-55be-4eed-8b1b-93bb8450ff04",
+        "code":  "CBA",
         "displayName":  "Code Blue Apparel",
-        "description":  "Code Blue Apparel produces a wide variety of longwear professional uniforms and jumpsuits that focus on comfort and personality without sacrificing functionality."
+        "displayNameToken":  "@manufacturer_NameCBA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Code Blue Apparel produces a wide variety of longwear professional uniforms and jumpsuits that focus on comfort and personality without sacrificing functionality.",
+        "descriptionToken":  "@manufacturer_DescCBA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/codeblueapparel_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "ec227ef3-fb08-4897-abdb-579eb4e87c25",
+        "code":  "CNOU",
         "displayName":  "Consolidated Outland",
-        "description":  "Founded by maverick trillionaire Silas Koerner, Consolidated Outland is an up-and-coming spacecraft concern, the first ever headquartered on a frontier world. Koerner, who made his sizable fortune in jump-communications, founded the company as an attempt to strike back at what he sees as the overly-regulated spacecraft industry. With facilities established as far from possible from the prying eyes of competing corporations, Outland is quickly becoming one to watch."
+        "displayNameToken":  "@manufacturer_NameCNOU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Founded by maverick trillionaire Silas Koerner, Consolidated Outland is an up-and-coming spacecraft concern, the first ever headquartered on a frontier world. Koerner, who made his sizable fortune in jump-communications, founded the company as an attempt to strike back at what he sees as the overly-regulated spacecraft industry. With facilities established as far from possible from the prying eyes of competing corporations, Outland is quickly becoming one to watch.",
+        "descriptionToken":  "@manufacturer_DescCNOU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Consolidated_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_cnou_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_cnou_square_white.tif"
     },
     {
         "ref":  "1b6be99e-f430-459f-ab2a-a912fd6722f8",
+        "code":  "GENF",
         "displayName":  "Consumable",
-        "description":  "PH Generic Food Description"
+        "displayNameToken":  "@manufacturer_NameGENF",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH Generic Food Description",
+        "descriptionToken":  "@manufacturer_DescGENF",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/GenericFood_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "63685f47-b0cc-4ebe-8f16-72793a5cd6e0",
+        "code":  "CRUS",
         "displayName":  "Crusader Industries",
-        "description":  "Makers of an extensive fleet of cargo, vehicle and data transport ships, and cutting edge shuttles, Crusader Industries is a titan of the aerospace industry. It is a company so powerful and prominent that it purchased a gas giant in the Stanton system to house its current headquarters."
+        "displayNameToken":  "@manufacturer_NameCRUS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Makers of an extensive fleet of cargo, vehicle and data transport ships, and cutting edge shuttles, Crusader Industries is a titan of the aerospace industry. It is a company so powerful and prominent that it purchased a gas giant in the Stanton system to house its current headquarters.",
+        "descriptionToken":  "@manufacturer_DescCRUS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Crusader_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "dd55bc19-5212-4365-bbc8-73474f0257ed",
+        "code":  "CUR",
         "displayName":  "Curelife",
-        "description":  "Makes medical packs for commercial purposes. Formed by a group of doctors, CureLife was the first company to offer heavy medical solutions to the general public."
+        "displayNameToken":  "@manufacturer_NameCRLF",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Makes medical packs for commercial purposes. Formed by a group of doctors, CureLife was the first company to offer heavy medical solutions to the general public.",
+        "descriptionToken":  "@manufacturer_DescCRLF",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/curelife_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "a53bbc2b-aa43-483d-967e-0cebc5600c04",
+        "code":  "DMC",
         "displayName":  "Denim Manufacture Corporation",
-        "description":  "Still renowned for their denim, DMC (Denim Manufacture Corporation) has become so much more. From durable outerwear to rugged fashion, DMC knows that feeling good is just as important as looking good."
+        "displayNameToken":  "@manufacturer_NameDMC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Still renowned for their denim, DMC (Denim Manufacture Corporation) has become so much more. From durable outerwear to rugged fashion, DMC knows that feeling good is just as important as looking good.",
+        "descriptionToken":  "@manufacturer_DescDMC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/DMC_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2ab62815-6273-44b9-bbc6-28d36fed6fd8",
+        "code":  "DRN",
         "displayName":  "Derion",
-        "description":  "With their muted colors and classic cuts, Derion has become the definition of high-end business wear for men and women."
+        "displayNameToken":  "@manufacturer_NameDRN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "With their muted colors and classic cuts, Derion has become the definition of high-end business wear for men and women.",
+        "descriptionToken":  "@manufacturer_DescDRN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Derion_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "b495993e-c10a-41e4-876d-1de96de54e33",
+        "code":  "DOOM",
         "displayName":  "Doomsday",
-        "description":  "Extremely aggressive looking homemade armor meant to protect and intimidate. This kind of armor is not only expected to survive the apocalypse, but also dominate its aftermath."
+        "displayNameToken":  "@manufacturer_NameDOOM",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Extremely aggressive looking homemade armor meant to protect and intimidate. This kind of armor is not only expected to survive the apocalypse, but also dominate its aftermath.",
+        "descriptionToken":  "@manufacturer_DescDOOM",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Doomsday_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "6116471c-891d-4830-8968-650b6deafc00",
+        "code":  "DRAK",
         "displayName":  "Drake Interplanetary",
-        "description":  "Makes affordable, modular ships that have become the go-to manufacturer for anyone looking to get their first ship, but have become associated with criminal elements."
+        "displayNameToken":  "@manufacturer_NameDRAK",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Makes affordable, modular ships that have become the go-to manufacturer for anyone looking to get their first ship, but have become associated with criminal elements.",
+        "descriptionToken":  "@manufacturer_DescDRAK",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Drake_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_drak_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_drak_square_white.tif"
     },
     {
         "ref":  "92b20988-dbf3-4e95-b4a9-7e5e22112516",
+        "code":  "DYL",
         "displayName":  "Dyna Lei",
-        "description":  "- Dyna Lei Description"
+        "displayNameToken":  "@manufacturer_NameDYL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "- Dyna Lei Description",
+        "descriptionToken":  "@manufacturer_DescDYL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "190a2e0e-6d60-4719-8238-ac7e1c746626",
+        "code":  "ELD",
         "displayName":  "Escar Limited",
-        "description":  "Escar Limited takes comfortable casual wear to the next level through interesting textiles and exquisite craftsmanship."
+        "displayNameToken":  "@manufacturer_NameELD",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Escar Limited takes comfortable casual wear to the next level through interesting textiles and exquisite craftsmanship.",
+        "descriptionToken":  "@manufacturer_DescELD",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/EscarLTD_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "4ecc1a24-d228-4dd5-8857-21ba6145a1d3",
+        "code":  "ESPR",
         "displayName":  "Esperia",
-        "description":  "Originally formed as an archive for ship designs, Esperia began to build historically accurate reproductions for collectors, enthusiasts, and even the military."
+        "displayNameToken":  "@manufacturer_NameESPR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Originally formed as an archive for ship designs, Esperia began to build historically accurate reproductions for collectors, enthusiasts, and even the military.",
+        "descriptionToken":  "@manufacturer_DescESPR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Esperia_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "c0635984-4973-41c6-ac27-0c9a39ae051d",
+        "code":  "EVL",
         "displayName":  "Evalight",
-        "description":  "They can't define you. They can't tell you who you are. EvaLight and let your voice be heard."
+        "displayNameToken":  "@manufacturer_NameEVL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "They can\u0027t define you. They can\u0027t tell you who you are. EvaLight and let your voice be heard.",
+        "descriptionToken":  "@manufacturer_DescEVL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/evl_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "503b0974-5027-4c69-bce6-a38c42e87ebe",
+        "code":  "FIO",
         "displayName":  "Fiore",
-        "description":  "A timeless elegance lends an ease of wear that defines each sophisticated piece in Fiore's signature collection."
+        "displayNameToken":  "@manufacturer_NameFIO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "A timeless elegance lends an ease of wear that defines each sophisticated piece in Fiore\u0027s signature collection.",
+        "descriptionToken":  "@manufacturer_DescFIO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Fiore_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "b9b97673-c585-4e0a-b229-a0a3c79668c3",
+        "code":  "FFSY",
         "displayName":  "Flashfire Systems",
-        "description":  "Failed laser weapon manufacturer. Transformed into an engineering firm that came up with the weapon mount system that's almost uniformly used."
+        "displayNameToken":  "@manufacturer_NameFFSY",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Failed laser weapon manufacturer. Transformed into an engineering firm that came up with the weapon mount system that\u0027s almost uniformly used.",
+        "descriptionToken":  "@manufacturer_DescFFSY",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/FlashfireSystems_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "a834198a-3465-4b02-86a5-887e922ec06d",
+        "code":  "GAT",
         "displayName":  "Gallenson Tactical Systems",
-        "description":  "This Earth-based company is responsible for hard-hitting array of ship weapons."
+        "displayNameToken":  "@manufacturer_NameGATS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "This Earth-based company is responsible for hard-hitting array of ship weapons.",
+        "descriptionToken":  "@manufacturer_DescGATS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Gallensontacticalsystems_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "31907472-a884-4ebc-86db-cd4f7797e514",
+        "code":  "GAM",
         "displayName":  "Gatac Manufacture",
-        "description":  "Responsible for the design and construction of any ships with commercial or industrial applications, Gatac Manufacture has a long-standing reputation as a ‘knowledge-driven’ corporation producing not only cutting edge ships, but extremely reliable ones."
+        "displayNameToken":  "@manufacturer_NameGAMA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Responsible for the design and construction of any ships with commercial or industrial applications, Gatac Manufacture has a long-standing reputation as a ï¿½knowledge-drivenï¿½ corporation producing not only cutting edge ships, but extremely reliable ones.",
+        "descriptionToken":  "@manufacturer_DescGAMA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Gatac_256.tif",
+        "logoFullColor":  "UI/Textures/Logos/logo_corp_GAMA_Square_Color.tif",
+        "logoSimplifiedWhite":  "UI/Textures/Logos/logo_corp_GAMA_Square_White.tif"
     },
     {
         "ref":  "b33050cd-6ca9-4c57-baf8-f4114eb85237",
+        "code":  "GEM",
         "displayName":  "Gemini",
-        "description":  "Personal weapon manufacturer. Generally makes kinetic weapons, but has recently acquired Octa, a small energy weapon start-up. Weapons are named sequentially."
+        "displayNameToken":  "@manufacturer_NameGMNI",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Personal weapon manufacturer. Generally makes kinetic weapons, but has recently acquired Octa, a small energy weapon start-up. Weapons are named sequentially.",
+        "descriptionToken":  "@manufacturer_DescGMNI",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/gemini_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "3909dad3-eab3-4da7-9d90-74d7064d5900",
+        "code":  "GRNP",
         "displayName":  "GNP",
-        "description":  "Seeking to stand out in the crowded field of manufacturers and to compete with the more developed “homeworlds,” the governments of four outer systems banded together to subsidize the creation of GNP, an entirely new kind of company that specialized in designing everything from full-range sensor suites to ship engines."
+        "displayNameToken":  "@manufacturer_NameGRNP",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Seeking to stand out in the crowded field of manufacturers and to compete with the more developed ï¿½homeworlds,ï¿½ the governments of four outer systems banded together to subsidize the creation of GNP, an entirely new kind of company that specialized in designing everything from full-range sensor suites to ship engines.",
+        "descriptionToken":  "@manufacturer_DescGRNP",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_gnp_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "57bfcf3d-13f6-4c2c-b7c7-6bf8eacb8a24",
+        "code":  "GODI",
         "displayName":  "Gorgon Defender Industries",
-        "description":  "When Humanity started being attacked by Vanduul, it was often those who lived in the border system who suffered the most. Believing that civilian defensive components were not up to facing this deadly enemy, Gorgon Defender Industries, founded by former inhabitants of Caliban, was established to take military strength products and deliver it the population at large so they could properly protect themselves. With the strength of their designs, Gorgon earned a reputation that soon caught the eye of the military."
+        "displayNameToken":  "@manufacturer_NameGODI",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "When Humanity started being attacked by Vanduul, it was often those who lived in the border system who suffered the most. Believing that civilian defensive components were not up to facing this deadly enemy, Gorgon Defender Industries, founded by former inhabitants of Caliban, was established to take military strength products and deliver it the population at large so they could properly protect themselves. With the strength of their designs, Gorgon earned a reputation that soon caught the eye of the military.",
+        "descriptionToken":  "@manufacturer_DescGODI",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/GorgonDefender_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "819545f4-18af-49a6-814e-ca4fd08f56e5",
+        "code":  "GRIN",
         "displayName":  "Greycat Industrial",
-        "description":  "A trusted manufacturer of industrial tools since 2337, the company’s extensive line of industrial equipment and armor make it one of the most respected brand names around. Greycat has remained a UEE staple for centuries thanks to their streamlined-yet-inventive designs, exacting safety standards, and a diverse product line."
+        "displayNameToken":  "@manufacturer_NameGRIN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "A trusted manufacturer of industrial tools since 2337, the companyï¿½s extensive line of industrial equipment and armor make it one of the most respected brand names around. Greycat has remained a UEE staple for centuries thanks to their streamlined-yet-inventive designs, exacting safety standards, and a diverse product line.",
+        "descriptionToken":  "@manufacturer_DescGRIN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Greycat_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "768b4380-6486-4187-8c22-bc3deaf80770",
-        "displayName":  "Grey's Market",
-        "description":  "A fleet of mobile marketplaces that caters to high-end clients interested in experiencing the wild side of the 'verse to gain access to unusual and unique items."
+        "code":  "GLSN",
+        "displayName":  "Grey\u0027s Market",
+        "displayNameToken":  "@manufacturer_NameGREY",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "A fleet of mobile marketplaces that caters to high-end clients interested in experiencing the wild side of the \u0027verse to gain access to unusual and unique items.",
+        "descriptionToken":  "@manufacturer_DescGREY",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/GREY_256.tif",
+        "logoFullColor":  "UI/Textures/Logos/logo_corp_GREY_Square_Color.tif",
+        "logoSimplifiedWhite":  "UI/Textures/Logos/logo_corp_GREY_Square_White.tif"
     },
     {
         "ref":  "6d4b7375-8e0c-445a-a243-21f8f94f99cb",
+        "code":  "GSB",
         "displayName":  "Grindstone Boots",
-        "description":  "GSB description"
+        "displayNameToken":  "@manufacturer_NameGSB",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "GSB description",
+        "descriptionToken":  "@manufacturer_DescGSB",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/GrindstoneBoots_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d56a3985-2f29-4095-b2f2-542376cc74f4",
+        "code":  "GYS",
         "displayName":  "Gyson Inc.",
-        "description":  "If you need it, Gyson makes it. The company and its subsidiaries produce everything from carpets to cleaning solvents to industrial uniforms and even EVA suits at prices that can't be beat."
+        "displayNameToken":  "@manufacturer_NameGYS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "If you need it, Gyson makes it. The company and its subsidiaries produce everything from carpets to cleaning solvents to industrial uniforms and even EVA suits at prices that can\u0027t be beat.",
+        "descriptionToken":  "@manufacturer_DescGYS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Gyson_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "70ce6432-3a1e-45a1-8179-fe30a3ee54dc",
+        "code":  "HDH",
         "displayName":  "Habidash",
-        "description":  "Very simply made clothing that is made for extreme environments. Takes inspiration from middle east and inuit designs."
+        "displayNameToken":  "@manufacturer_NameHDH",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Very simply made clothing that is made for extreme environments. Takes inspiration from middle east and inuit designs.",
+        "descriptionToken":  "@manufacturer_DescHDH",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Habidash_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "8368a760-84b4-4359-bda1-7b015dc0c884",
+        "code":  "HDTC",
         "displayName":  "Hardin Tactical",
-        "description":  "PH Hardin Tactical Desc"
+        "displayNameToken":  "@manufacturer_NameHDTC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH Hardin Tactical Desc",
+        "descriptionToken":  "@manufacturer_DescHDTC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/HardinTactical_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d7a8b196-8778-4e18-8c8c-38229eef01f1",
-        "displayName":  "Hawksworth's",
-        "description":  "When they say that shoes make the man, Hawksworth's are the shoes they are talking about. Formal, classic, and constructed to the same exacting standards that has made the Hawksworth brand the standard to beat."
+        "code":  "HWK",
+        "displayName":  "Hawksworth\u0027s",
+        "displayNameToken":  "@manufacturer_NameHWK",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "When they say that shoes make the man, Hawksworth\u0027s are the shoes they are talking about. Formal, classic, and constructed to the same exacting standards that has made the Hawksworth brand the standard to beat.",
+        "descriptionToken":  "@manufacturer_DescHWK",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Hawksworths_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "9d3ee727-bb52-4ed2-bacf-47d93d8bb0d5",
+        "code":  "HDGW",
         "displayName":  "Hedeby Gunworks",
-        "description":  "Hedeby Gunworks Description"
+        "displayNameToken":  "@manufacturer_NameHDGW",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Hedeby Gunworks Description",
+        "descriptionToken":  "@manufacturer_DescHDGW",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/HedebyGunworks_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "ee8b7bb3-d420-435c-924f-561e67e64588",
+        "code":  "HRST",
         "displayName":  "Hurston Dynamics",
-        "description":  "Hurston Dynamics Manufacturer placeholder info about company."
+        "displayNameToken":  "@manufacturer_NameHRST",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Hurston Dynamics Manufacturer placeholder info about company.",
+        "descriptionToken":  "@manufacturer_DescHRST",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/HurstonDynamics_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "19fbaf6d-d6dc-4e15-8fdf-67101934ff3c",
+        "code":  "JOK",
         "displayName":  "Joker Engineering",
-        "description":  "From the mind of underground engineer Barlowe Elias, Joker Engineering is here to push the boundaries of tech, the foundations of civilization with their wild products."
+        "displayNameToken":  "@manufacturer_NameJOKR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "From the mind of underground engineer Barlowe Elias, Joker Engineering is here to push the boundaries of tech, the foundations of civilization with their wild products.",
+        "descriptionToken":  "@manufacturer_DescJOKR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Jokerengineering_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "6cf93625-789a-4e8f-a857-325d64a58c93",
+        "code":  "JSPN",
         "displayName":  "J-Span",
-        "description":  "J-Span does only one thing, but does it well. For over a century they have focused on producing quality coolers at a reasonable price. Half the time these days, when you pop the hull of a spacecraft, chances are you’re going to find a J-Span. Plus, their coolers can be found in more than just ships. They have a wide variety of sizes and shapes that can be found in everything from land transports, to computer systems, to refrigerator units. Appealing to the broader consumer market, their units might not have all the bells and whistles as some of the other manufacturer’s lines, but for the most part they avoid their quirks as well."
+        "displayNameToken":  "@manufacturer_NameJSPN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "J-Span does only one thing, but does it well. For over a century they have focused on producing quality coolers at a reasonable price. Half the time these days, when you pop the hull of a spacecraft, chances are youï¿½re going to find a J-Span. Plus, their coolers can be found in more than just ships. They have a wide variety of sizes and shapes that can be found in everything from land transports, to computer systems, to refrigerator units. Appealing to the broader consumer market, their units might not have all the bells and whistles as some of the other manufacturerï¿½s lines, but for the most part they avoid their quirks as well.",
+        "descriptionToken":  "@manufacturer_DescJSPN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/JSpan_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d7cc897f-b760-4a73-93c0-27e23c52db0a",
+        "code":  "JUST",
         "displayName":  "Juno Starwerk",
-        "description":  "Second only to RSI in terms of longevity in the space industry, Juno Starwerk was founded in the 24th century to build long haul freighters to support the rapid Human expansion into other star systems. Utilitarian above all us, these ships were designed to do one thing: haul as much weight as possible as cheaply as possible. While, over time, as competition increased, their share of the ship market shrank, their components had earned a reputation for dependability and ease of maintenance. Their direct sales of these components soon made up the majority of the companies income and in 2513, the ceased ship manufacture entirely to focus on supplying industrial strength components. In parts of the ’verse there are generations of mechanics who have passed knowledge and techniques for working on Juno power plants like family heirlooms. This long history also means that Juno parts and repairs are easy to come by."
+        "displayNameToken":  "@manufacturer_NameJUST",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Second only to RSI in terms of longevity in the space industry, Juno Starwerk was founded in the 24th century to build long haul freighters to support the rapid Human expansion into other star systems. Utilitarian above all us, these ships were designed to do one thing: haul as much weight as possible as cheaply as possible. While, over time, as competition increased, their share of the ship market shrank, their components had earned a reputation for dependability and ease of maintenance. Their direct sales of these components soon made up the majority of the companies income and in 2513, the ceased ship manufacture entirely to focus on supplying industrial strength components. In parts of the ï¿½verse there are generations of mechanics who have passed knowledge and techniques for working on Juno power plants like family heirlooms. This long history also means that Juno parts and repairs are easy to come by.",
+        "descriptionToken":  "@manufacturer_DescJUST",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Juno_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "709e8255-a0b1-4c5e-8b0e-28781be25984",
+        "code":  "KSAR",
         "displayName":  "Kastak Arms",
-        "description":  "Kastak Arms makes inexpensive energy weapons with intimidating names like Devastator and Firestorm, and aggressively markets them to distressed parts of the Empire. Even though the company portrays itself as providing weapons for personal defense, the brand has become more readily identified with people who use them for aggressive and unlawful purposes."
+        "displayNameToken":  "@manufacturer_NameKSAR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Kastak Arms makes inexpensive energy weapons with intimidating names like Devastator and Firestorm, and aggressively markets them to distressed parts of the Empire. Even though the company portrays itself as providing weapons for personal defense, the brand has become more readily identified with people who use them for aggressive and unlawful purposes.",
+        "descriptionToken":  "@manufacturer_DescKSAR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Kastak_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "a349d45f-cda5-4fdb-89ea-4ea91804a163",
+        "code":  "KAP",
         "displayName":  "Kilgore and Poole",
-        "description":  "Kilgore and Poole caters its armor and image to a high-end clientele. Criticized by some as prioritizing form over function, their eye-catching armor favors ease of movement and agility over heavy defense."
+        "displayNameToken":  "@manufacturer_NameKAP",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Kilgore and Poole caters its armor and image to a high-end clientele. Criticized by some as prioritizing form over function, their eye-catching armor favors ease of movement and agility over heavy defense.",
+        "descriptionToken":  "@manufacturer_DescKAP",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/KAP_256_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "1aa076d5-ac29-4c61-a905-d3ea39cf167a",
-        "displayName":  "Klaus & Werner",
-        "description":  "Formed in 2893, Klaus & Werner makes guns, and they make them well. This simple philosophy was the brainchild of Hector Klaus, a successful weapons inventor who believed above all else that simplicity of design would triumph in a combat situation."
+        "code":  "KLA",
+        "displayName":  "Klaus \u0026 Werner",
+        "displayNameToken":  "@manufacturer_NameKLWE",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Formed in 2893, Klaus \u0026 Werner makes guns, and they make them well. This simple philosophy was the brainchild of Hector Klaus, a successful weapons inventor who believed above all else that simplicity of design would triumph in a combat situation.",
+        "descriptionToken":  "@manufacturer_DescKLWE",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/klauswerner_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "7b4402a1-f17f-4125-afcc-4a159dcd29e0",
+        "code":  "KBAR",
         "displayName":  "KnightBridge Arms",
-        "description":  "Headquartered in the Kiel system, KnightBridge Arms is there to protect you and yours. With a weapon for every price point, you can rest assured that KnightBridge has your back."
+        "displayNameToken":  "@manufacturer_NameKBAR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Headquartered in the Kiel system, KnightBridge Arms is there to protect you and yours. With a weapon for every price point, you can rest assured that KnightBridge has your back.",
+        "descriptionToken":  "@manufacturer_DescKBAR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Knightbridge_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2a64f92e-8f6d-47ac-a6ed-643465e91d4b",
+        "code":  "KRON",
         "displayName":  "Kroneg",
-        "description":  "Kroneg Description"
+        "displayNameToken":  "@manufacturer_NameKRON",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Kroneg Description",
+        "descriptionToken":  "@manufacturer_DescKRON",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Kroneg_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "7b5d1ed3-11e7-49e6-9ed3-9d0cb52a3dc2",
+        "code":  "KRI",
         "displayName":  "Kruger Intergalactic",
-        "description":  "Kruger Intergalactic started as a custom machined parts manufacturer on Borea in the Magnus system, eventually expanded into weapon development and finally as a manufacturer of short-range ships like the P-52."
+        "displayNameToken":  "@manufacturer_NameKRIG",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Kruger Intergalactic started as a custom machined parts manufacturer on Borea in the Magnus system, eventually expanded into weapon development and finally as a manufacturer of short-range ships like the P-52.",
+        "descriptionToken":  "@manufacturer_DescKRIG",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Kruger_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "60d0f346-0c22-4869-81d3-1168b526a258",
+        "code":  "LPLT",
         "displayName":  "Lightning Power Ltd.",
-        "description":  "Made out of less expensive materials, Lightning Power continues to introduce new aesthetic changes to their ship components while relying on tried and true technology to run them."
+        "displayNameToken":  "@manufacturer_NameLPLT",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Made out of less expensive materials, Lightning Power continues to introduce new aesthetic changes to their ship components while relying on tried and true technology to run them.",
+        "descriptionToken":  "@manufacturer_DescLPLT",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/LightningPower_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "4ee4ba50-f4e3-4c54-9f44-9a6c5691c77e",
+        "code":  "LOCO",
         "displayName":  "Lortell Computing",
-        "description":  "A manufacturer of affordable computers, computer parts, and accessories. There products don't have a lot of bells and whistles and often incorporate last gen tech, but because of that, what they do produce is reliable. Produce the Re-Authorized brand cryptokey."
+        "displayNameToken":  "@manufacturer_NameLOCO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "A manufacturer of affordable computers, computer parts, and accessories. There products don\u0027t have a lot of bells and whistles and often incorporate last gen tech, but because of that, what they do produce is reliable. Produce the Re-Authorized brand cryptokey.",
+        "descriptionToken":  "@manufacturer_DescLOCO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/LortellComputing_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
+        "code":  "BANU",
         "displayName":  "Luminalia",
-        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built."
+        "displayNameToken":  "@manufacturer_NameBANU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built.",
+        "descriptionToken":  "@manufacturer_DescBANU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Banu_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "9f0f7735-d389-4c7d-95f1-c4d0c57f7214",
+        "code":  "MIT",
         "displayName":  "microTech",
-        "description":  "Ubiquitous around the Empire, microTech and their range of electronics, datapads, mobile interfaces, handheld sensors and computer software upgrades for starships are used daily by almost everyone. Their line of mobiGlas personal computers have become an integral part of daily life for millions of people."
+        "displayNameToken":  "@manufacturer_NameMITE",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Ubiquitous around the Empire, microTech and their range of electronics, datapads, mobile interfaces, handheld sensors and computer software upgrades for starships are used daily by almost everyone. Their line of mobiGlas personal computers have become an integral part of daily life for millions of people.",
+        "descriptionToken":  "@manufacturer_DescMITE",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Microtech_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "857a8335-65be-491a-b613-2f16cf165289",
+        "code":  "MIS",
         "displayName":  "Mirai",
-        "description":  "The Mirai design team is dedicated to pairing the craftsmanship of their parent company MISC with Xi’an technology and traditional Saisei aesthetics to create the next generation of cutting-edge vehicles."
+        "displayNameToken":  "@manufacturer_NameMRAI",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "The Mirai design team is dedicated to pairing the craftsmanship of their parent company MISC with Xiï¿½an technology and traditional Saisei aesthetics to create the next generation of cutting-edge vehicles.",
+        "descriptionToken":  "@manufacturer_DescMRAI",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Mirai_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_misc_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_misc_square_white.tif"
     },
     {
         "ref":  "74b1d2f4-f820-4935-a25c-b11f68d72f55",
-        "displayName":  "Musashi Industrial & Starflight Concern",
-        "description":  "Mass produces very efficient, modular ships, mostly armored freighters of different sizes that make them the preferred brand for traders and larger corporations. Over thirty years ago, MISC signed a lend-lease agreement to establish a tech trade with Xi’An engineers."
+        "code":  "MIS",
+        "displayName":  "Musashi Industrial \u0026 Starflight Concern",
+        "displayNameToken":  "@manufacturer_NameMISC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Mass produces very efficient, modular ships, mostly armored freighters of different sizes that make them the preferred brand for traders and larger corporations. Over thirty years ago, MISC signed a lend-lease agreement to establish a tech trade with Xiï¿½An engineers.",
+        "descriptionToken":  "@manufacturer_DescMISC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/MISC_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_misc_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_misc_square_white.tif"
     },
     {
         "ref":  "cc1731c4-8156-4750-a138-96838df79117",
+        "code":  "MYM",
         "displayName":  "Muymuy",
-        "description":  "MYM description"
+        "displayNameToken":  "@manufacturer_NameMYM",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "MYM description",
+        "descriptionToken":  "@manufacturer_DescMYM",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/MuyMuy_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "afff101e-eb2c-4f93-960f-cec9936b9f39",
+        "code":  "NAVE",
         "displayName":  "Nav-E7 Gadgets",
-        "description":  "In the short time the company has been around, Nav-E7 has become an institution. Manufacturing various pieces of equipment used on a wide range of ships has given them quick renown as most ships in the 'verse feature at least one of their products."
+        "displayNameToken":  "@manufacturer_NameNAVE",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "In the short time the company has been around, Nav-E7 has become an institution. Manufacturing various pieces of equipment used on a wide range of ships has given them quick renown as most ships in the \u0027verse feature at least one of their products.",
+        "descriptionToken":  "@manufacturer_DescNAVE",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_navE7_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "f8efa046-7f79-4e09-b2fc-35d0df2429cf",
+        "code":  "NVS",
         "displayName":  "Navy Surplus",
-        "description":  "PH - Navy Surplus Description"
+        "displayNameToken":  "@manufacturer_NameNVS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH - Navy Surplus Description",
+        "descriptionToken":  "@manufacturer_DescNVS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/NavySurplus_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2d1922e0-f8dc-46d3-a453-6a85711f3771",
+        "code":  "NRS",
         "displayName":  "NorthStar",
-        "description":  "NorthStar Description"
+        "displayNameToken":  "@manufacturer_NameNRS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "NorthStar Description",
+        "descriptionToken":  "@manufacturer_DescNRS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/NorthStar_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "67fd3077-ee8c-4a7c-8bad-91500b2a9509",
+        "code":  "NOVP",
         "displayName":  "Nova Pyrotechnica",
-        "description":  "An company out of Terra that offers missiles and rockets at a low price."
+        "displayNameToken":  "@manufacturer_NameNOVP",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "An company out of Terra that offers missiles and rockets at a low price.",
+        "descriptionToken":  "@manufacturer_DescNOVP",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Nova_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "f113387e-0905-489a-829d-8cebfdc19e66",
+        "code":  "NVTC",
         "displayName":  "NV-TAC",
-        "description":  "High-end company known for manufacturing technically precise and experimental optics and weapon attachments. Founded in 2811, NV-TAC initially built sensors for long-range scanning stations and surveying operations before shifting operations to the more profitable personal weapon market. Seen by some as too expensive and feature-dense, but beloved by soldiers and security professionals for their durable design, precision adjustments, and reliable performance."
+        "displayNameToken":  "@manufacturer_NameNVTC",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "High-end company known for manufacturing technically precise and experimental optics and weapon attachments. Founded in 2811, NV-TAC initially built sensors for long-range scanning stations and surveying operations before shifting operations to the more profitable personal weapon market. Seen by some as too expensive and feature-dense, but beloved by soldiers and security professionals for their durable design, precision adjustments, and reliable performance.",
+        "descriptionToken":  "@manufacturer_DescNVTC",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/NV-Tac_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "4a05001d-0511-415f-8e32-618fbd75242b",
+        "code":  "OCT",
         "displayName":  "Octagon",
-        "description":  "PH Octagon Description"
+        "displayNameToken":  "@manufacturer_NameOCT",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH Octagon Description",
+        "descriptionToken":  "@manufacturer_DescOCT",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/octagon_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "6f5af1a4-a50d-41e5-8bb0-c1acd89d4b9e",
+        "code":  "OPS",
         "displayName":  "OpalSky",
-        "description":  "Classic, simple and timeless, OpalSky creates casual attire. What millionaires wear when lounging on their space yachts."
+        "displayNameToken":  "@manufacturer_NameOPS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Classic, simple and timeless, OpalSky creates casual attire. What millionaires wear when lounging on their space yachts.",
+        "descriptionToken":  "@manufacturer_DescOPS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/OpalSky_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "1e47a9ec-a3f0-431d-be0e-377712e1ed84",
+        "code":  "ORIG",
         "displayName":  "Origin Jumpworks",
-        "description":  "Known primarily for high-end ship manufacturing, but also provides some custom parts for their ships - particularly maneuvering thrusters. Sleek and elegant fusion of art and engineering"
+        "displayNameToken":  "@manufacturer_NameOrigin",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Known primarily for high-end ship manufacturing, but also provides some custom parts for their ships - particularly maneuvering thrusters. Sleek and elegant fusion of art and engineering",
+        "descriptionToken":  "@manufacturer_DescOrigin",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Origin_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_orig_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_orig_square_white.tif"
     },
     {
         "ref":  "055fe7c5-2e02-4e3a-aacb-f289563fabbd",
+        "code":  "ASD",
         "displayName":  "PH Associated Science and Development",
-        "description":  "PH Associated Science and Development Description"
+        "displayNameToken":  "@manufacturer_NameASAD",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH Associated Science and Development Description",
+        "descriptionToken":  "@manufacturer_DescASAD",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/AssociatedScienceAndDevelopment_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "64f8b397-8c0d-40b0-96a0-52bbeb41e5ad",
+        "code":  null,
         "displayName":  "Quirinus Tech",
-        "description":  "Quirinus Tech Description"
+        "displayNameToken":  "@manufacturer_NameQRT",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Quirinus Tech Description",
+        "descriptionToken":  "@manufacturer_DescQRT",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/QuirinusTech_256_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "1ddcadf0-7bb0-4fa9-94f0-6af19432631c",
+        "code":  "R6P",
         "displayName":  "R6 Pro",
-        "description":  "R6 Pro's rugged footwear is made to withstand wear and tear in even the most extreme environments, so even if you get knocked down, we're there to help you get back up again."
+        "displayNameToken":  "@manufacturer_NameR6P",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "R6 Pro\u0027s rugged footwear is made to withstand wear and tear in even the most extreme environments, so even if you get knocked down, we\u0027re there to help you get back up again.",
+        "descriptionToken":  "@manufacturer_DescR6P",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/r6pro_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "e7489831-23c1-4629-ab36-221bb9bad06f",
+        "code":  "RMB",
         "displayName":  "Rambler",
-        "description":  "PH - Rambler Description"
+        "displayNameToken":  "@manufacturer_NameRMB",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH - Rambler Description",
+        "descriptionToken":  "@manufacturer_DescRMB",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Rambler_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "57432775-b421-45cc-8616-ac2d35018193",
+        "code":  "RACO",
         "displayName":  "RAMP Corporation",
-        "description":  "Manufacturer of consumer and pro-grade ship components, RAMP Corp sponsors the Team RAMP M50 racing team."
+        "displayNameToken":  "@manufacturer_NameRACO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Manufacturer of consumer and pro-grade ship components, RAMP Corp sponsors the Team RAMP M50 racing team.",
+        "descriptionToken":  "@manufacturer_DescRACO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Ramp_Corporation_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "093e6eba-93fa-4dad-b3dd-38966934e34e",
+        "code":  "RSI",
         "displayName":  "Roberts Space Industries",
-        "description":  "The original creators of the engine that kickstarted Humanity’s expansion into space, Roberts Space Industries builds a wide range of spaceships that serve all needs, from basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is “Roberts Space Industries: Delivering the Stars since 2075”"
+        "displayNameToken":  "@manufacturer_NameRSI",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "The original creators of the engine that kickstarted Humanityï¿½s expansion into space, Roberts Space Industries builds a wide range of spaceships that serve all needs, from basic interstellar travel to deep exploration on the outer edges of the galaxy. The tagline is ï¿½Roberts Space Industries: Delivering the Stars since 2075ï¿½",
+        "descriptionToken":  "@manufacturer_DescRSI",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/RSI_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_rsi_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_rsi_square_white.tif"
     },
     {
         "ref":  "73a6ba90-8f53-423d-ad0b-96e81b7e18a5",
+        "code":  "RRS",
         "displayName":  "Roussimoff Rehabilitation Systems",
-        "description":  "Roussimoff Rehabilitation Systems (RRS) is an Earth-based corporation that provides rehabilitation services, personal body armor and defensive systems throughout the UEE. Their arms division is responsible for a groundbreaking series of new weaponry designed to incapacitate opponents without taking lives."
+        "displayNameToken":  "@manufacturer_NameRRS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Roussimoff Rehabilitation Systems (RRS) is an Earth-based corporation that provides rehabilitation services, personal body armor and defensive systems throughout the UEE. Their arms division is responsible for a groundbreaking series of new weaponry designed to incapacitate opponents without taking lives.",
+        "descriptionToken":  "@manufacturer_DescRRS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/roussimoff_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "40c59850-8fb5-4a0e-ab61-7fd3871a632a",
+        "code":  "SASU",
         "displayName":  "Sakura Sun",
-        "description":  "Soft drinks, high end kitchen equipment, children’s toys? Sakura Sun. Rover platforms, terraforming solutions, bioengineered livestock? Sakura Sun. High-tech wave cannons, starship power plants, antimatter ordinance? Sakura Sun! While corporate conglomerates are not uncommon, it’s rare for any company to advertise them all under the same banner. But at Sakura Sun, empire-building is in full effect: you’ll find a little bit of everything branded with a distinctive purple sun-and-cherry-blossom logo, from plastic Hi-Ho Flatcat figurines to top-of-the-line multi-particle/wave cannons. Stranger still, Sakura Sun has successfully gained a reputation as a company that not only does a little bit of everything, but does it well."
+        "displayNameToken":  "@manufacturer_NameSASU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Soft drinks, high end kitchen equipment, childrenï¿½s toys? Sakura Sun. Rover platforms, terraforming solutions, bioengineered livestock? Sakura Sun. High-tech wave cannons, starship power plants, antimatter ordinance? Sakura Sun! While corporate conglomerates are not uncommon, itï¿½s rare for any company to advertise them all under the same banner. But at Sakura Sun, empire-building is in full effect: youï¿½ll find a little bit of everything branded with a distinctive purple sun-and-cherry-blossom logo, from plastic Hi-Ho Flatcat figurines to top-of-the-line multi-particle/wave cannons. Stranger still, Sakura Sun has successfully gained a reputation as a company that not only does a little bit of everything, but does it well.",
+        "descriptionToken":  "@manufacturer_DescSASU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/SakuraSun_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "f91beb30-915c-42f6-9b1f-f5bd74633fd6",
+        "code":  "SECO",
         "displayName":  "Seal Corporation",
-        "description":  "One of the earliest companies to begin selling energy based shielding to civilians when the technology was declassified, Seal Corp has been in the industry centuries longer than its current modern day competition. For a while, the term ‘seal’ was ubiquitous with shield and Sammy the Seal Corp seal is still one of the most recognizable mascots across the ’verse. While they have lost some market share to competitors over the years, they are still the most widely used brand of shields and their products can be bought easily in almost every system."
+        "displayNameToken":  "@manufacturer_NameSECO",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "One of the earliest companies to begin selling energy based shielding to civilians when the technology was declassified, Seal Corp has been in the industry centuries longer than its current modern day competition. For a while, the term ï¿½sealï¿½ was ubiquitous with shield and Sammy the Seal Corp seal is still one of the most recognizable mascots across the ï¿½verse. While they have lost some market share to competitors over the years, they are still the most widely used brand of shields and their products can be bought easily in almost every system.",
+        "descriptionToken":  "@manufacturer_DescSECO",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/SealCorp_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "ab35f85f-919f-4457-8d58-4e885ea6c5c0",
+        "code":  "SHIN",
         "displayName":  "Shubin Interstellar",
-        "description":  "Shubin Interstellar Description"
+        "displayNameToken":  "@manufacturer_NameSHIN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Shubin Interstellar Description",
+        "descriptionToken":  "@manufacturer_DescSHIN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/ShubinInterstellar_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "e7c9f9ee-a1db-40ee-bfa8-a8ffead4ac1d",
+        "code":  "SPV",
         "displayName":  "Spar Van Miles",
-        "description":  "SPV brings you inventive twists and inspirational detailing for a day to night collection that is whatever you want it to be."
+        "displayNameToken":  "@manufacturer_NameSPV",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "SPV brings you inventive twists and inspirational detailing for a day to night collection that is whatever you want it to be.",
+        "descriptionToken":  "@manufacturer_DescSPV",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/SPV_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "20121812-97a6-4ce1-a6a4-88a5ed646c58",
+        "code":  "SCU",
         "displayName":  "Stegmans",
-        "description":  "SCU description"
+        "displayNameToken":  "@manufacturer_NameSCU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "SCU description",
+        "descriptionToken":  "@manufacturer_DescSCU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Stegmans_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "c4a97eae-00ee-4873-93c5-ee73209e3ec8",
+        "code":  null,
         "displayName":  "Stor*All",
-        "description":  "Stor*All is the largest manufacturer of storage containers in the empire, making everything from general purpose boxes to highly specialized containers for hazardous materials."
+        "displayNameToken":  "@manufacturer_NameSTOR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Stor*All is the largest manufacturer of storage containers in the empire, making everything from general purpose boxes to highly specialized containers for hazardous materials.",
+        "descriptionToken":  "@manufacturer_DescSTOR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_storall_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "0d3e6377-4be0-4c38-8269-3ac5dbd132d8",
+        "code":  "SYFB",
         "displayName":  "Syang Fabrication",
-        "description":  "PH Syang Fabrication Description"
+        "displayNameToken":  "@manufacturer_NameSYFB",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH Syang Fabrication Description",
+        "descriptionToken":  "@manufacturer_DescSYFB",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "587fcede-4fe9-4fb4-85ec-124abc8542b0",
+        "code":  "TALN",
         "displayName":  "Talon",
-        "description":  "A Croshaw-based munitions manufacturer that focuses on missiles, bombs, and torpedoes. \\n\\nIf it exists, there’s a Talon that can blow it up."
+        "displayNameToken":  "@manufacturer_NameTALN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "A Croshaw-based munitions manufacturer that focuses on missiles, bombs, and torpedoes. \\n\\nIf it exists, thereï¿½s a Talon that can blow it up.",
+        "descriptionToken":  "@manufacturer_DescTALN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Talon_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2b25a2dd-47ea-4ab0-8711-03d34be214b1",
+        "code":  "TARS",
         "displayName":  "Tarsus",
-        "description":  "Founded by a pair of mechanics who were attempting to make an affordable module that would convert a quantum drive into a jump drive, Tarsus has evolved to become one of the main producers of dependable jump drives in the UEE. Over time they also expanded to build their own quantum drives as well."
+        "displayNameToken":  "@manufacturer_NameTARS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Founded by a pair of mechanics who were attempting to make an affordable module that would convert a quantum drive into a jump drive, Tarsus has evolved to become one of the main producers of dependable jump drives in the UEE. Over time they also expanded to build their own quantum drives as well.",
+        "descriptionToken":  "@manufacturer_DescTARS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Tarsus_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "c0bc7b2d-9c1a-4029-9715-f28b81122863",
+        "code":  "THP",
         "displayName":  "Tehachapi",
-        "description":  "PH - Tehachapi Description"
+        "displayNameToken":  "@manufacturer_NameTHP",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH - Tehachapi Description",
+        "descriptionToken":  "@manufacturer_DescTHP",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Tehachapi_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d1a1bf03-89d9-4eae-ac34-11eeb8e45d8f",
+        "code":  "THCN",
         "displayName":  "Thermyte Concern",
-        "description":  "Thermyte Concern"
+        "displayNameToken":  "@manufacturer_NameTHCN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Thermyte Concern",
+        "descriptionToken":  "@manufacturer_DescTHCN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Thermyte_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "bb1024bc-b82e-491c-820c-36662c36feb3",
+        "code":  "TMBL",
         "displayName":  "Tumbril Land Systems",
-        "description":  "Tumbril Land Systems got its start manufacturing ultra-rugged land vehicles built to explore the strange and dangerous landscapes of newly discovered planets. With the onset of the First Tevarin War, Tumbril expanded their operations when they won a government contract to build tanks and other military vehicles for the UPE military. Over the centuries the company eventually folded. Today, the Tumbril brand has been revived to build land vehicles from tanks to exploration vehicles and personal HOVs in both the civilian and military market."
+        "displayNameToken":  "@manufacturer_NameTMBL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Tumbril Land Systems got its start manufacturing ultra-rugged land vehicles built to explore the strange and dangerous landscapes of newly discovered planets. With the onset of the First Tevarin War, Tumbril expanded their operations when they won a government contract to build tanks and other military vehicles for the UPE military. Over the centuries the company eventually folded. Today, the Tumbril brand has been revived to build land vehicles from tanks to exploration vehicles and personal HOVs in both the civilian and military market.",
+        "descriptionToken":  "@manufacturer_DescTMBL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Tumbril_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "a2a97679-2a6e-4e89-80d8-439c88a01427",
-        "displayName":  "Tyler Design & Tech",
-        "description":  "Tyler Design & Tech began its life manufacturing generators, air purifiers, and other necessities for planetary settlers. Tyler focused on making products that, while not as powerful as some other brands, were durable and extremely efficient with little heat byproduct which led to the development of low-signature power plants.  It wasn’t long before even the UEE Navy began to outfit some of their own stealth crafts with Tyler parts, and with their new success the company was able to expand their ship component line into what it is today."
+        "code":  "TYDT",
+        "displayName":  "Tyler Design \u0026 Tech",
+        "displayNameToken":  "@manufacturer_NameTYDT",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Tyler Design \u0026 Tech began its life manufacturing generators, air purifiers, and other necessities for planetary settlers.ï¿½Tyler focused on making products that, while not as powerful as some other brands, were durable and extremely efficient with little heat byproduct which led to the development of low-signature power plants.ï¿½ It wasnï¿½t long before even the UEE Navy began to outfit some of their own stealth crafts with Tyler parts, and with their new success the company was able to expand their ship component line into what it is today.",
+        "descriptionToken":  "@manufacturer_DescTYDT",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/TylerDesign_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d133f90d-bc69-4273-9867-6c03631f0c4b",
+        "code":  "NVY",
         "displayName":  "UEE Navy",
-        "description":  "(PH) UEE Navy - Description"
+        "displayNameToken":  "@manufacturer_NameNVY",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "(PH) UEE Navy - Description",
+        "descriptionToken":  "@manufacturer_DescNVY",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "da264d7b-755b-48a2-9580-4adc17ff7ad5",
+        "code":  "UTFL",
         "displayName":  "UltiFlex",
-        "description":  "Been around for a couple hundred years. Survival company that makes knives. Got their start by making combat knives for the UEE Army. Expanded their operations to the public after decades of proud service."
+        "displayNameToken":  "@manufacturer_NameUTFL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Been around for a couple hundred years. Survival company that makes knives. Got their start by making combat knives for the UEE Army. Expanded their operations to the public after decades of proud service.",
+        "descriptionToken":  "@manufacturer_DescUTFL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Ultiflex_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "2e06e775-940b-4c24-8974-31fb5617ea56",
+        "code":  "UEE",
         "displayName":  "United Empire of Earth",
-        "description":  "The unified collection of planets and systems under Human control, the UEE strives to create a safe and just empire, championing equality and opportunity for all its inhabitants."
+        "displayNameToken":  "@manufacturer_NameUEE",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "The unified collection of planets and systems under Human control, the UEE strives to create a safe and just empire, championing equality and opportunity for all its inhabitants.",
+        "descriptionToken":  "@manufacturer_DescUEE",
+        "logo":  null,
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "04ded06f-7862-4771-b40f-aa310b74ee17",
+        "code":  "UBA",
         "displayName":  "Universal Body Armor",
-        "description":  "- Universal Body Armor Description"
+        "displayNameToken":  "@manufacturer_NameUBA",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "- Universal Body Armor Description",
+        "descriptionToken":  "@manufacturer_DescUBA",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "587a3cae-5e66-4f22-b0fc-1a47d41cafef",
+        "code":  "UNKN",
         "displayName":  "Unknown",
-        "description":  "PH Unknown Manufacturer Description"
+        "displayNameToken":  "@manufacturer_NameUNKN",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH Unknown Manufacturer Description",
+        "descriptionToken":  "@manufacturer_DescUNKN",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "f444bb54-a422-44a0-abdb-a0384f0f5593",
+        "code":  "UPS",
         "displayName":  "Upsiders",
-        "description":  "Upsiders is a lifestyle footwear brand with excellent options for every member of your family."
+        "displayNameToken":  "@manufacturer_NameUPS",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Upsiders is a lifestyle footwear brand with excellent options for every member of your family.",
+        "descriptionToken":  "@manufacturer_DescUPS",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Upsiders_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "4668760a-d8a1-48d0-be4d-42304b702de0",
+        "code":  "VNC",
         "displayName":  "Vanduul",
-        "description":  "Military designations for the various Vanduul ship components."
+        "displayNameToken":  "@manufacturer_NameVNCL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Military designations for the various Vanduul ship components.",
+        "descriptionToken":  "@manufacturer_DescVNCL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Esperia_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "7dfff1b9-2bfa-4ace-86d9-30329a2a0f30",
+        "code":  "VPW",
         "displayName":  "Vaporwear",
-        "description":  "PH - Vaporwear Description"
+        "displayNameToken":  "@manufacturer_NameVPW",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "PH - Vaporwear Description",
+        "descriptionToken":  "@manufacturer_DescVPW",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "0e6d8f1b-ebb8-4773-8ca4-f25d737c8709",
+        "code":  "VGL",
         "displayName":  "Virgil",
-        "description":  "High-end Commercial and Personal armor manufacturer. Aside from combat uses, they build systems for heavy commercial and mining applications.\\n\\nModels: Achilles PDS (Heavy Combat Armor)\\n\\nZeus System (Titan Armor)"
+        "displayNameToken":  "@manufacturer_NameVGL",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "High-end Commercial and Personal armor manufacturer. Aside from combat uses, they build systems for heavy commercial and mining applications.\\n\\nModels: Achilles PDS (Heavy Combat Armor)\\n\\nZeus System (Titan Armor)",
+        "descriptionToken":  "@manufacturer_DescVGL",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Virgil_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "0f9ffe57-8542-4d83-a246-72568a5f2f91",
+        "code":  "WETK",
         "displayName":  "Wei-Tek",
-        "description":  "Upstart company made by former employees of Ascension Astro."
+        "displayNameToken":  "@manufacturer_NameWETK",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Upstart company made by former employees of Ascension Astro.",
+        "descriptionToken":  "@manufacturer_DescWETK",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Wei-Tek_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "d8ef0f35-e196-4d18-affa-750f6cdf8cb4",
+        "code":  "WCPR",
         "displayName":  "Wen/Cassel Propulsion",
-        "description":  "Subsidiary of RSI, handles a small percentage of their thruster and ship options construction as well as cooling systems."
+        "displayNameToken":  "@manufacturer_NameWCPR",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Subsidiary of RSI, handles a small percentage of their thruster and ship options construction as well as cooling systems.",
+        "descriptionToken":  "@manufacturer_DescWCPR",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/WenCassel_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "967cd454-20d9-4cb8-8465-990ff1a1f769",
+        "code":  "WLOP",
         "displayName":  "WillsOp",
-        "description":  "WillsOp have products to cover the whole spectrum of electronic analysis from tracking and targeting to scanners and deep-space radar."
+        "displayNameToken":  "@manufacturer_NameWLOP",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "WillsOp have products to cover the whole spectrum of electronic analysis from tracking and targeting to scanners and deep-space radar.",
+        "descriptionToken":  "@manufacturer_DescWLOP",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_willsop_diff.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "435366d8-8b47-4cbc-b0cf-688a95a0847d",
+        "code":  "YORM",
         "displayName":  "Yorm",
-        "description":  "Gotlieb Yorm was a top racing pilot on the professional circuit, who was known for his willingness to do anything to shave a few more seconds off his lap times. For a short while, before the Safety Commission stepped in, he would race naked, claiming clothes were an unnecessary weight. Another such innovation that was considerably more successful (and modest) was his insistence that the shields being used on his racer were too powerful. He really only needed to be able to fend off a few shots, because after that he would either have maneuvered his ship out of targeting range, or he would have lost the race anyway. Gutting apart an existing shield by hand, Yorm hacked together a lighter shield that would draw less power and only protect him just enough to escape. Soon, many other racers were trying to mimic his efforts, and when Yorm retired, he went on to successfully sell his modified shield design."
+        "displayNameToken":  "@manufacturer_NameYORM",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Gotlieb Yorm was a top racing pilot on the professional circuit, who was known for his willingness to do anything to shave a few more seconds off his lap times. For a short while, before the Safety Commission stepped in, he would race naked, claiming clothes were an unnecessary weight. Another such innovation that was considerably more successful (and modest) was his insistence that the shields being used on his racer were too powerful. He really only needed to be able to fend off a few shots, because after that he would either have maneuvered his ship out of targeting range, or he would have lost the race anyway. Gutting apart an existing shield by hand, Yorm hacked together a lighter shield that would draw less power and only protect him just enough to escape. Soon, many other racers were trying to mimic his efforts, and when Yorm retired, he went on to successfully sell his modified shield design.",
+        "descriptionToken":  "@manufacturer_DescYORM",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/yorm_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
     }
 ]

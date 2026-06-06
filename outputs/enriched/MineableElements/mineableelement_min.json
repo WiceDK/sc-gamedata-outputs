@@ -1,39 +1,24 @@
 ﻿[
     {
-        "ref":  "0a523c7c-6fa5-4061-81ce-f1537e255c3e",
-        "fileName":  "minableelement_fps_vlklimpet.xml",
-        "miningMode":  "fps",
-        "miningContexts":  [
-                               "fps"
-                           ],
-        "oreResourceTypeName":  null,
-        "refinedResourceTypeName":  null,
-        "resourceTypeGroup":  null,
-        "oreDensityGcm3":  null,
-        "densityKgPerSCU":  null,
-        "instabilityRating":  0,
-        "resistance":  -100,
-        "explosionMultiplier":  0,
-        "clusterFactor":  0,
-        "optimalWindowMidpoint":  0.5,
-        "optimalWindowRandomness":  0.3,
-        "optimalWindowThinness":  5,
-        "scanSignature":  null,
-        "densityProfiles":  [
-                                {
-                                    "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
-                                }
-                            ]
-    },
-    {
         "ref":  "d61d6c33-e428-4014-9326-0b06034de16a",
-        "fileName":  "agricium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0880d6d0-bee5-41b1-9aef-cc040a539ecf",
+                                      "0a6060e6-261f-4f87-8fc9-07a6342d579e",
+                                      "20724d8d-ab6e-4a69-8837-ebd850e2cfab",
+                                      "2b934c4b-f47c-46b4-bad0-be8a24d6b94a",
+                                      "71c571c4-6af9-4327-83a6-e8fb0f11a6d3",
+                                      "9f6c0f45-2b55-4c5c-90d0-8f14b09a3149",
+                                      "d33a13d8-3b81-429d-bb3e-b3f7de912983",
+                                      "e2e4a538-7f96-4c9b-8136-fb961dd37cea"
+                                  ],
+        "resourceRef":  "fc1ec740-3047-48d8-81f0-396f4c9a90ef",
+        "oreResourceTypeRef":  "fc1ec740-3047-48d8-81f0-396f4c9a90ef",
+        "refinedResourceTypeRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
         "oreResourceTypeName":  "Agricium (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -50,22 +35,42 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "3776294d-5689-41f2-b03d-e8fcd17ede6a",
-        "fileName":  "aluminium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0d5911b5-0eb3-47c4-a56f-89e4b1e82c1a",
+                                      "454fd533-5d95-4619-a345-b0379ce94a12",
+                                      "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
+                                      "f7959de5-2bd2-43ab-aae3-4d057d624852"
+                                  ],
+        "resourceRef":  "e30bdd32-8fd5-44b8-9994-5fd253a16c37",
+        "oreResourceTypeRef":  "e30bdd32-8fd5-44b8-9994-5fd253a16c37",
+        "refinedResourceTypeRef":  "48c7080a-bbef-43d2-901a-698321ed4340",
         "oreResourceTypeName":  "Aluminum (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -82,21 +87,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "2ee59447-83e0-4f26-899e-df66780008e3",
-        "fileName":  "minableelement_fps_aphorite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "cd0d31e5-4858-4ad5-824f-9b58936120ef"
+                                  ],
+        "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+        "oreResourceTypeRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Aphorite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -113,17 +135,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "a2b247b4-f3a8-4f51-9690-9773a0ce3bd7",
-        "fileName":  "minableelement_fps_flowstone.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "edfb6acd-3507-4a2e-9127-29f5bf903965"
+                                  ],
+        "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+        "oreResourceTypeRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Aphorite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -140,18 +173,34 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "f65bd0df-562b-48f9-8d07-c187658eb796",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps_obstacle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps_obstacle.xml"
                                 }
                             ]
     },
     {
         "ref":  "9bd0e34c-2b34-42a3-b41d-381088ff6fed",
-        "fileName":  "aslarite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0a6060e6-261f-4f87-8fc9-07a6342d579e",
+                                      "20724d8d-ab6e-4a69-8837-ebd850e2cfab",
+                                      "2b934c4b-f47c-46b4-bad0-be8a24d6b94a",
+                                      "71c571c4-6af9-4327-83a6-e8fb0f11a6d3",
+                                      "d33a13d8-3b81-429d-bb3e-b3f7de912983",
+                                      "e2e4a538-7f96-4c9b-8136-fb961dd37cea"
+                                  ],
+        "resourceRef":  "f0c1f30b-001c-4a80-ac20-27df27183056",
+        "oreResourceTypeRef":  "f0c1f30b-001c-4a80-ac20-27df27183056",
+        "refinedResourceTypeRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
         "oreResourceTypeName":  "Aslarite (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -168,21 +217,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "76e7e6e9-6508-47a1-a381-e34ec1c997ce",
-        "fileName":  "minableelement_groundvehicle_beradom.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
                                "groundvehicle"
                            ],
+        "linkedCompositionRefs":  [
+                                      "3c8b57fb-77d7-467d-b72e-7a2889554899"
+                                  ],
+        "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+        "oreResourceTypeRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Beradom",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -199,18 +265,32 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "groundvehicle",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
                                 }
                             ]
     },
     {
         "ref":  "cad02f99-292c-4ee4-93cc-a73868f11ddb",
-        "fileName":  "beryl_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "2c7237f3-4061-4379-a050-55f372dbbe00",
+                                      "46c05568-b83a-4e7b-862c-cc31be4bae50",
+                                      "918f0b57-632b-4f0c-b8b5-869333ba5613",
+                                      "f08cf919-8503-430e-9fe6-06e44f0fae31"
+                                  ],
+        "resourceRef":  "eb503701-389a-48a1-af28-eb7374009d5d",
+        "oreResourceTypeRef":  "eb503701-389a-48a1-af28-eb7374009d5d",
+        "refinedResourceTypeRef":  "93c8b7df-d6ac-4b4f-a115-b0e3afc238b8",
         "oreResourceTypeName":  "Beryl (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -227,22 +307,44 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "f48b147f-713e-481f-adf2-ff9869ac61bd",
-        "fileName":  "bexalite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "004c1ddd-ee4e-4c77-92bd-50739bb0e23e",
+                                      "387cb792-f770-4eee-a525-e4cacd2cb2d1",
+                                      "4e79ec1e-84ae-4f7c-a566-6e52aa5959ba",
+                                      "5a862c96-f156-4dba-94fb-a159166100f3",
+                                      "885a28d1-911c-4454-aef6-2ccad8bc6227",
+                                      "b42b8e22-a4cb-4847-aaa4-f93e11fa97cb"
+                                  ],
+        "resourceRef":  "3848c27d-49cc-4fdb-9a18-e93770bc8bc2",
+        "oreResourceTypeRef":  "3848c27d-49cc-4fdb-9a18-e93770bc8bc2",
+        "refinedResourceTypeRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
         "oreResourceTypeName":  "Bexalite (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -259,22 +361,44 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
-        "fileName":  "borase_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "004c1ddd-ee4e-4c77-92bd-50739bb0e23e",
+                                      "387cb792-f770-4eee-a525-e4cacd2cb2d1",
+                                      "4e79ec1e-84ae-4f7c-a566-6e52aa5959ba",
+                                      "5a862c96-f156-4dba-94fb-a159166100f3",
+                                      "885a28d1-911c-4454-aef6-2ccad8bc6227",
+                                      "b42b8e22-a4cb-4847-aaa4-f93e11fa97cb"
+                                  ],
+        "resourceRef":  "728a3d7e-9567-4e1c-87fd-2bd45b458aa6",
+        "oreResourceTypeRef":  "728a3d7e-9567-4e1c-87fd-2bd45b458aa6",
+        "refinedResourceTypeRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
         "oreResourceTypeName":  "Borase (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -291,21 +415,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "169ed316-3944-432f-88fa-0a39c5e6d2de",
-        "fileName":  "minableelement_fps_carinite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "f8332ddb-07d8-416d-81ee-05acebb54ce2"
+                                  ],
+        "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+        "oreResourceTypeRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Carinite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -322,17 +463,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "c793af1c-7dab-457e-a74d-88c435c9708b",
-        "fileName":  "minableelement_groundvehicle_carinite.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
                                "groundvehicle"
                            ],
+        "linkedCompositionRefs":  [
+                                      "4a907bfe-8a0b-4608-b6e5-793ec1ab722d"
+                                  ],
+        "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+        "oreResourceTypeRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Carinite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -349,17 +501,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "groundvehicle",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
                                 }
                             ]
     },
     {
         "ref":  "60d46a41-5930-4a13-9c72-bd988192d3a1",
-        "fileName":  "minableelement_fps_carinitepure.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "ca77b4fd-2d5a-4981-a59b-009659031dbd"
+                                  ],
+        "resourceRef":  "80dd9dd7-1a4e-41b9-9b3b-4f385b87396c",
+        "oreResourceTypeRef":  "80dd9dd7-1a4e-41b9-9b3b-4f385b87396c",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Carinite (Pure)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -376,18 +539,32 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
-        "fileName":  "copper_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0739cc49-707f-4b00-91fa-f16f6eaadf90",
+                                      "64799ef4-d78d-4828-b039-73ffcf7470a4",
+                                      "f5bcbf37-d613-4b51-897f-a11572d5f575",
+                                      "f9361e5b-fb9f-444f-8ed7-a4e5dd6fee81"
+                                  ],
+        "resourceRef":  "d4ba4af8-80f1-4a8a-b8cd-5ba7e37c005c",
+        "oreResourceTypeRef":  "d4ba4af8-80f1-4a8a-b8cd-5ba7e37c005c",
+        "refinedResourceTypeRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
         "oreResourceTypeName":  "Copper (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -404,22 +581,42 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "b471b96c-efbb-4342-90de-cfa087604d8e",
-        "fileName":  "corundum_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0d5911b5-0eb3-47c4-a56f-89e4b1e82c1a",
+                                      "454fd533-5d95-4619-a345-b0379ce94a12",
+                                      "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
+                                      "f7959de5-2bd2-43ab-aae3-4d057d624852"
+                                  ],
+        "resourceRef":  "4ceb21c5-48f8-418a-8188-0b0196c33505",
+        "oreResourceTypeRef":  "4ceb21c5-48f8-418a-8188-0b0196c33505",
+        "refinedResourceTypeRef":  "4236c16b-c47f-4083-9e26-4313733f2326",
         "oreResourceTypeName":  "Corundum (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -436,21 +633,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "efb89e24-486d-4eee-ab5c-85b90a3bdad1",
-        "fileName":  "diamond_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
 
                            ],
+        "linkedCompositionRefs":  [
+
+                                  ],
+        "resourceRef":  "9491a4b4-7887-49fc-af04-e7f132078d0f",
+        "oreResourceTypeRef":  "9491a4b4-7887-49fc-af04-e7f132078d0f",
+        "refinedResourceTypeRef":  "935255d1-2eda-414b-bdd7-207e57c26e36",
         "oreResourceTypeName":  "Diamond (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -470,11 +684,16 @@
     },
     {
         "ref":  "c2a1ab26-6b2a-4258-8bae-b32cf08818bc",
-        "fileName":  "minableelement_fps_dolivine.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "426dcee4-3bd9-4064-a415-0184b92191e6"
+                                  ],
+        "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+        "oreResourceTypeRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Dolivine",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -491,17 +710,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "7e0eaf11-77e6-48c9-a184-f88648e7c148",
-        "fileName":  "minableelement_groundvehicle_feynmaline.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
                                "groundvehicle"
                            ],
+        "linkedCompositionRefs":  [
+                                      "27ca5eac-b98f-4eb0-ab50-82e81490c7ab"
+                                  ],
+        "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+        "oreResourceTypeRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Feynmaline",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -518,17 +748,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "groundvehicle",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
                                 }
                             ]
     },
     {
         "ref":  "7e465c37-1d58-4533-a6e4-13abf1073554",
-        "fileName":  "minableelement_groundvehicle_glacosite.xml",
         "miningMode":  "groundvehicle",
         "miningContexts":  [
                                "groundvehicle"
                            ],
+        "linkedCompositionRefs":  [
+                                      "841a9a3e-cce6-4144-b22c-b0445579fa47"
+                                  ],
+        "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+        "oreResourceTypeRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Glacosite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -545,18 +786,36 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "groundvehicle",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "4bf85118-d762-475f-b11e-5b4b3a55cd8b",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsgroundvehicle.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsgroundvehicle.xml"
                                 }
                             ]
     },
     {
         "ref":  "f2f5bf2e-87f9-4f3d-bb59-b4e11eceeaad",
-        "fileName":  "gold_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "004c1ddd-ee4e-4c77-92bd-50739bb0e23e",
+                                      "3375ee93-f695-40d2-b86c-1ad23802e59b",
+                                      "387cb792-f770-4eee-a525-e4cacd2cb2d1",
+                                      "4e79ec1e-84ae-4f7c-a566-6e52aa5959ba",
+                                      "5a862c96-f156-4dba-94fb-a159166100f3",
+                                      "885a28d1-911c-4454-aef6-2ccad8bc6227",
+                                      "b42b8e22-a4cb-4847-aaa4-f93e11fa97cb",
+                                      "d19e906e-e262-4b4d-8713-5c52186f9d2f"
+                                  ],
+        "resourceRef":  "57aba429-cf97-4fdd-8042-94b1d643f5bd",
+        "oreResourceTypeRef":  "57aba429-cf97-4fdd-8042-94b1d643f5bd",
+        "refinedResourceTypeRef":  "21825507-7923-4683-9bf3-9cfe316940e3",
         "oreResourceTypeName":  "Gold (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -573,21 +832,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "3af2af8d-5850-4900-ac7a-f9b38a959a07",
-        "fileName":  "minableelement_fps_hadanite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "b67114a3-683b-49be-b6a5-c712e7338901"
+                                  ],
+        "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+        "oreResourceTypeRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Hadanite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -604,18 +880,34 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "220c2e18-9324-4528-b399-2f908488b204",
-        "fileName":  "hephaestanite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "44035494-974e-47f5-98a2-79a1616b62a6",
+                                      "836eb20c-3a2e-422d-a797-27c2f0ed755d",
+                                      "984fcc10-90b2-433f-ba95-79ce692d855b",
+                                      "9b0c86e4-82bc-42d9-99ea-3201e6072553",
+                                      "becf21b0-3812-4e04-aeb5-031d61104fdd",
+                                      "eed529e2-a1c1-4227-b0a7-6c5b0acd7823"
+                                  ],
+        "resourceRef":  "cad319d9-e0e5-420d-bbfd-dd62a0362d05",
+        "oreResourceTypeRef":  "cad319d9-e0e5-420d-bbfd-dd62a0362d05",
+        "refinedResourceTypeRef":  "61189578-ed7a-4491-9774-37ae2f82b8b0",
         "oreResourceTypeName":  "Hephaestanite (R)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -632,22 +924,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "05708bae-1cb1-4e63-bb95-ec7f4a3ef430",
-        "fileName":  "iron_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "6d8ce739-5180-4479-a43b-e1c2a580d72d",
+                                      "ece23c39-ebb8-4a72-871b-5413e70619bf"
+                                  ],
+        "resourceRef":  "32c57a12-5de5-49b1-827a-9fd80278fbc4",
+        "oreResourceTypeRef":  "32c57a12-5de5-49b1-827a-9fd80278fbc4",
+        "refinedResourceTypeRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
         "oreResourceTypeName":  "Iron (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -664,21 +974,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "f5b8c10a-521b-40f6-8761-1863e71fb8d4",
-        "fileName":  "minableelement_fps_jaclium.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "76cd0067-53dd-47c1-ab20-5d38be542389"
+                                  ],
+        "resourceRef":  "2c1e1693-4d19-446c-8224-ebad36feb618",
+        "oreResourceTypeRef":  "2c1e1693-4d19-446c-8224-ebad36feb618",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Jaclium (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -695,17 +1022,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "7e324c5c-1b28-400a-ab66-290188ef282c",
-        "fileName":  "minableelement_fps_janalite.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "50e8f768-6367-4139-b4ea-92b48fdfe9bd"
+                                  ],
+        "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+        "oreResourceTypeRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Janalite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -722,18 +1060,34 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "8375a8d8-1627-4d35-ae91-6f39b373c3ad",
-        "fileName":  "laranite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "1c258df0-10f5-4550-acc7-9b9b9ecb2d20",
+                                      "2aaef6ae-ec1d-41f3-9c33-c6f37c4f4535",
+                                      "4b7cb296-c7be-4d8b-9c3b-b4c3c3488193",
+                                      "cd1dfb3a-d5cb-4017-8135-3707b863ddf9",
+                                      "f69ad5eb-97f4-4623-ae8e-f7c12ba09598",
+                                      "faf633b8-c425-4109-b20f-ccc8180b6bca"
+                                  ],
+        "resourceRef":  "7b7178c1-b0f0-4760-89de-9a3e3851e7a8",
+        "oreResourceTypeRef":  "7b7178c1-b0f0-4760-89de-9a3e3851e7a8",
+        "refinedResourceTypeRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
         "oreResourceTypeName":  "Laranite (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -750,22 +1104,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "1ec31863-26a8-446e-9805-448bb50253ed",
-        "fileName":  "lindinium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "ca4881b0-5183-4ca4-b0c2-8bcb2d5b3e55",
+                                      "fd7dc10a-19a4-4f82-aae2-52ac35bda567"
+                                  ],
+        "resourceRef":  "87327e0c-86a7-4c6b-82c3-d0c8fe6bf15f",
+        "oreResourceTypeRef":  "87327e0c-86a7-4c6b-82c3-d0c8fe6bf15f",
+        "refinedResourceTypeRef":  "392b4dca-449a-4d4d-8fef-beab024d9ee7",
         "oreResourceTypeName":  "Lindinium (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -782,22 +1154,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "fc62043c-3f29-4fff-b754-2301762723f7",
-        "fileName":  "quantainium_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "46c05568-b83a-4e7b-862c-cc31be4bae50",
+                                      "f08cf919-8503-430e-9fe6-06e44f0fae31"
+                                  ],
+        "resourceRef":  "501d9b2e-136c-483b-a4d9-282fe6a5d37a",
+        "oreResourceTypeRef":  "501d9b2e-136c-483b-a4d9-282fe6a5d37a",
+        "refinedResourceTypeRef":  "bde5a2c8-2ef4-46ac-9403-2fcb79e4016c",
         "oreResourceTypeName":  "Quantainium (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -814,22 +1204,42 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "1d35c0bc-9142-42ff-8a83-0ec68d69a128",
-        "fileName":  "quartz_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "44035494-974e-47f5-98a2-79a1616b62a6",
+                                      "984fcc10-90b2-433f-ba95-79ce692d855b",
+                                      "9b0c86e4-82bc-42d9-99ea-3201e6072553",
+                                      "becf21b0-3812-4e04-aeb5-031d61104fdd"
+                                  ],
+        "resourceRef":  "8569b931-06bb-4d86-9f24-5e303e2ff3ee",
+        "oreResourceTypeRef":  "8569b931-06bb-4d86-9f24-5e303e2ff3ee",
+        "refinedResourceTypeRef":  "35121003-f1af-481a-b16f-7f48d8af0efb",
         "oreResourceTypeName":  "Quartz (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -846,22 +1256,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "51745536-ff2b-4840-a6f8-b1ed498a77ff",
-        "fileName":  "ice_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "3fc54018-acc4-4b34-aac1-bb97aa2bbece",
+                                      "606cffd3-77a5-4d87-8927-049f1de6b686"
+                                  ],
+        "resourceRef":  "d9653427-af7f-4fea-bbd6-ae89393524b7",
+        "oreResourceTypeRef":  "d9653427-af7f-4fea-bbd6-ae89393524b7",
+        "refinedResourceTypeRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
         "oreResourceTypeName":  "Raw Ice",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Natural Materials",
@@ -878,22 +1306,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "8723956e-e947-4b84-9dcb-b2c6137895ab",
-        "fileName":  "ouratite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0880d6d0-bee5-41b1-9aef-cc040a539ecf",
+                                      "9f6c0f45-2b55-4c5c-90d0-8f14b09a3149"
+                                  ],
+        "resourceRef":  "ca3ae4c1-3483-4985-ba61-50412994dc83",
+        "oreResourceTypeRef":  "ca3ae4c1-3483-4985-ba61-50412994dc83",
+        "refinedResourceTypeRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
         "oreResourceTypeName":  "Raw Ouratite",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Nonmetals",
@@ -910,22 +1356,44 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "219e8523-b953-4517-812a-0fb2eb023209",
-        "fileName":  "silicon_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "44035494-974e-47f5-98a2-79a1616b62a6",
+                                      "836eb20c-3a2e-422d-a797-27c2f0ed755d",
+                                      "984fcc10-90b2-433f-ba95-79ce692d855b",
+                                      "9b0c86e4-82bc-42d9-99ea-3201e6072553",
+                                      "becf21b0-3812-4e04-aeb5-031d61104fdd",
+                                      "eed529e2-a1c1-4227-b0a7-6c5b0acd7823"
+                                  ],
+        "resourceRef":  "d137b905-b3bc-4721-a790-830499263c0c",
+        "oreResourceTypeRef":  "d137b905-b3bc-4721-a790-830499263c0c",
+        "refinedResourceTypeRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
         "oreResourceTypeName":  "Raw Silicon",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Nonmetals",
@@ -942,22 +1410,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "905e9623-5e74-4a92-9cb1-72203ed8baad",
-        "fileName":  "riccite_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "cd1dfb3a-d5cb-4017-8135-3707b863ddf9",
+                                      "faf633b8-c425-4109-b20f-ccc8180b6bca"
+                                  ],
+        "resourceRef":  "c3697191-8ad0-43a9-af7a-29c0ad58de34",
+        "oreResourceTypeRef":  "c3697191-8ad0-43a9-af7a-29c0ad58de34",
+        "refinedResourceTypeRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
         "oreResourceTypeName":  "Riccite (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -974,21 +1460,38 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "af5ae7e0-467e-44c1-abd1-b5ce8ed63bcf",
-        "fileName":  "minableelement_fps_sadaryx.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "81165186-bf7e-477c-8623-4ca66887be58"
+                                  ],
+        "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+        "oreResourceTypeRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Sadaryx",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -1005,17 +1508,28 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "8bb75cd2-f59d-40a5-9077-55089c1626c4",
-        "fileName":  "minableelement_fps_saldynium.xml",
         "miningMode":  "fps",
         "miningContexts":  [
                                "fps"
                            ],
+        "linkedCompositionRefs":  [
+                                      "3c6e53f8-fe56-4000-b673-f90f42396876"
+                                  ],
+        "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+        "oreResourceTypeRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+        "refinedResourceTypeRef":  null,
         "oreResourceTypeName":  "Saldynium (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1032,18 +1546,31 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "fps",
-                                    "massPerSCU":  0.000333
+                                    "globalParamsRef":  "a366df4d-03d9-4c7a-9adc-cb00a4935958",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  0.001,
+                                    "cSCUPerVolume":  3,
+                                    "massPerSCU":  0.000333,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsfps.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsfps.xml"
                                 }
                             ]
     },
     {
         "ref":  "6426f04e-2f7d-4c8e-a615-64aa582eaa31",
-        "fileName":  "savrilium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "3375ee93-f695-40d2-b86c-1ad23802e59b",
+                                      "3932307e-996c-4809-8eac-39a568c736cc",
+                                      "d19e906e-e262-4b4d-8713-5c52186f9d2f"
+                                  ],
+        "resourceRef":  "d76ea7ef-5116-488c-93d3-71e02bada13d",
+        "oreResourceTypeRef":  "d76ea7ef-5116-488c-93d3-71e02bada13d",
+        "refinedResourceTypeRef":  "4a47cad8-0271-4048-b19b-d9b52521fc20",
         "oreResourceTypeName":  "Savrilium (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1060,22 +1587,40 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "9498a080-84c0-41f4-b88f-71942c60c43f",
-        "fileName":  "sileron_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "30dc2e47-7eb0-4a08-ad72-e943b72f8e3d",
+                                      "5ec37175-69bd-4d19-a40a-69e7b3eec354"
+                                  ],
+        "resourceRef":  "32bafbd4-c52a-476d-b31c-97c4b3102471",
+        "oreResourceTypeRef":  "32bafbd4-c52a-476d-b31c-97c4b3102471",
+        "refinedResourceTypeRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
         "oreResourceTypeName":  "Stileron (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1092,22 +1637,42 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "8893c670-f9f7-48df-a05b-e85764994256",
-        "fileName":  "taranite_raw.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "30dc2e47-7eb0-4a08-ad72-e943b72f8e3d",
+                                      "5ec37175-69bd-4d19-a40a-69e7b3eec354",
+                                      "926a392b-6d1f-4cb8-916c-427c7dcc3923",
+                                      "9c41665b-1eb6-4f4e-ad1a-d01a0a41843e"
+                                  ],
+        "resourceRef":  "b6175879-fc61-4600-b4a9-1e15f2c2ddd5",
+        "oreResourceTypeRef":  "b6175879-fc61-4600-b4a9-1e15f2c2ddd5",
+        "refinedResourceTypeRef":  "06cafea0-49fe-4dce-b0f0-dc583316c66d",
         "oreResourceTypeName":  "Taranite (Raw)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Mineral",
@@ -1124,22 +1689,42 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "16b426e2-7ce1-4fb4-8b34-4d8617dd6a97",
-        "fileName":  "tin_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0739cc49-707f-4b00-91fa-f16f6eaadf90",
+                                      "64799ef4-d78d-4828-b039-73ffcf7470a4",
+                                      "f5bcbf37-d613-4b51-897f-a11572d5f575",
+                                      "f9361e5b-fb9f-444f-8ed7-a4e5dd6fee81"
+                                  ],
+        "resourceRef":  "551cf88d-c09f-46e3-99b3-66c60bb65af1",
+        "oreResourceTypeRef":  "551cf88d-c09f-46e3-99b3-66c60bb65af1",
+        "refinedResourceTypeRef":  "1b4c4042-5fdc-4b52-bec4-07085cb3520a",
         "oreResourceTypeName":  "Tin (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1156,22 +1741,44 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "7b9055e5-6d62-44dd-a725-a31d838301eb",
-        "fileName":  "titanium_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "0a6060e6-261f-4f87-8fc9-07a6342d579e",
+                                      "20724d8d-ab6e-4a69-8837-ebd850e2cfab",
+                                      "2b934c4b-f47c-46b4-bad0-be8a24d6b94a",
+                                      "71c571c4-6af9-4327-83a6-e8fb0f11a6d3",
+                                      "d33a13d8-3b81-429d-bb3e-b3f7de912983",
+                                      "e2e4a538-7f96-4c9b-8136-fb961dd37cea"
+                                  ],
+        "resourceRef":  "64978449-1d87-4a16-ba55-4b5f94fee217",
+        "oreResourceTypeRef":  "64978449-1d87-4a16-ba55-4b5f94fee217",
+        "refinedResourceTypeRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
         "oreResourceTypeName":  "Titanium (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1188,22 +1795,41 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "d0b10af3-e0f3-4bc3-b2d9-737dbb7846cf",
-        "fileName":  "torite_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "3932307e-996c-4809-8eac-39a568c736cc",
+                                      "98aa6986-1b1b-475b-8488-41ad6182d1da",
+                                      "ed5af002-dbbc-41aa-b5b3-44e686a83b36"
+                                  ],
+        "resourceRef":  "48b9b7ba-cd5e-458b-bb91-9b43eb46c568",
+        "oreResourceTypeRef":  "48b9b7ba-cd5e-458b-bb91-9b43eb46c568",
+        "refinedResourceTypeRef":  "75b37a54-45c9-4f27-ac09-9830f092dd86",
         "oreResourceTypeName":  "Torite (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1220,22 +1846,44 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     },
     {
         "ref":  "8f6a7e06-934d-4339-a0a2-75420b81369a",
-        "fileName":  "tungsten_ore.xml",
         "miningMode":  "ship",
         "miningContexts":  [
                                "asteroid",
                                "surface"
                            ],
+        "linkedCompositionRefs":  [
+                                      "1c258df0-10f5-4550-acc7-9b9b9ecb2d20",
+                                      "2aaef6ae-ec1d-41f3-9c33-c6f37c4f4535",
+                                      "4b7cb296-c7be-4d8b-9c3b-b4c3c3488193",
+                                      "ca4881b0-5183-4ca4-b0c2-8bcb2d5b3e55",
+                                      "f69ad5eb-97f4-4623-ae8e-f7c12ba09598",
+                                      "fd7dc10a-19a4-4f82-aae2-52ac35bda567"
+                                  ],
+        "resourceRef":  "addc9aa4-5d2d-4c0d-b01b-ad2b2e50a5d6",
+        "oreResourceTypeRef":  "addc9aa4-5d2d-4c0d-b01b-ad2b2e50a5d6",
+        "refinedResourceTypeRef":  "60f116f4-c02a-45b2-9ded-333747795124",
         "oreResourceTypeName":  "Tungsten (Ore)",
         "refinedResourceTypeName":  null,
         "resourceTypeGroup":  "Metal",
@@ -1252,11 +1900,23 @@
         "densityProfiles":  [
                                 {
                                     "miningContext":  "asteroid",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 },
                                 {
                                     "miningContext":  "surface",
-                                    "massPerSCU":  142.857143
+                                    "globalParamsRef":  "aa727a56-9937-4eb5-80c6-51b418d43177",
+                                    "entityDensityRef":  "6e889f53-d6bc-4b3e-80c5-875376e02194",
+                                    "defaultMass":  100,
+                                    "cSCUPerVolume":  0.7,
+                                    "massPerSCU":  142.857143,
+                                    "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\mining\\miningglobalparamsship.xml",
+                                    "sourceDataPath":  "libs/foundry/records/mining/miningglobalparamsship.xml"
                                 }
                             ]
     }

@@ -2,321 +2,449 @@
     {
         "code":  "equipment",
         "displayName":  "Equipment",
-        "parentCode":  null
+        "displayNameToken":  null,
+        "parentCode":  null,
+        "cigType":  null
     },
     {
         "code":  "equipment.armor",
         "displayName":  "Armor",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_armor",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.armor.char_armor_arms",
         "displayName":  "Arms",
-        "parentCode":  "equipment.armor"
+        "displayNameToken":  "@item_TypeChar_Armor_Arms",
+        "parentCode":  "equipment.armor",
+        "cigType":  "Char_Armor_Arms"
     },
     {
         "code":  "equipment.armor.char_armor_backpack",
         "displayName":  "Backpack",
-        "parentCode":  "equipment.armor"
+        "displayNameToken":  "@item_TypeChar_Armor_Backpack",
+        "parentCode":  "equipment.armor",
+        "cigType":  "Char_Armor_Backpack"
     },
     {
         "code":  "equipment.armor.char_armor_helmet",
         "displayName":  "Helmets",
-        "parentCode":  "equipment.armor"
+        "displayNameToken":  "@item_TypeChar_Armor_Helmet",
+        "parentCode":  "equipment.armor",
+        "cigType":  "Char_Armor_Helmet"
     },
     {
         "code":  "equipment.armor.char_armor_legs",
         "displayName":  "Legs",
-        "parentCode":  "equipment.armor"
+        "displayNameToken":  "@item_TypeChar_Armor_Legs",
+        "parentCode":  "equipment.armor",
+        "cigType":  "Char_Armor_Legs"
     },
     {
         "code":  "equipment.armor.char_armor_torso",
         "displayName":  "Torso",
-        "parentCode":  "equipment.armor"
+        "displayNameToken":  "@item_TypeChar_Armor_Torso",
+        "parentCode":  "equipment.armor",
+        "cigType":  "Char_Armor_Torso"
     },
     {
         "code":  "equipment.avionics",
         "displayName":  "Avionics",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_avionics",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.avionics.flightblade",
         "displayName":  "Flight Blade",
-        "parentCode":  "equipment.avionics"
+        "displayNameToken":  "@item_SubTypeFlightBlade",
+        "parentCode":  "equipment.avionics",
+        "cigType":  null
     },
     {
         "code":  "equipment.avionics.radar",
         "displayName":  "Radar",
-        "parentCode":  "equipment.avionics"
+        "displayNameToken":  "@item_TypeRadar",
+        "parentCode":  "equipment.avionics",
+        "cigType":  "Radar"
     },
     {
         "code":  "equipment.clothing",
         "displayName":  "Clothing",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_clothing",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.clothing.char_clothing_feet",
         "displayName":  "Footwear",
-        "parentCode":  "equipment.clothing"
+        "displayNameToken":  "@item_TypeChar_Clothing_Feet",
+        "parentCode":  "equipment.clothing",
+        "cigType":  "Char_Clothing_Feet"
     },
     {
         "code":  "equipment.clothing.char_clothing_hands",
         "displayName":  "Gloves",
-        "parentCode":  "equipment.clothing"
+        "displayNameToken":  "@item_TypeChar_Clothing_Hands",
+        "parentCode":  "equipment.clothing",
+        "cigType":  "Char_Clothing_Hands"
     },
     {
         "code":  "equipment.clothing.char_clothing_hat",
         "displayName":  "Hat",
-        "parentCode":  "equipment.clothing"
+        "displayNameToken":  "@item_TypeChar_Clothing_Hat",
+        "parentCode":  "equipment.clothing",
+        "cigType":  "Char_Clothing_Hat"
     },
     {
         "code":  "equipment.clothing.char_clothing_torso_1",
         "displayName":  "Jacket",
-        "parentCode":  "equipment.clothing"
+        "displayNameToken":  "@item_TypeChar_Clothing_Torso_1",
+        "parentCode":  "equipment.clothing",
+        "cigType":  "Char_Clothing_Torso_1"
     },
     {
         "code":  "equipment.clothing.char_clothing_legs",
         "displayName":  "Legwear",
-        "parentCode":  "equipment.clothing"
+        "displayNameToken":  "@item_TypeChar_Clothing_Legs",
+        "parentCode":  "equipment.clothing",
+        "cigType":  "Char_Clothing_Legs"
     },
     {
         "code":  "equipment.clothing.char_clothing_torso_0",
         "displayName":  "Shirt",
-        "parentCode":  "equipment.clothing"
+        "displayNameToken":  "@item_TypeChar_Clothing_Torso_0",
+        "parentCode":  "equipment.clothing",
+        "cigType":  "Char_Clothing_Torso_0"
     },
     {
         "code":  "equipment.paint",
         "displayName":  "Liveries",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_Paint",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.paint.paints",
         "displayName":  "Liveries",
-        "parentCode":  "equipment.paint"
+        "displayNameToken":  "@item_TypePaints",
+        "parentCode":  "equipment.paint",
+        "cigType":  "Paints"
     },
     {
         "code":  "equipment.misc",
         "displayName":  "Misc.",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_misc",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.misc.consumable",
         "displayName":  "Consumable",
-        "parentCode":  "equipment.misc"
+        "displayNameToken":  "@item_TypeConsumable",
+        "parentCode":  "equipment.misc",
+        "cigType":  "Consumable"
     },
     {
         "code":  "equipment.misc.drink",
         "displayName":  "Drink",
-        "parentCode":  "equipment.misc"
+        "displayNameToken":  "@item_TypeDrink",
+        "parentCode":  "equipment.misc",
+        "cigType":  "Drink"
     },
     {
         "code":  "equipment.misc.food",
         "displayName":  "Food",
-        "parentCode":  "equipment.misc"
+        "displayNameToken":  "@item_TypeFood",
+        "parentCode":  "equipment.misc",
+        "cigType":  "Food"
     },
     {
         "code":  "equipment.misc.misc",
         "displayName":  "Misc.",
-        "parentCode":  "equipment.misc"
+        "displayNameToken":  "@item_TypeMisc",
+        "parentCode":  "equipment.misc",
+        "cigType":  "Misc"
     },
     {
         "code":  "equipment.weapons",
         "displayName":  "Prsnl. Wpns.",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_weapons",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.weapons.weaponattachment",
         "displayName":  "Attachment",
-        "parentCode":  "equipment.weapons"
+        "displayNameToken":  "@item_TypeWeaponAttachment",
+        "parentCode":  "equipment.weapons",
+        "cigType":  "WeaponAttachment"
     },
     {
         "code":  "equipment.weapons.weaponpersonal",
         "displayName":  "Prsnl. Wpn.",
-        "parentCode":  "equipment.weapons"
+        "displayNameToken":  "@item_TypeWeaponPersonal",
+        "parentCode":  "equipment.weapons",
+        "cigType":  "WeaponPersonal"
     },
     {
         "code":  "equipment.systems",
         "displayName":  "Systems",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_systems",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.systems.cooler",
         "displayName":  "Cooler",
-        "parentCode":  "equipment.systems"
+        "displayNameToken":  "@item_TypeCooler",
+        "parentCode":  "equipment.systems",
+        "cigType":  "Cooler"
     },
     {
         "code":  "equipment.systems.powerplant",
         "displayName":  "Power Plant",
-        "parentCode":  "equipment.systems"
+        "displayNameToken":  "@item_TypePowerPlant",
+        "parentCode":  "equipment.systems",
+        "cigType":  "PowerPlant"
     },
     {
         "code":  "equipment.systems.quantumdrive",
         "displayName":  "Quantum Drives",
-        "parentCode":  "equipment.systems"
+        "displayNameToken":  "@item_TypeQuantumDrive",
+        "parentCode":  "equipment.systems",
+        "cigType":  "QuantumDrive"
     },
     {
         "code":  "equipment.systems.shield",
         "displayName":  "Shield Generator",
-        "parentCode":  "equipment.systems"
+        "displayNameToken":  "@item_TypeShield",
+        "parentCode":  "equipment.systems",
+        "cigType":  "Shield"
     },
     {
         "code":  "equipment.technology",
         "displayName":  "Technology",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_technology",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.technology.mobiglas",
         "displayName":  "mobiGlas",
-        "parentCode":  "equipment.technology"
+        "displayNameToken":  "@item_TypeMobiGlas",
+        "parentCode":  "equipment.technology",
+        "cigType":  "MobiGlas"
     },
     {
         "code":  "equipment.undersuit",
         "displayName":  "Undersuits",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_undersuit",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.undersuit.char_armor_undersuit",
         "displayName":  "Undersuit",
-        "parentCode":  "equipment.undersuit"
+        "displayNameToken":  "@item_TypeChar_Armor_Undersuit",
+        "parentCode":  "equipment.undersuit",
+        "cigType":  "Char_Armor_Undersuit"
     },
     {
         "code":  "equipment.utility",
         "displayName":  "Utility",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_utility",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.utility.container",
         "displayName":  "Container",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeContainer",
+        "parentCode":  "equipment.utility",
+        "cigType":  "Container"
     },
     {
         "code":  "equipment.utility.dockingcollar",
         "displayName":  "Docking Collar",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeDockingCollar",
+        "parentCode":  "equipment.utility",
+        "cigType":  "DockingCollar"
     },
     {
         "code":  "equipment.utility.externalfueltank",
         "displayName":  "External Fuel Tank",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeExternalFuelTank",
+        "parentCode":  "equipment.utility",
+        "cigType":  "ExternalFuelTank"
     },
     {
         "code":  "equipment.utility.displaytype_crafter",
         "displayName":  "Fabricator",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_displayType_Crafter",
+        "parentCode":  "equipment.utility",
+        "cigType":  null
     },
     {
         "code":  "equipment.utility.fuelnozzle",
         "displayName":  "Fuel Nozzle",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeFuelNozzle",
+        "parentCode":  "equipment.utility",
+        "cigType":  "FuelNozzle"
     },
     {
         "code":  "equipment.utility.gadget",
         "displayName":  "Gadgets",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeGadget",
+        "parentCode":  "equipment.utility",
+        "cigType":  "Gadget"
     },
     {
         "code":  "equipment.utility.weaponmining",
         "displayName":  "Mining Laser Heads",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeWeaponMining",
+        "parentCode":  "equipment.utility",
+        "cigType":  "WeaponMining"
     },
     {
         "code":  "equipment.utility.miningmodifier",
         "displayName":  "Mining Modules",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeMiningModifier",
+        "parentCode":  "equipment.utility",
+        "cigType":  "MiningModifier"
     },
     {
         "code":  "equipment.utility.salvagehead",
         "displayName":  "Salvage Beam",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeSalvageHead",
+        "parentCode":  "equipment.utility",
+        "cigType":  "SalvageHead"
     },
     {
         "code":  "equipment.utility.scraperbeam",
         "displayName":  "Scraper Beam",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_SubTypeScraperBeam",
+        "parentCode":  "equipment.utility",
+        "cigType":  null
     },
     {
         "code":  "equipment.utility.tractorbeam",
         "displayName":  "Tractor Beam",
-        "parentCode":  "equipment.utility"
+        "displayNameToken":  "@item_TypeTractorBeam",
+        "parentCode":  "equipment.utility",
+        "cigType":  "TractorBeam"
     },
     {
         "code":  "equipment.vehicle",
         "displayName":  "Vehicles",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@ui_inventory_tab_vehicle",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.vehicle.noitem_vehicle",
         "displayName":  "Vehicle",
-        "parentCode":  "equipment.vehicle"
+        "displayNameToken":  "@item_TypeNOITEM_Vehicle",
+        "parentCode":  "equipment.vehicle",
+        "cigType":  "NOITEM_Vehicle"
     },
     {
         "code":  "equipment.weaponry",
         "displayName":  "Vhcl. Wpns.",
-        "parentCode":  "equipment"
+        "displayNameToken":  "@itemPort_category_weaponry",
+        "parentCode":  "equipment",
+        "cigType":  null
     },
     {
         "code":  "equipment.weaponry.bomb",
         "displayName":  "Bombs",
-        "parentCode":  "equipment.weaponry"
+        "displayNameToken":  "@item_TypeBomb",
+        "parentCode":  "equipment.weaponry",
+        "cigType":  "Bomb"
     },
     {
         "code":  "equipment.weaponry.weapongun",
         "displayName":  "Gun",
-        "parentCode":  "equipment.weaponry"
+        "displayNameToken":  "@item_TypeWeaponGun",
+        "parentCode":  "equipment.weaponry",
+        "cigType":  "WeaponGun"
     },
     {
         "code":  "equipment.weaponry.missile",
         "displayName":  "Missile",
-        "parentCode":  "equipment.weaponry"
+        "displayNameToken":  "@item_TypeMissile",
+        "parentCode":  "equipment.weaponry",
+        "cigType":  "Missile"
     },
     {
         "code":  "equipment.weaponry.missilelauncher",
         "displayName":  "Missile Rack",
-        "parentCode":  "equipment.weaponry"
+        "displayNameToken":  "@item_TypeMissileLauncher",
+        "parentCode":  "equipment.weaponry",
+        "cigType":  "MissileLauncher"
     },
     {
         "code":  "equipment.weaponry.turret",
         "displayName":  "Turret",
-        "parentCode":  "equipment.weaponry"
+        "displayNameToken":  "@item_TypeTurret",
+        "parentCode":  "equipment.weaponry",
+        "cigType":  "Turret"
     },
     {
         "code":  "commodity",
         "displayName":  "Commodity",
-        "parentCode":  null
+        "displayNameToken":  null,
+        "parentCode":  null,
+        "cigType":  null
     },
     {
         "code":  "commodity.gas",
         "displayName":  "Gas",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "Gas"
     },
     {
         "code":  "commodity.metal",
         "displayName":  "Metal",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "Metal"
     },
     {
         "code":  "commodity.mineral",
         "displayName":  "Mineral",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "Mineral"
     },
     {
         "code":  "commodity.nonmetal",
         "displayName":  "Nonmetals",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "Nonmetal"
     },
     {
         "code":  "commodity.organic",
         "displayName":  "Natural Materials",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "Organic"
     },
     {
         "code":  "commodity.processedgoods",
         "displayName":  "Processed Goods",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "ProcessedGoods"
     },
     {
         "code":  "commodity.waste",
         "displayName":  "Waste",
-        "parentCode":  "commodity"
+        "displayNameToken":  null,
+        "parentCode":  "commodity",
+        "cigType":  "Waste"
     }
 ]
