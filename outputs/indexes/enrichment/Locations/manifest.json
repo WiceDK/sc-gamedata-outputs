@@ -1,12 +1,12 @@
 {
-    "generatedAt":  "2026-06-06T09:30:02",
+    "generatedAt":  "2026-06-07T14:08:47",
     "mode":  "raw-first",
     "sourceRoots":  [
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap",
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations"
                     ],
     "rulesPath":  "src\\contracts\\normalization-rules-v2.json",
-    "records":  1984,
+    "records":  1567,
     "missionRecords":  2063,
     "parseErrors":  0,
     "output":  {
