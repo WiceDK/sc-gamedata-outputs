@@ -1,6 +1,7 @@
 ﻿[
     {
         "shopCode":  "Inv_Admin_Admin_Truckstop_Base_D",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "48ab315a-f4f6-8979-4aaa-93bd1db7c1ac",
@@ -8,19 +9,35 @@
                         "4d576fc1-22ba-4c03-f347-b110bb10d1b4",
                         "4a9655bf-c168-525b-5425-ee40081b3690",
                         "49a494a2-2a6f-b377-44c6-b8da6c7627bb"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Area18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4900b43b-4e53-f89b-3e81-957466933794"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/loc/flagship/stanton/a18/a18_central.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Grimhex",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -28,10 +45,18 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "47c714c4-65f5-8e9f-939d-897ac2cdfea4",
                         "4dce4077-9730-ac77-5074-916b3b2700b7"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/admin/admin_grimhex.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Hurston_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -39,28 +64,52 @@
                         "4d151331-e081-262f-f702-06417bdda7ae",
                         "4e5add3a-292f-1a80-51e8-3d22fe92cca8",
                         "4f6adbc9-6730-3e54-668f-a29d240e3595"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/admin/admin_med_base_a_loreville.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "42141243-3ad5-c797-5900-46321145f4b0"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4900b43b-4e53-f89b-3e81-957466933794"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_PortOlisar",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -68,30 +117,78 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "4a3e97df-abc1-cdc7-0f28-b42f775f0fb1",
                         "47bb1966-47fa-e303-2979-190d338ee4a8"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/admin/admin_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Small_Base_A",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Small_Base_B",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Small_Base_C",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Small_Base_D",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Admin_Small_Base_E",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Aparelli_NewBabbage",
+        "displayName":  "Aparelli",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -99,14 +196,30 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4bd3bf55-f2fd-3a45-1eac-46b2a51bb393",
                         "41ef1e08-6efa-c895-0e5f-d78e3e37f7ab"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_ArchemedesFlight_Lorville",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_AstroArmada_Area18",
+        "displayName":  "Astro Armada",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -114,10 +227,18 @@
                         "4a40231d-d628-98d7-20a8-7ebd10bbaeba",
                         "48841a07-458a-1d74-07c8-779a3527e0b0",
                         "4cdb1ee4-4978-466d-ae22-4293e5c1c3b8"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_BarGeneric_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -125,10 +246,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_BurritoBar_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -136,40 +265,72 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_CafeMusain_Food_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_CasabaOutlet_Area18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_area18.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CasabaOutlet_Food_Area18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_area18.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CasabaOutlet_Food_PortOlisar",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -177,10 +338,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CasabaOutlet_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -188,10 +357,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CasabaOutlet_lt_a_small_base_a",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "41c55990-c2fb-d444-22da-a1e6e8300bac",
@@ -199,10 +376,18 @@
                         "42e1c6a7-74a4-4f6b-5d64-ec8e32056d97",
                         "48aa9698-a846-2370-e4b1-4ff3e56998b5",
                         "43e732b6-ad3e-e173-a58c-e0efadcf24b5"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/lt_a_casabaoutlet_small_a.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CasabaOutlet_PortOlisar",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -210,10 +395,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CenterMass_NewBabbage",
+        "displayName":  "CenterMass",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -221,20 +414,36 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4bd3bf55-f2fd-3a45-1eac-46b2a51bb393",
                         "41ef1e08-6efa-c895-0e5f-d78e3e37f7ab"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_ClothingStand_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4913a576-4abe-bc09-6182-74d8e752a0b3",
                         "45a2a4e9-78fd-e66c-58e3-c970d3740d82"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/bazaar/bazaar_clothing_levski.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CoffeeToGo_Food_Area18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -242,18 +451,42 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_CommEx_TDD_Area18",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_CommEx_TDD_NewBabbage",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_CommEx_Transfers_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -261,54 +494,103 @@
                         "4a47349d-bae6-236c-7ddc-2cfa5eb38b8b",
                         "48e1b017-5877-7b00-c63b-f8edc516efb3",
                         "470590d9-b141-1402-7242-6fef58b299b6"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/commex/transfers/transfers_cbd.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_ConscientiousObjects_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4542babf-16c4-65f2-e603-05dfc3f061bc",
                         "4e1b6ba1-09e0-1094-8309-4a959db52195"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/consobjects/conscientiousobjects_levski.socpak",
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/nyx/nyx_personalweapon_a_base.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Cordrys_Levski",
+        "displayName":  "Cordry's",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "49ddf211-5df5-6fa8-9f04-628c22bacb98",
                         "42e2af53-340f-c356-e899-6d4c8fe471a0"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/armor/cordrys/cordrys_levski_b.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CryAstro_dummy",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_CubbyBlast_A18",
+        "displayName":  "Cubby Blast",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "41355073-47cf-08c6-675c-8c5fd44153a0",
                         "44a49502-7647-4998-be47-fa240d553fb6"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/cubbyblast/cubbyblast_area18_int.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CubbyBlast_Area18",
+        "displayName":  "Cubby Blast",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "41355073-47cf-08c6-675c-8c5fd44153a0",
                         "44a49502-7647-4998-be47-fa240d553fb6"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/cubbyblast/cubbyblast_area18_int.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_CubbyBlast_Food_Area18",
+        "displayName":  "Cubby Blast",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -316,20 +598,36 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_DumpersDepot_Area18",
+        "displayName":  "Dumper's Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "468bfd40-102c-8168-8783-bba414ded3b4",
                         "42ab0900-69e4-3fd3-98e4-76a4c3402ea8"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_area18_int.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_DumpersDepot_Grimhex",
+        "displayName":  "Dumper's Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -337,20 +635,38 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4bd3bf55-f2fd-3a45-1eac-46b2a51bb393",
                         "41ef1e08-6efa-c895-0e5f-d78e3e37f7ab"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_grimhex.socpak",
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_levski.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_DumpersDepot_Levski",
+        "displayName":  "Dumper's Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4987dd38-8911-3241-cb3d-e45553017481",
                         "41ef1e08-6efa-c895-0e5f-d78e3e37f7ab"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_grimhex.socpak",
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_levski.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_DumpersDepot_PortOlisar",
+        "displayName":  "Dumper's Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -358,20 +674,36 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "4f2dfc91-802d-1a63-cf7a-da025cb56eb9",
                         "42540c05-1ca0-68c5-92f8-fbe981ddcc8a"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_olisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Ellroys_Food_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Ellroys_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -379,30 +711,54 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_GadgetStand_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4913a576-4abe-bc09-6182-74d8e752a0b3",
                         "45a2a4e9-78fd-e66c-58e3-c970d3740d82"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/bazaar/bazaar_clothing_levski.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_GarciaGreens_Food_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_GarrityDefense_PortOlisar",
+        "displayName":  "Garrity Defense",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -410,50 +766,90 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "45002bce-c3d2-1f3b-420b-30cb6813eea8",
                         "49b150d4-e0e4-b561-17a8-258218f4eeb1"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/armor/garrity/garritydefense_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Generic_Armor_Reststop_Small_a",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4913a576-4abe-bc09-6182-74d8e752a0b3",
                         "45a2a4e9-78fd-e66c-58e3-c970d3740d82"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Generic_Clothing_Reststop_Small_a",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4913a576-4abe-bc09-6182-74d8e752a0b3",
                         "45a2a4e9-78fd-e66c-58e3-c970d3740d82"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Generic_ShipWeap_Reststop_Small_a",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "4913a576-4abe-bc09-6182-74d8e752a0b3",
                         "45a2a4e9-78fd-e66c-58e3-c970d3740d82"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_GLoc_Food_Area18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_area18.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_HotDogBar_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -461,10 +857,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_JuiceBar_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -472,10 +876,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_KCTrending_GrimHex",
+        "displayName":  "KC Trending",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -483,123 +895,235 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4c38383a-b03a-9fa1-da65-2ecbc20e88a9",
                         "44d38a5f-447a-51da-fc25-01de97b7dbba"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/kctrending/kctrending_grimhex.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_A18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "4df7f5b3-250d-e2cb-6b32-810c1b26cd88",
                         "40b2d739-3024-7d41-56f7-905c460d2c9c"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_GrimHex",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
                         "4cccfc8b-e4a3-1c5b-a56a-79f2865e8195",
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "430042af-c12d-4f1d-6b3a-0a297649d284"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/station/motel/grimhex.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "419471f9-e8ca-15d5-8b77-acc2a9743e93"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/loc/flagship/nyx/levski/levski_v2_ext.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "419471f9-e8ca-15d5-8b77-acc2a9743e93"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/loc/flagship/nyx/levski/levski_v2_ext.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_PortOlisar",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
                         "4964323a-83b7-5a53-ab6b-af21a1d230ab",
                         "442a47ab-65f1-bc94-a07c-e18598981598"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/station/hotel/portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0001",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "42430290-4096-a415-fd3f-c9f470d27c91",
                         "4268e774-723e-80dd-3201-53ad75395b96",
                         "415810df-23c3-54cf-1195-c63590aae3ab"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0002",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4eb9dede-cb23-ed28-c8cf-74bf1bf15386",
                         "414e9a37-45c4-c0ec-b581-c2ecc61cc7a4",
                         "471b8920-c563-cafa-d814-eaa958b7b980"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0003",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "48ab315a-f4f6-8979-4aaa-93bd1db7c1ac",
                         "4d75dd62-383e-03f9-a8aa-20650ff949bf",
                         "48a3d4e0-5373-a5ea-6b7a-7e73c47c12be"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0004",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0005",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "41c55990-c2fb-d444-22da-a1e6e8300bac",
                         "4fc579e7-6e17-d887-12e4-cdf2a981fd83",
                         "4fdc416f-9e22-85da-3067-bbec153fb196"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0006",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "46bd772e-76cc-d1b0-aa32-ce5af5251481",
                         "4d05c1b8-77a6-578a-71ea-04a4bd2fdcb9",
                         "4aac6ea4-5161-22df-bdc9-0930318a9d86"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0007",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45638b08-2366-1f9f-7e81-9d2b64ef128d",
                         "4f830fde-1ab5-7dbc-b8db-4eba0d8e4591",
                         "482c1e8a-d7ad-60f7-8524-2ec2ab3d5e8d"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LandingServices_rs_full_0008",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4959730e-e31e-7bab-a9e2-f11ff18fd4af",
                         "465b2743-3d01-5d17-570e-ddaa5302d98b",
                         "46855637-4014-b34c-2a42-516eed17ad97"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "no_shop_placement_match",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_LiveFireWeapons_Food_PortOlisar",
+        "displayName":  "Live Fire Weapons",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -607,10 +1131,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/casaba/casabaoutlet_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LiveFireWeapons_lt_a_small_base_b",
+        "displayName":  "Live Fire Weapons",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "48ab315a-f4f6-8979-4aaa-93bd1db7c1ac",
@@ -618,10 +1150,18 @@
                         "4d576fc1-22ba-4c03-f347-b110bb10d1b4",
                         "41a7d1b8-1028-1059-4e8e-ec8cae4d8a93",
                         "4807c877-e519-dfd4-1972-d8dc6c41839d"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/livefire/lt_a_livefireweapons_small_b.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_LiveFireWeapons_PortOlisar",
+        "displayName":  "Live Fire Weapons",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -629,29 +1169,53 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "4cfba8b7-c668-7936-4607-0416f599929e",
                         "4fcb9772-8237-0b7c-58cb-ab2dcab79084"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/livefire/livefireweapons_olisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Market_Bar_Food_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Mining_Area18",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "40d20f54-7730-517b-af9c-2291da4bf6aa"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Mining_Grimhex",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -659,19 +1223,35 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "47c714c4-65f5-8e9f-939d-897ac2cdfea4",
                         "428f30e5-71dc-48b0-73e7-5cce8d08b7bf"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Mining_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "40971717-fa30-98f4-8dec-622848b52594"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Mining_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -679,19 +1259,35 @@
                         "4d151331-e081-262f-f702-06417bdda7ae",
                         "4e5add3a-292f-1a80-51e8-3d22fe92cca8",
                         "46a683e4-8623-7961-8591-56983e3f07b6"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Mining_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4900b43b-4e53-f89b-3e81-957466933794"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Mining_PortOlisar",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -699,10 +1295,18 @@
                         "4383bf58-70ab-4a05-2dd8-4e0561c267b1",
                         "4a3e97df-abc1-cdc7-0f28-b42f775f0fb1",
                         "41c42d24-bed8-72c3-1568-f4e2ee7f3da3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/admin/admin_portolisar.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_MVBar_Food_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -710,10 +1314,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_NewDeal_Lorville",
+        "displayName":  "New Deal",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -721,10 +1333,18 @@
                         "4a40231d-d628-98d7-20a8-7ebd10bbaeba",
                         "48841a07-458a-1d74-07c8-779a3527e0b0",
                         "4cdb1ee4-4978-466d-ae22-4293e5c1c3b8"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/loc/flagship/stanton/lorville/lorville_sp_int.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_NoodleBar_Food_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -732,10 +1352,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_NoodleBar_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -743,10 +1371,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Old38_Food_GrimHEX",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -754,10 +1390,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_OmegaPro_NewBabbage",
+        "displayName":  "Omega Pro",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -765,10 +1409,18 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4bd3bf55-f2fd-3a45-1eac-46b2a51bb393",
                         "41ef1e08-6efa-c895-0e5f-d78e3e37f7ab"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_PizzaBar_Food_RestStop",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -776,10 +1428,18 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "454e5625-e1af-a60e-781a-062dadc9c6a4",
                         "473d5da4-abac-6119-e449-6b6b43bfc3b3"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_PlatinumBay_Truckstop",
+        "displayName":  "Platinum Bay",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "41c55990-c2fb-d444-22da-a1e6e8300bac",
@@ -787,10 +1447,18 @@
                         "42e1c6a7-74a4-4f6b-5d64-ec8e32056d97",
                         "4fa5c76d-4ac2-8d2c-c105-7dc6ff8b6299",
                         "4828a39f-8318-4d40-b2af-052c0a772493"
-                    ]
+                    ],
+        "locationRef":  null,
+        "locationName":  null,
+        "locationResolutionMethod":  "unresolved_shared_shop_placement",
+        "locationConfidence":  "none",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/service/platinumbay/lt_a_platinumbay_small_a.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_RegalLuxuryRentals_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -798,20 +1466,36 @@
                         "4a40231d-d628-98d7-20a8-7ebd10bbaeba",
                         "48841a07-458a-1d74-07c8-779a3527e0b0",
                         "4cdb1ee4-4978-466d-ae22-4293e5c1c3b8"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_ShipWeapons_Centermass_Area18",
+        "displayName":  "Ship Weapons",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "42d9eef2-7645-c890-c649-dfd1b8082fb1",
                         "4cf76d6c-6dac-aefe-f3dd-ea5f4765259b"
-                    ]
+                    ],
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/centermass/centermass_large.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_ShipWeapon_HDShowcase_Lorville",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -819,10 +1503,18 @@
                         "4a47349d-bae6-236c-7ddc-2cfa5eb38b8b",
                         "49583dc5-9c29-d03a-15bb-ee8cf5776b8f",
                         "4678425a-14c5-f590-8117-58ce96414a90"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/shipweapon/shipweapon_hurston/shipweapon_hurston.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_ShubinInterstellar_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -830,10 +1522,18 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "47c714c4-65f5-8e9f-939d-897ac2cdfea4",
                         "4dce4077-9730-ac77-5074-916b3b2700b7"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_SkuttersFood_Grimhex",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -841,10 +1541,18 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4f50ba38-f9ac-4081-fc00-f9eff787d283",
                         "413037a2-1ef6-9b9b-6019-7a8109b7d1bd"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/skutters/skutters_grimhex.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Skutters_Grimhex",
+        "displayName":  "Skutters",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -852,10 +1560,18 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4f50ba38-f9ac-4081-fc00-f9eff787d283",
                         "413037a2-1ef6-9b9b-6019-7a8109b7d1bd"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/personalweapon/skutters/skutters_grimhex.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_TammanyAndSons_Food_Lorville",
+        "displayName":  "Tammany and Sons",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -863,10 +1579,18 @@
                         "4d151331-e081-262f-f702-06417bdda7ae",
                         "4c1e08aa-e02e-4936-a103-d6ed3d6ec6ab",
                         "47b620a8-ca91-35cd-efd5-fd4bac11a597"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/tammanyandsons/tammanyandsons_lorville_int.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_TammanyAndSons_Lorville",
+        "displayName":  "Tammany and Sons",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4c557c37-9273-c18e-8f84-cae53ad44d82",
@@ -874,20 +1598,36 @@
                         "4d151331-e081-262f-f702-06417bdda7ae",
                         "4c1e08aa-e02e-4936-a103-d6ed3d6ec6ab",
                         "47b620a8-ca91-35cd-efd5-fd4bac11a597"
-                    ]
+                    ],
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/clothing/tammanyandsons/tammanyandsons_lorville_int.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_TeachsShipShop_Levski",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
                         "472359fe-1867-4d24-f216-3f1d6abf1c8e",
                         "43393b53-1adb-c4e5-a688-5040e4be1c89",
                         "43e37996-e65d-befa-73b0-c2360a73e582"
-                    ]
+                    ],
+        "locationRef":  "468d4102-a210-47b5-8bc3-084f791a173c",
+        "locationName":  "Levski",
+        "locationResolutionMethod":  "object_container_star_map_record",
+        "locationConfidence":  "high",
+        "objectContainerPaths":  [
+                                     "Data/ObjectContainers/PU/Shops/dealership/teachsshipshop/teachsshipshop.socpak"
+                                 ]
     },
     {
         "shopCode":  "Inv_Technotic_Grimhex",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -895,38 +1635,78 @@
                         "46618138-a921-052e-9bf7-816c0fcf708e",
                         "45002bce-c3d2-1f3b-420b-30cb6813eea8",
                         "49b150d4-e0e4-b561-17a8-258218f4eeb1"
-                    ]
+                    ],
+        "locationRef":  "8cda0b9b-22a8-43fe-ac33-df7a1ba9434d",
+        "locationName":  "Grim HEX",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_TravelerRentals_Area18",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  "c6535844-c615-494e-9dc1-c2d0c6e7190a",
+        "locationName":  "Area18",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Twyns_Food_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_VantageRentals_Lorville",
-        "shopIds":  null
+        "displayName":  null,
+        "shopIds":  null,
+        "locationRef":  "f1759f46-e3c0-4dc1-94bc-c94488b58913",
+        "locationName":  "Lorville",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Wallys_Food_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
                         "47cec8e3-7292-dd21-9e24-80d281321192",
                         "4bcd13ea-b74d-c0c3-ada5-9ec33c0b6a9a",
                         "48a181be-4c2b-3f33-a8e3-ca0f60abd7a8"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     },
     {
         "shopCode":  "Inv_Whammers_NewBabbage",
+        "displayName":  null,
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -934,6 +1714,13 @@
                         "483abfa6-e29c-db4b-8477-342ae2114b83",
                         "4f50ba38-f9ac-4081-fc00-f9eff787d283",
                         "413037a2-1ef6-9b9b-6019-7a8109b7d1bd"
-                    ]
+                    ],
+        "locationRef":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "locationName":  "New Babbage",
+        "locationResolutionMethod":  "shop_code_location_name_match",
+        "locationConfidence":  "medium",
+        "objectContainerPaths":  [
+
+                                 ]
     }
 ]
