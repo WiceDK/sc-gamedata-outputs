@@ -524,7 +524,7 @@
     },
     {
         "shopCode":  "Inv_Cordrys_Levski",
-        "displayName":  "Cordry's",
+        "displayName":  "Cordry\u0027s",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
@@ -609,7 +609,7 @@
     },
     {
         "shopCode":  "Inv_DumpersDepot_Area18",
-        "displayName":  "Dumper's Depot",
+        "displayName":  "Dumper\u0027s Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4cccecbb-9ecd-4b4b-915a-7c58ae41b6b0",
@@ -627,7 +627,7 @@
     },
     {
         "shopCode":  "Inv_DumpersDepot_Grimhex",
-        "displayName":  "Dumper's Depot",
+        "displayName":  "Dumper\u0027s Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
@@ -647,7 +647,7 @@
     },
     {
         "shopCode":  "Inv_DumpersDepot_Levski",
-        "displayName":  "Dumper's Depot",
+        "displayName":  "Dumper\u0027s Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "45e19546-c411-8f0c-272a-ed7ae34242b1",
@@ -666,7 +666,7 @@
     },
     {
         "shopCode":  "Inv_DumpersDepot_PortOlisar",
-        "displayName":  "Dumper's Depot",
+        "displayName":  "Dumper\u0027s Depot",
         "shopIds":  [
                         "4a269932-183e-362d-aacc-188e7debbea9",
                         "4161896d-a7ef-80c4-3074-49a8f07a7480",
