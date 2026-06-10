@@ -22581,7 +22581,39 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_left",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "turret_right",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "room_lighting",
+                                                    "displayName":  null,
+                                                    "componentRef":  "05093bee-1814-41f9-9651-2db3968e9915",
+                                                    "componentName":  "AEGS_Retaliator_Turret_Lights_Lower",
+                                                    "componentType":  "Room",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
@@ -22606,7 +22638,39 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_left",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "turret_right",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "room_lighting",
+                                                    "displayName":  null,
+                                                    "componentRef":  "91b54bcd-8da4-445f-8854-aa6b2a94ede7",
+                                                    "componentName":  "AEGS_Retaliator_Turret_Lights",
+                                                    "componentType":  "Room",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
@@ -22839,7 +22903,39 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_left",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "turret_right",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "room_lighting",
+                                                    "displayName":  null,
+                                                    "componentRef":  "91b54bcd-8da4-445f-8854-aa6b2a94ede7",
+                                                    "componentName":  "AEGS_Retaliator_Turret_Lights",
+                                                    "componentType":  "Room",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
@@ -23532,7 +23628,39 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_left",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "turret_right",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "room_lighting",
+                                                    "displayName":  null,
+                                                    "componentRef":  "05093bee-1814-41f9-9651-2db3968e9915",
+                                                    "componentName":  "AEGS_Retaliator_Turret_Lights_Lower",
+                                                    "componentType":  "Room",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
@@ -23557,7 +23685,39 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_left",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "turret_right",
+                                                    "displayName":  null,
+                                                    "componentRef":  null,
+                                                    "componentName":  null,
+                                                    "componentType":  null,
+                                                    "componentSubType":  null,
+                                                    "size":  null,
+                                                    "grade":  null,
+                                                    "manufacturer":  null
+                                                },
+                                                {
+                                                    "name":  "room_lighting",
+                                                    "displayName":  null,
+                                                    "componentRef":  "91b54bcd-8da4-445f-8854-aa6b2a94ede7",
+                                                    "componentName":  "AEGS_Retaliator_Turret_Lights",
+                                                    "componentType":  "Room",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
@@ -53141,7 +53301,50 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Anvil Aerospace",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_left",
+                                                    "displayName":  "TMSB-5 Gimbal Mount",
+                                                    "componentRef":  "fbccf8e2-2085-48c3-bfa8-00226450636d",
+                                                    "componentName":  "Mount_Gimbal_BEHR_BallisticGatling_Hornet_Bespoke",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  4,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Behring"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "TMSB-5 Gatling",
+                                                    "componentRef":  "cfbd1437-b6aa-480a-b3a2-5d3ad001c726",
+                                                    "componentName":  "BEHR_BallisticGatling_Hornet_Bespoke",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  4,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Behring"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_weapon_right",
+                                                    "displayName":  "TMSB-5 Gimbal Mount",
+                                                    "componentRef":  "fbccf8e2-2085-48c3-bfa8-00226450636d",
+                                                    "componentName":  "Mount_Gimbal_BEHR_BallisticGatling_Hornet_Bespoke",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  4,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Behring"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "TMSB-5 Gatling",
+                                                    "componentRef":  "cfbd1437-b6aa-480a-b3a2-5d3ad001c726",
+                                                    "componentName":  "BEHR_BallisticGatling_Hornet_Bespoke",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  4,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Behring"
+                                                }
                                             ]
                            },
                            {
@@ -266743,7 +266946,94 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Roberts Space Industries",
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_top_right",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                },
+                                                {
+                                                    "name":  "turret_top_left",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                },
+                                                {
+                                                    "name":  "turret_bottom_right",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                },
+                                                {
+                                                    "name":  "turret_bottom_left",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                }
                                             ]
                            },
                            {
@@ -269193,7 +269483,94 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Roberts Space Industries",
                                "children":  [
-
+                                                {
+                                                    "name":  "turret_top_right",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                },
+                                                {
+                                                    "name":  "turret_top_left",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                },
+                                                {
+                                                    "name":  "turret_bottom_right",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                },
+                                                {
+                                                    "name":  "turret_bottom_left",
+                                                    "displayName":  "VariPuck S3 Gimbal Mount",
+                                                    "componentRef":  "8197c45b-eaf4-4836-a8f0-837d1875cd9c",
+                                                    "componentName":  "Mount_Gimbal_S3",
+                                                    "componentType":  "Turret",
+                                                    "componentSubType":  "GunTurret",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Flashfire Systems"
+                                                },
+                                                {
+                                                    "name":  "hardpoint_class_2",
+                                                    "displayName":  "CF-337 Panther Repeater",
+                                                    "componentRef":  "bd13235d-1261-4b71-b32f-aed1a8beb526",
+                                                    "componentName":  "KLWE_LaserRepeater_S3",
+                                                    "componentType":  "WeaponGun",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  3,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Klaus & Werner"
+                                                }
                                             ]
                            },
                            {
@@ -275330,7 +275707,17 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Tumbril Land Systems",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_door_ramp",
+                                                    "displayName":  "Door Control",
+                                                    "componentRef":  "cb9e56eb-1945-4b14-a730-33a7e8da3e71",
+                                                    "componentName":  "TMBL_Cyclone_Ramp_TR",
+                                                    "componentType":  "Door",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
@@ -276197,7 +276584,17 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Tumbril Land Systems",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_door_ramp",
+                                                    "displayName":  "Door Control",
+                                                    "componentRef":  "cb9e56eb-1945-4b14-a730-33a7e8da3e71",
+                                                    "componentName":  "TMBL_Cyclone_Ramp_TR",
+                                                    "componentType":  "Door",
+                                                    "componentSubType":  "UNDEFINED",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  null
+                                                }
                                             ]
                            },
                            {
