@@ -92846,7 +92846,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Argo Astronautics",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_mining",
+                                                    "displayName":  "Arbor MH2 Mining Laser",
+                                                    "componentRef":  "4435898e-a6cc-4f51-ab2a-805d0cf1a44a",
+                                                    "componentName":  "Mining_Laser_GRIN_Arbor_S2",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  2,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Musashi Industrial \u0026 Starflight Concern",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -93873,7 +93884,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Argo Astronautics",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_mining",
+                                                    "displayName":  "Arbor MH2 Mining Laser",
+                                                    "componentRef":  "4435898e-a6cc-4f51-ab2a-805d0cf1a44a",
+                                                    "componentName":  "Mining_Laser_GRIN_Arbor_S2",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  2,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Musashi Industrial \u0026 Starflight Concern",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -93898,7 +93920,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Argo Astronautics",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_mining",
+                                                    "displayName":  "Arbor MH2 Mining Laser",
+                                                    "componentRef":  "4435898e-a6cc-4f51-ab2a-805d0cf1a44a",
+                                                    "componentName":  "Mining_Laser_GRIN_Arbor_S2",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  2,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Musashi Industrial \u0026 Starflight Concern",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -94530,7 +94563,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Argo Astronautics",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_mining",
+                                                    "displayName":  "Helix II Mining Laser",
+                                                    "componentRef":  "3bcde69d-3e3a-4f78-b2cb-8189b349e4d2",
+                                                    "componentName":  "Mining_Laser_THCN_Helix_S2",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  2,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Thermyte Concern",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -95557,7 +95601,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Argo Astronautics",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_mining",
+                                                    "displayName":  "Klein-S2 Mining Laser",
+                                                    "componentRef":  "41850766-d4a8-4255-be75-0d24af7280b0",
+                                                    "componentName":  "Mining_Laser_SHIN_Klein_S2",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  2,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Shubin Interstellar",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -95582,7 +95637,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Argo Astronautics",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_weapon_mining",
+                                                    "displayName":  "Klein-S2 Mining Laser",
+                                                    "componentRef":  "41850766-d4a8-4255-be75-0d24af7280b0",
+                                                    "componentName":  "Mining_Laser_SHIN_Klein_S2",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  2,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Shubin Interstellar",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -168209,7 +168275,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Drake Interplanetary",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "Pitman Mining Laser",
+                                                    "componentRef":  "5a704f96-c339-43e7-b918-7fc9957673ed",
+                                                    "componentName":  "Mining_Laser_DRAK_Golem_S1",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Drake Interplanetary",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -170571,7 +170648,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Drake Interplanetary",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "Pitman Mining Laser",
+                                                    "componentRef":  "5a704f96-c339-43e7-b918-7fc9957673ed",
+                                                    "componentName":  "Mining_Laser_DRAK_Golem_S1",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Drake Interplanetary",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -171777,7 +171865,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Drake Interplanetary",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "Pitman Mining Laser",
+                                                    "componentRef":  "5a704f96-c339-43e7-b918-7fc9957673ed",
+                                                    "componentName":  "Mining_Laser_DRAK_Golem_S1",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Drake Interplanetary",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -192043,7 +192142,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "Arbor MHV Mining Laser",
+                                                    "componentRef":  "0982203d-579f-4c3c-8b7a-c5f1c4a7ddd6",
+                                                    "componentName":  "Mining_Laser_GRIN_Arbor_S0",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  0,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Greycat Industrial",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            }
                        ]
@@ -192468,7 +192578,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Greycat Industrial",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "S00 Hofstede",
+                                                    "componentRef":  "1c2bab01-941b-4515-a6a4-5845aaa95696",
+                                                    "componentName":  "Mining_Laser_SHIN_Hofstede_S0",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  0,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Shubin Interstellar",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -241336,7 +241457,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Musashi Industrial \u0026 Starflight Concern",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "Arbor MH1 Mining Laser",
+                                                    "componentRef":  "8bfc261a-6c67-4bec-b5b5-71407e086ec9",
+                                                    "componentName":  "Mining_Laser_GRIN_Arbor_S1",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Musashi Industrial \u0026 Starflight Concern",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
@@ -242532,7 +242664,18 @@
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Musashi Industrial \u0026 Starflight Concern",
                                "children":  [
-
+                                                {
+                                                    "name":  "hardpoint_mining_laser",
+                                                    "displayName":  "Arbor MH1 Mining Laser",
+                                                    "componentRef":  "8bfc261a-6c67-4bec-b5b5-71407e086ec9",
+                                                    "componentName":  "Mining_Laser_GRIN_Arbor_S1",
+                                                    "componentType":  "WeaponMining",
+                                                    "componentSubType":  "Gun",
+                                                    "size":  1,
+                                                    "grade":  1,
+                                                    "manufacturer":  "Musashi Industrial \u0026 Starflight Concern",
+                                                    "source":  "vehicleLoadout"
+                                                }
                                             ]
                            },
                            {
