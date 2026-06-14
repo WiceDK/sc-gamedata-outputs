@@ -182,6 +182,19 @@
         "logoSimplifiedWhite":  null
     },
     {
+        "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
+        "code":  "BANU",
+        "displayName":  "Banu",
+        "displayNameToken":  "@manufacturer_NameBANU",
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built.",
+        "descriptionToken":  "@manufacturer_DescBANU",
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Banu_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
         "ref":  "2948496b-45d2-41f8-bdff-97587f1e6981",
         "code":  "BASL",
         "displayName":  "Basilisk",
@@ -828,19 +841,6 @@
         "description":  "A manufacturer of affordable computers, computer parts, and accessories. There products don\u0027t have a lot of bells and whistles and often incorporate last gen tech, but because of that, what they do produce is reliable. Produce the Re-Authorized brand cryptokey.",
         "descriptionToken":  "@manufacturer_DescLOCO",
         "logo":  "UI/SharedAssets/ManufacturerLogos/LortellComputing_256.tif",
-        "logoFullColor":  null,
-        "logoSimplifiedWhite":  null
-    },
-    {
-        "ref":  "2b5ba252-e826-4356-ac0d-8d88007ea386",
-        "code":  "BANU",
-        "displayName":  "Luminalia",
-        "displayNameToken":  "@manufacturer_NameBANU",
-        "shortName":  null,
-        "shortNameToken":  null,
-        "description":  "Banu society combines the Human concepts of family and corporations into a single social unit know as a Souli, a cohabitation focused centered around a specific skillset. These Banu guilds do not control an entire market, rather there are always numerous Souli competing for the same market as the guilds are constantly in flux. \\n\\nBecause of this, the Banu do not market specific brand Soulis. Instead they simply market all their wares to Humans as Banu built.",
-        "descriptionToken":  "@manufacturer_DescBANU",
-        "logo":  "UI/SharedAssets/ManufacturerLogos/Banu_256.tif",
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },
