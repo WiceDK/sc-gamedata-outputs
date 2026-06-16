@@ -1,6 +1,6 @@
 {
-    "startedAt":  "2026-06-13T22:32:22",
-    "finishedAt":  "2026-06-13T22:49:45",
+    "startedAt":  "2026-06-14T20:53:18",
+    "finishedAt":  "2026-06-14T21:10:58",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  158181171200,
@@ -34,7 +34,7 @@
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "outputRepoPath":  "c:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-gamedata-outputs"
+                      "outputRepoPath":  "..\\sc-gamedata-outputs"
                   }
               ],
     "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
