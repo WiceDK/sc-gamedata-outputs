@@ -36842,12 +36842,12 @@
         "career":  "Combat",
         "roleRef":  "2eacf280-e5d7-4412-bac5-9237304095f7",
         "role":  "Heavy Gunship",
-        "crewSize":  8,
+        "crewSize":  7,
         "movementClass":  "Spaceship",
         "size":  {
-                     "x":  0,
-                     "y":  0,
-                     "z":  0
+                     "x":  68,
+                     "y":  121,
+                     "z":  20
                  },
         "hullDamageNormalization":  2500,
         "insurance":  {
@@ -189095,6 +189095,195 @@
                        ]
     },
     {
+        "ref":  "7aed1f98-fa95-4166-b8d2-73c1704346ab",
+        "codeName":  "GAMA_Railen",
+        "displayName":  "Gatac Railen",
+        "displayNameToken":  "@vehicle_NameXIAN_Railen",
+        "shopName":  "Gatac Railen",
+        "shopNameToken":  "@vehicle_NameXIAN_Railen",
+        "description":  "Manufacturer: Gatac Manufacture\\nFocus: Cargo\\n\\nGatac�s first foray into the Human market, the Railen is an elegant interspecies vessel perfect for any Human or Xi�an pilot looking for a safe, reliable solution for commercial-grade medium cargo hauling, and is a prime example of why the Xi�an Empire has trusted House Gatac with production of its industrial vessels for centuries.",
+        "descriptionToken":  "@vehicle_DescXIAN_Railen",
+        "vehicleType":  "Spaceship",
+        "manufacturerRef":  "adf5fa24-be2b-49aa-9af6-b335b6e0f9ac",
+        "careerRef":  "d86d770d-1fc4-4525-b3b0-4f670a8a5634",
+        "career":  "Transporter",
+        "roleRef":  "4c0633a2-887f-4231-a40a-d366224f01d5",
+        "role":  "Medium Freight",
+        "crewSize":  4,
+        "movementClass":  "Spaceship",
+        "size":  {
+                     "x":  53,
+                     "y":  52,
+                     "z":  67
+                 },
+        "hullDamageNormalization":  2500,
+        "insurance":  {
+                          "baseWaitTimeMinutes":  17,
+                          "mandatoryWaitTimeMinutes":  5,
+                          "baseExpeditingFee":  5500
+                      },
+        "shipSize":  "Large",
+        "canEntitleThroughWebsite":  false,
+        "cargoSCU":  640,
+        "isCargo":  true,
+        "cargoGrids":  [
+                           {
+                               "portName":  "hardpoint_cargo_left_side",
+                               "codeName":  "GAMA_Railen_CargoGrid_Small",
+                               "ref":  "71ca3880-257b-4386-8398-41a6fc0a5463",
+                               "scu":  64,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  10,
+                                                  "z":  2.5
+                                              }
+                           },
+                           {
+                               "portName":  "hardpoint_cargo_right_side",
+                               "codeName":  "GAMA_Railen_CargoGrid_Small",
+                               "ref":  "71ca3880-257b-4386-8398-41a6fc0a5463",
+                               "scu":  64,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  10,
+                                                  "z":  2.5
+                                              }
+                           },
+                           {
+                               "portName":  "hardpoint_cargo_left_top",
+                               "codeName":  "GAMA_Railen_CargoGrid_Large",
+                               "ref":  "069e01c3-55e8-42dd-b390-fc11e83fb31f",
+                               "scu":  128,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  10,
+                                                  "z":  5
+                                              }
+                           },
+                           {
+                               "portName":  "hardpoint_cargo_right_top",
+                               "codeName":  "GAMA_Railen_CargoGrid_Large",
+                               "ref":  "069e01c3-55e8-42dd-b390-fc11e83fb31f",
+                               "scu":  128,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  10,
+                                                  "z":  5
+                                              }
+                           },
+                           {
+                               "portName":  "hardpoint_cargo_left_bottom",
+                               "codeName":  "GAMA_Railen_CargoGrid_Large",
+                               "ref":  "069e01c3-55e8-42dd-b390-fc11e83fb31f",
+                               "scu":  128,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  10,
+                                                  "z":  5
+                                              }
+                           },
+                           {
+                               "portName":  "hardpoint_cargo_right_bottom",
+                               "codeName":  "GAMA_Railen_CargoGrid_Large",
+                               "ref":  "069e01c3-55e8-42dd-b390-fc11e83fb31f",
+                               "scu":  128,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  10,
+                                                  "z":  5
+                                              }
+                           }
+                       ],
+        "resourceCapacitySCU":  null,
+        "mass":  null,
+        "fuelHydrogen":  null,
+        "fuelQuantum":  null,
+        "fuelHydrogenSCU":  null,
+        "fuelQuantumSCU":  null,
+        "fuelUnits":  "SCU",
+        "armor":  {
+                      "ref":  "6e0d4877-fb3c-46db-b4a5-69ca1561e075",
+                      "codeName":  "ARMR_GAMA_Railen",
+                      "displayName":  null,
+                      "displayNameToken":  null,
+                      "type":  "Armor",
+                      "subType":  "Medium",
+                      "size":  1,
+                      "grade":  1,
+                      "manufacturerRef":  null,
+                      "manufacturer":  null,
+                      "health":  11968,
+                      "signalMultipliers":  {
+                                                "infrared":  1,
+                                                "electromagnetic":  1,
+                                                "crossSection":  1
+                                            },
+                      "damageMultipliers":  {
+                                                "physical":  0.75,
+                                                "energy":  0.6,
+                                                "distortion":  1,
+                                                "thermal":  1,
+                                                "biochemical":  1,
+                                                "stun":  1
+                                            },
+                      "penetrationAbsorption":  {
+                                                    "physical":  1,
+                                                    "energy":  1,
+                                                    "distortion":  0,
+                                                    "thermal":  1,
+                                                    "biochemical":  1,
+                                                    "stun":  1
+                                                },
+                      "basePenetrationReduction":  1,
+                      "deflection":  {
+                                         "physical":  116,
+                                         "energy":  110,
+                                         "distortion":  0,
+                                         "thermal":  0,
+                                         "biochemical":  0,
+                                         "stun":  0
+                                     },
+                      "damageResistances":  {
+                                                "physical":  {
+                                                                 "multiplier":  0.72,
+                                                                 "threshold":  0,
+                                                                 "damageCap":  0
+                                                             },
+                                                "energy":  {
+                                                               "multiplier":  1.08,
+                                                               "threshold":  0,
+                                                               "damageCap":  0
+                                                           },
+                                                "distortion":  {
+                                                                   "multiplier":  1,
+                                                                   "threshold":  0,
+                                                                   "damageCap":  0
+                                                               },
+                                                "thermal":  {
+                                                                "multiplier":  1,
+                                                                "threshold":  0,
+                                                                "damageCap":  0
+                                                            },
+                                                "biochemical":  {
+                                                                    "multiplier":  1,
+                                                                    "threshold":  0,
+                                                                    "damageCap":  0
+                                                                },
+                                                "stun":  {
+                                                             "multiplier":  1,
+                                                             "threshold":  0,
+                                                             "damageCap":  0
+                                                         }
+                                            }
+                  },
+        "isQuantumCapable":  true,
+        "padType":  "L",
+        "utilityTurrets":  null,
+        "hardpoints":  [
+
+                       ]
+    },
+    {
         "ref":  "11ebc47d-4763-4faa-9020-171cf6c2651f",
         "codeName":  "GAMA_Syulen",
         "displayName":  "Gatac Syulen",
@@ -190930,6 +191119,151 @@
 
                                             ]
                            }
+                       ]
+    },
+    {
+        "ref":  "8c2730d4-52c1-43fb-9972-d9956fb7ea1f",
+        "codeName":  "GAMA_Tyilui",
+        "displayName":  "Gatac Tyilui",
+        "displayNameToken":  "@vehicle_NameGAMA_Tyilui",
+        "shopName":  "Gatac Tyilui",
+        "shopNameToken":  "@vehicle_NameGAMA_Tyilui",
+        "description":  "Manufacturer: Gatac Manufacture\\nFocus: Combat\\n\\nTrue to the nature of the Xi\u0027an, the Tyilui takes innovation to the next level with Gatac\u0027s most ambitious ship yet. In addition to hosting several turrets, the mini-carrier\u0027s rear-facing hangar is capable of storing multiple snub ships, providing greater operational flexibility in combat scenarios and beyond.",
+        "descriptionToken":  "@vehicle_DescGAMA_Tyilui",
+        "vehicleType":  "Spaceship",
+        "manufacturerRef":  "adf5fa24-be2b-49aa-9af6-b335b6e0f9ac",
+        "careerRef":  "2bf4345e-cf3c-4ecb-91ce-f9daa8ff47f8",
+        "career":  "Combat",
+        "roleRef":  "e3df93c8-c0ab-480e-a6e1-7ee03eba2881",
+        "role":  "Carrier",
+        "crewSize":  4,
+        "movementClass":  "Spaceship",
+        "size":  {
+                     "x":  58.75,
+                     "y":  52,
+                     "z":  67.25
+                 },
+        "hullDamageNormalization":  2500,
+        "insurance":  {
+                          "baseWaitTimeMinutes":  17.33,
+                          "mandatoryWaitTimeMinutes":  5.66,
+                          "baseExpeditingFee":  6000
+                      },
+        "shipSize":  "Large",
+        "canEntitleThroughWebsite":  false,
+        "cargoSCU":  96,
+        "isCargo":  true,
+        "cargoGrids":  [
+                           {
+                               "portName":  "hardpoint_cargo_top",
+                               "codeName":  "GAMA_Tyilui_CargoGrid",
+                               "ref":  "f8b14faf-a661-4675-91ae-1353eaaa70f2",
+                               "scu":  48,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  7.5,
+                                                  "z":  2.5
+                                              }
+                           },
+                           {
+                               "portName":  "hardpoint_cargo_bottom",
+                               "codeName":  "GAMA_Tyilui_CargoGrid",
+                               "ref":  "f8b14faf-a661-4675-91ae-1353eaaa70f2",
+                               "scu":  48,
+                               "dimensions":  {
+                                                  "x":  5,
+                                                  "y":  7.5,
+                                                  "z":  2.5
+                                              }
+                           }
+                       ],
+        "resourceCapacitySCU":  null,
+        "mass":  null,
+        "fuelHydrogen":  null,
+        "fuelQuantum":  null,
+        "fuelHydrogenSCU":  null,
+        "fuelQuantumSCU":  null,
+        "fuelUnits":  "SCU",
+        "armor":  {
+                      "ref":  "7813fffd-e80a-43ea-a936-9965de40c85c",
+                      "codeName":  "ARMR_GAMA_Tyilui",
+                      "displayName":  null,
+                      "displayNameToken":  null,
+                      "type":  "Armor",
+                      "subType":  "Medium",
+                      "size":  1,
+                      "grade":  1,
+                      "manufacturerRef":  null,
+                      "manufacturer":  null,
+                      "health":  10560,
+                      "signalMultipliers":  {
+                                                "infrared":  1,
+                                                "electromagnetic":  1,
+                                                "crossSection":  1
+                                            },
+                      "damageMultipliers":  {
+                                                "physical":  0.75,
+                                                "energy":  0.6,
+                                                "distortion":  1,
+                                                "thermal":  1,
+                                                "biochemical":  1,
+                                                "stun":  1
+                                            },
+                      "penetrationAbsorption":  {
+                                                    "physical":  1,
+                                                    "energy":  1,
+                                                    "distortion":  0,
+                                                    "thermal":  1,
+                                                    "biochemical":  1,
+                                                    "stun":  1
+                                                },
+                      "basePenetrationReduction":  1,
+                      "deflection":  {
+                                         "physical":  116,
+                                         "energy":  110,
+                                         "distortion":  0,
+                                         "thermal":  0,
+                                         "biochemical":  0,
+                                         "stun":  0
+                                     },
+                      "damageResistances":  {
+                                                "physical":  {
+                                                                 "multiplier":  0.77,
+                                                                 "threshold":  0,
+                                                                 "damageCap":  0
+                                                             },
+                                                "energy":  {
+                                                               "multiplier":  1.15,
+                                                               "threshold":  0,
+                                                               "damageCap":  0
+                                                           },
+                                                "distortion":  {
+                                                                   "multiplier":  1,
+                                                                   "threshold":  0,
+                                                                   "damageCap":  0
+                                                               },
+                                                "thermal":  {
+                                                                "multiplier":  1,
+                                                                "threshold":  0,
+                                                                "damageCap":  0
+                                                            },
+                                                "biochemical":  {
+                                                                    "multiplier":  1,
+                                                                    "threshold":  0,
+                                                                    "damageCap":  0
+                                                                },
+                                                "stun":  {
+                                                             "multiplier":  1,
+                                                             "threshold":  0,
+                                                             "damageCap":  0
+                                                         }
+                                            }
+                  },
+        "isQuantumCapable":  true,
+        "padType":  "L",
+        "utilityTurrets":  null,
+        "hardpoints":  [
+
                        ]
     },
     {
