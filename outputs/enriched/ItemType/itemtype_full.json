@@ -392,6 +392,104 @@
         "cigType":  "Turret"
     },
     {
+        "code":  "equipment.utility.fueltank",
+        "displayName":  "Fuel Tank",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.utility",
+        "cigType":  "FuelTank"
+    },
+    {
+        "code":  "equipment.utility.quantumfueltank",
+        "displayName":  "Quantum Fuel Tank",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.utility",
+        "cigType":  "QuantumFuelTank"
+    },
+    {
+        "code":  "equipment.utility.fuelintake",
+        "displayName":  "Fuel Intake",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.utility",
+        "cigType":  "FuelIntake"
+    },
+    {
+        "code":  "equipment.utility.towingbeam",
+        "displayName":  "Towing Beam",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.utility",
+        "cigType":  "TowingBeam"
+    },
+    {
+        "code":  "equipment.weaponry.weapondefensive",
+        "displayName":  "Countermeasure Launcher",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.weaponry",
+        "cigType":  "WeaponDefensive"
+    },
+    {
+        "code":  "equipment.systems.vehiclearmor",
+        "displayName":  "Ship Armor",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.systems",
+        "cigType":  "Armor"
+    },
+    {
+        "code":  "equipment.systems.emp",
+        "displayName":  "EMP Generator",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.systems",
+        "cigType":  "EMP"
+    },
+    {
+        "code":  "equipment.systems.jumpdrive",
+        "displayName":  "Jump Drive",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.systems",
+        "cigType":  "JumpDrive"
+    },
+    {
+        "code":  "equipment.systems.quantuminterdictiongenerator",
+        "displayName":  "Quantum Interdiction Generator",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.systems",
+        "cigType":  "QuantumInterdictionGenerator"
+    },
+    {
+        "code":  "equipment.systems.manneuverthruster",
+        "displayName":  "Maneuvering Thruster",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.systems",
+        "cigType":  "ManneuverThruster"
+    },
+    {
+        "code":  "equipment.systems.mainthruster",
+        "displayName":  "Main Thruster",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.systems",
+        "cigType":  "MainThruster"
+    },
+    {
+        "code":  "equipment.weapons.grenade",
+        "displayName":  "Grenade",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.weapons",
+        "cigType":  "Grenade"
+    },
+    {
+        "code":  "equipment.misc.fps_consumable",
+        "displayName":  "Personal Consumable",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.misc",
+        "cigType":  "FPS_Consumable"
+    },
+    {
+        "code":  "equipment.undersuit.suit",
+        "displayName":  "Suit Thruster Pack",
+        "displayNameToken":  null,
+        "parentCode":  "equipment.undersuit",
+        "cigType":  "Suit"
+    },
+    {
         "code":  "commodity",
         "displayName":  "Commodity",
         "displayNameToken":  null,
