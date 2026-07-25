@@ -490,6 +490,146 @@
         "system_name":  null
     },
     {
+        "ref":  "6bfc52d9-764d-4232-9a4e-766d1fd9184b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\soo2_island1.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/soo2_island1.xml",
+        "rootElement":  "MissionLocationTemplate.SOO2_Island1",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "c9bf8bf6-dfd4-4e4c-b9d4-df751cce680c",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\soo2_island2.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/soo2_island2.xml",
+        "rootElement":  "MissionLocationTemplate.SOO2_Island2",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "8436631b-d431-4533-af50-9162caedc8ac",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\soo2_island3.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/soo2_island3.xml",
+        "rootElement":  "MissionLocationTemplate.SOO2_Island3",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "923f2473-b686-4592-a483-30390aa816e7",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\soo2_location.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/soo2_location.xml",
+        "rootElement":  "MissionLocationTemplate.SOO2_Location",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "c0aa2237-65d0-43b8-9faa-9cbd76c7d7d2",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\aidocking\\orison_javelin_dock.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/aidocking/orison_javelin_dock.xml",
@@ -3964,7 +4104,77 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "4c2485e4-38ff-47d6-9405-ccc3cd91da82",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\drak_caterpillar_space_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/drak_caterpillar_space_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.DRAK_Caterpillar_Space_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "0eab64bf-7ba2-4c62-9c63-2973cae8f92a",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\drak_caterpillar_space_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/drak_caterpillar_space_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.DRAK_Caterpillar_Space_Nyx_Keeger",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -6239,7 +6449,77 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "65798bf2-b341-4f60-889e-96f826ccf267",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\drak_cutlass_space_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/drak_cutlass_space_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.DRAK_Cutlass_Space_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "392ba55f-77f4-4241-84e9-97d07bda6554",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\drak_cutlass_space_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/drak_cutlass_space_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.DRAK_Cutlass_Space_Nyx_Keeger",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -7009,7 +7289,77 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "e50b8b81-e8c9-4993-a204-b5ad2dd7dc92",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\misc_freelancer_space_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/misc_freelancer_space_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.MISC_Freelancer_Space_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "a8bf3c91-7a06-4950-8216-9cd5b80c7a78",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\misc_freelancer_space_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/misc_freelancer_space_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.MISC_Freelancer_Space_Nyx_Keeger",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -8059,7 +8409,77 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "907d4b3b-f4f6-4f29-9229-e2f8caf95729",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\misc_starfarer_space_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/misc_starfarer_space_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.MISC_Starfarer_Space_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "c9567d3c-8295-4507-9bb6-fe20b71c9168",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\misc_starfarer_space_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/misc_starfarer_space_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.MISC_Starfarer_Space_Nyx_Keeger",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -9354,7 +9774,77 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "27683e1d-5b07-4338-9168-d2c1b91293a2",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\rsi_constellation_space_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/rsi_constellation_space_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.RSI_Constellation_Space_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "da1ce231-e7c9-4531-b34e-ed0ae4ce58ae",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\derelicts\\rsi_constellation_space_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/derelicts/rsi_constellation_space_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.RSI_Constellation_Space_Nyx_Keeger",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -19849,6 +20339,146 @@
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\distributioncentres\\dc_stan_sakurasun_stanton4.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/distributioncentres/dc_stan_sakurasun_stanton4.xml",
         "rootElement":  "MissionLocationTemplate.DC_Stan_SakuraSun_Stanton4",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "8962ca81-d809-4f10-abc2-ebe4f405209f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\distributioncentres\\dc_stan_sublocation_cargowing.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/distributioncentres/dc_stan_sublocation_cargowing.xml",
+        "rootElement":  "MissionLocationTemplate.DC_Stan_Sublocation_CargoWing",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "b18b012e-beee-411d-9533-8cbd9eb1a87e",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\distributioncentres\\dc_stan_sublocation_refinarywing.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/distributioncentres/dc_stan_sublocation_refinarywing.xml",
+        "rootElement":  "MissionLocationTemplate.DC_Stan_Sublocation_RefinaryWing",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "8fa130eb-3d2c-40a0-bc5d-678becc8dc8f",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\distributioncentres\\dc_stan_sublocation_securitywing.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/distributioncentres/dc_stan_sublocation_securitywing.xml",
+        "rootElement":  "MissionLocationTemplate.DC_Stan_Sublocation_SecurityWing",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "6119dc68-dc93-4de2-a745-002eddfbe140",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\distributioncentres\\dc_stan_sublocation_shippingwing.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/distributioncentres/dc_stan_sublocation_shippingwing.xml",
+        "rootElement":  "MissionLocationTemplate.DC_Stan_Sublocation_ShippingWing",
         "sourceType":  "MissionLocationTemplate",
         "navIcon":  null,
         "pathTypeHint":  null,
@@ -53410,10 +54040,80 @@
         "system_name":  null
     },
     {
+        "ref":  "8433bf7d-8bfa-4a14-aca8-746d7b9f9472",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidbase\\miningasteroidbase_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidbase/miningasteroidbase_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.MiningAsteroidBase_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "bb195202-79a3-4b7e-b5d5-7ac06b9b4809",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidbase\\miningasteroidbase_nyx_hangar.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidbase/miningasteroidbase_nyx_hangar.xml",
         "rootElement":  "MissionLocationTemplate.MiningAsteroidBase_Nyx_Hangar",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "91e239bb-3563-4d12-8b90-9bef128e888c",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidbase\\miningasteroidbase_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidbase/miningasteroidbase_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.MiningAsteroidBase_Nyx_Keeger",
         "sourceType":  "MissionLocationTemplate",
         "navIcon":  null,
         "pathTypeHint":  null,
@@ -53560,6 +54260,41 @@
         "rawNameToken":  "@MiningAsteroidBase_001",
         "rawDescriptionToken":  null,
         "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "7fff474a-1dbb-4cb6-bff0-b46221ece97e",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidbase\\outlawasteroidbase.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidbase/outlawasteroidbase.xml",
+        "rootElement":  "MissionLocationTemplate.OutlawAsteroidBase",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Nyx_OutlawStation_Keeger",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Moraine Base",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -53799,6 +54534,111 @@
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidclusters\\asteroidclusters_nyx.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidclusters/asteroidclusters_nyx.xml",
         "rootElement":  "MissionLocationTemplate.AsteroidClusters_Nyx",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_009",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring Cluster",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "879dd748-35b4-4a77-9b55-66d5a3a7fc49",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidclusters\\asteroidclusters_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidclusters/asteroidclusters_nyx_glaciem.xml",
+        "rootElement":  "MissionLocationTemplate.AsteroidClusters_Nyx_Glaciem",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_009",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring Cluster",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "22eec70e-15bb-40d4-ba29-1e0c43ce8bb2",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidclusters\\asteroidclusters_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidclusters/asteroidclusters_nyx_keeger.xml",
+        "rootElement":  "MissionLocationTemplate.AsteroidClusters_Nyx_Keeger",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_019",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Cluster",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "4caf3890-7b21-46f4-ac9e-3f49f5a48b37",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidclusters\\asteroidclusters_nyx_outlaw.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidclusters/asteroidclusters_nyx_outlaw.xml",
+        "rootElement":  "MissionLocationTemplate.AsteroidClusters_Nyx_Outlaw",
         "sourceType":  "MissionLocationTemplate",
         "navIcon":  null,
         "pathTypeHint":  null,

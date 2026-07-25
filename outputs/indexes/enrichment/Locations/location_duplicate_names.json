@@ -1,5 +1,23 @@
 [
     {
+        "duplicate_name":  "Moraine Base",
+        "duplicate_count":  2,
+        "ref":  "a08b21df-0fe9-4342-a1e6-b408bf56d803",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Moraine Base",
+        "duplicate_count":  2,
+        "ref":  "1140b5a3-48a9-4028-ae85-1d50bc400a18",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
         "duplicate_name":  "QV Breaker Station BRK-204",
         "duplicate_count":  2,
         "ref":  "35c28367-2337-4b95-bccb-b7a0bbc07272",
@@ -37,7 +55,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "e78d4687-ac0e-4274-a214-0e5d496a62f0",
         "type":  "Default",
         "parent_id":  null,
@@ -46,7 +64,34 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
+        "ref":  "efdaa0b6-1f7f-4b30-a3fa-b2d50248957e",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Asteroid Mining Base",
+        "duplicate_count":  14,
+        "ref":  "6b14c5fc-68e9-4bc6-ae12-1a27eb036b81",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Asteroid Mining Base",
+        "duplicate_count":  14,
+        "ref":  "7ee7edbf-1b77-4fb5-9fa3-d2b86ba99052",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Asteroid Mining Base",
+        "duplicate_count":  14,
         "ref":  "a68c0a1f-d454-4635-b644-dc8c867b5f8b",
         "type":  "Default",
         "parent_id":  "a14bec87-5801-4440-8ca8-35597487ac9a",
@@ -55,7 +100,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "6f3b9912-2f42-497e-9e0f-435ce43d3e9b",
         "type":  "Default",
         "parent_id":  "a14bec87-5801-4440-8ca8-35597487ac9a",
@@ -64,7 +109,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "1d26b64b-e044-4adf-b230-aaa99dc4b3f0",
         "type":  "Default",
         "parent_id":  "a14bec87-5801-4440-8ca8-35597487ac9a",
@@ -73,7 +118,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "3a9ad441-b058-4712-8911-3c3a3eeb8b56",
         "type":  "Default",
         "parent_id":  "a14bec87-5801-4440-8ca8-35597487ac9a",
@@ -82,7 +127,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "e2104d36-aab9-44a5-8c9f-e3a147f5aa3c",
         "type":  "Default",
         "parent_id":  "a14bec87-5801-4440-8ca8-35597487ac9a",
@@ -91,7 +136,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "04ff332d-e355-45bf-ab16-04df30fe0a44",
         "type":  "Default",
         "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
@@ -100,7 +145,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "d1818d52-e4d6-4587-a679-600593f873e9",
         "type":  "Default",
         "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
@@ -109,7 +154,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "2cb3d58e-1e0b-4f25-b2d3-dd76cbc15fd6",
         "type":  "Default",
         "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
@@ -118,7 +163,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "d12b0f75-aba9-4a5b-91f0-f23182c60445",
         "type":  "Default",
         "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
@@ -127,7 +172,7 @@
     },
     {
         "duplicate_name":  "Asteroid Mining Base",
-        "duplicate_count":  11,
+        "duplicate_count":  14,
         "ref":  "75f34f42-a4f5-4d01-80cb-35422ecb9db8",
         "type":  "Default",
         "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
@@ -186,6 +231,33 @@
         "type":  "Default",
         "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
         "parent_name":  "Stanton",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Asteroid Cluster",
+        "duplicate_count":  3,
+        "ref":  "0a5d7fba-89e8-4558-9ea7-09497b3046ea",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Asteroid Cluster",
+        "duplicate_count":  3,
+        "ref":  "f0551966-135c-41bd-a1b2-b79d30503c95",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "Asteroid Cluster",
+        "duplicate_count":  3,
+        "ref":  "d9fed388-6aaa-40a5-837f-51a54fd9f0d3",
+        "type":  "Default",
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
         "source_path":  null
     },
     {

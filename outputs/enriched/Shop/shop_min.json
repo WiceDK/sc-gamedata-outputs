@@ -641,8 +641,8 @@
         "locationResolutionMethod":  "object_container_star_map_record",
         "locationConfidence":  "high",
         "objectContainerPaths":  [
-                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_grimhex.socpak",
-                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_levski.socpak"
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_levski.socpak",
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_grimhex.socpak"
                                  ]
     },
     {
@@ -660,8 +660,8 @@
         "locationResolutionMethod":  "object_container_star_map_record",
         "locationConfidence":  "high",
         "objectContainerPaths":  [
-                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_grimhex.socpak",
-                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_levski.socpak"
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_levski.socpak",
+                                     "Data/ObjectContainers/PU/Shops/shippart/dumpersdepot/dumpersdepot_grimhex.socpak"
                                  ]
     },
     {

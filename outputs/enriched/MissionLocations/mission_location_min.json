@@ -2086,7 +2086,71 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "4c2485e4-38ff-47d6-9405-ccc3cd91da82",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "0eab64bf-7ba2-4c62-9c63-2973cae8f92a",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -4166,7 +4230,71 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "65798bf2-b341-4f60-889e-96f826ccf267",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "392ba55f-77f4-4241-84e9-97d07bda6554",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -4870,7 +4998,71 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "e50b8b81-e8c9-4993-a204-b5ad2dd7dc92",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "a8bf3c91-7a06-4950-8216-9cd5b80c7a78",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -5830,7 +6022,71 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "907d4b3b-f4f6-4f29-9229-e2f8caf95729",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "c9567d3c-8295-4507-9bb6-fe20b71c9168",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -7014,7 +7270,71 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@mission_location_nyx_008",
         "rawDescriptionToken":  null,
-        "resolvedName":  "Glaciem Ring Wreck Site",
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "27683e1d-5b07-4338-9168-d2c1b91293a2",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_008",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "da1ce231-e7c9-4531-b34e-ed0ae4ce58ae",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_018",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Wreck Site",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -31456,7 +31776,71 @@
         "system_name":  null
     },
     {
+        "ref":  "8433bf7d-8bfa-4a14-aca8-746d7b9f9472",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "bb195202-79a3-4b7e-b5d5-7ac06b9b4809",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "91e239bb-3563-4d12-8b90-9bef128e888c",
         "sourceType":  "MissionLocationTemplate",
         "navIcon":  null,
         "pathTypeHint":  null,
@@ -31616,6 +32000,38 @@
         "system_name":  null
     },
     {
+        "ref":  "7fff474a-1dbb-4cb6-bff0-b46221ece97e",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Nyx_OutlawStation_Keeger",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Moraine Base",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "4c8cd7ea-b794-4bec-bf71-eba28b19dd12",
         "sourceType":  "MissionLocationTemplate",
         "navIcon":  null,
@@ -31713,6 +32129,102 @@
     },
     {
         "ref":  "22427c1b-2d8f-4d17-9f87-84f34f1ea019",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_009",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring Cluster",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "879dd748-35b4-4a77-9b55-66d5a3a7fc49",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_009",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Glaciem Ring Cluster",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "22eec70e-15bb-40d4-ba29-1e0c43ce8bb2",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@mission_location_nyx_019",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Keeger Belt Cluster",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
+        "ref":  "4caf3890-7b21-46f4-ac9e-3f49f5a48b37",
         "sourceType":  "MissionLocationTemplate",
         "navIcon":  null,
         "pathTypeHint":  null,

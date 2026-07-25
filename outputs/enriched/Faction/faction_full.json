@@ -51,6 +51,31 @@
         "reputation":  null
     },
     {
+        "ref":  "acb798bc-a3c6-462f-8535-4bda90386f71",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion_ninetails.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion_ninetails.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Kopion_Ninetails",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "3ea7569e-c92f-4874-8ffa-12f0338e58b7"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
         "ref":  "b46d74e1-44c3-479a-ba0f-ba3f07d66529",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion.xml",
@@ -77,21 +102,21 @@
         "reputation":  null
     },
     {
-        "ref":  "615e0c15-883f-4c5c-af0f-0f332483eb31",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_intersecdefensesolutions.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_intersecdefensesolutions.xml",
-        "rootElement":  "Faction.Faction_Reputation_Lawful_InterSecDefenseSolutions",
+        "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_neutral_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_neutral_generic.xml",
+        "rootElement":  "Faction.Faction_Creature_Neutral_Generic",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  null,
         "nameStatus":  "unresolved",
         "rawDescriptionToken":  "@LOC_EMPTY",
         "resolvedDescription":  null,
-        "factionType":  "Lawful",
+        "factionType":  "Unlawful",
         "defaultReaction":  "Neutral",
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
-        "noLegalRights":  false,
+        "noLegalRights":  true,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
 
@@ -130,21 +155,21 @@
         "reputation":  null
     },
     {
-        "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_neutral_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_neutral_generic.xml",
-        "rootElement":  "Faction.Faction_Creature_Neutral_Generic",
+        "ref":  "615e0c15-883f-4c5c-af0f-0f332483eb31",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_intersecdefensesolutions.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_intersecdefensesolutions.xml",
+        "rootElement":  "Faction.Faction_Reputation_Lawful_InterSecDefenseSolutions",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  null,
         "nameStatus":  "unresolved",
         "rawDescriptionToken":  "@LOC_EMPTY",
         "resolvedDescription":  null,
-        "factionType":  "Unlawful",
+        "factionType":  "Lawful",
         "defaultReaction":  "Neutral",
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
-        "noLegalRights":  true,
+        "noLegalRights":  false,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
 
@@ -222,41 +247,6 @@
         "policesCriminality":  false,
         "noLegalRights":  false,
         "factionReputationRef":  "3afb087d-5e66-4f3f-996d-521bf48f6e1b",
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  {
-                           "logoPath":  null,
-                           "isNpc":  false,
-                           "hideInApp":  false,
-                           "isLawful":  true,
-                           "resolvedHeadquarters":  "<= PLACEHOLDER =>",
-                           "resolvedFounded":  "<= PLACEHOLDER =>",
-                           "resolvedLeadership":  "<= PLACEHOLDER =>",
-                           "resolvedArea":  "<= PLACEHOLDER =>",
-                           "resolvedFocus":  "<= PLACEHOLDER =>"
-                       }
-    },
-    {
-        "ref":  "4cd28d63-24ba-4180-a881-86036c29cd64",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_highpointwildernessspecialists.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_highpointwildernessspecialists.xml",
-        "rootElement":  "FactionReputation",
-        "rawNameToken":  "@LOC_PLACEHOLDER",
-        "resolvedName":  "<= PLACEHOLDER =>",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@LOC_PLACEHOLDER",
-        "resolvedDescription":  "<= PLACEHOLDER =>",
-        "factionType":  null,
-        "defaultReaction":  null,
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  "4cd28d63-24ba-4180-a881-86036c29cd64",
         "alliedFactionRefs":  [
 
                               ],
@@ -551,7 +541,7 @@
                                  "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
                              ],
         "reputation":  {
-                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_CitizensForPyro_Icon_1x1.tif",
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/org_cfp_icon_main_cream.tif",
                            "isNpc":  false,
                            "hideInApp":  false,
                            "isLawful":  true,
@@ -561,31 +551,6 @@
                            "resolvedArea":  "Unclaimed Systems",
                            "resolvedFocus":  "Security, Community Service"
                        }
-    },
-    {
-        "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_civilian.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_civilian.xml",
-        "rootElement":  "Faction.Faction_Lawful_Civilian",
-        "rawNameToken":  "@Civilian_RepUI_Name",
-        "resolvedName":  "Civilian",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@Civilian_RepUI_Description",
-        "resolvedDescription":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
-        "factionType":  "Lawful",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
-                             ],
-        "reputation":  null
     },
     {
         "ref":  "52883600-6021-4407-8130-febb7dd42c63",
@@ -609,6 +574,31 @@
                               ],
         "enemyFactionRefs":  [
 
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_civilian.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_civilian.xml",
+        "rootElement":  "Faction.Faction_Lawful_Civilian",
+        "rawNameToken":  "@Civilian_RepUI_Name",
+        "resolvedName":  "Civilian",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Civilian_RepUI_Description",
+        "resolvedDescription":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
         "reputation":  null
     },
@@ -933,8 +923,8 @@
         "rawNameToken":  "@FTLCourier_RepUI_Name",
         "resolvedName":  "FTL Courier",
         "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@LOC_PLACEHOLDER",
-        "resolvedDescription":  "<= PLACEHOLDER =>",
+        "rawDescriptionToken":  "@FTLCourier_RepUI_Description",
+        "resolvedDescription":  "Specializing primarily in the delivery of small, handheld parcels, FTL have established a reputation as the empire’s #1 courier service. As a company, FTL are always seeking new ways to ensure clients’ shipments get where they are going faster and more securely, ensuring that “when you need a parcel delivered, nothing's Faster Than Light.”",
         "factionType":  null,
         "defaultReaction":  null,
         "ableToArrest":  false,
@@ -949,15 +939,15 @@
 
                              ],
         "reputation":  {
-                           "logoPath":  null,
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_ftl.tif",
                            "isNpc":  false,
                            "hideInApp":  false,
                            "isLawful":  true,
-                           "resolvedHeadquarters":  "<= PLACEHOLDER =>",
-                           "resolvedFounded":  "<= PLACEHOLDER =>",
-                           "resolvedLeadership":  "<= PLACEHOLDER =>",
-                           "resolvedArea":  "<= PLACEHOLDER =>",
-                           "resolvedFocus":  "<= PLACEHOLDER =>"
+                           "resolvedHeadquarters":  "Sherman, Castra II, Castra System",
+                           "resolvedFounded":  "2865",
+                           "resolvedLeadership":  "Ignacio Slade, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Courier Services"
                        }
     },
     {
@@ -994,6 +984,41 @@
                            "resolvedLeadership":  "Kima \"Bats\" Farrell",
                            "resolvedArea":  "Pyro",
                            "resolvedFocus":  "Piracy, Racketeering"
+                       }
+    },
+    {
+        "ref":  "4cd28d63-24ba-4180-a881-86036c29cd64",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_highpointwildernessspecialists.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_highpointwildernessspecialists.xml",
+        "rootElement":  "FactionReputation",
+        "rawNameToken":  "@Highpoint_RepUI_Name",
+        "resolvedName":  "Highpoint Wilderness Specialists",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Highpoint_RepUI_Description",
+        "resolvedDescription":  "After watching precious ecosystems on their home planet of Noble deteriorate due to invasive animals, Larkin Boden became inspired by the Fair Chance Act and environmental movement of the late 28th century to do something about it. In 2795, they founded Highpoint Wilderness Specialists with the goal of preserving the natural beauty of the UEE through wildlife control. Initially, the company specialized in the removal of invasive species and population control. They have since expanded into animal handling and leading expeditions to view wildlife in their natural habitats.",
+        "factionType":  null,
+        "defaultReaction":  null,
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "4cd28d63-24ba-4180-a881-86036c29cd64",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  null,
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Noble, Ellis System",
+                           "resolvedFounded":  "2795",
+                           "resolvedLeadership":  "Larkin Boden, CEO",
+                           "resolvedArea":  "UEE",
+                           "resolvedFocus":  "Scientific Research, Hunting, Gathering"
                        }
     },
     {
@@ -1317,6 +1342,31 @@
                        }
     },
     {
+        "ref":  "125b83e1-1114-44b7-9176-ce78bd0fdbeb",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_moraine.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_moraine.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Moraine",
+        "rawNameToken":  "@Factions_Moraine_DisplayName",
+        "resolvedName":  "Moraine",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Outlaw_RepUI_Description",
+        "resolvedDescription":  "These criminals are unaffiliated with any of the known gangs or syndicates, but still pose a threat to individuals across the empire.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+                                  "4dece609-0140-4a7b-8ea2-1c645e36ac3f"
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
         "ref":  "9e304047-923c-4c8a-968b-20a40136bf8f",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_microtechprotectionservices.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_microtechprotectionservices.xml",
@@ -1359,7 +1409,8 @@
         "noLegalRights":  false,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
-                                  "6468bbc3-d76c-4af5-a8df-57048aed7c8b"
+                                  "6468bbc3-d76c-4af5-a8df-57048aed7c8b",
+                                  "acb798bc-a3c6-462f-8535-4bda90386f71"
                               ],
         "enemyFactionRefs":  [
 
@@ -1459,6 +1510,41 @@
                            "resolvedLeadership":  "Michael Vicar, CEO",
                            "resolvedArea":  "UEE",
                            "resolvedFocus":  "Scientific Research, Gathering, Crafting"
+                       }
+    },
+    {
+        "ref":  "f4cc3bfe-ee9d-41d1-818b-fdb55c979d09",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_battaglia.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_battaglia.xml",
+        "rootElement":  "FactionReputation",
+        "rawNameToken":  "@mg_battaglia_contractor",
+        "resolvedName":  "Recco Battaglia",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@ReccoBattaglia_RepUI_Biography",
+        "resolvedDescription":  "Recco Battaglia, the latest in a long line of miners, had continued the family tradition until an accident at a dig site left her unable to work. Frustrated with her post-accident treatment under the bureaucracy of the UEE and United Resource Workers, Recco moved out to Nyx where she now coordinates contractor operations for the People's Alliance.",
+        "factionType":  null,
+        "defaultReaction":  null,
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "f4cc3bfe-ee9d-41d1-818b-fdb55c979d09",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_ReccoBattaglia-v3.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  true,
+                           "resolvedHeadquarters":  "Levski, Delamar, Nyx",
+                           "resolvedFounded":  "2943",
+                           "resolvedLeadership":  "N/A",
+                           "resolvedArea":  "Nyx",
+                           "resolvedFocus":  "Mining & Local Jobs"
                        }
     },
     {
@@ -1582,31 +1668,6 @@
         "reputation":  null
     },
     {
-        "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawfulsecurity_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawfulsecurity_generic.xml",
-        "rootElement":  "Faction.Faction_UnlawfulSecurity_Generic",
-        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
-        "resolvedName":  "Security",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
-        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "factionType":  "PrivateSecurity",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
@@ -1621,6 +1682,31 @@
         "ableToArrest":  true,
         "policesLawfulTrespass":  true,
         "policesCriminality":  true,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawfulsecurity_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawfulsecurity_generic.xml",
+        "rootElement":  "Faction.Faction_UnlawfulSecurity_Generic",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
+        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
         "noLegalRights":  false,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [

@@ -209,6 +209,210 @@
         "system_name":  "Pyro"
     },
     {
+        "ref":  "f6cb8264-90b6-467e-93ba-a4eb6f5d5adf",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidclusterbase_nyx_outlaw.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidclusterbase_nyx_outlaw.xml",
+        "rootElement":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@asteroidbase_Interior_001",
+        "rawDescriptionToken":  "@MiningAsteroidBase_001a",
+        "resolvedName":  "Asteroid Base",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid mining base",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "f6461834-fa63-468f-a3c4-d1ed6ef8c20d",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.f6461834-fa63-468f-a3c4-d1ed6ef8c20d.xml",
+                                       "targetNameToken":  "Asteroid_ValidQT",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "a08b21df-0fe9-4342-a1e6-b408bf56d803",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidclusterbase_nyx_outlaw_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidclusterbase_nyx_outlaw_glaciem.xml",
+        "rootElement":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw_Glaciem",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Nyx_OutlawStation_Glaciem",
+        "rawDescriptionToken":  "@MiningAsteroidBase_001a",
+        "resolvedName":  "Moraine Base",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid mining base",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw_Glaciem",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "f6461834-fa63-468f-a3c4-d1ed6ef8c20d",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.f6461834-fa63-468f-a3c4-d1ed6ef8c20d.xml",
+                                       "targetNameToken":  "Asteroid_ValidQT",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw_Glaciem",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "1140b5a3-48a9-4028-ae85-1d50bc400a18",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidclusterbase_nyx_outlaw_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidclusterbase_nyx_outlaw_keeger.xml",
+        "rootElement":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw_Keeger",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Nyx_OutlawStation_Keeger",
+        "rawDescriptionToken":  "@MiningAsteroidBase_001a",
+        "resolvedName":  "Moraine Base",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid mining base",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw_Keeger",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "f6461834-fa63-468f-a3c4-d1ed6ef8c20d",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.f6461834-fa63-468f-a3c4-d1ed6ef8c20d.xml",
+                                       "targetNameToken":  "Asteroid_ValidQT",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidClusterBase_Nyx_Outlaw_Keeger",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
         "ref":  "35c28367-2337-4b95-bccb-b7a0bbc07272",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidclusterbase_nyx_rockcracker_sandbox.xml",
         "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidclusterbase_nyx_rockcracker_sandbox.xml",
@@ -325,7 +529,13 @@
                                        "targetName":  "Nyx"
                                    }
                                ],
-        "quantumTravel":  null,
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
         "jurisdictionRef":  null,
         "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
         "systemName":  "Nyx",
@@ -387,7 +597,13 @@
                                        "targetName":  "Nyx"
                                    }
                                ],
-        "quantumTravel":  null,
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
         "jurisdictionRef":  null,
         "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
         "systemName":  "Nyx",
@@ -449,7 +665,13 @@
                                        "targetName":  "Nyx"
                                    }
                                ],
-        "quantumTravel":  null,
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
         "jurisdictionRef":  null,
         "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
         "systemName":  "Nyx",
@@ -511,7 +733,13 @@
                                        "targetName":  "Nyx"
                                    }
                                ],
-        "quantumTravel":  null,
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
         "jurisdictionRef":  null,
         "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
         "systemName":  "Nyx",
@@ -573,7 +801,13 @@
                                        "targetName":  "Nyx"
                                    }
                                ],
-        "quantumTravel":  null,
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
         "jurisdictionRef":  null,
         "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
         "systemName":  "Nyx",
@@ -5360,6 +5594,210 @@
         "systemName":  null,
         "system_id":  null,
         "system_name":  null
+    },
+    {
+        "ref":  "efdaa0b6-1f7f-4b30-a3fa-b2d50248957e",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidcluster_miningbase_nyx.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidcluster_miningbase_nyx.xml",
+        "rootElement":  "StarMapObject.AsteroidCluster_MiningBase_Nyx",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  "@MiningAsteroidBase_001a",
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid mining base",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_MiningBase_Nyx",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "e60452a5-b85c-4ab1-97e7-9cefb466f87b",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
+                                       "targetNameToken":  "Asteroid",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_MiningBase_Nyx",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  18000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  20000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "6b14c5fc-68e9-4bc6-ae12-1a27eb036b81",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidcluster_miningbase_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidcluster_miningbase_nyx_glaciem.xml",
+        "rootElement":  "StarMapObject.AsteroidCluster_MiningBase_Nyx_Glaciem",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  "@MiningAsteroidBase_001a",
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid mining base",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_MiningBase_Nyx_Glaciem",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "e60452a5-b85c-4ab1-97e7-9cefb466f87b",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
+                                       "targetNameToken":  "Asteroid",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_MiningBase_Nyx_Glaciem",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  18000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  20000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "7ee7edbf-1b77-4fb5-9fa3-d2b86ba99052",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidcluster_miningbase_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidcluster_miningbase_nyx_keeger.xml",
+        "rootElement":  "StarMapObject.AsteroidCluster_MiningBase_Nyx_Keeger",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@MiningAsteroidBase_001",
+        "rawDescriptionToken":  "@MiningAsteroidBase_001a",
+        "resolvedName":  "Asteroid Mining Base",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid mining base",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_MiningBase_Nyx_Keeger",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "e60452a5-b85c-4ab1-97e7-9cefb466f87b",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
+                                       "targetNameToken":  "Asteroid",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_MiningBase_Nyx_Keeger",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  18000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  20000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
     },
     {
         "ref":  "a68c0a1f-d454-4635-b644-dc8c867b5f8b",
@@ -16181,11 +16619,11 @@
         "sourceType":  "StarMapObject",
         "navIcon":  "Default",
         "pathTypeHint":  null,
-        "rawNameToken":  "@Glaciem_Segment_001",
-        "rawDescriptionToken":  "@procedural_text_null",
-        "resolvedName":  null,
+        "rawNameToken":  "@asteroidcluster_001",
+        "rawDescriptionToken":  "@asteroidcluster_001a",
+        "resolvedName":  "Asteroid Cluster",
         "designation":  null,
-        "resolvedDescription":  "",
+        "resolvedDescription":  "an asteroid cluster",
         "amenityRefs":  [
 
                         ],
@@ -16221,6 +16659,142 @@
                                    {
                                        "relationHint":  "parent",
                                        "sourceNode":  "StarMapObject.AsteroidCluster_Nyx",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "f0551966-135c-41bd-a1b2-b79d30503c95",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidcluster_nyx_glaciem.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidcluster_nyx_glaciem.xml",
+        "rootElement":  "StarMapObject.AsteroidCluster_Nyx_Glaciem",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Nyx_AsteroidCluster_Glaciem",
+        "rawDescriptionToken":  "@asteroidcluster_001a",
+        "resolvedName":  "Asteroid Cluster",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid cluster",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_Nyx_Glaciem",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "e60452a5-b85c-4ab1-97e7-9cefb466f87b",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
+                                       "targetNameToken":  "Asteroid",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_Nyx_Glaciem",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "d9fed388-6aaa-40a5-837f-51a54fd9f0d3",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\asteroidcluster_nyx_keeger.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/asteroidcluster_nyx_keeger.xml",
+        "rootElement":  "StarMapObject.AsteroidCluster_Nyx_Keeger",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Nyx_AsteroidCluster_Keeger",
+        "rawDescriptionToken":  "@asteroidcluster_001a",
+        "resolvedName":  "Asteroid Cluster",
+        "designation":  null,
+        "resolvedDescription":  "an asteroid cluster",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_Nyx_Keeger",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "e60452a5-b85c-4ab1-97e7-9cefb466f87b",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
+                                       "targetNameToken":  "Asteroid",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.AsteroidCluster_Nyx_Keeger",
                                        "sourceAttribute":  "parent",
                                        "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
                                        "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
@@ -21369,6 +21943,74 @@
         "system_name":  null
     },
     {
+        "ref":  "71a74381-0078-493a-84bb-03eb82e88a12",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\glaciemring_missionlocation.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/glaciemring_missionlocation.xml",
+        "rootElement":  "StarMapObject.GlaciemRing_MissionLocation",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Glaciem_Segment_001",
+        "rawDescriptionToken":  "@asteroidfield_desc_Shared",
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  "A registered asteroid cluster. All rights reserved. Unless otherwise indicated, all mined materials found here are the property of the claim holder.",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.GlaciemRing_MissionLocation",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "4969b9e4-4b1e-45b4-b335-506bbf7af476",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.4969b9e4-4b1e-45b4-b335-506bbf7af476.xml",
+                                       "targetNameToken":  "PointOfInterest",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.GlaciemRing_MissionLocation",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  18000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  20000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
         "ref":  "eb8fbb27-d630-4a9f-9791-fe99caabf9f1",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\glaciem_001.xml",
         "sourceDataPath":  "libs/foundry/records/starmap/pu/glaciem_001.xml",
@@ -21913,9 +22555,9 @@
         "sourceType":  "StarMapObject",
         "navIcon":  "Station",
         "pathTypeHint":  "jumppoint",
-        "rawNameToken":  "@Pyro_JumpPoint_Castra",
+        "rawNameToken":  "@Pyro_Castra_JPStation",
         "rawDescriptionToken":  "@Pyro_JumpPoint_Castra_Desc",
-        "resolvedName":  "Pyro - Castra Jump Point",
+        "resolvedName":  null,
         "designation":  null,
         "resolvedDescription":  "This jump point connects Pyro to the UEE controlled Castra system.",
         "amenityRefs":  [
@@ -22719,6 +23361,74 @@
         "systemName":  null,
         "system_id":  null,
         "system_name":  null
+    },
+    {
+        "ref":  "57cbf576-4f78-401b-881d-7ff52f2666a8",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\keegerbelt_missionlocation.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/keegerbelt_missionlocation.xml",
+        "rootElement":  "StarMapObject.KeegerBelt_MissionLocation",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@KeegerBelt_Segment_001",
+        "rawDescriptionToken":  "@asteroidfield_desc_Shared",
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  "A registered asteroid cluster. All rights reserved. Unless otherwise indicated, all mined materials found here are the property of the claim holder.",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.KeegerBelt_MissionLocation",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "4969b9e4-4b1e-45b4-b335-506bbf7af476",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.4969b9e4-4b1e-45b4-b335-506bbf7af476.xml",
+                                       "targetNameToken":  "PointOfInterest",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.KeegerBelt_MissionLocation",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  18000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  20000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
     },
     {
         "ref":  "0bbad0b9-54f6-4f05-9feb-11a5791e049f",
@@ -60488,6 +61198,210 @@
         "system_name":  "Stanton"
     },
     {
+        "ref":  "296dd332-13da-485a-b6c2-7ab09b60ec36",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\transitpoint_glaciem_alpha.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/transitpoint_glaciem_alpha.xml",
+        "rootElement":  "StarMapObject.TransitPoint_Glaciem_Alpha",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@nyx_transit_Glaciem_01",
+        "rawDescriptionToken":  "@nyx_transit_Glaciem_gen_desc",
+        "resolvedName":  "Transit Point Glaciem Alpha",
+        "designation":  null,
+        "resolvedDescription":  "Transit point for circumnavigating around the Glaciem Ring.",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.TransitPoint_Glaciem_Alpha",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "3819ac97-18f1-499e-9729-b889172da3f8",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.3819ac97-18f1-499e-9729-b889172da3f8.xml",
+                                       "targetNameToken":  "Manmade",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.TransitPoint_Glaciem_Alpha",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "dcdafcd8-df76-447d-a10e-63373052545e",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\transitpoint_glaciem_bravo.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/transitpoint_glaciem_bravo.xml",
+        "rootElement":  "StarMapObject.TransitPoint_Glaciem_Bravo",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@nyx_transit_Glaciem_02",
+        "rawDescriptionToken":  "@nyx_transit_Glaciem_gen_desc",
+        "resolvedName":  "Transit Point Glaciem Bravo",
+        "designation":  null,
+        "resolvedDescription":  "Transit point for circumnavigating around the Glaciem Ring.",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.TransitPoint_Glaciem_Bravo",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "3819ac97-18f1-499e-9729-b889172da3f8",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.3819ac97-18f1-499e-9729-b889172da3f8.xml",
+                                       "targetNameToken":  "Manmade",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.TransitPoint_Glaciem_Bravo",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
+        "ref":  "fff3fb38-bcbf-44b4-907c-b2e584372249",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\transitpoint_glaciem_charlie.xml",
+        "sourceDataPath":  "libs/foundry/records/starmap/pu/transitpoint_glaciem_charlie.xml",
+        "rootElement":  "StarMapObject.TransitPoint_Glaciem_Charlie",
+        "sourceType":  "StarMapObject",
+        "navIcon":  "Default",
+        "pathTypeHint":  null,
+        "rawNameToken":  "@nyx_transit_Glaciem_03",
+        "rawDescriptionToken":  "@nyx_transit_Glaciem_gen_desc",
+        "resolvedName":  "Transit Point Glaciem Charlie",
+        "designation":  null,
+        "resolvedDescription":  "Transit point for circumnavigating around the Glaciem Ring.",
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "reference",
+                                       "sourceNode":  "StarMapObject.TransitPoint_Glaciem_Charlie",
+                                       "sourceAttribute":  "type",
+                                       "targetRef":  "3819ac97-18f1-499e-9729-b889172da3f8",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.3819ac97-18f1-499e-9729-b889172da3f8.xml",
+                                       "targetNameToken":  "Manmade",
+                                       "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "StarMapObject.TransitPoint_Glaciem_Charlie",
+                                       "sourceAttribute":  "parent",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
+                                   }
+                               ],
+        "quantumTravel":  {
+                              "obstructionRadius":  0,
+                              "arrivalRadius":  30000,
+                              "arrivalPointDetectionOffset":  10000,
+                              "adoptionRadius":  500000,
+                              "subPointRadiusMultiplier":  1.5
+                          },
+        "jurisdictionRef":  null,
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx"
+    },
+    {
         "ref":  "02a62832-2087-45cf-8861-cbf0bd310be7",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\player_related\\party_member_qt_beacon.xml",
         "sourceDataPath":  "libs/foundry/records/starmap/pu/player_related/party_member_qt_beacon.xml",
@@ -66874,6 +67788,7 @@
                           "0ff3e83d-ede4-45c0-bd63-8a20873de1f7",
                           "107de55e-07fe-4bd3-bddd-0de6e6f5cb8d",
                           "10a1e3e8-061e-47e0-b402-1400ae82dcc2",
+                          "1140b5a3-48a9-4028-ae85-1d50bc400a18",
                           "128a6d47-443a-4dcf-b2d6-f0ae7987cecf",
                           "12a41d5c-3599-4c8c-8ef2-0025ce228acf",
                           "131a4315-acf4-4ebc-aa93-a4341d3bd596",
@@ -66910,6 +67825,7 @@
                           "26cdd268-5fac-47c9-a9ef-a5ca9ac946a6",
                           "28744466-c098-49e0-8daa-aa764216ea52",
                           "28a944a4-a72b-4407-abd1-786224f1c333",
+                          "296dd332-13da-485a-b6c2-7ab09b60ec36",
                           "29d39504-57fe-42f0-862e-328a9a9b374d",
                           "2a45aa39-130b-4958-9f59-9a3534e3519c",
                           "2a8a3554-b2f2-489d-a50c-5adff46cbf1b",
@@ -67007,6 +67923,7 @@
                           "56fd6f1f-ea37-462b-ab2e-a178e32acccb",
                           "57a22402-5ae8-4a15-b771-e2f32079d215",
                           "57aab807-7e6b-4cde-88df-aa70cb37a84e",
+                          "57cbf576-4f78-401b-881d-7ff52f2666a8",
                           "5835e292-c605-44eb-95a5-91196e9e1947",
                           "58a9ff13-3cb0-482a-88d8-a55db2761eb7",
                           "5a3506a8-5a55-4ad0-b194-fed203332114",
@@ -67043,6 +67960,7 @@
                           "6a92a330-8399-4b24-9751-edce96b9b649",
                           "6ac4b872-42ee-4671-bbb9-94300ce6cf26",
                           "6ac82bfc-d600-4241-bb3b-1824379844e4",
+                          "6b14c5fc-68e9-4bc6-ae12-1a27eb036b81",
                           "6b9ad296-49c4-45b7-97e5-c5c8653a150f",
                           "6c69adb8-ae59-4a33-a3e5-16ecf40aacc4",
                           "6cc025e5-9f16-4444-9e08-407a54e56b34",
@@ -67053,6 +67971,7 @@
                           "6f3832e8-cc9d-49f2-851b-67a332461d20",
                           "6fb3ce63-58bf-430d-a84b-3ed60ab920b9",
                           "70847df0-156c-407c-bc2d-40ccf7ce87f0",
+                          "71a74381-0078-493a-84bb-03eb82e88a12",
                           "72a65e90-470c-45ef-a05e-0056ce5e102c",
                           "7323bb0a-a2b2-409c-b77e-49078a100687",
                           "73613347-bdf1-4207-93fc-4472cadae3bd",
@@ -67076,6 +67995,7 @@
                           "7de6d252-6212-45c4-baf1-c3793a98e759",
                           "7e06e50e-516c-4b0c-8f18-d99fa205ac30",
                           "7e5a8daa-dd17-432b-8c1c-b310d9cff195",
+                          "7ee7edbf-1b77-4fb5-9fa3-d2b86ba99052",
                           "7f5437b5-b69d-4cb0-ae00-7d4c9e2471c0",
                           "80b58ade-11ea-4149-8046-8f97f6e29a8a",
                           "810af42f-3d2a-4526-953d-afbb034119f9",
@@ -67149,6 +68069,7 @@
                           "9fc71de4-a52d-43fa-8670-1c01d909b871",
                           "9fe912c0-4220-4c23-a09b-0318b8b68767",
                           "9ff4affc-0e88-4e1d-82ea-22a9b4b33de4",
+                          "a08b21df-0fe9-4342-a1e6-b408bf56d803",
                           "a0b95e05-2a98-4338-8af4-1a24e2cdd7d2",
                           "a1fb8d93-71d9-40c1-b139-71affbb28fc6",
                           "a22029a8-e78c-4232-817e-59f6e1b7517e",
@@ -67238,12 +68159,14 @@
                           "d99173fc-806e-450d-b909-d6c5c9440368",
                           "d9abc387-1925-4250-afae-a31ae7f923e7",
                           "d9eec698-4bcf-4a8b-ba02-2b81bbe8af9b",
+                          "d9fed388-6aaa-40a5-837f-51a54fd9f0d3",
                           "da02b79e-e497-4381-8cc8-a79893ae151f",
                           "dafcee2b-c264-4dd6-ae06-09965e232ad6",
                           "db12be2a-9953-44ae-ac66-23adc361665e",
                           "db2ebbe5-c942-498d-946c-b9b7fac3148f",
                           "dbb86831-ca9a-4f63-9dfc-b47c143586a0",
                           "dbda433c-82dc-4ba8-b2c2-ac673091e1c3",
+                          "dcdafcd8-df76-447d-a10e-63373052545e",
                           "dce5e9da-9dcd-4760-b018-a9ad1cf9ce07",
                           "dd3bcbd4-5887-4a33-9b84-0b4df7fbb6ec",
                           "ddf5f3f7-8072-44cb-acba-10d47996f19b",
@@ -67278,6 +68201,8 @@
                           "ee13fdee-b016-46ac-a031-2797ceed77f6",
                           "ee342b0b-890a-4690-b49b-3e4114eab7a4",
                           "ef986934-6dfe-4473-8c9a-f6d97096e22f",
+                          "efdaa0b6-1f7f-4b30-a3fa-b2d50248957e",
+                          "f0551966-135c-41bd-a1b2-b79d30503c95",
                           "f0be1fe1-6072-4fa0-9029-4554ff07f8e4",
                           "f1017b15-7cca-4f7d-bf33-16178571aa72",
                           "f19dd3c8-31f8-476a-b951-971852d508e4",
@@ -67288,6 +68213,7 @@
                           "f478dcce-3c68-43fd-9a32-7382f924eb94",
                           "f5debc91-5c5c-47a0-a663-30cbc2db9545",
                           "f6880b7f-770f-48ef-99de-540179f51f50",
+                          "f6cb8264-90b6-467e-93ba-a4eb6f5d5adf",
                           "f72306ed-bb68-46ac-a3c2-93ea1918c592",
                           "f81abeac-6cf9-4e69-b3c5-c31fa06ba5d3",
                           "f867c263-f34c-4064-84f6-49e5a9f99e71",
@@ -67302,7 +68228,8 @@
                           "fc94cc6f-465a-4f3c-8f8f-d96d70fac9c6",
                           "fcc97405-8fce-42cf-87fb-1fb0ca612949",
                           "fee07eba-b396-4524-aadd-35f2f3fa0c73",
-                          "ff10b6b7-7434-451c-bf69-22de89892c26"
+                          "ff10b6b7-7434-451c-bf69-22de89892c26",
+                          "fff3fb38-bcbf-44b4-907c-b2e584372249"
                       ],
         "ancestors":  [
 

@@ -8,6 +8,14 @@
         "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_appointment.svg"
     },
     {
+        "ref":  "faf5b67b-7eea-4f5c-89d1-e970e58a8ae0",
+        "codeName":  "Battaglia",
+        "localizedName":  "Battaglia",
+        "nameSource":  "localization",
+        "rawToken":  "@mobiGlas_ui_MissionType_Battaglia",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_mining.svg"
+    },
+    {
         "ref":  "8e5c6f5f-f882-4e31-945b-31ae88db5c0a",
         "codeName":  "BountyHunter",
         "localizedName":  "Bounty Hunter",
