@@ -1,12 +1,12 @@
 {
-    "startedAt":  "2026-07-07T13:38:07",
-    "finishedAt":  "2026-07-07T13:55:29",
+    "startedAt":  "2026-07-25T20:28:03",
+    "finishedAt":  "2026-07-25T20:50:13",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
-                          "size":  158230478848,
-                          "lastWriteTimeUtc":  "2026-06-27T16:45:05.2136907Z",
-                          "sha256":  "4FDE738F94FE267F6972DC92EC999051649D9D7172EF4071C9A2B8EC8B7A7026",
-                          "hashSkipped":  false
+                          "size":  157719138304,
+                          "lastWriteTimeUtc":  "2026-07-25T18:10:46.6294262Z",
+                          "sha256":  null,
+                          "hashSkipped":  true
                       },
     "configuredSourceArchive":  "Data.p4k",
     "extractionConfigPath":  "src\\contracts\\extract-config.json",
@@ -16,8 +16,7 @@
                   {
                       "step":  "extract",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipExtraction switch was set"
+                      "configPath":  "src\\contracts\\extract-config.json"
                   },
                   {
                       "step":  "remove-legacy-derived-outputs",
@@ -34,7 +33,7 @@
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "outputRepoPath":  "..\\sc-gamedata-outputs"
+                      "outputRepoPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-gamedata-outputs"
                   }
               ],
     "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
