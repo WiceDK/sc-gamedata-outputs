@@ -140,6 +140,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -169,6 +175,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -198,6 +210,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -227,6 +245,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -256,6 +280,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -285,6 +315,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -314,6 +350,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -343,6 +385,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -372,6 +420,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -442,6 +496,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -477,6 +537,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -512,6 +578,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -547,6 +619,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -582,6 +660,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -698,6 +782,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.04
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Ocular Enhancer",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -3252,6 +3342,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4292,6 +4388,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -4321,6 +4423,12 @@
                            "quantitySCU":  0.64
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -4348,6 +4456,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  4
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -4383,6 +4497,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4412,6 +4532,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4441,6 +4567,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4470,6 +4602,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4499,6 +4637,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4528,6 +4672,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4557,6 +4707,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4586,6 +4742,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5637,6 +5799,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5666,6 +5834,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5695,6 +5869,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5724,6 +5910,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5753,6 +5951,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5782,6 +5992,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5811,6 +6033,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5840,6 +6074,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5869,6 +6115,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5898,6 +6156,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5956,6 +6226,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5985,6 +6267,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7344,6 +7638,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7404,6 +7704,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -7431,6 +7737,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -7462,6 +7774,12 @@
                            "quantitySCU":  1.16
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -7489,6 +7807,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  2.08
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  42
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -7520,6 +7844,12 @@
                            "quantitySCU":  3.74
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  75
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -7547,6 +7877,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  6.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  135
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -7582,6 +7918,12 @@
                            "resourceName":  "Torite",
                            "slotName":  "Radiator",
                            "quantitySCU":  0.32
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  16
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7611,6 +7953,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7640,6 +7994,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7669,6 +8035,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7698,6 +8076,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -7727,6 +8117,18 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -9432,6 +9834,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -9461,6 +9869,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -9804,6 +10218,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -10422,6 +10842,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -11191,6 +11617,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.08
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -11986,6 +12418,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -12013,6 +12451,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -12044,6 +12488,12 @@
                            "quantitySCU":  0.64
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -12071,6 +12521,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -12102,6 +12558,12 @@
                            "quantitySCU":  1.16
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -12129,6 +12591,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  1.16
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -12160,6 +12628,12 @@
                            "quantitySCU":  2.08
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  42
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -12189,6 +12663,12 @@
                            "quantitySCU":  3.74
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  75
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -12216,6 +12696,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  6.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  135
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -12659,6 +13145,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Ocular Enhancer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -12688,6 +13180,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.04
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Ocular Enhancer",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -12717,6 +13215,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Ocular Enhancer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -12781,6 +13285,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -13090,6 +13600,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14163,6 +14679,12 @@
                            "resourceName":  "Lindinium",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14477,6 +14999,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14506,6 +15034,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14535,6 +15069,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14564,6 +15104,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14593,6 +15139,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14622,6 +15174,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14651,6 +15209,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14680,6 +15244,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14709,6 +15279,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -14738,6 +15314,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16039,6 +16621,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16068,6 +16656,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16161,6 +16755,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16190,6 +16790,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16219,6 +16825,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16248,6 +16860,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16277,6 +16895,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16306,6 +16930,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16335,6 +16965,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16364,6 +17000,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16393,6 +17035,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16422,6 +17070,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16655,6 +17309,12 @@
                            "resourceName":  "Torite",
                            "slotName":  "Radiator",
                            "quantitySCU":  0.18
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  9
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16684,6 +17344,12 @@
                            "resourceName":  "Torite",
                            "slotName":  "Radiator",
                            "quantitySCU":  0.32
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  16
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16713,6 +17379,12 @@
                            "resourceName":  "Torite",
                            "slotName":  "Radiator",
                            "quantitySCU":  0.58
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  29
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -17825,6 +18497,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Electronics",
                            "quantitySCU":  0.22
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  16
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -18192,6 +18870,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -18587,6 +19271,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -18610,6 +19306,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -18633,6 +19341,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  1.16
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -18825,6 +19545,12 @@
                            "resourceName":  "Lindinium",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19029,6 +19755,12 @@
                            "resourceName":  "Stileron",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19058,6 +19790,12 @@
                            "resourceName":  "Stileron",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19087,6 +19825,12 @@
                            "resourceName":  "Stileron",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19116,6 +19860,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19145,6 +19895,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19174,6 +19930,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19203,6 +19965,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19745,6 +20513,12 @@
                            "resourceName":  "Lindinium",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20019,6 +20793,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20779,6 +21559,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20808,6 +21594,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20837,6 +21629,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20866,6 +21664,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20895,6 +21699,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20924,6 +21734,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20953,6 +21769,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -20982,6 +21804,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22195,6 +23023,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  5.7
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  495
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22224,6 +23058,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  5.7
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  495
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22288,6 +23128,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22317,6 +23163,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22340,6 +23192,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Reinforced Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
@@ -22398,6 +23256,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22456,6 +23320,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22586,6 +23456,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -22613,6 +23489,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -22718,6 +23600,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -22741,6 +23629,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -22770,6 +23664,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -22805,6 +23705,12 @@
                            "resourceName":  "Stileron",
                            "slotName":  "Field Array",
                            "quantitySCU":  5.7
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  495
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -23244,6 +24150,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -23271,6 +24183,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -23341,6 +24259,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -25680,6 +26604,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -25884,6 +26814,12 @@
                            "resourceName":  "Beryl",
                            "slotName":  "Conduit",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Stabilizer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -25913,6 +26849,12 @@
                            "resourceName":  "Beryl",
                            "slotName":  "Conduit",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Stabilizer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -25942,6 +26884,12 @@
                            "resourceName":  "Beryl",
                            "slotName":  "Conduit",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Stabilizer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -25971,6 +26919,12 @@
                            "resourceName":  "Beryl",
                            "slotName":  "Conduit",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Stabilizer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -26000,6 +26954,12 @@
                            "resourceName":  "Beryl",
                            "slotName":  "Conduit",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Stabilizer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -26029,6 +26989,12 @@
                            "resourceName":  "Beryl",
                            "slotName":  "Conduit",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Stabilizer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -26252,6 +27218,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -26279,6 +27251,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -26368,6 +27346,12 @@
                            "quantitySCU":  0.36
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -26397,6 +27381,12 @@
                            "quantitySCU":  0.64
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -26424,6 +27414,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  4
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -26925,6 +27921,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -26948,6 +27956,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -26971,6 +27991,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  1.16
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -26994,6 +28026,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  2.08
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  41
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  41
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27017,6 +28061,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  3.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  75
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  75
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27040,6 +28096,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  6.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  135
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  135
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27168,6 +28236,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27197,6 +28271,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27226,6 +28306,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27487,6 +28573,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27510,6 +28608,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27533,6 +28643,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  1.16
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27556,6 +28678,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  2.08
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  41
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  41
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27579,6 +28713,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  3.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  75
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  75
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -27602,6 +28748,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  6.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  135
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  135
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -28073,6 +29231,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Lattice",
                            "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "1e5e3c87-5e4c-4cac-8a17-6a46f97abb8a",
+                           "resourceName":  "Yormandi Eye",
+                           "slotName":  "Filament Coating",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -28282,6 +29446,12 @@
                            "resourceName":  "Savrilium",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -30253,6 +31423,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31076,6 +32258,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31320,6 +32508,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31343,6 +32543,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  1.16
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31366,6 +32578,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  0.64
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31389,6 +32613,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  2.08
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  41
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  41
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31412,6 +32648,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  3.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  75
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  75
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -31435,6 +32683,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  6.74
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  135
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  135
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -35055,6 +36315,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -35090,6 +36356,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -35125,6 +36397,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -35189,6 +36467,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38496,6 +39780,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38525,6 +39815,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38554,6 +39850,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38583,6 +39885,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38612,6 +39920,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38670,6 +39984,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38937,6 +40257,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.08
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -38960,6 +40286,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.36
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  7
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -39205,6 +40537,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39234,6 +40572,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39263,6 +40607,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39292,6 +40642,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39414,6 +40770,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39443,6 +40805,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39472,6 +40840,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39728,6 +41102,18 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Frame",
                            "quantitySCU":  1.16
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39757,6 +41143,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39786,6 +41178,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39815,6 +41213,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -39844,6 +41248,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "d7d39082-ba27-470c-bc9a-d9e82ce838ae",
+                           "resourceName":  "Carinite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -40211,6 +41621,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -40440,6 +41856,12 @@
                            "quantitySCU":  1.16
                        },
                        {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  23
+                       },
+                       {
                            "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
                            "resourceName":  "Pressurized Ice",
                            "slotName":  "Thermal Sink",
@@ -40578,6 +42000,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  2
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -40671,6 +42099,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -40700,6 +42134,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  5.7
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  495
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -40760,6 +42200,12 @@
                            "quantitySCU":  0.2
                        },
                        {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  4
+                       },
+                       {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
                            "resourceName":  "Copper",
                            "slotName":  "Bus Bars",
@@ -40787,6 +42233,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Frame",
                            "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  4
                        },
                        {
                            "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
@@ -41282,6 +42734,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41317,6 +42775,12 @@
                            "resourceName":  "Iron",
                            "slotName":  "Barrel",
                            "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "3e5fdc37-cb59-4fd3-8168-e3c538ab9722",
+                           "resourceName":  "Hadanite",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41433,6 +42897,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41462,6 +42932,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41491,6 +42967,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41660,6 +43142,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41689,6 +43177,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41718,6 +43212,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41939,6 +43439,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Magnetizer",
+                           "quantitySCU":  12
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41968,6 +43474,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.26
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Magnetizer",
+                           "quantitySCU":  22
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -41997,6 +43509,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.46
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Magnetizer",
+                           "quantitySCU":  40
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -42965,6 +44483,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -42994,6 +44518,12 @@
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
                            "quantitySCU":  0.06
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Filter",
+                           "quantitySCU":  5
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -43023,6 +44553,12 @@
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
                            "quantitySCU":  0.06
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Filter",
+                           "quantitySCU":  5
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -43052,6 +44588,12 @@
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
                            "quantitySCU":  0.1
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Filter",
+                           "quantitySCU":  5
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -43081,6 +44623,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44148,6 +45696,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.26
+                       },
+                       {
+                           "resourceRef":  "5fdfdea8-3d75-4287-85c7-f29a722ee351",
+                           "resourceName":  "Saldynium (Ore)",
+                           "slotName":  "Magnetizer",
+                           "quantitySCU":  22
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44177,6 +45731,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44206,6 +45766,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Electronics",
                            "quantitySCU":  0.13
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  9
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44235,6 +45801,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Electronics",
                            "quantitySCU":  0.22
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  16
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44264,6 +45836,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Electronics",
                            "quantitySCU":  0.4
+                       },
+                       {
+                           "resourceRef":  "9b47bacf-8efa-42e2-8d84-dee64983a00a",
+                           "resourceName":  "Aphorite",
+                           "slotName":  "Distorter Unit",
+                           "quantitySCU":  29
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44398,6 +45976,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44427,6 +46011,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.26
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44456,6 +46046,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.46
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44485,6 +46081,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44514,6 +46116,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.26
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44543,6 +46151,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.46
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44572,6 +46186,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44601,6 +46221,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.26
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44630,6 +46256,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.46
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44659,6 +46291,12 @@
                            "resourceName":  "Gold",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -45326,6 +46964,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -46688,6 +48332,12 @@
                            "resourceName":  "Ouratite",
                            "slotName":  "Drive Motor",
                            "quantitySCU":  0.06
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Emitter",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -46886,6 +48536,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.06
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Ocular Enhancer",
+                           "quantitySCU":  6
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -46915,6 +48571,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -48964,6 +50626,12 @@
                            "resourceName":  "Savrilium",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.68
+                       },
+                       {
+                           "resourceRef":  "7310c15d-359c-42b4-b61e-7da3d0da3384",
+                           "resourceName":  "Feynmaline",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  58
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -49168,6 +50836,12 @@
                            "resourceName":  "Riccite",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -49464,6 +51138,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -49493,6 +51173,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.26
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  13
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -49522,6 +51208,12 @@
                            "resourceName":  "Agricium",
                            "slotName":  "Focus Zone Plate",
                            "quantitySCU":  0.46
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Aperture Iris",
+                           "quantitySCU":  23
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -49796,6 +51488,12 @@
                            "resourceName":  "Laranite",
                            "slotName":  "Field Array",
                            "quantitySCU":  1.9
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  170
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -49883,6 +51581,12 @@
                            "resourceName":  "Corundum",
                            "slotName":  "Field Array",
                            "quantitySCU":  0.24
+                       },
+                       {
+                           "resourceRef":  "960eda23-d77c-425e-8cbd-89d94ca6e2aa",
+                           "resourceName":  "Glacosite",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  20
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50331,6 +52035,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50360,6 +52070,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50389,6 +52105,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50418,6 +52140,12 @@
                            "resourceName":  "Copper",
                            "slotName":  "Wiring",
                            "quantitySCU":  0.01
+                       },
+                       {
+                           "resourceRef":  "7e86e2f4-6c31-41f8-9438-0fd8ad037426",
+                           "resourceName":  "Dolivine",
+                           "slotName":  "Lenses",
+                           "quantitySCU":  4
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50511,6 +52239,18 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50540,6 +52280,18 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50569,6 +52321,18 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50598,6 +52362,18 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -50627,6 +52403,18 @@
                            "resourceName":  "Gold",
                            "slotName":  "Cabling",
                            "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "f3379bda-0520-4c75-920a-c29a50eb6b50",
+                           "resourceName":  "Janalite",
+                           "slotName":  "Power Regulator",
+                           "quantitySCU":  1
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Precision Parts",
+                           "quantitySCU":  1
                        }
                    ],
         "dismantleEfficiency":  null,
