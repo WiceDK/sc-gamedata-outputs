@@ -6617,6 +6617,33 @@
                                             ]
                            },
                            {
+                               "name":  "Hardpoint_Life_Support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_shield_generator_right",
                                "displayName":  "Shield Generator 2",
                                "displayNameToken":  "port_NameShieldGen02",
@@ -7908,6 +7935,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Aegis Dynamics",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "Hardpoint_Life_Support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -9281,6 +9335,33 @@
                                             ]
                            },
                            {
+                               "name":  "Hardpoint_Life_Support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_shield_generator_right",
                                "displayName":  "Shield Generator 2",
                                "displayNameToken":  "port_NameShieldGen02",
@@ -10620,6 +10701,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "Aegis Dynamics",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "Hardpoint_Life_Support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -30605,6 +30713,33 @@
                                "children":  [
 
                                             ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
                            }
                        ]
     },
@@ -31825,6 +31960,33 @@
                                "children":  [
 
                                             ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
                            }
                        ]
     },
@@ -32163,6 +32325,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "GNP",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -33545,6 +33734,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_countermeasure_launcher_left",
                                "displayName":  "Countermeasure Launcher 1",
                                "displayNameToken":  "port_NameCountermeasure01",
@@ -34922,6 +35138,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_engine",
                                "displayName":  "Thruster Main",
                                "displayNameToken":  "port_NameThrusterMain",
@@ -35896,6 +36139,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "GNP",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -37576,6 +37846,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "GNP",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -45865,6 +46162,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir Plus",
+                               "displayNameToken":  null,
+                               "minSize":  2,
+                               "maxSize":  2,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_ping",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -47792,6 +48116,33 @@
                                "defaultComponentSize":  null,
                                "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir Plus",
+                               "displayNameToken":  null,
+                               "minSize":  2,
+                               "maxSize":  2,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -87740,6 +88091,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  "itemPort_port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_thruster_bottom_left",
                                "displayName":  "Maneuvering Thruster 3",
                                "displayNameToken":  "port_NameThrustManoeuv03",
@@ -88851,6 +89229,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  "itemPort_port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_thruster_bottom_left",
                                "displayName":  "Maneuvering Thruster 3",
                                "displayNameToken":  "port_NameThrustManoeuv03",
@@ -89957,6 +90362,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Anvil Aerospace",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  "itemPort_port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -101283,6 +101715,33 @@
                                "defaultComponentSize":  null,
                                "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir Plus",
+                               "displayNameToken":  null,
+                               "minSize":  2,
+                               "maxSize":  2,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -136805,6 +137264,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_radar",
                                "displayName":  "Ecouter",
                                "displayNameToken":  null,
@@ -138130,6 +138616,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Crusader Industries",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -143296,6 +143809,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  2,
                                "defaultComponentManufacturer":  "Aegis Dynamics",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  null,
+                               "defaultComponentCodeName":  null,
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  null,
+                               "defaultComponentSubType":  null,
+                               "defaultComponentSize":  null,
+                               "defaultComponentGrade":  null,
+                               "defaultComponentManufacturer":  null,
                                "children":  [
 
                                             ]
@@ -150944,6 +151484,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  "itemPort_port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_ping",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -152990,6 +153557,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  "itemPort_port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -168240,6 +168834,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_thruster_front_top_left",
                                "displayName":  "Thruster Front Upper Left",
                                "displayNameToken":  "port_NameThrusterMavFUL",
@@ -169865,6 +170486,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_thruster_front_top_left",
                                "displayName":  "Thruster Front Upper Left",
                                "displayNameToken":  "port_NameThrusterMavFUL",
@@ -171461,6 +172109,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -175273,6 +175948,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_mav_rear_bottom_left",
                                "displayName":  "Maneuvering Thruster 7",
                                "displayNameToken":  "port_NameThrustManoeuv07",
@@ -176518,6 +177220,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_mav_rear_bottom_left",
                                "displayName":  "Maneuvering Thruster 7",
                                "displayNameToken":  "port_NameThrustManoeuv07",
@@ -177742,6 +178471,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_mav_rear_bottom_left",
                                "displayName":  "Maneuvering Thruster 7",
                                "displayNameToken":  "port_NameThrustManoeuv07",
@@ -178946,6 +179702,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  2,
                                "defaultComponentManufacturer":  "Basilisk",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -180196,6 +180979,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_mav_rear_bottom_left",
                                "displayName":  "Maneuvering Thruster 7",
                                "displayNameToken":  "port_NameThrustManoeuv07",
@@ -181251,6 +182061,33 @@
                                "defaultComponentSubType":  "Fuel",
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  null,
+                               "defaultComponentCodeName":  null,
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  null,
+                               "defaultComponentSubType":  null,
+                               "defaultComponentSize":  null,
+                               "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
                                "children":  [
 
@@ -184613,6 +185450,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  null,
+                               "defaultComponentCodeName":  null,
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  null,
+                               "defaultComponentSubType":  null,
+                               "defaultComponentSize":  null,
+                               "defaultComponentGrade":  null,
+                               "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_power_plant_01",
                                "displayName":  "Power Plant 1",
                                "displayNameToken":  "port_NamePowerplant01",
@@ -185967,6 +186831,33 @@
                                "defaultComponentSubType":  "Fuel",
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
+                               "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  null,
+                               "defaultComponentCodeName":  null,
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  null,
+                               "defaultComponentSubType":  null,
+                               "defaultComponentSize":  null,
+                               "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
                                "children":  [
 
@@ -194881,6 +195772,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_gun_wing_right_upper_outer",
                                "displayName":  "Weapon - Right",
                                "displayNameToken":  "port_NameWeaponRight",
@@ -203108,6 +204026,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir Plus",
+                               "displayNameToken":  null,
+                               "minSize":  2,
+                               "maxSize":  2,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_radar",
                                "displayName":  "Chernykh",
                                "displayNameToken":  null,
@@ -207862,6 +208807,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_power_plant",
                                "displayName":  "Power Plant",
                                "displayNameToken":  "port_NamePowerplant",
@@ -209306,6 +210278,33 @@
                                "defaultComponentSubType":  "UNDEFINED",
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  2,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
@@ -210757,6 +211756,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "Aegis Dynamics",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -212765,6 +213791,33 @@
                                "children":  [
 
                                             ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
                            }
                        ]
     },
@@ -214188,6 +215241,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  2,
                                "defaultComponentManufacturer":  "Aegis Dynamics",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -217804,6 +218884,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "b9c57c11-2e49-4098-9475-671b7788e318",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S00_ComfortAirLite",
+                               "defaultComponentDisplayName":  "ComfortAir Lite",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  0,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_personal_inv",
                                "displayName":  "Personal Storage",
                                "displayNameToken":  null,
@@ -219249,6 +220356,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "b9c57c11-2e49-4098-9475-671b7788e318",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S00_ComfortAirLite",
+                               "defaultComponentDisplayName":  "ComfortAir Lite",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  0,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_personal_inv",
                                "displayName":  "Personal Storage",
                                "displayNameToken":  null,
@@ -220366,6 +221500,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  4,
                                "defaultComponentManufacturer":  "Juno Starwerk",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "b9c57c11-2e49-4098-9475-671b7788e318",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S00_ComfortAirLite",
+                               "defaultComponentDisplayName":  "ComfortAir Lite",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  0,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -265914,6 +267075,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  2,
+                               "maxSize":  2,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  null,
+                               "defaultComponentCodeName":  null,
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  null,
+                               "defaultComponentSubType":  null,
+                               "defaultComponentSize":  null,
+                               "defaultComponentGrade":  null,
+                               "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_quantum_fuel_tank",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -267502,6 +268690,33 @@
                                "types":  [
                                              {
                                                  "type":  "PowerPlant",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  null,
+                               "defaultComponentCodeName":  null,
+                               "defaultComponentDisplayName":  null,
+                               "defaultComponentType":  null,
+                               "defaultComponentSubType":  null,
+                               "defaultComponentSize":  null,
+                               "defaultComponentGrade":  null,
+                               "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  null,
+                               "displayNameToken":  null,
+                               "minSize":  2,
+                               "maxSize":  2,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
                                                  "subTypes":  {
 
                                                               }
@@ -298019,6 +299234,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_thruster_mav_body_left_bot",
                                "displayName":  "Maneuvering Thruster 17",
                                "displayNameToken":  "port_NameThrustManoeuv17",
@@ -300079,6 +301321,33 @@
                                "defaultComponentSize":  2,
                                "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "Lightning Power Ltd.",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -302573,6 +303842,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "Hardpoint_Weapon_Wing_Top_Right",
                                "displayName":  "Weapon - Right Wing",
                                "displayNameToken":  "port_NameWeaponRightWing",
@@ -303733,6 +305029,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "Hardpoint_Weapon_Wing_Top_Right",
                                "displayName":  "Weapon - Right Wing",
                                "displayNameToken":  "port_NameWeaponRightWing",
@@ -304888,6 +306211,33 @@
                                "defaultComponentSize":  null,
                                "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -306077,6 +307427,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "Hardpoint_Weapon_Wing_Top_Right",
                                "displayName":  "Weapon - Right Wing",
                                "displayNameToken":  "port_NameWeaponRightWing",
@@ -307254,6 +308631,33 @@
                                "defaultComponentSize":  null,
                                "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -308438,6 +309842,33 @@
                                "defaultComponentSize":  null,
                                "defaultComponentGrade":  null,
                                "defaultComponentManufacturer":  null,
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  true,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -321959,6 +323390,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "c50917d3-f453-4ca6-b753-1c506a6710e0",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S02_ComfortAirPlus",
+                               "defaultComponentDisplayName":  "ComfortAir Plus",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  2,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_thruster_mav_body_left_bot",
                                "displayName":  "Maneuvering Thruster 17",
                                "displayNameToken":  "port_NameThrustManoeuv17",
@@ -325627,6 +327085,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_weapon_upper_left",
                                "displayName":  "Weapon - Left",
                                "displayNameToken":  "port_NameWeaponLeft",
@@ -327000,6 +328485,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_weapon_upper_left",
                                "displayName":  "Weapon - Left",
                                "displayNameToken":  "port_NameWeaponLeft",
@@ -328368,6 +329880,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  3,
                                "defaultComponentManufacturer":  "GNP",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -334046,6 +335585,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "Safehab",
+                               "displayNameToken":  null,
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "748aa523-77af-462e-93bb-4d6a4627f66b",
+                               "defaultComponentCodeName":  "LFSP_S04_RSI_Polaris",
+                               "defaultComponentDisplayName":  "Safehab",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  4,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_countermeasure_top_right",
                                "displayName":  "Countermeasure Launcher 4",
                                "displayNameToken":  "port_NameCountermeasure04",
@@ -334534,6 +336100,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  2,
                                "defaultComponentManufacturer":  "Juno Starwerk",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_lifesupport",
+                               "displayName":  "Life Support",
+                               "displayNameToken":  "port_NameLifesupp",
+                               "minSize":  null,
+                               "maxSize":  null,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
@@ -336333,6 +337926,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_battery",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -337992,6 +339612,33 @@
                                             ]
                            },
                            {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
                                "name":  "hardpoint_battery",
                                "displayName":  null,
                                "displayNameToken":  null,
@@ -339635,6 +341282,33 @@
                                "defaultComponentSize":  1,
                                "defaultComponentGrade":  1,
                                "defaultComponentManufacturer":  "RAMP Corporation",
+                               "children":  [
+
+                                            ]
+                           },
+                           {
+                               "name":  "hardpoint_life_support",
+                               "displayName":  "ComfortAir",
+                               "displayNameToken":  null,
+                               "minSize":  1,
+                               "maxSize":  1,
+                               "userReplaceable":  false,
+                               "types":  [
+                                             {
+                                                 "type":  "LifeSupportGenerator",
+                                                 "subTypes":  {
+
+                                                              }
+                                             }
+                                         ],
+                               "defaultComponentRef":  "e947b002-e65e-4637-90b7-c894925d6625",
+                               "defaultComponentCodeName":  "LFSP_TYDT_S01_ComfortAir",
+                               "defaultComponentDisplayName":  "ComfortAir",
+                               "defaultComponentType":  "LifeSupportGenerator",
+                               "defaultComponentSubType":  "UNDEFINED",
+                               "defaultComponentSize":  1,
+                               "defaultComponentGrade":  3,
+                               "defaultComponentManufacturer":  "Tyler Design & Tech",
                                "children":  [
 
                                             ]
