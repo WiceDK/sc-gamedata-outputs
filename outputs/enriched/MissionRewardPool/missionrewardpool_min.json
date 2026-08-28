@@ -250,6 +250,34 @@
                           ]
     },
     {
+        "ref":  "2e9312be-02bc-4bad-8f50-4d03cb8fc967",
+        "displayNameToken":  null,
+        "displayName":  "Idea for Isaac",
+        "codeName":  "BP_MISSIONREWARD_Cargo_ShipMining_Pod_Golem_BTGL",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  [
+                              "Idea for Isaac"
+                          ],
+        "blueprintRefs":  [
+                              "dc671104-f50a-41df-b922-e4d529c6ced7"
+                          ]
+    },
+    {
+        "ref":  "201c1db2-7a79-4135-bb17-74aef7c19ab0",
+        "displayNameToken":  null,
+        "displayName":  "Idea for Isaac",
+        "codeName":  "BP_MISSIONREWARD_Cargo_ShipMining_Pod_MoleProspector_BTGL",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  [
+                              "Idea for Isaac"
+                          ],
+        "blueprintRefs":  [
+                              "c2d44927-b79d-4d43-b46e-274d16cf6b2d"
+                          ]
+    },
+    {
         "ref":  "5ffb46ce-929d-488e-b3a2-94af33e5db78",
         "displayNameToken":  null,
         "displayName":  "Orison Relief: Large Fabrication Order",
@@ -697,6 +725,48 @@
                               "1bfb2db6-2be8-4960-ae41-202cd89019a1",
                               "58f2fe15-955e-4725-8b5f-7a5249186966",
                               "47068d3b-a8e1-4329-ae08-8ed34eb76834"
+                          ]
+    },
+    {
+        "ref":  "a6655c19-9498-4b8a-99d9-a2899462fbbc",
+        "displayNameToken":  null,
+        "displayName":  "Welcome to the System",
+        "codeName":  "BP_MISSIONREWARD_Mining_Modules_Active_Clearcut",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  [
+                              "Welcome to the System"
+                          ],
+        "blueprintRefs":  [
+                              "ef5d60fc-37a2-47c2-a958-d788d6cb7fcb"
+                          ]
+    },
+    {
+        "ref":  "4e2df774-f1d2-4197-abef-e634801ebcb7",
+        "displayNameToken":  null,
+        "displayName":  "Emergency: Blinding Hope in Trouble",
+        "codeName":  "BP_MISSIONREWARD_Mining_Modules_Passive_Deluge",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  [
+                              "Emergency: Blinding Hope in Trouble"
+                          ],
+        "blueprintRefs":  [
+                              "69b3ab1d-034c-4432-b8fb-099f19a3680d"
+                          ]
+    },
+    {
+        "ref":  "94f02c11-3748-4148-8396-0f3fd904da1c",
+        "displayNameToken":  null,
+        "displayName":  "Emergency: Blinding Hope in Trouble",
+        "codeName":  "BP_MISSIONREWARD_Mining_Modules_Passive_Overrun",
+        "blueprintCount":  1,
+        "missionCount":  1,
+        "missionTitles":  [
+                              "Emergency: Blinding Hope in Trouble"
+                          ],
+        "blueprintRefs":  [
+                              "8c60d61b-9c97-4f85-b41a-aa0d7960dfbf"
                           ]
     },
     {
@@ -1369,11 +1439,12 @@
         "displayName":  "CRITICAL FLEET REFUEL",
         "codeName":  "BP_REWARDS_FuelNozzle",
         "blueprintCount":  8,
-        "missionCount":  5,
+        "missionCount":  6,
         "missionTitles":  [
                               "CRITICAL FLEET REFUEL",
                               "CRITICAL REFUEL REQUEST: ~mission(Ship)",
                               "REFUEL REQUEST: ~mission(Ship)",
+                              "URGENT CAPITAL FLEET REFUEL",
                               "URGENT CONVOY REFUEL",
                               "URGENT REFUEL REQUEST: ~mission(Ship)"
                           ],

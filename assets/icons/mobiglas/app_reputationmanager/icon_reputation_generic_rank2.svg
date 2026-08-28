@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
-<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 64 64" overflow="visible" xml:space="preserve">
+<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 520 520" overflow="visible" xml:space="preserve">
 <g id="Bckgrd">
 </g>
-<g id="Layer_1">
-	<path fill="#FFFFFF" d="M47.9,14.1h1.2v25.3c0,3.3-1.6,6.4-4.3,8.3L32,56.7l-12.8-8.9c-2.7-1.9-4.3-5-4.3-8.3V14.1h1.2
-		c3.1,0,5.6-2.5,5.6-5.6V7.3h20.7v1.2C42.3,11.6,44.9,14.1,47.9,14.1z M23,24.7h-5.3l4.3,3.1l-1.6,5l4.3-3.1l4.3,3.1l-1.6-5l4.3-3.1
-		h-5.3l-1.6-5L23,24.7z M39.3,19.7l-1.6,5h-5.3l4.3,3.1l-1.6,5l4.3-3.1l4.3,3.1l-1.6-5l4.3-3.1h-5.3L39.3,19.7z M32,30.9l-1.6,5
-		h-5.3l4.3,3.1l-1.6,5l4.3-3.1l4.3,3.1l-1.6-5l4.3-3.1h-5.3L32,30.9z"/>
+<g id="Layer_1_00000145772777862068641340000007721372310460038847_">
+	<path fill="#FFFFFF" d="M367.8,138.6h8.1v171.5c0,22.4-10.8,43.4-29.1,56.3L260,427.5l-86.8-60.4c-18.3-12.9-29.1-33.9-29.1-56.3
+		V138.6h8.1c21,0,38-17,38-38v-8.2h140.4v8.1C329.9,121.6,347.5,138.6,367.8,138.6z M199,210.6h-35.9l29.1,21l-10.9,33.9l29.1-21
+		l29.1,21l-10.7-33.9l29.1-21h-35.9l-10.8-33.9L199,210.6z M309.4,176.5l-10.8,33.9h-35.9l29.1,21L281,265.4l29.1-21l29.1,21
+		l-10.8-33.9l29.1-21h-35.9L309.4,176.5z M260,252.6l-10.8,33.9h-35.9l29.1,21l-10.8,33.9l29.1-21l29.1,21L279,307.5l29.1-21h-35.9
+		L260,252.6z"/>
 </g>
 <g id="Layer_3">
 </g>

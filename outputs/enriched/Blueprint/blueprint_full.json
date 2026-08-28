@@ -1,40 +1,5 @@
 [
     {
-        "ref":  "c0226b4d-3829-487c-8bf0-7d47f36ae867",
-        "codeName":  "radr_rsi_s04_polaris",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "a39d0aa5-f1af-49fb-aad0-0c1cde0f133f",
-        "outputItemName":  null,
-        "outputItemType":  "Radar",
-        "craftTimeMinutes":  1.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
-                           "slotName":  "Case",
-                           "quantitySCU":  5.3
-                       },
-                       {
-                           "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
-                           "resourceName":  "Bexalite",
-                           "slotName":  "Transmitter",
-                           "quantitySCU":  2.1
-                       },
-                       {
-                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                           "resourceName":  "Stileron",
-                           "slotName":  "Signal Provessor",
-                           "quantitySCU":  2.1
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
         "ref":  "7ab8c5b1-2b1c-4388-8931-ad2aefa812e3",
         "codeName":  "radr_wlop_s03_lephari",
         "blueprintType":  "crafting",
@@ -70,21 +35,33 @@
                                ]
     },
     {
-        "ref":  "3ac19a05-1b4c-4c10-bfd4-78b8a44a59be",
-        "codeName":  "cds_undersuit_01_02_02",
+        "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
+        "codeName":  "cool_aegs_s04_javelin_scitem",
         "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "ae8958f2-b753-4891-bacb-8810950e5f07",
+        "category":  "vehiclegear",
+        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
+        "outputItemRef":  "1f5be5de-b5ea-42c7-879f-289c4bf64f19",
         "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  1.5,
+        "outputItemType":  "Cooler",
+        "craftTimeMinutes":  19,
         "inputs":  [
                        {
-                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
-                           "resourceName":  "Silicon",
-                           "slotName":  "Suit Underlay",
-                           "quantitySCU":  0.06
+                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                           "resourceName":  "Stileron",
+                           "slotName":  "Shell",
+                           "quantitySCU":  5.25
+                       },
+                       {
+                           "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
+                           "resourceName":  "Pressurized Ice",
+                           "slotName":  "Coolant",
+                           "quantitySCU":  5.25
+                       },
+                       {
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Pump Impeller",
+                           "quantitySCU":  3.15
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -128,120 +105,33 @@
                                ]
     },
     {
-        "ref":  "c2bc06a3-5e08-47a2-b27b-dc8b9da187c0",
-        "codeName":  "cds_combat_superheavy_helmet_01_03_01",
+        "ref":  "c0226b4d-3829-487c-8bf0-7d47f36ae867",
+        "codeName":  "radr_rsi_s04_polaris",
         "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "a15e8a38-f90c-47e8-b68c-c81a700c47a5",
+        "category":  "vehiclegear",
+        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
+        "outputItemRef":  "a39d0aa5-f1af-49fb-aad0-0c1cde0f133f",
         "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.5,
+        "outputItemType":  "Radar",
+        "craftTimeMinutes":  1.5,
         "inputs":  [
                        {
-                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
-                           "resourceName":  "Ouratite",
-                           "slotName":  "Armored Carapace",
-                           "quantitySCU":  0.04
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Case",
+                           "quantitySCU":  5.3
                        },
                        {
-                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
-                           "resourceName":  "Titanium",
-                           "slotName":  "Support Structure",
-                           "quantitySCU":  0.04
+                           "resourceRef":  "999e3149-fd10-49ac-914f-8911e61c6122",
+                           "resourceName":  "Bexalite",
+                           "slotName":  "Transmitter",
+                           "quantitySCU":  2.1
                        },
                        {
-                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
-                           "resourceName":  "Aslarite",
-                           "slotName":  "Insulative Liner",
-                           "quantitySCU":  0.02
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
-        "ref":  "eaa1307a-211a-4927-9af2-41296a1e8c4e",
-        "codeName":  "cds_combat_superheavy_suit_01_03_01",
-        "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "f2a15cd0-ada8-4b8a-ae25-18b7a6986fd1",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
-                           "resourceName":  "Ouratite",
-                           "slotName":  "Armored Carapace",
-                           "quantitySCU":  0.08
-                       },
-                       {
-                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
-                           "resourceName":  "Titanium",
-                           "slotName":  "Support Structure",
-                           "quantitySCU":  0.08
-                       },
-                       {
-                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
-                           "resourceName":  "Aslarite",
-                           "slotName":  "Insulative Liner",
-                           "quantitySCU":  0.04
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
-        "ref":  "b7c1c3e2-7c74-4219-830c-7a75c4d13f80",
-        "codeName":  "cds_combat_heavy_helmet_01_02_02",
-        "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "97849417-fbb7-40b6-9599-e691761b7f77",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  4,
-        "inputs":  [
-                       {
-                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
-                           "resourceName":  "Ouratite",
-                           "slotName":  "Armored Carapace",
-                           "quantitySCU":  0.05
-                       },
-                       {
-                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
-                           "resourceName":  "Aslarite",
-                           "slotName":  "Insulative Liner",
-                           "quantitySCU":  0.01
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
-        "ref":  "82cec6d6-7716-4318-bd49-39002e5dfa96",
-        "codeName":  "cds_combat_superheavy_backpack_01_03_01",
-        "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "8f17c496-c12b-4f2e-93e2-c7b5c4ce9524",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  3.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
-                           "resourceName":  "Titanium",
-                           "slotName":  "Support Structure",
-                           "quantitySCU":  0.04
+                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                           "resourceName":  "Stileron",
+                           "slotName":  "Signal Provessor",
+                           "quantitySCU":  2.1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -275,41 +165,6 @@
                        {
                            "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
                            "resourceName":  "Agricium",
-                           "slotName":  "Pump Impeller",
-                           "quantitySCU":  3.15
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
-        "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
-        "codeName":  "cool_aegs_s04_javelin_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "1f5be5de-b5ea-42c7-879f-289c4bf64f19",
-        "outputItemName":  null,
-        "outputItemType":  "Cooler",
-        "craftTimeMinutes":  19,
-        "inputs":  [
-                       {
-                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                           "resourceName":  "Stileron",
-                           "slotName":  "Shell",
-                           "quantitySCU":  5.25
-                       },
-                       {
-                           "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
-                           "resourceName":  "Pressurized Ice",
-                           "slotName":  "Coolant",
-                           "quantitySCU":  5.25
-                       },
-                       {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
                            "slotName":  "Pump Impeller",
                            "quantitySCU":  3.15
                        }
@@ -3344,6 +3199,35 @@
                                ]
     },
     {
+        "ref":  "b7c1c3e2-7c74-4219-830c-7a75c4d13f80",
+        "codeName":  "cds_combat_heavy_helmet_01_02_02",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "97849417-fbb7-40b6-9599-e691761b7f77",
+        "outputItemName":  "ADP-mk4 Helmet SecondWind",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMinutes":  4,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "quantitySCU":  0.05
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "quantitySCU":  0.01
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "33c91dc9-c6fe-4f38-ac17-4e5ebefcc7b9",
         "codeName":  "cds_armor_heavy_helmet_01_01_01",
         "blueprintType":  "crafting",
@@ -3746,6 +3630,41 @@
                                ]
     },
     {
+        "ref":  "cdd236fa-56b9-4913-90cf-be7f4e6ca5a7",
+        "codeName":  "qrt_specialist_heavy_arms_01_01_13",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "572a21b6-4c39-4311-89af-93bbfefbef6a",
+        "outputItemName":  "Antium Arms Maroon",
+        "outputItemType":  "Char_Armor_Arms",
+        "craftTimeMinutes":  4.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Protective Sheathing",
+                           "quantitySCU":  0.06
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "quantitySCU":  0.02
+                       },
+                       {
+                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                           "resourceName":  "Stileron",
+                           "slotName":  "Sheathing Coating",
+                           "quantitySCU":  0.06
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "f087d95a-0dcd-4c37-ac70-4d4d8c866dca",
         "codeName":  "qrt_specialist_heavy_arms_01_03_01",
         "blueprintType":  "crafting",
@@ -3913,41 +3832,6 @@
                            "resourceName":  "Stileron",
                            "slotName":  "Sheathing Coating",
                            "quantitySCU":  0.06
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
-        "ref":  "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
-        "codeName":  "qrt_specialist_heavy_helmet_01_01_12",
-        "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "4ddd8283-1b5c-422b-825d-5dee1e776fcf",
-        "outputItemName":  "Antium Core Jet",
-        "outputItemType":  "Char_Armor_Helmet",
-        "craftTimeMinutes":  4.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Protective Sheathing",
-                           "quantitySCU":  0.05
-                       },
-                       {
-                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
-                           "resourceName":  "Aslarite",
-                           "slotName":  "Insulative Liner",
-                           "quantitySCU":  0.01
-                       },
-                       {
-                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                           "resourceName":  "Stileron",
-                           "slotName":  "Sheathing Coating",
-                           "quantitySCU":  0.05
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -4201,33 +4085,33 @@
                                ]
     },
     {
-        "ref":  "cdd236fa-56b9-4913-90cf-be7f4e6ca5a7",
-        "codeName":  "qrt_specialist_heavy_arms_01_01_13",
+        "ref":  "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
+        "codeName":  "qrt_specialist_heavy_helmet_01_01_12",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "572a21b6-4c39-4311-89af-93bbfefbef6a",
+        "outputItemRef":  "4ddd8283-1b5c-422b-825d-5dee1e776fcf",
         "outputItemName":  "Antium Helmet Jet",
-        "outputItemType":  "Char_Armor_Arms",
+        "outputItemType":  "Char_Armor_Helmet",
         "craftTimeMinutes":  4.5,
         "inputs":  [
                        {
                            "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
                            "resourceName":  "Tungsten",
                            "slotName":  "Protective Sheathing",
-                           "quantitySCU":  0.06
+                           "quantitySCU":  0.05
                        },
                        {
                            "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
-                           "quantitySCU":  0.02
+                           "quantitySCU":  0.01
                        },
                        {
                            "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
                            "resourceName":  "Stileron",
                            "slotName":  "Sheathing Coating",
-                           "quantitySCU":  0.06
+                           "quantitySCU":  0.05
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -5312,6 +5196,29 @@
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
                            "quantitySCU":  0.02
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "8378085b-f334-4c8e-934f-dde839c8714b",
+        "codeName":  "cargo_shipmining_pod_mole",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "f4aebc6d-ab66-4b7a-93ce-69bdd928ca99",
+        "outputItemName":  "Argo Ore Pod",
+        "outputItemType":  "Container",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Frame",
+                           "quantitySCU":  0.7
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -10896,41 +10803,6 @@
                                ]
     },
     {
-        "ref":  "394c971b-2056-4c5b-9503-0c6efbe595ff",
-        "codeName":  "radr_chco_s03_broudspec",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
-        "outputItemRef":  "c802e513-66a1-462f-bfef-a4faa1ab5f1a",
-        "outputItemName":  "BroadSpec",
-        "outputItemType":  "Radar",
-        "craftTimeMinutes":  14.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Case",
-                           "quantitySCU":  2
-                       },
-                       {
-                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
-                           "resourceName":  "Laranite",
-                           "slotName":  "Transmitter",
-                           "quantitySCU":  0.8
-                       },
-                       {
-                           "resourceRef":  "21825507-7923-4683-9bf3-9cfe316940e3",
-                           "resourceName":  "Gold",
-                           "slotName":  "Signal Provessor",
-                           "quantitySCU":  0.8
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
         "ref":  "42097046-f08d-4202-aee0-5b5921ccacb9",
         "codeName":  "radr_chco_s02_broadspec_lite",
         "blueprintType":  "crafting",
@@ -10958,6 +10830,41 @@
                            "resourceName":  "Gold",
                            "slotName":  "Signal Provessor",
                            "quantitySCU":  0.3
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "394c971b-2056-4c5b-9503-0c6efbe595ff",
+        "codeName":  "radr_chco_s03_broudspec",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "a7a033d9-4dcb-4a8a-8ba6-077973f1d4aa",
+        "outputItemRef":  "c802e513-66a1-462f-bfef-a4faa1ab5f1a",
+        "outputItemName":  "BroadSpec",
+        "outputItemType":  "Radar",
+        "craftTimeMinutes":  14.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
+                           "slotName":  "Case",
+                           "quantitySCU":  2
+                       },
+                       {
+                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                           "resourceName":  "Laranite",
+                           "slotName":  "Transmitter",
+                           "quantitySCU":  0.8
+                       },
+                       {
+                           "resourceRef":  "21825507-7923-4683-9bf3-9cfe316940e3",
+                           "resourceName":  "Gold",
+                           "slotName":  "Signal Provessor",
+                           "quantitySCU":  0.8
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -11106,6 +11013,41 @@
                                ]
     },
     {
+        "ref":  "eaa1307a-211a-4927-9af2-41296a1e8c4e",
+        "codeName":  "cds_combat_superheavy_suit_01_03_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "f2a15cd0-ada8-4b8a-ae25-18b7a6986fd1",
+        "outputItemName":  "BUL-H4 Armor Snow Camo",
+        "outputItemType":  "Char_Armor_Undersuit",
+        "craftTimeMinutes":  3.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "quantitySCU":  0.08
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "quantitySCU":  0.08
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "quantitySCU":  0.04
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "1917de77-e1ae-46ac-ac77-d43b9bc1454e",
         "codeName":  "cds_combat_superheavy_helmet_01_01_01",
         "blueprintType":  "crafting",
@@ -11113,6 +11055,41 @@
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
         "outputItemRef":  "4670540c-7d6a-47d4-bb92-c5709b67be05",
         "outputItemName":  "BUL-H4 Helmet",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMinutes":  3.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "quantitySCU":  0.04
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "quantitySCU":  0.04
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "quantitySCU":  0.02
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "c2bc06a3-5e08-47a2-b27b-dc8b9da187c0",
+        "codeName":  "cds_combat_superheavy_helmet_01_03_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "a15e8a38-f90c-47e8-b68c-c81a700c47a5",
+        "outputItemName":  "BUL-H4 Helmet Snow Camo",
         "outputItemType":  "Char_Armor_Helmet",
         "craftTimeMinutes":  3.5,
         "inputs":  [
@@ -13444,41 +13421,6 @@
                                ]
     },
     {
-        "ref":  "b4160c11-75f9-4699-8aab-7b21abf75bc6",
-        "codeName":  "salvage_modifier_scraper_salvation_small",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
-        "outputItemRef":  "1743f1e2-0558-45f6-bc80-d604daf97123",
-        "outputItemName":  "Cinch Scraper Module",
-        "outputItemType":  "SalvageModifier",
-        "craftTimeMinutes":  3,
-        "inputs":  [
-                       {
-                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
-                           "resourceName":  "Iron",
-                           "slotName":  "Case",
-                           "quantitySCU":  0.03
-                       },
-                       {
-                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
-                           "resourceName":  "Copper",
-                           "slotName":  "Wiring",
-                           "quantitySCU":  0.03
-                       },
-                       {
-                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
-                           "resourceName":  "Sadaryx",
-                           "slotName":  "Ocular Enhancer",
-                           "quantitySCU":  3
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
         "ref":  "f35d8068-b232-43d5-a8bb-744a1295c79c",
         "codeName":  "salvage_modifier_scraper_salvation_medium",
         "blueprintType":  "crafting",
@@ -13506,6 +13448,41 @@
                            "resourceName":  "Sadaryx",
                            "slotName":  "Ocular Enhancer",
                            "quantitySCU":  4
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "b4160c11-75f9-4699-8aab-7b21abf75bc6",
+        "codeName":  "salvage_modifier_scraper_salvation_small",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
+        "outputItemRef":  "1743f1e2-0558-45f6-bc80-d604daf97123",
+        "outputItemName":  "Cinch Scraper Module",
+        "outputItemType":  "SalvageModifier",
+        "craftTimeMinutes":  3,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                           "resourceName":  "Copper",
+                           "slotName":  "Wiring",
+                           "quantitySCU":  0.03
+                       },
+                       {
+                           "resourceRef":  "93feeedc-6d17-4b86-b8ae-8e0f4ba56cbf",
+                           "resourceName":  "Sadaryx",
+                           "slotName":  "Ocular Enhancer",
+                           "quantitySCU":  3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -13891,6 +13868,35 @@
                            "resourceName":  "Titanium",
                            "slotName":  "Support Structure",
                            "quantitySCU":  0.06
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "ef5d60fc-37a2-47c2-a958-d788d6cb7fcb",
+        "codeName":  "mining_modules_active_clearcut",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "a6e3aeb0-95df-4f63-9ca1-e8ad5df1a783",
+        "outputItemName":  "Clearcut Module",
+        "outputItemType":  "MiningModifier",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                           "resourceName":  "Copper",
+                           "slotName":  "Wiring",
+                           "quantitySCU":  0.1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -16920,6 +16926,35 @@
                                ]
     },
     {
+        "ref":  "69b3ab1d-034c-4432-b8fb-099f19a3680d",
+        "codeName":  "mining_modules_passive_deluge",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "1f8f946d-7f09-453c-8b2b-f1fbeb8d11bf",
+        "outputItemName":  "Deluge Module",
+        "outputItemType":  "MiningModifier",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                           "resourceName":  "Copper",
+                           "slotName":  "Wiring",
+                           "quantitySCU":  0.1
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "7022945b-fa64-4478-ac6f-5575cf1ee34f",
         "codeName":  "klwe_lmg_energy_01_mr01",
         "blueprintType":  "crafting",
@@ -17705,6 +17740,29 @@
                            "resourceName":  "Aphorite",
                            "slotName":  "Distorter Unit",
                            "quantitySCU":  29
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "19b32f89-8ea6-4338-8410-fd219fc0a8b8",
+        "codeName":  "cargo_shipmining_pod_golem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "4c2d5e75-598a-4854-a301-7bbffeb9794e",
+        "outputItemName":  "Drake Ore Pod",
+        "outputItemType":  "Container",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Frame",
+                           "quantitySCU":  0.3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -19355,6 +19413,29 @@
                                ]
     },
     {
+        "ref":  "3ac19a05-1b4c-4c10-bfd4-78b8a44a59be",
+        "codeName":  "cds_undersuit_01_02_02",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "ae8958f2-b753-4891-bacb-8810950e5f07",
+        "outputItemName":  "FBL-8u Undersuit SecondWind",
+        "outputItemType":  "Char_Armor_Undersuit",
+        "craftTimeMinutes":  1.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
+                           "resourceName":  "Silicon",
+                           "slotName":  "Suit Underlay",
+                           "quantitySCU":  0.06
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "7af16e0e-bba5-4c77-aa0f-8dad05916985",
         "codeName":  "radr_grnp_s03_fidele",
         "blueprintType":  "crafting",
@@ -19984,41 +20065,6 @@
                                ]
     },
     {
-        "ref":  "d0d47aec-82ae-4a0b-866c-df86f5fba6d3",
-        "codeName":  "qdrv_just_s01_goliath_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
-        "outputItemRef":  "dadc9318-d0f2-48c2-aad4-f2dd0c5f7fd3",
-        "outputItemName":  "FoxFire",
-        "outputItemType":  "QuantumDrive",
-        "craftTimeMinutes":  13,
-        "inputs":  [
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Case",
-                           "quantitySCU":  0.35
-                       },
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Injector Nozzles",
-                           "quantitySCU":  0.14
-                       },
-                       {
-                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
-                           "resourceName":  "Laranite",
-                           "slotName":  "Containment Matrix",
-                           "quantitySCU":  0.14
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ]
-    },
-    {
         "ref":  "31f17a5a-9d7b-4d42-a3b0-a0865f0160c4",
         "codeName":  "qdrv_acas_s01_foxfire_scitem",
         "blueprintType":  "crafting",
@@ -20044,6 +20090,41 @@
                        {
                            "resourceRef":  "93c8b7df-d6ac-4b4f-a115-b0e3afc238b8",
                            "resourceName":  "Beryl",
+                           "slotName":  "Containment Matrix",
+                           "quantitySCU":  0.14
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "d0d47aec-82ae-4a0b-866c-df86f5fba6d3",
+        "codeName":  "qdrv_just_s01_goliath_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
+        "outputItemRef":  "dadc9318-d0f2-48c2-aad4-f2dd0c5f7fd3",
+        "outputItemName":  "FoxFire",
+        "outputItemType":  "QuantumDrive",
+        "craftTimeMinutes":  13,
+        "inputs":  [
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.35
+                       },
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Injector Nozzles",
+                           "quantitySCU":  0.14
+                       },
+                       {
+                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                           "resourceName":  "Laranite",
                            "slotName":  "Containment Matrix",
                            "quantitySCU":  0.14
                        }
@@ -23322,6 +23403,41 @@
                                ]
     },
     {
+        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
+        "codeName":  "shld_orig_s04_890j_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
+        "outputItemRef":  "6fc982c0-2747-42b7-a628-7c76ecedf732",
+        "outputItemName":  "Glacis",
+        "outputItemType":  "Shield",
+        "craftTimeMinutes":  1.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
+                           "resourceName":  "Riccite",
+                           "slotName":  "Shell",
+                           "quantitySCU":  3.5
+                       },
+                       {
+                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
+                           "resourceName":  "Riccite",
+                           "slotName":  "Field Array",
+                           "quantitySCU":  5.7
+                       },
+                       {
+                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
+                           "resourceName":  "Beradom",
+                           "slotName":  "Frequency Controller",
+                           "quantitySCU":  495
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
         "codeName":  "shld_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
@@ -23357,33 +23473,21 @@
                                ]
     },
     {
-        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
-        "codeName":  "shld_orig_s04_890j_scitem",
+        "ref":  "dc671104-f50a-41df-b922-e4d529c6ced7",
+        "codeName":  "cargo_shipmining_pod_golem_btgl",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
-        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "6fc982c0-2747-42b7-a628-7c76ecedf732",
-        "outputItemName":  "Glacis",
-        "outputItemType":  "Shield",
-        "craftTimeMinutes":  1.5,
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "b0e33855-c5ae-4267-9aea-c64eee0897b6",
+        "outputItemName":  "GOLEM MC-4 Ore Pod",
+        "outputItemType":  "Container",
+        "craftTimeMinutes":  1.58,
         "inputs":  [
                        {
-                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
-                           "resourceName":  "Riccite",
-                           "slotName":  "Shell",
-                           "quantitySCU":  3.5
-                       },
-                       {
-                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
-                           "resourceName":  "Riccite",
-                           "slotName":  "Field Array",
-                           "quantitySCU":  5.7
-                       },
-                       {
-                           "resourceRef":  "c339897c-d682-48ad-a16f-daf145bc0f4d",
-                           "resourceName":  "Beradom",
-                           "slotName":  "Frequency Controller",
-                           "quantitySCU":  495
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Frame",
+                           "quantitySCU":  0.3
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -23539,6 +23643,29 @@
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
         "outputItemRef":  "6cd07586-9492-4731-8869-7166f995e11c",
         "outputItemName":  "H4-PBF Ammo Carrier",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMinutes":  3.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "quantitySCU":  0.04
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "82cec6d6-7716-4318-bd49-39002e5dfa96",
+        "codeName":  "cds_combat_superheavy_backpack_01_03_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "8f17c496-c12b-4f2e-93e2-c7b5c4ce9524",
+        "outputItemName":  "H4-PBF Ammo Carrier Snow Camo",
         "outputItemType":  "Char_Armor_Backpack",
         "craftTimeMinutes":  3.5,
         "inputs":  [
@@ -29772,6 +29899,52 @@
                            "resourceName":  "Feynmaline",
                            "slotName":  "Frequency Controller",
                            "quantitySCU":  20
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "c2d44927-b79d-4d43-b46e-274d16cf6b2d",
+        "codeName":  "cargo_shipmining_pod_moleprospector_btgl",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "6c5fc288-5f84-4803-aff3-d9d2b410d01e",
+        "outputItemName":  "MISC Enhanced Ore Pod",
+        "outputItemType":  "Container",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Frame",
+                           "quantitySCU":  0.75
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "8d811596-73c2-4baf-b5cc-eb0235adee58",
+        "codeName":  "cargo_shipmining_pod_prospector",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "ca23670c-f690-4027-af9a-a5d6dda74c79",
+        "outputItemName":  "MISC Ore Pod",
+        "outputItemType":  "Container",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Frame",
+                           "quantitySCU":  0.5
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -36361,6 +36534,35 @@
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
                            "quantitySCU":  0.02
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "8c60d61b-9c97-4f85-b41a-aa0d7960dfbf",
+        "codeName":  "mining_modules_passive_overrun",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "a69721a2-06e7-4fb3-93b4-c94e4faa6820",
+        "outputItemName":  "Overrun Module",
+        "outputItemType":  "MiningModifier",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                           "resourceName":  "Copper",
+                           "slotName":  "Wiring",
+                           "quantitySCU":  0.1
                        }
                    ],
         "dismantleEfficiency":  null,
@@ -44607,6 +44809,35 @@
                                ]
     },
     {
+        "ref":  "f32efc4e-4ed6-4f26-b774-58cf754bfe27",
+        "codeName":  "mining_modules_active_stampede",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "1bb6ee6d-3930-4c03-b6c6-38aad3a4703b",
+        "outputItemName":  "Stampede Module",
+        "outputItemType":  "MiningModifier",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                           "resourceName":  "Copper",
+                           "slotName":  "Wiring",
+                           "quantitySCU":  0.1
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
         "ref":  "6e7e989c-0acc-40dd-8352-2fbe5a32a60b",
         "codeName":  "powr_acom_s02_starburn_scitem",
         "blueprintType":  "crafting",
@@ -48798,6 +49029,35 @@
                            "resourceName":  "Hephaestanite",
                            "slotName":  "Containment Matrix",
                            "quantitySCU":  0.5
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ]
+    },
+    {
+        "ref":  "38f9d428-75dd-4fcd-834c-c4ff876c9b3f",
+        "codeName":  "mining_modules_passive_torrent_mk3",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "df6376b6-eeb0-4e27-a709-98e2ffebe099",
+        "outputItemRef":  "54f4471f-592d-49c1-a12f-fb24c4771ab2",
+        "outputItemName":  "Torrent III Module",
+        "outputItemType":  "MiningModifier",
+        "craftTimeMinutes":  1.58,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Case",
+                           "quantitySCU":  0.2
+                       },
+                       {
+                           "resourceRef":  "a789f57a-e12b-4bcd-8132-e0c03d84fc89",
+                           "resourceName":  "Copper",
+                           "slotName":  "Wiring",
+                           "quantitySCU":  0.1
                        }
                    ],
         "dismantleEfficiency":  null,

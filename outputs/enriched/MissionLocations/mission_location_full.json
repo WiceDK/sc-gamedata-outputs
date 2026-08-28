@@ -245,6 +245,41 @@
         "system_name":  null
     },
     {
+        "ref":  "a4099dbb-22de-450b-aabe-9fbbd4de765d",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\kaboos_cargodeck3_temp.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/kaboos_cargodeck3_temp.xml",
+        "rootElement":  "MissionLocationTemplate.Kaboos_CargoDeck3_Temp",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  null,
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "9fd30a22-bc1d-4f74-9433-e7cf0429d3eb",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\kaboos_derelict.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/kaboos_derelict.xml",
