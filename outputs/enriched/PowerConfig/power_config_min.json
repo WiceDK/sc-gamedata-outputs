@@ -1,0 +1,36 @@
+﻿[
+    {
+        "masterModeExclusions":  [
+                                     {
+                                         "itemType":  "Shield",
+                                         "modes":  [
+                                                       "Navigation"
+                                                   ]
+                                     },
+                                     {
+                                         "itemType":  "QuantumDrive",
+                                         "modes":  [
+                                                       "SCM"
+                                                   ]
+                                     }
+                                 ],
+        "defaultDistribution":  {
+                                    "poolDefaultWeapons":  0.5,
+                                    "poolDefaultEngines":  0.5,
+                                    "poolDefaultShields":  0.5,
+                                    "powerDistPoolsFillMin":  1,
+                                    "powerDistCoolerMin":  1,
+                                    "powerDistPoolsProportion":  1
+                                },
+        "powerModifierLevels":  [
+                                    0,
+                                    1,
+                                    2,
+                                    3,
+                                    4
+                                ],
+        "maxPowerToCoolantRatio":  2.5,
+        "powerBaseConversionRate":  1,
+        "thrusterCoolantMultiplier":  1
+    }
+]
