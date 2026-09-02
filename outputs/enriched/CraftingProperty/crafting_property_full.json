@@ -1,0 +1,292 @@
+﻿[
+    {
+        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+        "propertyKey":  "armor_damagemitigation",
+        "gppName":  "GPP_Armor_DamageMitigation",
+        "displayName":  "Damage Mitigation",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "armor.impact_force_resistance",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "fc074156-fa95-4667-9f12-a541e5024abc",
+        "propertyKey":  "armor_radiationcapacity",
+        "gppName":  "GPP_Armor_RadiationCapacity",
+        "displayName":  "Radiation Capacity",
+        "unitFormat":  "%.2f mRem",
+        "unitLabel":  "mRem",
+        "targetStat":  "armor.radiation_capacity",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "64d20984-6b3a-45dd-9e11-f5914e326aa3",
+        "propertyKey":  "armor_radiationdissipation",
+        "gppName":  "GPP_Armor_RadiationDissipation",
+        "displayName":  "Radiation Dissipation",
+        "unitFormat":  "%.2f mRem/s",
+        "unitLabel":  "mRem/s",
+        "targetStat":  "armor.radiation_dissipation_rate",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+        "propertyKey":  "armor_temperaturemax",
+        "gppName":  "GPP_Armor_TemperatureMax",
+        "displayName":  "Max Temp",
+        "unitFormat":  "%+.2f C",
+        "unitLabel":  "C",
+        "targetStat":  "armor.temperature_resistance_max",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+        "propertyKey":  "armor_temperaturemin",
+        "gppName":  "GPP_Armor_TemperatureMin",
+        "displayName":  "Min Temp",
+        "unitFormat":  "%+.2f C",
+        "unitLabel":  "C",
+        "targetStat":  "armor.temperature_resistance_min",
+        "higherIsBetter":  false
+    },
+    {
+        "ref":  "ec7bc361-beb7-44e0-b506-48757a651cb8",
+        "propertyKey":  "crafter_craftspeed",
+        "gppName":  "GPP_Crafter_CraftSpeed",
+        "displayName":  "Craft Speed",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "f72b405b-6141-40b8-a3c9-317e93554ea4",
+        "propertyKey":  "crafter_dismantleefficiency",
+        "gppName":  "GPP_Crafter_DismantleEfficiency",
+        "displayName":  "Dismantle Efficiency",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
+        "propertyKey":  "health_maxhealth",
+        "gppName":  "GPP_Health_MaxHealth",
+        "displayName":  "Integrity",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "item.health",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "31e2f3b5-7fb3-41c2-b2d9-7a97adf9f7fe",
+        "propertyKey":  "itemresource_coolantgeneration",
+        "gppName":  "GPP_ItemResource_CoolantGeneration",
+        "displayName":  "Coolant Rating",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "component.cooling_output",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
+        "propertyKey":  "itemresource_powergeneration",
+        "gppName":  "GPP_ItemResource_PowerGeneration",
+        "displayName":  "Power Pips",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "component.power_output",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "de5beef5-91cb-49f1-b4f5-82f957dcd569",
+        "propertyKey":  "quantum_fuelrequirement",
+        "gppName":  "GPP_Quantum_FuelRequirement",
+        "displayName":  "Quantum Fuel Burn",
+        "unitFormat":  "%.2f per Km",
+        "unitLabel":  "per Km",
+        "targetStat":  "quantum.fuel_requirement",
+        "higherIsBetter":  false
+    },
+    {
+        "ref":  "7ab22dc9-6687-41ab-aebd-4dd5486be458",
+        "propertyKey":  "quantum_speed",
+        "gppName":  "GPP_Quantum_Speed",
+        "displayName":  "Quantum Speed",
+        "unitFormat":  "%.2f Mm/s",
+        "unitLabel":  "Mm/s",
+        "targetStat":  "quantum.drive_speed",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "ede03349-4696-4812-a09c-d597f982d410",
+        "propertyKey":  "radar_maxaimassistdistance",
+        "gppName":  "GPP_Radar_MaxAimAssistDistance",
+        "displayName":  "Max. Assist Distance",
+        "unitFormat":  "%.2f M",
+        "unitLabel":  "M",
+        "targetStat":  "component.radar_aim_assist_max",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "a89e5659-e184-4d95-acec-5be747608212",
+        "propertyKey":  "radar_minaimassistdistance",
+        "gppName":  "GPP_Radar_MinAimAssistDistance",
+        "displayName":  "Min. Assist Distance",
+        "unitFormat":  "%.2f M",
+        "unitLabel":  "M",
+        "targetStat":  "component.radar_aim_assist_min",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "d1a48b92-56b6-4094-8765-7efa72ed3ceb",
+        "propertyKey":  "shield_maxhealth",
+        "gppName":  "GPP_Shield_MaxHealth",
+        "displayName":  "Max. Shield Strength",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "shield.max_health",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "cfc129ce-488a-46f2-92f7-9272cd0cfdfb",
+        "propertyKey":  "weapon_damage",
+        "gppName":  "GPP_Weapon_Damage",
+        "displayName":  "Impact Force",
+        "unitFormat":  "%+.2f %%",
+        "unitLabel":  "%",
+        "targetStat":  "weapon.alpha_damage",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "551b651c-8a34-438f-9d19-93fdffe56246",
+        "propertyKey":  "weapon_firerate",
+        "gppName":  "GPP_Weapon_FireRate",
+        "displayName":  "Fire Rate",
+        "unitFormat":  "%.2f RPM",
+        "unitLabel":  "RPM",
+        "targetStat":  "weapon.fire_rate",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "8ac31287-5024-4f5c-b214-64d361543c53",
+        "propertyKey":  "weapon_hullscraping_efficiency",
+        "gppName":  "GPP_Weapon_HullScraping_Efficiency",
+        "displayName":  "Efficiency",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "a16e33d1-73b0-46cb-a579-84ebc81c3b00",
+        "propertyKey":  "weapon_hullscraping_radius",
+        "gppName":  "GPP_Weapon_HullScraping_Radius",
+        "displayName":  "Radius",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "30f1ce44-3b3c-4610-a20d-1815a46b69ec",
+        "propertyKey":  "weapon_hullscraping_speed",
+        "gppName":  "GPP_Weapon_HullScraping_Speed",
+        "displayName":  "Speed",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "037ea34c-e564-492e-b575-3e5aac5895e4",
+        "propertyKey":  "weapon_recoil_handling",
+        "gppName":  "GPP_Weapon_Recoil_Handling",
+        "displayName":  "Recoil Handling",
+        "unitFormat":  "%+.2f %%",
+        "unitLabel":  "%",
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "f68f87d6-1981-4c22-bed6-ce352922cb34",
+        "propertyKey":  "weapon_recoil_kick",
+        "gppName":  "GPP_Weapon_Recoil_Kick",
+        "displayName":  "Recoil Kick",
+        "unitFormat":  "%+.2f %%",
+        "unitLabel":  "%",
+        "targetStat":  null,
+        "higherIsBetter":  false
+    },
+    {
+        "ref":  "1156716c-b01e-4228-8136-7430be5bb9b8",
+        "propertyKey":  "weapon_recoil_smoothness",
+        "gppName":  "GPP_Weapon_Recoil_Smoothness",
+        "displayName":  "Recoil Smoothness",
+        "unitFormat":  "%+.2f %%",
+        "unitLabel":  "%",
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "0860f415-2e25-42be-adf4-4e1f18b559f4",
+        "propertyKey":  "weapon_reloadspeed",
+        "gppName":  "GPP_Weapon_ReloadSpeed",
+        "displayName":  "Reload Speed",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  null,
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "7c792044-22c1-448e-b6e0-06a17546c0cc",
+        "propertyKey":  "weapon_spread",
+        "gppName":  "GPP_Weapon_Spread",
+        "displayName":  "Spread",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "weapon.spread_max",
+        "higherIsBetter":  false
+    },
+    {
+        "ref":  "d84a7196-e6da-41bb-9224-e3abadc83163",
+        "propertyKey":  "weapon_tractor_force",
+        "gppName":  "GPP_Weapon_Tractor_Force",
+        "displayName":  "Beam Force",
+        "unitFormat":  null,
+        "unitLabel":  null,
+        "targetStat":  "tractor.max_force",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "1bb618c4-db0e-4a59-a34d-0f515ae7aec4",
+        "propertyKey":  "weapon_tractor_fullstrengthdist",
+        "gppName":  "GPP_Weapon_Tractor_FullStrengthDist",
+        "displayName":  "Full Strength Dist.",
+        "unitFormat":  "%.2f M",
+        "unitLabel":  "M",
+        "targetStat":  "tractor.full_strength_distance_m",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "2d957da0-9f3a-4e21-9c2a-dd1e5e4123f8",
+        "propertyKey":  "weapon_tractor_maxdist",
+        "gppName":  "GPP_Weapon_Tractor_MaxDist",
+        "displayName":  "Max. Distance",
+        "unitFormat":  "%.2f M",
+        "unitLabel":  "M",
+        "targetStat":  "tractor.max_distance_m",
+        "higherIsBetter":  true
+    },
+    {
+        "ref":  "254b0e0c-9688-4f45-badb-46851eaed25b",
+        "propertyKey":  "weapon_tractor_maxvolume",
+        "gppName":  "GPP_Weapon_Tractor_MaxVolume",
+        "displayName":  "Max. Volume",
+        "unitFormat":  "Rating",
+        "unitLabel":  "Rating",
+        "targetStat":  null,
+        "higherIsBetter":  true
+    }
+]
