@@ -20,6 +20,33 @@
                              ]
     },
     {
+        "ref":  "5ae71dc9-d210-42bc-9f2a-1188c3de0aec",
+        "codeName":  "Bulk_Supplies",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.bulk_supplies.xml",
+        "sourceDataPath":  "libs/foundry/records/resourcetypedatabase/resourcetypedatabase.xml",
+        "displayNameToken":  "@items_commodities_type_manmade",
+        "displayName":  "Man-made",
+        "description":  "Commodities manufactured or constructed through industrial processes rather as opposed to being naturally occurring.",
+        "parentGroupRef":  "9379b129-8688-4777-9f65-9dc09ba935ee",
+        "parentGroupName":  "Processed Goods",
+        "childGroupRefs":  [
+
+                           ],
+        "resourceTypeRefs":  [
+                                 "1fdb2e84-1622-4685-8194-2d108498d90f",
+                                 "12b3419e-8300-4a4e-9dc9-4c2d4469fc11",
+                                 "393c2115-5ba5-4748-9664-3f5a7998a816",
+                                 "42a961ba-0039-41d3-a020-989410a2958c",
+                                 "313b4437-fde2-4eab-af35-aae4421b9d2e",
+                                 "a6e40cd4-c10e-403c-aaa0-79a8f112cf6c",
+                                 "a790133a-b77b-4699-9ae5-264b61fe9ffc",
+                                 "b2f14f8c-3780-4706-8bc3-7792fc0b00de",
+                                 "c473310f-6284-4ab8-a6f7-1604ac5d634a",
+                                 "b5d360d2-0ebe-472d-afa9-69c4dff908bb",
+                                 "2eebe444-03ed-4d17-b9e7-037482b9dbc6"
+                             ]
+    },
+    {
         "ref":  "1817e4e3-2b22-4c4a-b2db-c7afdb731e6a",
         "codeName":  "CleanAir",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\resourcetypedatabase\\resourcetypedatabase\\resourcetypegroup.cleanair.xml",
@@ -278,7 +305,8 @@
                                  "1996b79b-14bc-42ad-9cc4-36b0705fd284",
                                  "99df66b9-5cc2-4ddb-858f-f44e3fc22185",
                                  "e81bb594-a380-49fb-a9e4-a6cf2c7f9fa0",
-                                 "08df1d49-3a9f-4697-b99f-1166742deaec"
+                                 "08df1d49-3a9f-4697-b99f-1166742deaec",
+                                 "1e5e3c87-5e4c-4cac-8a17-6a46f97abb8a"
                              ]
     },
     {
@@ -310,7 +338,8 @@
         "parentGroupName":  null,
         "childGroupRefs":  [
                                "c1a21fd1-16e0-465f-9f51-f5f931de0dea",
-                               "361e993d-9b2e-450c-9315-0fd1bfd3af20"
+                               "361e993d-9b2e-450c-9315-0fd1bfd3af20",
+                               "5ae71dc9-d210-42bc-9f2a-1188c3de0aec"
                            ],
         "resourceTypeRefs":  [
                                  "98aa6a70-80e7-41d7-9128-9692053d57a2",
