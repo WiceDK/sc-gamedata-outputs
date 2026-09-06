@@ -1,6 +1,6 @@
 {
-    "startedAt":  "2026-09-01T08:51:12",
-    "finishedAt":  "2026-09-01T09:09:42",
+    "startedAt":  "2026-09-06T09:41:12",
+    "finishedAt":  "2026-09-06T10:00:53",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  157741633536,
@@ -16,8 +16,7 @@
                   {
                       "step":  "extract",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipExtraction switch was set"
+                      "configPath":  "src\\contracts\\extract-config.json"
                   },
                   {
                       "step":  "remove-legacy-derived-outputs",
@@ -34,8 +33,7 @@
                   {
                       "step":  "push-outputs",
                       "succeeded":  true,
-                      "skipped":  true,
-                      "reason":  "SkipPush switch was set"
+                      "outputRepoPath":  "..\\sc-gamedata-outputs"
                   }
               ],
     "enrichmentManifestPath":  "outputs\\indexes\\enrichment-manifest.json"
