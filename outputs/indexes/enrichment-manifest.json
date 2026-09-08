@@ -1,5 +1,5 @@
 {
-    "generatedAt":  "2026-09-08T12:52:04",
+    "generatedAt":  "2026-09-08T22:09:31",
     "rulesPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\src\\contracts\\normalization-rules-v2.json",
     "mode":  "raw-first",
     "steps":  [
@@ -85,6 +85,13 @@
                       "succeeded":  true,
                       "fullOutputPath":  "outputs\\enriched\\MissionRewardPool\\missionrewardpool_full.json",
                       "minOutputPath":  "outputs\\enriched\\MissionRewardPool\\missionrewardpool_min.json"
+                  },
+                  {
+                      "domain":  "scenarioProgression",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\ScenarioProgression\\scenario_progression_full.json",
+                      "minOutputPath":  "outputs\\enriched\\ScenarioProgression\\scenario_progression_min.json"
                   },
                   {
                       "domain":  "missionType",
