@@ -1,6 +1,6 @@
 {
-    "startedAt":  "2026-09-07T20:49:34",
-    "finishedAt":  "2026-09-07T21:38:59",
+    "startedAt":  "2026-09-08T12:33:06",
+    "finishedAt":  "2026-09-08T12:52:04",
     "sourceArchive":  {
                           "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
                           "size":  157741633536,
@@ -16,7 +16,8 @@
                   {
                       "step":  "extract",
                       "succeeded":  true,
-                      "configPath":  "src\\contracts\\extract-config.json"
+                      "skipped":  true,
+                      "reason":  "SkipExtraction switch was set"
                   },
                   {
                       "step":  "remove-legacy-derived-outputs",
