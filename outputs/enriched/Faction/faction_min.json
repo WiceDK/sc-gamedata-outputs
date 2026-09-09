@@ -1,6 +1,9 @@
 ﻿[
     {
         "ref":  "5d0bf1c9-55be-458b-af62-13b5b420f9cf",
+        "geid":  null,
+        "slug":  "faction_special_hostiletoall",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Hostile_RepUI_Name",
         "resolvedName":  "[PH] Hostile",
         "nameStatus":  "resolved",
@@ -23,6 +26,9 @@
     },
     {
         "ref":  "4e429470-4d4e-4c2b-a4ac-4de42ada16e0",
+        "geid":  "199998949487",
+        "slug":  "faction_lawful_aciedo",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Aciedo_RepUI_Name",
         "resolvedName":  "Aciedo Communications",
         "nameStatus":  "resolved",
@@ -55,6 +61,9 @@
     },
     {
         "ref":  "569f1e53-a971-462b-abe3-969a8e096ff5",
+        "geid":  "199998949502",
+        "slug":  "faction_reputation_lawful_adagioholdings",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Adagio_RepUI_DisplayName",
         "resolvedName":  "Adagio Holdings",
         "nameStatus":  "resolved",
@@ -87,6 +96,9 @@
     },
     {
         "ref":  "f97f4726-6cdf-426e-b16c-4daf67e78faa",
+        "geid":  null,
+        "slug":  "faction_curelife",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@ClearAir_Journal_Header",
         "resolvedName":  "Alliance Aid",
         "nameStatus":  "resolved",
@@ -109,6 +121,9 @@
     },
     {
         "ref":  "d27efa13-7f10-4b3e-87aa-43759d9301da",
+        "geid":  "199998949488",
+        "slug":  "faction_lawful_arccorp",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@ArcCorp_RepUI_Name",
         "resolvedName":  "ArcCorp",
         "nameStatus":  "resolved",
@@ -141,6 +156,9 @@
     },
     {
         "ref":  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
+        "geid":  null,
+        "slug":  "faction_unlawful_asd",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Factions_ASD_DisplayName",
         "resolvedName":  "ASD",
         "nameStatus":  "resolved",
@@ -164,6 +182,9 @@
     },
     {
         "ref":  "5fb3c365-cf83-48d0-89a8-1cc539113b35",
+        "geid":  "199998949480",
+        "slug":  "faction_reputation_unlawful_bitzeros",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@BitZeros_RepUI_DisplayName",
         "resolvedName":  "Bit Zeros",
         "nameStatus":  "resolved",
@@ -196,6 +217,9 @@
     },
     {
         "ref":  "01bcfe41-40d7-48a6-bab2-eac7d902e9b2",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_blacjac",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@BlacJac_RepUI_Name",
         "resolvedName":  "BlacJac",
         "nameStatus":  "resolved",
@@ -218,6 +242,9 @@
     },
     {
         "ref":  "29e65591-d776-49a4-9a98-eb1fd7c51fcc",
+        "geid":  "199998949489",
+        "slug":  "faction_reputation_lawful_bountyhuntersguild",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Bounty Hunters Guild",
         "nameStatus":  "resolved",
@@ -250,6 +277,9 @@
     },
     {
         "ref":  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
+        "geid":  "199998949482",
+        "slug":  "faction_reputation_lawful_citizensforprosperity",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@CitizensForPyro_RepUI_Name",
         "resolvedName":  "Citizens For Prosperity",
         "nameStatus":  "resolved",
@@ -283,6 +313,9 @@
     },
     {
         "ref":  "52883600-6021-4407-8130-febb7dd42c63",
+        "geid":  null,
+        "slug":  "faction_unlawful_civilian",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Civilian_RepUI_Name",
         "resolvedName":  "Civilian",
         "nameStatus":  "resolved",
@@ -305,6 +338,9 @@
     },
     {
         "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
+        "geid":  null,
+        "slug":  "faction_lawful_civilian",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Civilian_RepUI_Name",
         "resolvedName":  "Civilian",
         "nameStatus":  "resolved",
@@ -327,6 +363,9 @@
     },
     {
         "ref":  "c618bb17-61cb-462c-8b51-8d4dfcb527de",
+        "geid":  "199998949490",
+        "slug":  "factionreputation_cdf",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@CDF_RepUI_Name",
         "resolvedName":  "Civilian Defense Force",
         "nameStatus":  "resolved",
@@ -359,6 +398,9 @@
     },
     {
         "ref":  "82ecc51d-7df1-41ba-b678-aab3b8fdfad0",
+        "geid":  "199998949506",
+        "slug":  "faction_lawful_clovusdarneely",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@MissionGivers_ClovusDarneely",
         "resolvedName":  "Clovus Darneely",
         "nameStatus":  "resolved",
@@ -391,6 +433,9 @@
     },
     {
         "ref":  "2640e0b2-54f3-4c29-9d5d-6f8f4fc49dbe",
+        "geid":  "199998949491",
+        "slug":  "faction_reputation_lawful_covalexshipping",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Covalex_RepUI_Name",
         "resolvedName":  "Covalex",
         "nameStatus":  "resolved",
@@ -423,6 +468,9 @@
     },
     {
         "ref":  "b89d388c-622c-4c8b-8887-46681eb193c1",
+        "geid":  "199998949472",
+        "slug":  "faction_lawful_crusaderindustries",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Crusader_RepUI_Name",
         "resolvedName":  "Crusader Industries",
         "nameStatus":  "resolved",
@@ -455,6 +503,9 @@
     },
     {
         "ref":  "6e3b98f1-4eb2-4128-958f-c550e418c5a6",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_crusadersecurity",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@CrusaderSecurity_RepUI_Name",
         "resolvedName":  "Crusader Security",
         "nameStatus":  "resolved",
@@ -477,6 +528,9 @@
     },
     {
         "ref":  "2da0657d-62dc-4f6c-8b25-fd88480d0834",
+        "geid":  "199999005905",
+        "slug":  "factionreputation_unlawful_deadsaints",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@DeadSaints_RepUI_Name",
         "resolvedName":  "Dead Saints",
         "nameStatus":  "resolved",
@@ -509,6 +563,9 @@
     },
     {
         "ref":  "8f791865-9252-41d6-afd1-31783fd22674",
+        "geid":  null,
+        "slug":  "faction_unlawful_dusters",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Dusters_RepUI_Name",
         "resolvedName":  "Dusters",
         "nameStatus":  "resolved",
@@ -531,6 +588,9 @@
     },
     {
         "ref":  "e2382ebf-f6cf-4603-b32d-e110b873c9bb",
+        "geid":  null,
+        "slug":  "faction_unlawful_firerats",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Factions_FireRats_DisplayName",
         "resolvedName":  "Fire Rats",
         "nameStatus":  "resolved",
@@ -553,6 +613,9 @@
     },
     {
         "ref":  "21c61135-e8ee-459c-8f61-4550b8c02c58",
+        "geid":  "199998982640",
+        "slug":  "faction_reputation_lawful_foxwellenforcement",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Foxwell Enforcement",
         "nameStatus":  "resolved",
@@ -585,6 +648,9 @@
     },
     {
         "ref":  "6468bbc3-d76c-4af5-a8df-57048aed7c8b",
+        "geid":  null,
+        "slug":  "faction_unlawful_frontierfighters",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@FrontierFighters_from",
         "resolvedName":  "Frontier Fighters",
         "nameStatus":  "resolved",
@@ -610,6 +676,9 @@
     },
     {
         "ref":  "66179ed2-c685-4df1-a3a4-e2a7a2da2df0",
+        "geid":  "199999005906",
+        "slug":  "factionreputation_lawful_ftlcourier",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@FTLCourier_RepUI_Name",
         "resolvedName":  "FTL Courier",
         "nameStatus":  "resolved",
@@ -642,6 +711,9 @@
     },
     {
         "ref":  "9f89edc0-441b-4f40-a502-df12ebf3f1eb",
+        "geid":  "199998949483",
+        "slug":  "faction_reputation_unlawful_headhunters",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@HeadHunters_RepUI_Name",
         "resolvedName":  "Headhunters",
         "nameStatus":  "resolved",
@@ -675,6 +747,9 @@
     },
     {
         "ref":  "4cd28d63-24ba-4180-a881-86036c29cd64",
+        "geid":  "199998982633",
+        "slug":  "factionreputation_lawful_highpointwildernessspecialists",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@Highpoint_RepUI_Name",
         "resolvedName":  "Highpoint Wilderness Specialists",
         "nameStatus":  "resolved",
@@ -707,6 +782,9 @@
     },
     {
         "ref":  "88bac9c7-0986-4945-8b72-c83657a1c8b9",
+        "geid":  "199998982729",
+        "slug":  "factionreputation_lawful_hockrowagency",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@HockrowAgency_RepUI_Name",
         "resolvedName":  "Hockrow Agency",
         "nameStatus":  "resolved",
@@ -739,6 +817,9 @@
     },
     {
         "ref":  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b",
+        "geid":  null,
+        "slug":  "faction_unlawful_horizon",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Factions_Horizon_DisplayName",
         "resolvedName":  "Horizon",
         "nameStatus":  "resolved",
@@ -761,6 +842,9 @@
     },
     {
         "ref":  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8",
+        "geid":  "199998949492",
+        "slug":  "faction_lawful_hurstondynamics",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Hurston_RepUI_Name",
         "resolvedName":  "Hurston Dynamics",
         "nameStatus":  "resolved",
@@ -793,6 +877,9 @@
     },
     {
         "ref":  "d6810f9d-7d39-414f-b2e6-3a641add15cb",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_hurstonsecurity",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@HurstonSecurity_RepUI_Name",
         "resolvedName":  "Hurston Security",
         "nameStatus":  "resolved",
@@ -815,6 +902,9 @@
     },
     {
         "ref":  "a9ab3e4f-30a3-4816-a1dd-4df51fd6678c",
+        "geid":  "199999005907",
+        "slug":  "factionreputation_lawful_intersecdefensesolutions",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@InterSecDefenseSolutions_RepUI_Name",
         "resolvedName":  "InterSec Defense Solutions",
         "nameStatus":  "resolved",
@@ -846,16 +936,19 @@
                        }
     },
     {
-        "ref":  "cfe06ba5-968d-4e27-b738-7cc7abfb511f",
+        "ref":  "d67aa7d9-9948-4903-b162-e71869cae4e8",
+        "geid":  "199998949493",
+        "slug":  "faction_special_kleschersecurity",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Klescher_RepUI_Name",
         "resolvedName":  "Klescher Rehabilitation Facilities",
         "nameStatus":  "resolved",
         "rawDescriptionToken":  "@Klescher_RepUI_Description",
         "resolvedDescription":  "Klescher Rehabilitation Facilities is a private corrections provider who\u0027s committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
-        "factionType":  null,
-        "defaultReaction":  null,
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
+        "factionType":  "LawEnforcement",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
         "policesCriminality":  false,
         "noLegalRights":  false,
         "factionReputationRef":  "cfe06ba5-968d-4e27-b738-7cc7abfb511f",
@@ -878,29 +971,10 @@
                        }
     },
     {
-        "ref":  "d67aa7d9-9948-4903-b162-e71869cae4e8",
-        "rawNameToken":  "@Klescher_RepUI_Name",
-        "resolvedName":  "Klescher Rehabilitation Facilities",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@Klescher_RepUI_Description",
-        "resolvedDescription":  "Klescher Rehabilitation Facilities is a private corrections provider who\u0027s committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
-        "factionType":  "LawEnforcement",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  true,
-        "policesLawfulTrespass":  true,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "5a27ef3a-55c4-4822-b3f1-6506097d21de",
+        "geid":  "199998949494",
+        "slug":  "faction_reputation_lawful_lingfamilyhauling",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Ling Family Hauling",
         "nameStatus":  "resolved",
@@ -933,6 +1007,9 @@
     },
     {
         "ref":  "a04f2ed1-9e2b-4a31-abd3-a963e09e021f",
+        "geid":  "199998949496",
+        "slug":  "faction_lawful_microtech",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@microTech_RepUI_Name",
         "resolvedName":  "microTech",
         "nameStatus":  "resolved",
@@ -965,6 +1042,9 @@
     },
     {
         "ref":  "705c3888-7126-48d7-8a7e-e1f5c76e0c3c",
+        "geid":  "199998949505",
+        "slug":  "faction_reputation_lawful_eckhartsecurity",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@MissionGivers_MilesEckhart",
         "resolvedName":  "Miles Eckhart",
         "nameStatus":  "resolved",
@@ -997,6 +1077,9 @@
     },
     {
         "ref":  "125b83e1-1114-44b7-9176-ce78bd0fdbeb",
+        "geid":  null,
+        "slug":  "faction_unlawful_moraine",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Factions_Moraine_DisplayName",
         "resolvedName":  "Moraine",
         "nameStatus":  "resolved",
@@ -1019,6 +1102,9 @@
     },
     {
         "ref":  "9e304047-923c-4c8a-968b-20a40136bf8f",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_microtechprotectionservices",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@MTProtection_RepUI_Name",
         "resolvedName":  "MT Protection Services",
         "nameStatus":  "resolved",
@@ -1041,6 +1127,9 @@
     },
     {
         "ref":  "3ea7569e-c92f-4874-8ffa-12f0338e58b7",
+        "geid":  null,
+        "slug":  "faction_unlawful_ninetails",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@NineTails_RepUI_Name",
         "resolvedName":  "Nine Tails",
         "nameStatus":  "resolved",
@@ -1064,6 +1153,9 @@
     },
     {
         "ref":  "d84f1767-e406-448a-a413-9a526350c83f",
+        "geid":  "199998949497",
+        "slug":  "factionreputation_lawful_northrockservicegroup",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@NorthRock_RepUI_Name",
         "resolvedName":  "Northrock Service Group",
         "nameStatus":  "resolved",
@@ -1096,6 +1188,9 @@
     },
     {
         "ref":  "dd2db9b4-a41a-4aa0-bb6b-6c75c0c078b1",
+        "geid":  null,
+        "slug":  "faction_unlawful_outlaws",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Outlaw_RepUI_Name",
         "resolvedName":  "Outlaws",
         "nameStatus":  "resolved",
@@ -1118,6 +1213,9 @@
     },
     {
         "ref":  "df6de824-9f7b-44d5-a98b-d6a099970b5f",
+        "geid":  "199998982735",
+        "slug":  "faction_reputation_lawful_rayariinc",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Rayari Incorporated",
         "nameStatus":  "resolved",
@@ -1150,6 +1248,9 @@
     },
     {
         "ref":  "f4cc3bfe-ee9d-41d1-818b-fdb55c979d09",
+        "geid":  "199999007029",
+        "slug":  "factionreputation_battaglia",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@mg_battaglia_contractor",
         "resolvedName":  "Recco Battaglia",
         "nameStatus":  "resolved",
@@ -1182,6 +1283,9 @@
     },
     {
         "ref":  "aa5f0bf8-f36f-423a-b9dd-73084139db23",
+        "geid":  "199998949499",
+        "slug":  "factionreputation_lawful_redwindlinehaul",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@RedWind_RepUI_Name",
         "resolvedName":  "Red Wind Linehaul",
         "nameStatus":  "resolved",
@@ -1214,6 +1318,9 @@
     },
     {
         "ref":  "3c9a42a9-a986-494f-b724-4d74415f6016",
+        "geid":  null,
+        "slug":  "faction_unlawful_roughandready",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@RoughAndReady_RepUI_Name",
         "resolvedName":  "Rough \u0026 Ready",
         "nameStatus":  "resolved",
@@ -1236,6 +1343,9 @@
     },
     {
         "ref":  "d7e05124-92df-4929-804a-d7a1b0fbfd93",
+        "geid":  "199998949510",
+        "slug":  "faction_unlawful_ruto",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@MissionGivers_Ruto",
         "resolvedName":  "Ruto",
         "nameStatus":  "resolved",
@@ -1267,29 +1377,10 @@
                        }
     },
     {
-        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
-        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
-        "resolvedName":  "Security",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@LOC_EMPTY",
-        "resolvedDescription":  null,
-        "factionType":  "Lawful",
-        "defaultReaction":  "Friendly",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_generic",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@PrivateSecurity_RepUI_Name",
         "resolvedName":  "Security",
         "nameStatus":  "resolved",
@@ -1311,7 +1402,35 @@
         "reputation":  null
     },
     {
+        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
+        "geid":  null,
+        "slug":  "faction_special_friendlytoall",
+        "sourceRecordType":  "faction",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Friendly",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
         "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
+        "geid":  null,
+        "slug":  "faction_unlawfulsecurity_generic",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@PrivateSecurity_RepUI_Name",
         "resolvedName":  "Security",
         "nameStatus":  "resolved",
@@ -1334,6 +1453,9 @@
     },
     {
         "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "geid":  null,
+        "slug":  "faction_unlawful_shatteredblade",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@ShatteredBlade_RepUI_Name",
         "resolvedName":  "Shattered Blade",
         "nameStatus":  "resolved",
@@ -1358,6 +1480,9 @@
     },
     {
         "ref":  "04b1380a-c598-4e3d-8ebf-debde07cfe3d",
+        "geid":  "199998949500",
+        "slug":  "faction_reputation_lawful_shubininterstellar",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Shubin Interstellar",
         "nameStatus":  "resolved",
@@ -1390,6 +1515,9 @@
     },
     {
         "ref":  "d1a42653-8c65-4d6b-9617-4049ca77d8d8",
+        "geid":  "199998949481",
+        "slug":  "faction_reputation_unlawful_tarpits",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Tar Pits",
         "nameStatus":  "resolved",
@@ -1422,6 +1550,9 @@
     },
     {
         "ref":  "7e716658-9c65-4ebe-819e-8fffd8390e6a",
+        "geid":  "199998949507",
+        "slug":  "factionreputation_unlawful_twitchgang",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@Tecia_Twitch_Pacheco_RepUI_Name",
         "resolvedName":  "Tecia \"Twitch\" Pacheco",
         "nameStatus":  "resolved",
@@ -1454,6 +1585,9 @@
     },
     {
         "ref":  "a676b2d5-0e88-4b0a-bce5-948367830b9e",
+        "geid":  null,
+        "slug":  "faction_lawenforcement_advocacy",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Advocacy_RepUI_Name",
         "resolvedName":  "UEE Advocacy",
         "nameStatus":  "resolved",
@@ -1476,6 +1610,9 @@
     },
     {
         "ref":  "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd",
+        "geid":  null,
+        "slug":  "faction_lawenforcement_ueenavy",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@PU_UEE_Navy_RepUI_Name",
         "resolvedName":  "UEE Navy",
         "nameStatus":  "resolved",
@@ -1498,6 +1635,9 @@
     },
     {
         "ref":  "7b2fbef9-bf19-4308-ab07-3cbf4fbc4d97",
+        "geid":  "199998949501",
+        "slug":  "factionreputation_udm",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@UDM_RepUI_Name",
         "resolvedName":  "Unified Distribution Management",
         "nameStatus":  "resolved",
@@ -1530,6 +1670,9 @@
     },
     {
         "ref":  "8458379d-9b70-493e-9477-817bf87d56d9",
+        "geid":  "199998982738",
+        "slug":  "faction_reputation_lawful_unitedwayfarersclub",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Guild_United_Wayfarers_Club_RepUI_Name",
         "resolvedName":  "United Wayfarers Club",
         "nameStatus":  "resolved",
@@ -1562,6 +1705,9 @@
     },
     {
         "ref":  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
+        "geid":  null,
+        "slug":  "faction_creature_hostile_vanduul",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Vanduul_RepUI_Name",
         "resolvedName":  "Vanduul",
         "nameStatus":  "resolved",
@@ -1584,6 +1730,9 @@
     },
     {
         "ref":  "95761a82-18f9-4e25-ba33-d4c47c689324",
+        "geid":  "199998949485",
+        "slug":  "faction_reputation_unlawful_vaughn",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Vaughn",
         "nameStatus":  "resolved",
@@ -1616,6 +1765,9 @@
     },
     {
         "ref":  "c088786f-db63-4598-9c1b-a71ff4831f79",
+        "geid":  "199998949508",
+        "slug":  "faction_unlawful_wallaceklim",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@MissionGivers_WallaceKlim",
         "resolvedName":  "Wallace Klim",
         "nameStatus":  "resolved",
@@ -1648,6 +1800,9 @@
     },
     {
         "ref":  "5f442fdd-15cc-4f62-bd10-fce2023f4d0c",
+        "geid":  "199999006406",
+        "slug":  "factionreputation_wikelo",
+        "sourceRecordType":  "reputation_entity",
         "rawNameToken":  "@Wikelo_RepUI_Name",
         "resolvedName":  "Wikelo Emporium",
         "nameStatus":  "resolved",
@@ -1680,6 +1835,9 @@
     },
     {
         "ref":  "35b0d342-8d8a-4b0e-adda-fc85cae49afd",
+        "geid":  "199998949498",
+        "slug":  "faction_reputation_lawful_wildstarracing",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  "Wildstar Racing",
         "nameStatus":  "resolved",
@@ -1711,14 +1869,17 @@
                        }
     },
     {
-        "ref":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
+        "ref":  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
+        "geid":  "199998949486",
+        "slug":  "faction_unlawful_xenothreat",
+        "sourceRecordType":  "faction",
         "rawNameToken":  "@Xenothreat_RepUI_Name",
         "resolvedName":  "XenoThreat",
         "nameStatus":  "resolved",
         "rawDescriptionToken":  "@Xenothreat_RepUI_Description",
         "resolvedDescription":  "XenoThreat believes that the UEE\u0027s continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
-        "factionType":  null,
-        "defaultReaction":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Hostile",
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
@@ -1728,7 +1889,8 @@
 
                               ],
         "enemyFactionRefs":  [
-
+                                 "cd2b32d1-0362-41fb-8cfd-d29781daf789",
+                                 "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
                              ],
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_XenoThreat_Icon_1x1.tif",
@@ -1741,28 +1903,5 @@
                            "resolvedArea":  "Pyro",
                            "resolvedFocus":  "Piracy, Terrorism"
                        }
-    },
-    {
-        "ref":  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
-        "rawNameToken":  "@Xenothreat_RepUI_Name",
-        "resolvedName":  "XenoThreat",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@Xenothreat_RepUI_Description",
-        "resolvedDescription":  "XenoThreat believes that the UEE\u0027s continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
-        "factionType":  "Unlawful",
-        "defaultReaction":  "Hostile",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-                                 "cd2b32d1-0362-41fb-8cfd-d29781daf789",
-                                 "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
-                             ],
-        "reputation":  null
     }
 ]

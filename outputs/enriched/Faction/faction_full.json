@@ -1,6 +1,9 @@
 [
     {
         "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
+        "geid":  null,
+        "slug":  "faction_creature_hostile_generic_vlk_asd_align",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic_vlk_asd_align.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic_vlk_asd_align.xml",
         "rootElement":  "Faction.Faction_Creature_Hostile_Generic_vlk_asd_align",
@@ -27,6 +30,9 @@
     },
     {
         "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
+        "geid":  null,
+        "slug":  "faction_creature_hostile_generic",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic.xml",
         "rootElement":  "Faction.Faction_Creature_Hostile_Generic",
@@ -52,6 +58,9 @@
     },
     {
         "ref":  "acb798bc-a3c6-462f-8535-4bda90386f71",
+        "geid":  null,
+        "slug":  "faction_creature_hostile_kopion_ninetails",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion_ninetails.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion_ninetails.xml",
         "rootElement":  "Faction.Faction_Creature_Hostile_Kopion_Ninetails",
@@ -77,6 +86,9 @@
     },
     {
         "ref":  "b46d74e1-44c3-479a-ba0f-ba3f07d66529",
+        "geid":  null,
+        "slug":  "faction_creature_hostile_kopion",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion.xml",
         "rootElement":  "Faction.Faction_Creature_Hostile_Kopion",
@@ -103,6 +115,9 @@
     },
     {
         "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
+        "geid":  null,
+        "slug":  "faction_creature_neutral_generic",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_neutral_generic.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_neutral_generic.xml",
         "rootElement":  "Faction.Faction_Creature_Neutral_Generic",
@@ -128,6 +143,9 @@
     },
     {
         "ref":  "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
+        "geid":  null,
+        "slug":  "faction_lawful_pa",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_pa.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_pa.xml",
         "rootElement":  "Faction.Faction_Lawful_PA",
@@ -156,6 +174,9 @@
     },
     {
         "ref":  "615e0c15-883f-4c5c-af0f-0f332483eb31",
+        "geid":  null,
+        "slug":  "faction_reputation_lawful_intersecdefensesolutions",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_intersecdefensesolutions.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_intersecdefensesolutions.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_InterSecDefenseSolutions",
@@ -181,6 +202,9 @@
     },
     {
         "ref":  "7dc282cc-80b1-42c3-a712-843203c53f9f",
+        "geid":  null,
+        "slug":  "faction_special_hostiletoxt",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_hostiletoxt.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_special_hostiletoxt.xml",
         "rootElement":  "Faction.Faction_Special_HostileToXT",
@@ -207,6 +231,9 @@
     },
     {
         "ref":  "5d0bf1c9-55be-458b-af62-13b5b420f9cf",
+        "geid":  null,
+        "slug":  "faction_special_hostiletoall",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_hostiletoall.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_special_hostiletoall.xml",
         "rootElement":  "Faction.Faction_Special_HostileToAll",
@@ -232,6 +259,9 @@
     },
     {
         "ref":  "3afb087d-5e66-4f3f-996d-521bf48f6e1b",
+        "geid":  "199998982730",
+        "slug":  "factionreputation_lawful_interstellarcartographycentre",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_interstellarcartographycentre.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_interstellarcartographycentre.xml",
         "rootElement":  "FactionReputation",
@@ -267,6 +297,9 @@
     },
     {
         "ref":  "4e429470-4d4e-4c2b-a4ac-4de42ada16e0",
+        "geid":  "199998949487",
+        "slug":  "faction_lawful_aciedo",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_aciedo.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_aciedo.xml",
         "rootElement":  "Faction.Faction_Lawful_Aciedo",
@@ -302,6 +335,9 @@
     },
     {
         "ref":  "569f1e53-a971-462b-abe3-969a8e096ff5",
+        "geid":  "199998949502",
+        "slug":  "faction_reputation_lawful_adagioholdings",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_adagioholdings.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_adagioholdings.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_AdagioHoldings",
@@ -337,6 +373,9 @@
     },
     {
         "ref":  "f97f4726-6cdf-426e-b16c-4daf67e78faa",
+        "geid":  null,
+        "slug":  "faction_curelife",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_curelife.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_curelife.xml",
         "rootElement":  "Faction.Faction_CureLife",
@@ -362,6 +401,9 @@
     },
     {
         "ref":  "d27efa13-7f10-4b3e-87aa-43759d9301da",
+        "geid":  "199998949488",
+        "slug":  "faction_lawful_arccorp",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_arccorp.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_arccorp.xml",
         "rootElement":  "Faction.Faction_Lawful_ArcCorp",
@@ -397,6 +439,9 @@
     },
     {
         "ref":  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
+        "geid":  null,
+        "slug":  "faction_unlawful_asd",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_asd.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_asd.xml",
         "rootElement":  "Faction.Faction_Unlawful_ASD",
@@ -423,6 +468,9 @@
     },
     {
         "ref":  "5fb3c365-cf83-48d0-89a8-1cc539113b35",
+        "geid":  "199998949480",
+        "slug":  "faction_reputation_unlawful_bitzeros",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_bitzeros.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_bitzeros.xml",
         "rootElement":  "Faction.Faction_Reputation_Unlawful_BitZeros",
@@ -458,6 +506,9 @@
     },
     {
         "ref":  "01bcfe41-40d7-48a6-bab2-eac7d902e9b2",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_blacjac",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_blacjac.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_blacjac.xml",
         "rootElement":  "Faction.Faction_LawfulSecurity_BlacJac",
@@ -483,6 +534,9 @@
     },
     {
         "ref":  "29e65591-d776-49a4-9a98-eb1fd7c51fcc",
+        "geid":  "199998949489",
+        "slug":  "faction_reputation_lawful_bountyhuntersguild",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_bountyhuntersguild.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_bountyhuntersguild.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_BountyHuntersGuild",
@@ -518,6 +572,9 @@
     },
     {
         "ref":  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
+        "geid":  "199998949482",
+        "slug":  "faction_reputation_lawful_citizensforprosperity",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_citizensforprosperity.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_citizensforprosperity.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_CitizensForProsperity",
@@ -554,6 +611,9 @@
     },
     {
         "ref":  "52883600-6021-4407-8130-febb7dd42c63",
+        "geid":  null,
+        "slug":  "faction_unlawful_civilian",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_civilian.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_civilian.xml",
         "rootElement":  "Faction.Faction_Unlawful_Civilian",
@@ -579,6 +639,9 @@
     },
     {
         "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
+        "geid":  null,
+        "slug":  "faction_lawful_civilian",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_civilian.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_civilian.xml",
         "rootElement":  "Faction.Faction_Lawful_Civilian",
@@ -604,6 +667,9 @@
     },
     {
         "ref":  "c618bb17-61cb-462c-8b51-8d4dfcb527de",
+        "geid":  "199998949490",
+        "slug":  "factionreputation_cdf",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_cdf.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_cdf.xml",
         "rootElement":  "FactionReputation",
@@ -639,6 +705,9 @@
     },
     {
         "ref":  "82ecc51d-7df1-41ba-b678-aab3b8fdfad0",
+        "geid":  "199998949506",
+        "slug":  "faction_lawful_clovusdarneely",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_clovusdarneely.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_clovusdarneely.xml",
         "rootElement":  "Faction.Faction_Lawful_ClovusDarneely",
@@ -674,6 +743,9 @@
     },
     {
         "ref":  "2640e0b2-54f3-4c29-9d5d-6f8f4fc49dbe",
+        "geid":  "199998949491",
+        "slug":  "faction_reputation_lawful_covalexshipping",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_covalexshipping.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_covalexshipping.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_CovalexShipping",
@@ -709,6 +781,9 @@
     },
     {
         "ref":  "b89d388c-622c-4c8b-8887-46681eb193c1",
+        "geid":  "199998949472",
+        "slug":  "faction_lawful_crusaderindustries",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_crusaderindustries.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_crusaderindustries.xml",
         "rootElement":  "Faction.Faction_Lawful_CrusaderIndustries",
@@ -744,6 +819,9 @@
     },
     {
         "ref":  "6e3b98f1-4eb2-4128-958f-c550e418c5a6",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_crusadersecurity",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_crusadersecurity.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_crusadersecurity.xml",
         "rootElement":  "Faction.Faction_LawfulSecurity_CrusaderSecurity",
@@ -769,6 +847,9 @@
     },
     {
         "ref":  "2da0657d-62dc-4f6c-8b25-fd88480d0834",
+        "geid":  "199999005905",
+        "slug":  "factionreputation_unlawful_deadsaints",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_unlawful_deadsaints.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_unlawful_deadsaints.xml",
         "rootElement":  "FactionReputation",
@@ -804,6 +885,9 @@
     },
     {
         "ref":  "8f791865-9252-41d6-afd1-31783fd22674",
+        "geid":  null,
+        "slug":  "faction_unlawful_dusters",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_dusters.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_dusters.xml",
         "rootElement":  "Faction.Faction_Unlawful_Dusters",
@@ -829,6 +913,9 @@
     },
     {
         "ref":  "e2382ebf-f6cf-4603-b32d-e110b873c9bb",
+        "geid":  null,
+        "slug":  "faction_unlawful_firerats",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_firerats.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_firerats.xml",
         "rootElement":  "Faction.Faction_Unlawful_FireRats",
@@ -854,6 +941,9 @@
     },
     {
         "ref":  "21c61135-e8ee-459c-8f61-4550b8c02c58",
+        "geid":  "199998982640",
+        "slug":  "faction_reputation_lawful_foxwellenforcement",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_foxwellenforcement.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_foxwellenforcement.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_FoxwellEnforcement",
@@ -889,6 +979,9 @@
     },
     {
         "ref":  "6468bbc3-d76c-4af5-a8df-57048aed7c8b",
+        "geid":  null,
+        "slug":  "faction_unlawful_frontierfighters",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_frontierfighters.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_frontierfighters.xml",
         "rootElement":  "Faction.Faction_Unlawful_FrontierFighters",
@@ -917,6 +1010,9 @@
     },
     {
         "ref":  "66179ed2-c685-4df1-a3a4-e2a7a2da2df0",
+        "geid":  "199999005906",
+        "slug":  "factionreputation_lawful_ftlcourier",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_ftlcourier.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_ftlcourier.xml",
         "rootElement":  "FactionReputation",
@@ -952,6 +1048,9 @@
     },
     {
         "ref":  "9f89edc0-441b-4f40-a502-df12ebf3f1eb",
+        "geid":  "199998949483",
+        "slug":  "faction_reputation_unlawful_headhunters",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_headhunters.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_headhunters.xml",
         "rootElement":  "Faction.Faction_Reputation_Unlawful_HeadHunters",
@@ -988,6 +1087,9 @@
     },
     {
         "ref":  "4cd28d63-24ba-4180-a881-86036c29cd64",
+        "geid":  "199998982633",
+        "slug":  "factionreputation_lawful_highpointwildernessspecialists",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_highpointwildernessspecialists.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_highpointwildernessspecialists.xml",
         "rootElement":  "FactionReputation",
@@ -1023,6 +1125,9 @@
     },
     {
         "ref":  "88bac9c7-0986-4945-8b72-c83657a1c8b9",
+        "geid":  "199998982729",
+        "slug":  "factionreputation_lawful_hockrowagency",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_hockrowagency.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_hockrowagency.xml",
         "rootElement":  "FactionReputation",
@@ -1058,6 +1163,9 @@
     },
     {
         "ref":  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b",
+        "geid":  null,
+        "slug":  "faction_unlawful_horizon",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_horizon.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_horizon.xml",
         "rootElement":  "Faction.Faction_Unlawful_Horizon",
@@ -1083,6 +1191,9 @@
     },
     {
         "ref":  "ab3bd2c5-60c2-4763-8589-0b0a318cf9b8",
+        "geid":  "199998949492",
+        "slug":  "faction_lawful_hurstondynamics",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_hurstondynamics.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_hurstondynamics.xml",
         "rootElement":  "Faction.Faction_Lawful_HurstonDynamics",
@@ -1118,6 +1229,9 @@
     },
     {
         "ref":  "d6810f9d-7d39-414f-b2e6-3a641add15cb",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_hurstonsecurity",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_hurstonsecurity.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_hurstonsecurity.xml",
         "rootElement":  "Faction.Faction_LawfulSecurity_HurstonSecurity",
@@ -1143,6 +1257,9 @@
     },
     {
         "ref":  "a9ab3e4f-30a3-4816-a1dd-4df51fd6678c",
+        "geid":  "199999005907",
+        "slug":  "factionreputation_lawful_intersecdefensesolutions",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_intersecdefensesolutions.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_intersecdefensesolutions.xml",
         "rootElement":  "FactionReputation",
@@ -1177,19 +1294,22 @@
                        }
     },
     {
-        "ref":  "cfe06ba5-968d-4e27-b738-7cc7abfb511f",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_klescherrehabilitationservices.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_klescherrehabilitationservices.xml",
-        "rootElement":  "FactionReputation",
+        "ref":  "d67aa7d9-9948-4903-b162-e71869cae4e8",
+        "geid":  "199998949493",
+        "slug":  "faction_special_kleschersecurity",
+        "sourceRecordType":  "faction",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_kleschersecurity.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_kleschersecurity.xml",
+        "rootElement":  "Faction.Faction_Special_KlescherSecurity",
         "rawNameToken":  "@Klescher_RepUI_Name",
         "resolvedName":  "Klescher Rehabilitation Facilities",
         "nameStatus":  "resolved",
         "rawDescriptionToken":  "@Klescher_RepUI_Description",
         "resolvedDescription":  "Klescher Rehabilitation Facilities is a private corrections provider who's committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
-        "factionType":  null,
-        "defaultReaction":  null,
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
+        "factionType":  "LawEnforcement",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  true,
+        "policesLawfulTrespass":  true,
         "policesCriminality":  false,
         "noLegalRights":  false,
         "factionReputationRef":  "cfe06ba5-968d-4e27-b738-7cc7abfb511f",
@@ -1212,32 +1332,10 @@
                        }
     },
     {
-        "ref":  "d67aa7d9-9948-4903-b162-e71869cae4e8",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_kleschersecurity.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_special_kleschersecurity.xml",
-        "rootElement":  "Faction.Faction_Special_KlescherSecurity",
-        "rawNameToken":  "@Klescher_RepUI_Name",
-        "resolvedName":  "Klescher Rehabilitation Facilities",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@Klescher_RepUI_Description",
-        "resolvedDescription":  "Klescher Rehabilitation Facilities is a private corrections provider who's committed to building secure sites that ensure their incarcerated guests safe housing with multiple work release opportunities; allowing them to be productive while paying their debt to society.",
-        "factionType":  "LawEnforcement",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  true,
-        "policesLawfulTrespass":  true,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "5a27ef3a-55c4-4822-b3f1-6506097d21de",
+        "geid":  "199998949494",
+        "slug":  "faction_reputation_lawful_lingfamilyhauling",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_lingfamilyhauling.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_lingfamilyhauling.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_LingFamilyHauling",
@@ -1273,6 +1371,9 @@
     },
     {
         "ref":  "a04f2ed1-9e2b-4a31-abd3-a963e09e021f",
+        "geid":  "199998949496",
+        "slug":  "faction_lawful_microtech",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawful_microtech.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawful_microtech.xml",
         "rootElement":  "Faction.Faction_Lawful_MicroTech",
@@ -1308,6 +1409,9 @@
     },
     {
         "ref":  "705c3888-7126-48d7-8a7e-e1f5c76e0c3c",
+        "geid":  "199998949505",
+        "slug":  "faction_reputation_lawful_eckhartsecurity",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_eckhartsecurity.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_eckhartsecurity.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_EckhartSecurity",
@@ -1343,6 +1447,9 @@
     },
     {
         "ref":  "125b83e1-1114-44b7-9176-ce78bd0fdbeb",
+        "geid":  null,
+        "slug":  "faction_unlawful_moraine",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_moraine.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_moraine.xml",
         "rootElement":  "Faction.Faction_Unlawful_Moraine",
@@ -1368,6 +1475,9 @@
     },
     {
         "ref":  "9e304047-923c-4c8a-968b-20a40136bf8f",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_microtechprotectionservices",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_microtechprotectionservices.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_microtechprotectionservices.xml",
         "rootElement":  "Faction.Faction_LawfulSecurity_MicroTechProtectionServices",
@@ -1393,6 +1503,9 @@
     },
     {
         "ref":  "3ea7569e-c92f-4874-8ffa-12f0338e58b7",
+        "geid":  null,
+        "slug":  "faction_unlawful_ninetails",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_ninetails.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_ninetails.xml",
         "rootElement":  "Faction.Faction_Unlawful_NineTails",
@@ -1419,6 +1532,9 @@
     },
     {
         "ref":  "d84f1767-e406-448a-a413-9a526350c83f",
+        "geid":  "199998949497",
+        "slug":  "factionreputation_lawful_northrockservicegroup",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_northrockservicegroup.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_northrockservicegroup.xml",
         "rootElement":  "FactionReputation",
@@ -1454,6 +1570,9 @@
     },
     {
         "ref":  "dd2db9b4-a41a-4aa0-bb6b-6c75c0c078b1",
+        "geid":  null,
+        "slug":  "faction_unlawful_outlaws",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_outlaws.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_outlaws.xml",
         "rootElement":  "Faction.Faction_Unlawful_Outlaws",
@@ -1479,6 +1598,9 @@
     },
     {
         "ref":  "df6de824-9f7b-44d5-a98b-d6a099970b5f",
+        "geid":  "199998982735",
+        "slug":  "faction_reputation_lawful_rayariinc",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_rayariinc.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_rayariinc.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_RayariInc",
@@ -1514,6 +1636,9 @@
     },
     {
         "ref":  "f4cc3bfe-ee9d-41d1-818b-fdb55c979d09",
+        "geid":  "199999007029",
+        "slug":  "factionreputation_battaglia",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_battaglia.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_battaglia.xml",
         "rootElement":  "FactionReputation",
@@ -1549,6 +1674,9 @@
     },
     {
         "ref":  "aa5f0bf8-f36f-423a-b9dd-73084139db23",
+        "geid":  "199998949499",
+        "slug":  "factionreputation_lawful_redwindlinehaul",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_lawful_redwindlinehaul.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_lawful_redwindlinehaul.xml",
         "rootElement":  "FactionReputation",
@@ -1584,6 +1712,9 @@
     },
     {
         "ref":  "3c9a42a9-a986-494f-b724-4d74415f6016",
+        "geid":  null,
+        "slug":  "faction_unlawful_roughandready",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_roughandready.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_roughandready.xml",
         "rootElement":  "Faction.Faction_Unlawful_RoughAndReady",
@@ -1609,6 +1740,9 @@
     },
     {
         "ref":  "d7e05124-92df-4929-804a-d7a1b0fbfd93",
+        "geid":  "199998949510",
+        "slug":  "faction_unlawful_ruto",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_ruto.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_ruto.xml",
         "rootElement":  "Faction.Faction_Unlawful_Ruto",
@@ -1643,32 +1777,10 @@
                        }
     },
     {
-        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_friendlytoall.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_special_friendlytoall.xml",
-        "rootElement":  "Faction.Faction_Special_FriendlyToAll",
-        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
-        "resolvedName":  "Security",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@LOC_EMPTY",
-        "resolvedDescription":  null,
-        "factionType":  "Lawful",
-        "defaultReaction":  "Friendly",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
+        "geid":  null,
+        "slug":  "faction_lawfulsecurity_generic",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawfulsecurity_generic.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawfulsecurity_generic.xml",
         "rootElement":  "Faction.Faction_LawfulSecurity_Generic",
@@ -1693,7 +1805,38 @@
         "reputation":  null
     },
     {
+        "ref":  "4dece609-0140-4a7b-8ea2-1c645e36ac3f",
+        "geid":  null,
+        "slug":  "faction_special_friendlytoall",
+        "sourceRecordType":  "faction",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_special_friendlytoall.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_special_friendlytoall.xml",
+        "rootElement":  "Faction.Faction_Special_FriendlyToAll",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Friendly",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  null
+    },
+    {
         "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
+        "geid":  null,
+        "slug":  "faction_unlawfulsecurity_generic",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawfulsecurity_generic.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawfulsecurity_generic.xml",
         "rootElement":  "Faction.Faction_UnlawfulSecurity_Generic",
@@ -1719,6 +1862,9 @@
     },
     {
         "ref":  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
+        "geid":  null,
+        "slug":  "faction_unlawful_shatteredblade",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_shatteredblade.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_shatteredblade.xml",
         "rootElement":  "Faction.Faction_Unlawful_ShatteredBlade",
@@ -1746,6 +1892,9 @@
     },
     {
         "ref":  "04b1380a-c598-4e3d-8ebf-debde07cfe3d",
+        "geid":  "199998949500",
+        "slug":  "faction_reputation_lawful_shubininterstellar",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_shubininterstellar.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_shubininterstellar.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_ShubinInterstellar",
@@ -1781,6 +1930,9 @@
     },
     {
         "ref":  "d1a42653-8c65-4d6b-9617-4049ca77d8d8",
+        "geid":  "199998949481",
+        "slug":  "faction_reputation_unlawful_tarpits",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_tarpits.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_tarpits.xml",
         "rootElement":  "Faction.Faction_Reputation_Unlawful_TarPits",
@@ -1816,6 +1968,9 @@
     },
     {
         "ref":  "7e716658-9c65-4ebe-819e-8fffd8390e6a",
+        "geid":  "199998949507",
+        "slug":  "factionreputation_unlawful_twitchgang",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_unlawful_twitchgang.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_unlawful_twitchgang.xml",
         "rootElement":  "FactionReputation",
@@ -1851,6 +2006,9 @@
     },
     {
         "ref":  "a676b2d5-0e88-4b0a-bce5-948367830b9e",
+        "geid":  null,
+        "slug":  "faction_lawenforcement_advocacy",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawenforcement_advocacy.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawenforcement_advocacy.xml",
         "rootElement":  "Faction.Faction_LawEnforcement_Advocacy",
@@ -1876,6 +2034,9 @@
     },
     {
         "ref":  "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd",
+        "geid":  null,
+        "slug":  "faction_lawenforcement_ueenavy",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_lawenforcement_ueenavy.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_lawenforcement_ueenavy.xml",
         "rootElement":  "Faction.Faction_LawEnforcement_UEENavy",
@@ -1901,6 +2062,9 @@
     },
     {
         "ref":  "7b2fbef9-bf19-4308-ab07-3cbf4fbc4d97",
+        "geid":  "199998949501",
+        "slug":  "factionreputation_udm",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_udm.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_udm.xml",
         "rootElement":  "FactionReputation",
@@ -1936,6 +2100,9 @@
     },
     {
         "ref":  "8458379d-9b70-493e-9477-817bf87d56d9",
+        "geid":  "199998982738",
+        "slug":  "faction_reputation_lawful_unitedwayfarersclub",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_unitedwayfarersclub.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_unitedwayfarersclub.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_UnitedWayfarersClub",
@@ -1971,6 +2138,9 @@
     },
     {
         "ref":  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b",
+        "geid":  null,
+        "slug":  "faction_creature_hostile_vanduul",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_vanduul.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_vanduul.xml",
         "rootElement":  "Faction.Faction_Creature_Hostile_Vanduul",
@@ -1996,6 +2166,9 @@
     },
     {
         "ref":  "95761a82-18f9-4e25-ba33-d4c47c689324",
+        "geid":  "199998949485",
+        "slug":  "faction_reputation_unlawful_vaughn",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_unlawful_vaughn.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_unlawful_vaughn.xml",
         "rootElement":  "Faction.Faction_Reputation_Unlawful_Vaughn",
@@ -2031,6 +2204,9 @@
     },
     {
         "ref":  "c088786f-db63-4598-9c1b-a71ff4831f79",
+        "geid":  "199998949508",
+        "slug":  "faction_unlawful_wallaceklim",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_wallaceklim.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_wallaceklim.xml",
         "rootElement":  "Faction.Faction_Unlawful_WallaceKlim",
@@ -2066,6 +2242,9 @@
     },
     {
         "ref":  "5f442fdd-15cc-4f62-bd10-fce2023f4d0c",
+        "geid":  "199999006406",
+        "slug":  "factionreputation_wikelo",
+        "sourceRecordType":  "reputation_entity",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_wikelo.xml",
         "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_wikelo.xml",
         "rootElement":  "FactionReputation",
@@ -2101,6 +2280,9 @@
     },
     {
         "ref":  "35b0d342-8d8a-4b0e-adda-fc85cae49afd",
+        "geid":  "199998949498",
+        "slug":  "faction_reputation_lawful_wildstarracing",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_reputation_lawful_wildstarracing.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_reputation_lawful_wildstarracing.xml",
         "rootElement":  "Faction.Faction_Reputation_Lawful_WildstarRacing",
@@ -2135,42 +2317,10 @@
                        }
     },
     {
-        "ref":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\factionreputation\\factionreputation_xenothreat.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/factionreputation/factionreputation_xenothreat.xml",
-        "rootElement":  "FactionReputation",
-        "rawNameToken":  "@Xenothreat_RepUI_Name",
-        "resolvedName":  "XenoThreat",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@Xenothreat_RepUI_Description",
-        "resolvedDescription":  "XenoThreat believes that the UEE's continued acceptance of aliens has set Humanity on a path towards destruction. Rather than protecting its citizens, the UEE has given in to greed and has shown a complete disregard for the values that made Humanity great in the first place. In response, XenoThreat is attempting to lead a revolution to take back the soul of the Empire.",
-        "factionType":  null,
-        "defaultReaction":  null,
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  {
-                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_XenoThreat_Icon_1x1.tif",
-                           "isNpc":  false,
-                           "hideInApp":  false,
-                           "isLawful":  false,
-                           "resolvedHeadquarters":  "Pyro System",
-                           "resolvedFounded":  "N/A",
-                           "resolvedLeadership":  "The Commander",
-                           "resolvedArea":  "Pyro",
-                           "resolvedFocus":  "Piracy, Terrorism"
-                       }
-    },
-    {
         "ref":  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
+        "geid":  "199998949486",
+        "slug":  "faction_unlawful_xenothreat",
+        "sourceRecordType":  "faction",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_xenothreat.xml",
         "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_xenothreat.xml",
         "rootElement":  "Faction.Faction_Unlawful_Xenothreat",
@@ -2185,7 +2335,7 @@
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
         "noLegalRights":  false,
-        "factionReputationRef":  null,
+        "factionReputationRef":  "919a672b-eb70-40a7-94ea-8c75f3ff67fc",
         "alliedFactionRefs":  [
 
                               ],
@@ -2193,6 +2343,16 @@
                                  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
                                  "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
                              ],
-        "reputation":  null
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_XenoThreat_Icon_1x1.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  false,
+                           "resolvedHeadquarters":  "Pyro System",
+                           "resolvedFounded":  "N/A",
+                           "resolvedLeadership":  "The Commander",
+                           "resolvedArea":  "Pyro",
+                           "resolvedFocus":  "Piracy, Terrorism"
+                       }
     }
 ]
