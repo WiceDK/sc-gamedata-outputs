@@ -371525,6 +371525,11 @@
                              "domain":  "Item",
                              "ref":  "dd54bb5c-bee2-46c2-8028-c961675af228",
                              "codeName":  "carryable_tbo_fl_2scu_commodity_processedgoods_altruciatoxin"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "6fc6df10-0267-4097-8233-67983e594669",
+                             "codeName":  null
                          }
                      ]
     },
@@ -371629,6 +371634,11 @@
                              "domain":  "Item",
                              "ref":  "588adba6-1538-4969-96be-27dd2f2e98ac",
                              "codeName":  "carryable_tbo_fl_32scu_commodity_organic_altruciatoxin_unprocessed"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "ee845b46-a156-47f7-a58a-22f9b77b9c2b",
+                             "codeName":  null
                          }
                      ]
     },
@@ -377329,6 +377339,11 @@
                              "domain":  "Item",
                              "ref":  "7b3d4cf2-3313-4472-9180-8f5896d411d6",
                              "codeName":  "carryable_1h_sq_drug_etam_1_b"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "ba11589f-a278-44e9-9bd9-79552832fc94",
+                             "codeName":  null
                          }
                      ]
     },
@@ -378075,6 +378090,11 @@
                              "domain":  "Item",
                              "ref":  "665e1748-57ee-4603-ba42-ea41aae459f9",
                              "codeName":  "carryable_tbo_fl_1scu_commodity_organic_gasperingweevileggs"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "3871740a-f82f-445d-a2e5-8163d1405733",
+                             "codeName":  null
                          }
                      ]
     },
@@ -379175,6 +379195,11 @@
                              "domain":  "Item",
                              "ref":  "e96bfcc9-4fa3-472e-8a69-bd4636e6efb0",
                              "codeName":  "carryable_tbo_fl_4scu_commodity_mineral_raw_hephaestanite"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "cad319d9-e0e5-420d-bbfd-dd62a0362d05",
+                             "codeName":  null
                          }
                      ]
     },
@@ -381508,6 +381533,11 @@
                              "domain":  "Item",
                              "ref":  "d8419c32-46c6-4e29-a9ba-c21486db48ba",
                              "codeName":  "carryable_tbo_fl_16scu_commodity_processedgoods_maze"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+                             "codeName":  null
                          }
                      ]
     },
@@ -382625,6 +382655,11 @@
                              "domain":  "Item",
                              "ref":  "e6543c66-d79a-4ead-b14e-f3856df49c84",
                              "codeName":  "carryable_tbo_fl_4scu_commodity_processedgoods_neon"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+                             "codeName":  null
                          }
                      ]
     },
@@ -385136,6 +385171,11 @@
                              "domain":  "ResourceType",
                              "ref":  "d9653427-af7f-4fea-bbd6-ae89393524b7",
                              "codeName":  "Raw_Ice"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "d9653427-af7f-4fea-bbd6-ae89393524b7",
+                             "codeName":  null
                          }
                      ]
     },
@@ -385235,6 +385275,11 @@
                              "domain":  "Item",
                              "ref":  "d4819160-1cff-4d59-963b-305b95fa70f8",
                              "codeName":  "carryable_tbo_fl_4scu_commodity_nonmetal_rawouratite"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "ca3ae4c1-3483-4985-ba61-50412994dc83",
+                             "codeName":  null
                          }
                      ]
     },
@@ -385334,6 +385379,11 @@
                              "domain":  "Item",
                              "ref":  "16baf251-eff3-44a4-9ac0-4ef06f839f94",
                              "codeName":  "carryable_tbo_fl_24scu_commodity_nonmetal_rawsilicon"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "d137b905-b3bc-4721-a790-830499263c0c",
+                             "codeName":  null
                          }
                      ]
     },
@@ -387381,6 +387431,11 @@
                              "domain":  "Item",
                              "ref":  "9ded6915-c77f-405c-b6db-bcc638275dee",
                              "codeName":  "carryable_tbo_fl_8scu_commodity_processedgoods_slam"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+                             "codeName":  null
                          }
                      ]
     },
@@ -392071,6 +392126,11 @@
                              "domain":  "Item",
                              "ref":  "5cc168c4-ff0b-4887-b308-122a0d780a3e",
                              "codeName":  "carryable_2h_fl_05x05x05_commodity_drug_widow_a"
+                         },
+                         {
+                             "domain":  "ItemDisplayAlias",
+                             "ref":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+                             "codeName":  null
                          }
                      ]
     },

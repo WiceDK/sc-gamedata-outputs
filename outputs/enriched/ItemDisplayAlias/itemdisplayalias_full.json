@@ -1,0 +1,86 @@
+﻿[
+    {
+        "ref":  "6fc6df10-0267-4097-8233-67983e594669",
+        "displayNameToken":  "@items_commodities_altruciatoxin",
+        "canonicalName":  "Altruciatoxin",
+        "source":  "mrkraken",
+        "alias":  "[!] Altruciatoxin"
+    },
+    {
+        "ref":  "ba11589f-a278-44e9-9bd9-79552832fc94",
+        "displayNameToken":  "@items_commodities_etam",
+        "canonicalName":  "E'tam",
+        "source":  "mrkraken",
+        "alias":  "[!] E'tam"
+    },
+    {
+        "ref":  "3871740a-f82f-445d-a2e5-8163d1405733",
+        "displayNameToken":  "@items_commodities_GaspingWeevilEggs",
+        "canonicalName":  "Gasping Weevil Eggs",
+        "source":  "mrkraken",
+        "alias":  "[!] Gasping Weevil Eggs"
+    },
+    {
+        "ref":  "cad319d9-e0e5-420d-bbfd-dd62a0362d05",
+        "displayNameToken":  "@items_commodities_hephaestanite_raw",
+        "canonicalName":  "Hephaestanite (R)",
+        "source":  "mrkraken",
+        "alias":  "Heph (Raw)"
+    },
+    {
+        "ref":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
+        "displayNameToken":  "@items_commodities_maze",
+        "canonicalName":  "Maze",
+        "source":  "mrkraken",
+        "alias":  "[!] Maze"
+    },
+    {
+        "ref":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
+        "displayNameToken":  "@items_commodities_neon",
+        "canonicalName":  "Neon",
+        "source":  "mrkraken",
+        "alias":  "[!] Neon"
+    },
+    {
+        "ref":  "d9653427-af7f-4fea-bbd6-ae89393524b7",
+        "displayNameToken":  "@items_commodities_raw_ice",
+        "canonicalName":  "Raw Ice",
+        "source":  "mrkraken",
+        "alias":  "Ice (Raw)"
+    },
+    {
+        "ref":  "ca3ae4c1-3483-4985-ba61-50412994dc83",
+        "displayNameToken":  "@items_commodities_raw_ouratite",
+        "canonicalName":  "Raw Ouratite",
+        "source":  "mrkraken",
+        "alias":  "Ouratite (Raw)"
+    },
+    {
+        "ref":  "d137b905-b3bc-4721-a790-830499263c0c",
+        "displayNameToken":  "@items_commodities_raw_silicon",
+        "canonicalName":  "Raw Silicon",
+        "source":  "mrkraken",
+        "alias":  "Silicon (Raw)"
+    },
+    {
+        "ref":  "ee845b46-a156-47f7-a58a-22f9b77b9c2b",
+        "displayNameToken":  "@items_commodities_altruciatoxin_unprocessed",
+        "canonicalName":  "Revenant Tree Pollen",
+        "source":  "mrkraken",
+        "alias":  "[!] Revenant Tree Pollen"
+    },
+    {
+        "ref":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
+        "displayNameToken":  "@items_commodities_slam",
+        "canonicalName":  "SLAM",
+        "source":  "mrkraken",
+        "alias":  "[!] SLAM"
+    },
+    {
+        "ref":  "a69c19f9-f33e-4c87-bfd2-09663585d158",
+        "displayNameToken":  "@items_commodities_widow",
+        "canonicalName":  "WiDoW",
+        "source":  "mrkraken",
+        "alias":  "[!] WiDoW"
+    }
+]
