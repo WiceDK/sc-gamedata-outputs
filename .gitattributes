@@ -1,0 +1,2 @@
+# Written by sc-datamine Invoke-PushOutputs.ps1 - game assets are stored byte-exact.
+assets/** -text
