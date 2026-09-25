@@ -131775,7 +131775,7 @@
                               "arrivalRadius":  121800000,
                               "arrivalPointDetectionOffset":  10000,
                               "adoptionRadius":  87787540000,
-                              "subPointRadiusMultiplier":  7.5
+                              "subPointRadiusMultiplier":  25
                           },
         "jurisdictionRef":  "87e3c2af-000c-412f-b4d9-220377908eba",
         "systemRef":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",

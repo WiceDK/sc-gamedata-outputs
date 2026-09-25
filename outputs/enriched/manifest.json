@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T10:13:57",
+    "generatedAt":  "2026-09-25T22:16:11",
     "rulesPath":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\src\\contracts\\normalization-rules-v2.json",
     "mode":  "raw-first",
     "steps":  [
@@ -106,6 +106,13 @@
                       "succeeded":  true,
                       "fullOutputPath":  "outputs\\enriched\\MissionGiver\\missiongiver_full.json",
                       "minOutputPath":  "outputs\\enriched\\MissionGiver\\missiongiver_min.json"
+                  },
+                  {
+                      "domain":  "reputationScope",
+                      "enabled":  true,
+                      "succeeded":  true,
+                      "fullOutputPath":  "outputs\\enriched\\ReputationScope\\reputationscope_full.json",
+                      "minOutputPath":  "outputs\\enriched\\ReputationScope\\reputationscope_min.json"
                   },
                   {
                       "domain":  "missions",

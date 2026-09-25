@@ -1,12 +1,12 @@
 ﻿{
-    "startedAt":  "2026-09-25T09:53:05",
-    "finishedAt":  "2026-09-25T10:13:57",
+    "startedAt":  "2026-09-25T21:42:59",
+    "finishedAt":  "2026-09-25T22:16:11",
     "sourceArchive":  {
-                          "path":  "C:\\Users\\mail\\OneDrive\\Star citizen stuff\\Exovant\\sc-datamine\\Data.p4k",
-                          "size":  157741633536,
-                          "lastWriteTimeUtc":  "2026-08-26T18:41:51.7692643Z",
-                          "sha256":  "3F2CE8BA52F7F812063374561215871ABA41B35D23EC863173B9CF9591AF24D8",
-                          "hashSkipped":  false
+                          "path":  "C:\\Program Files\\Roberts Space Industries\\StarCitizen\\LIVE\\Data.p4k",
+                          "size":  159752790016,
+                          "lastWriteTimeUtc":  "2026-09-17T20:03:22.7991301Z",
+                          "sha256":  null,
+                          "hashSkipped":  true
                       },
     "configuredSourceArchive":  "Data.p4k",
     "extractionConfigPath":  "src\\contracts\\extract-config.json",

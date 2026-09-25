@@ -1537,12 +1537,12 @@
     {
         "ref":  "3b57c3a2-ba2a-40c6-a19e-83955e7eaf5c",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 43200)",
+        "displayName":  "behr pistol ballistic 01 mr01 Reward Pool",
         "codeName":  "BP_REWARD_behr_pistol_ballistic_01_mr01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 43200)"
+
                           ],
         "blueprintRefs":  [
                               "020bb260-171f-441b-9bc0-6e44284efa1a"
@@ -1551,12 +1551,12 @@
     {
         "ref":  "4041a259-f8c7-45a0-85ec-b184d73ac163",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 123840)",
+        "displayName":  "behr rifle ballistic 01 mr01 Reward Pool",
         "codeName":  "BP_REWARD_behr_rifle_ballistic_01_mr01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 123840)"
+
                           ],
         "blueprintRefs":  [
                               "7012c8b6-a894-41c2-a954-5b8f3f3e1b9a"
@@ -1565,12 +1565,12 @@
     {
         "ref":  "f172dafb-40e4-49b9-ae4c-5b5a9069484e",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 288000)",
+        "displayName":  "cds combat heavy arms 01 02 02 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_heavy_arms_01_02_02",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 288000)"
+
                           ],
         "blueprintRefs":  [
                               "5fa322e9-ddb3-4696-94fb-45725aca6aef"
@@ -1579,12 +1579,12 @@
     {
         "ref":  "4bd1a5f5-91e4-44b0-835e-ac694cd9ec42",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 288000)",
+        "displayName":  "cds combat heavy core 01 02 02 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_heavy_core_01_02_02",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 288000)"
+
                           ],
         "blueprintRefs":  [
                               "d0d6a9aa-9e5a-4e11-8211-d080faeeca47"
@@ -1593,12 +1593,12 @@
     {
         "ref":  "b425f421-bceb-4413-89bf-4d45afb727bb",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 288000)",
+        "displayName":  "cds combat heavy helmet 01 02 02 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_heavy_helmet_01_02_02",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 288000)"
+
                           ],
         "blueprintRefs":  [
                               "b7c1c3e2-7c74-4219-830c-7a75c4d13f80"
@@ -1607,12 +1607,12 @@
     {
         "ref":  "a4064e03-eff8-45b2-b344-2c84f6500451",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 288000)",
+        "displayName":  "cds combat heavy legs 01 02 02 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_heavy_legs_01_02_02",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 288000)"
+
                           ],
         "blueprintRefs":  [
                               "d7471459-d238-4f44-b5c5-e793377de11a"
@@ -1621,12 +1621,12 @@
     {
         "ref":  "69c7a08b-0501-453c-9d78-dfaceafb0b72",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 72000)",
+        "displayName":  "cds combat light arms 02 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_light_arms_02_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 72000)"
+
                           ],
         "blueprintRefs":  [
                               "350cc844-93d1-49a7-a2fc-b50eac006945"
@@ -1635,12 +1635,12 @@
     {
         "ref":  "d6e15de0-c008-49c9-8259-4d65f39e1e2d",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 72000)",
+        "displayName":  "cds combat light core 02 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_light_core_02_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 72000)"
+
                           ],
         "blueprintRefs":  [
                               "1ac52ca8-a15c-445a-9b1b-adbc4f060cf0"
@@ -1649,12 +1649,12 @@
     {
         "ref":  "6ec239ee-d864-4983-be89-2a0e3624fe83",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 72000)",
+        "displayName":  "cds combat light helmet 02 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_light_helmet_02_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 72000)"
+
                           ],
         "blueprintRefs":  [
                               "e75c0be5-82b7-4cdf-ab29-7187040a27ac"
@@ -1663,12 +1663,12 @@
     {
         "ref":  "8702da44-7177-473e-9aa2-e8e47c861b28",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 72000)",
+        "displayName":  "cds combat light legs 02 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_light_legs_02_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 72000)"
+
                           ],
         "blueprintRefs":  [
                               "77047612-1413-4401-a29d-74822babf286"
@@ -1677,12 +1677,12 @@
     {
         "ref":  "e00000e1-0666-46c7-9c15-70758407e30f",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 164160)",
+        "displayName":  "cds combat medium arms 01 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_medium_arms_01_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 164160)"
+
                           ],
         "blueprintRefs":  [
                               "939fd17c-9ab9-42ba-9c66-bdff35650f10"
@@ -1691,12 +1691,12 @@
     {
         "ref":  "61f44a26-10ca-4835-b6e5-b7965f943872",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 164160)",
+        "displayName":  "cds combat medium core 01 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_medium_core_01_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 164160)"
+
                           ],
         "blueprintRefs":  [
                               "cfb81d2e-21f6-432e-9293-335a2b76833e"
@@ -1705,12 +1705,12 @@
     {
         "ref":  "1df7c0ff-c719-4bd4-be2e-c313f70b6baa",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 164160)",
+        "displayName":  "cds combat medium helmet 01 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_medium_helmet_01_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 164160)"
+
                           ],
         "blueprintRefs":  [
                               "7e329a5d-3b5a-4f8c-a1ec-1299ef1debd9"
@@ -1719,12 +1719,12 @@
     {
         "ref":  "0d9f9197-3162-411b-b83d-e4c2225bb968",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 164160)",
+        "displayName":  "cds combat medium legs 01 02 01 Reward Pool",
         "codeName":  "BP_REWARD_cds_combat_medium_legs_01_02_01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 164160)"
+
                           ],
         "blueprintRefs":  [
                               "ad7e7203-073a-4937-a43e-d5ed7170e460"
@@ -1775,12 +1775,12 @@
     {
         "ref":  "b9191396-c4c8-4c5d-a929-da679def61d5",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 288000)",
+        "displayName":  "cds undersuit 01 02 02 Reward Pool",
         "codeName":  "BP_REWARD_cds_undersuit_01_02_02",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 288000)"
+
                           ],
         "blueprintRefs":  [
                               "3ac19a05-1b4c-4c10-bfd4-78b8a44a59be"
@@ -1831,12 +1831,12 @@
     {
         "ref":  "19d0917a-d2cb-429c-91f5-771264fcfd6a",
         "displayNameToken":  null,
-        "displayName":  "Your Total: (Tier 230400)",
+        "displayName":  "klwe smg energy 01 mr01 Reward Pool",
         "codeName":  "BP_REWARD_klwe_smg_energy_01_mr01",
         "blueprintCount":  1,
-        "missionCount":  1,
+        "missionCount":  0,
         "missionTitles":  [
-                              "Your Total: (Tier 230400)"
+
                           ],
         "blueprintRefs":  [
                               "b488199e-f0fc-4e8b-89bd-d3a435d6dce1"
