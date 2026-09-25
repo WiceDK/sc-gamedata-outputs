@@ -1,4 +1,4 @@
-[
+Ôªø[
     {
         "ref":  "c0226b4d-3829-487c-8bf0-7d47f36ae867",
         "codeName":  "radr_rsi_s04_polaris",
@@ -18170,7 +18170,7 @@
         "category":  "fpsgear",
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "f5ad75c2-151d-4d62-96ae-f522e026c1e2",
-        "outputItemName":  "Arrowhead†\"Pathfinder\" Sniper Rifle",
+        "outputItemName":  "Arrowhead¬†\"Pathfinder\" Sniper Rifle",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  3,
         "inputs":  [
@@ -18310,7 +18310,7 @@
         "category":  "fpsgear",
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "8b266e43-6a55-4fe5-b2d4-21e67d5d9795",
-        "outputItemName":  "Arrowhead†\"Voyager\" Sniper Rifle",
+        "outputItemName":  "Arrowhead¬†\"Voyager\" Sniper Rifle",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  3,
         "inputs":  [
@@ -68773,7 +68773,7 @@
         "category":  "vehiclegear",
         "categoryRef":  "3b758fdc-250d-4a15-bf4e-118d4a5b66bd",
         "outputItemRef":  "c7c36fea-dcf5-48b9-9939-bf2771f9f8f4",
-        "outputItemName":  "Hellion†Scattergun",
+        "outputItemName":  "Hellion¬†Scattergun",
         "outputItemType":  "WeaponGun",
         "craftTimeMinutes":  16,
         "inputs":  [
@@ -83567,7 +83567,7 @@
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
         "outputItemRef":  "be1ffc25-c87f-4c26-8a55-692f752a80fe",
-        "outputItemName":  "Lynx†Legs",
+        "outputItemName":  "Lynx¬†Legs",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  2,
         "inputs":  [
@@ -94710,7 +94710,7 @@
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
         "outputItemRef":  "5512d873-28bb-4e2c-a452-f2474ec26d36",
-        "outputItemName":  "Oracle†Helmet",
+        "outputItemName":  "Oracle¬†Helmet",
         "outputItemType":  "Char_Armor_Helmet",
         "craftTimeMinutes":  2,
         "inputs":  [
@@ -106241,7 +106241,7 @@
         "category":  "fpsgear",
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "f39aea20-4d89-4525-be69-d6cd336e05e0",
-        "outputItemName":  "P8-SC†\"Executive Edition\" SMG",
+        "outputItemName":  "P8-SC¬†\"Executive Edition\" SMG",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  2,
         "inputs":  [
@@ -106396,7 +106396,7 @@
         "category":  "fpsgear",
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "c65903b1-82da-4da8-aed9-ee05a7610fe2",
-        "outputItemName":  "P8-SC†\"Midnight\" SMG",
+        "outputItemName":  "P8-SC¬†\"Midnight\" SMG",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  2,
         "inputs":  [
@@ -106551,7 +106551,7 @@
         "category":  "fpsgear",
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "c28c3a87-80a5-4df0-9faf-f61dcdebb16e",
-        "outputItemName":  "P8-SC†\"Nightstalker\" SMG",
+        "outputItemName":  "P8-SC¬†\"Nightstalker\" SMG",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  2,
         "inputs":  [
@@ -106706,7 +106706,7 @@
         "category":  "fpsgear",
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "0aedfb61-ae31-4eca-98ea-0fb0216513f0",
-        "outputItemName":  "P8-SC†\"Warhawk\" SMG",
+        "outputItemName":  "P8-SC¬†\"Warhawk\" SMG",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  2,
         "inputs":  [
@@ -135259,7 +135259,7 @@
         "category":  "vehiclegear",
         "categoryRef":  "61e576d2-f8b4-46b1-98e6-9205bb5de686",
         "outputItemRef":  "631884a6-7e06-4612-986c-1b3e556aecac",
-        "outputItemName":  "SW16BR1 ìBuzzsawî Repeater",
+        "outputItemName":  "SW16BR1 ‚ÄúBuzzsaw‚Äù Repeater",
         "outputItemType":  "WeaponGun",
         "craftTimeMinutes":  9,
         "inputs":  [
@@ -135349,7 +135349,7 @@
         "category":  "vehiclegear",
         "categoryRef":  "3b758fdc-250d-4a15-bf4e-118d4a5b66bd",
         "outputItemRef":  "d4ebab35-1d86-4259-82dc-cda6a7167c90",
-        "outputItemName":  "SW16BR2 ìSawbuckî Repeater",
+        "outputItemName":  "SW16BR2 ‚ÄúSawbuck‚Äù Repeater",
         "outputItemType":  "WeaponGun",
         "craftTimeMinutes":  16,
         "inputs":  [
@@ -135439,7 +135439,7 @@
         "category":  "vehiclegear",
         "categoryRef":  "e1a590f1-5ba5-4927-8ea2-71caac1475c4",
         "outputItemRef":  "bbfbb4b5-c26e-4bee-9d41-9679e102e860",
-        "outputItemName":  "SW16BR3 ìShredderî Repeater",
+        "outputItemName":  "SW16BR3 ‚ÄúShredder‚Äù Repeater",
         "outputItemType":  "WeaponGun",
         "craftTimeMinutes":  28,
         "inputs":  [

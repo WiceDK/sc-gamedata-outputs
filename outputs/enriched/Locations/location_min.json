@@ -34012,7 +34012,7 @@
         "rawDescriptionToken":  "@Pyro2_Outpost_col_m_mng_otlw_002_desc",
         "resolvedName":  "Last Ditch",
         "designation":  null,
-        "resolvedDescription":  "The perfect place for when you�ve given up on life.",
+        "resolvedDescription":  "The perfect place for when you’ve given up on life.",
         "amenityRefs":  [
 
                         ],
@@ -34092,7 +34092,7 @@
         "rawDescriptionToken":  "@pyro2_Outpost_col_m_scrp_indy_001_desc",
         "resolvedName":  "Sunset Mesa",
         "designation":  null,
-        "resolvedDescription":  "Givin� salvage a better tomorrow.",
+        "resolvedDescription":  "Givin’ salvage a better tomorrow.",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "56d20b90-2e44-4cca-ac14-9f537f7d285e",
@@ -34583,7 +34583,7 @@
         "rawDescriptionToken":  "@Pyro2_Outpost_col_s_mng_indy_001_desc",
         "resolvedName":  "Yang\u0027s Place",
         "designation":  null,
-        "resolvedDescription":  "If you�re looking for Yang, they don�t mine here anymore.",
+        "resolvedDescription":  "If you’re looking for Yang, they don’t mine here anymore.",
         "amenityRefs":  [
                             "56d20b90-2e44-4cca-ac14-9f537f7d285e",
                             "76438648-b697-4f2c-a5dd-a3efe0f3b64a",
@@ -34913,7 +34913,7 @@
         "rawDescriptionToken":  "@Pyro3_Outpost_col_m_frm_indy_001_desc",
         "resolvedName":  "Shepherd\u0027s Rest",
         "designation":  null,
-        "resolvedDescription":  "Growing anything out here�s hard work.",
+        "resolvedDescription":  "Growing anything out here’s hard work.",
         "amenityRefs":  [
                             "4d6a0ad9-27ec-42fa-af64-5f159b906aae",
                             "7a788ad2-57be-464b-80f8-60a803868bba",
@@ -35727,7 +35727,7 @@
         "rawDescriptionToken":  "@Pyro3_Outpost_col_s_frm_otlw_002_desc",
         "resolvedName":  "The Yard",
         "designation":  null,
-        "resolvedDescription":  "Stay out if you know what�s good for you.",
+        "resolvedDescription":  "Stay out if you know what’s good for you.",
         "amenityRefs":  [
                             "4d6a0ad9-27ec-42fa-af64-5f159b906aae"
                         ],
@@ -39943,7 +39943,7 @@
         "rawDescriptionToken":  "@Stanton4c_Racetrack_Icebreaker_desc",
         "resolvedName":  "The Icebreaker",
         "designation":  null,
-        "resolvedDescription":  "A frigid racetrack over the mountains around microTech�s Euterpe Advanced Research Laboratories. Operated by Wildstar Racing.",
+        "resolvedDescription":  "A frigid racetrack over the mountains around microTech’s Euterpe Advanced Research Laboratories. Operated by Wildstar Racing.",
         "amenityRefs":  [
 
                         ],
@@ -45038,7 +45038,7 @@
         "rawDescriptionToken":  "@Stanton1_DerelictSettlement_CuttersRig_desc",
         "resolvedName":  "Cutter\u0027s Rig",
         "designation":  null,
-        "resolvedDescription":  "There�s blood on the water.",
+        "resolvedDescription":  "There’s blood on the water.",
         "amenityRefs":  [
 
                         ],
@@ -45856,7 +45856,7 @@
         "rawDescriptionToken":  "@Stanton1_DerelictSettlement_MakersPoint_desc",
         "resolvedName":  "Maker\u0027s Point",
         "designation":  null,
-        "resolvedDescription":  "Unless you�ve been invited, make it a point to stay out.",
+        "resolvedDescription":  "Unless you’ve been invited, make it a point to stay out.",
         "amenityRefs":  [
 
                         ],
@@ -47856,7 +47856,7 @@
         "rawDescriptionToken":  "@Stanton1_DerelictSettlement_WeepingCove_desc",
         "resolvedName":  "Weeping Cove",
         "designation":  null,
-        "resolvedDescription":  "Here�s hoping that tomorrow�s a little better than today.",
+        "resolvedDescription":  "Here’s hoping that tomorrow’s a little better than today.",
         "amenityRefs":  [
 
                         ],
@@ -53062,7 +53062,7 @@
         "rawDescriptionToken":  "@Stanton3b_SalvageYard_001_desc",
         "resolvedName":  "Samson \u0026 Son\u0027s Salvage Center",
         "designation":  null,
-        "resolvedDescription":  "This family owned and operated salvage center is�proud of their quality service and reliability, as well as offering some of the best possible pricing in today�s current markets.",
+        "resolvedDescription":  "This family owned and operated salvage center is proud of their quality service and reliability, as well as offering some of the best possible pricing in today’s current markets.",
         "amenityRefs":  [
 
                         ],
@@ -55874,7 +55874,7 @@
         "rawDescriptionToken":  "@Stanton4_DerelictSettlement_AstorsClearing_desc",
         "resolvedName":  "Astor\u0027s Clearing",
         "designation":  null,
-        "resolvedDescription":  "It ain�t safe to go into the woods at night.",
+        "resolvedDescription":  "It ain’t safe to go into the woods at night.",
         "amenityRefs":  [
 
                         ],
@@ -58376,7 +58376,7 @@
         "pathTypeHint":  null,
         "rawNameToken":  "@Refinery_0001",
         "rawDescriptionToken":  "@Refinery_Description",
-        "resolvedName":  "WIP�Refinery_0001",
+        "resolvedName":  "WIP Refinery_0001",
         "designation":  null,
         "resolvedDescription":  "WIP Refinery Description",
         "amenityRefs":  [
@@ -62434,7 +62434,7 @@
         "rawDescriptionToken":  "@RR_P3_L3_desc",
         "resolvedName":  "Patch City",
         "designation":  "PYR3-L3",
-        "resolvedDescription":  "Whether your hull�s full of holes, your quantum tank�s drier than an overcooked aloprat, or you need a place to sleep one off, head over to Patch City at Pyro III�s L3 Lagrange and the Rough \u0026 Ready gang will get you fixed up and back on your way. If you have the credits that is.",
+        "resolvedDescription":  "Whether your hull’s full of holes, your quantum tank’s drier than an overcooked aloprat, or you need a place to sleep one off, head over to Patch City at Pyro III’s L3 Lagrange and the Rough \u0026 Ready gang will get you fixed up and back on your way. If you have the credits that is.",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "1fe6d52d-6c5d-4eb8-b620-3a6ab6477935",
@@ -62604,7 +62604,7 @@
         "rawDescriptionToken":  "@RR_P3_desc",
         "resolvedName":  "Orbituary",
         "designation":  null,
-        "resolvedDescription":  "Situated high above Pyro III, Orbituary station is the domain of the Rough \u0026 Ready gang who operate the refueling services for outlaws and civilians alike. While a convenient place to stock up and get a night�s rest, make sure you don�t let your guard down.",
+        "resolvedDescription":  "Situated high above Pyro III, Orbituary station is the domain of the Rough \u0026 Ready gang who operate the refueling services for outlaws and civilians alike. While a convenient place to stock up and get a night’s rest, make sure you don’t let your guard down.",
         "amenityRefs":  [
                             "02905cad-b6ef-4e1d-a996-291647200f42",
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
@@ -62784,7 +62784,7 @@
         "rawDescriptionToken":  "@RR_P5_L2_desc",
         "resolvedName":  "Gaslight",
         "designation":  "PYR5-L2",
-        "resolvedDescription":  "Pyro�s Rough, so you better get Ready. Stop by this station for fuel, supplies, and a bit of entertainment. Just be sure to mind your manners.",
+        "resolvedDescription":  "Pyro’s Rough, so you better get Ready. Stop by this station for fuel, supplies, and a bit of entertainment. Just be sure to mind your manners.",
         "amenityRefs":  [
                             "02905cad-b6ef-4e1d-a996-291647200f42",
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
@@ -62955,7 +62955,7 @@
         "rawDescriptionToken":  "@RR_P5_L4_desc",
         "resolvedName":  "Rod\u0027s Fuel \u0027N Supplies",
         "designation":  "PYR5-L4",
-        "resolvedDescription":  "You need fuel? Supplies? Rod�s got it!",
+        "resolvedDescription":  "You need fuel? Supplies? Rod’s got it!",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "1fe6d52d-6c5d-4eb8-b620-3a6ab6477935",
@@ -63038,7 +63038,7 @@
         "rawDescriptionToken":  "@RR_P5_L5_desc",
         "resolvedName":  "Rat\u0027s Nest",
         "designation":  "PYR5-L5",
-        "resolvedDescription":  "Pyro�s Rough, so you better get Ready. Stop by this station for fuel, supplies, and a bit of entertainment. Just be sure to mind your manners.",
+        "resolvedDescription":  "Pyro’s Rough, so you better get Ready. Stop by this station for fuel, supplies, and a bit of entertainment. Just be sure to mind your manners.",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "1fe6d52d-6c5d-4eb8-b620-3a6ab6477935",
@@ -63208,7 +63208,7 @@
         "rawDescriptionToken":  "@RR_P6_L3_desc",
         "resolvedName":  "Endgame",
         "designation":  "PYR6-L3",
-        "resolvedDescription":  "Pyro�s Rough, so you better get Ready. Stop by this station for fuel, supplies, and a bit of entertainment. Just be sure to mind your manners.",
+        "resolvedDescription":  "Pyro’s Rough, so you better get Ready. Stop by this station for fuel, supplies, and a bit of entertainment. Just be sure to mind your manners.",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "1fe6d52d-6c5d-4eb8-b620-3a6ab6477935",
@@ -63291,7 +63291,7 @@
         "rawDescriptionToken":  "@RR_P6_L4_desc",
         "resolvedName":  "Dudley \u0026 Daughters",
         "designation":  "PYR6-L4",
-        "resolvedDescription":  "The Dudley family�s been working hard to provide quality refueling services for over a decade. Come by to experience the Dudley Difference.",
+        "resolvedDescription":  "The Dudley family’s been working hard to provide quality refueling services for over a decade. Come by to experience the Dudley Difference.",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "1fe6d52d-6c5d-4eb8-b620-3a6ab6477935",
@@ -64167,7 +64167,7 @@
         "rawDescriptionToken":  "@stanton2_Shipping_Covalex_desc",
         "resolvedName":  "Covalex Shipping Hub Gundo",
         "designation":  null,
-        "resolvedDescription":  "Formerly Covalex�s prime shipping hub for the system, Gundo suffered an unfortunate accident and have since moved operations to Orison directly for the time being.",
+        "resolvedDescription":  "Formerly Covalex’s prime shipping hub for the system, Gundo suffered an unfortunate accident and have since moved operations to Orison directly for the time being.",
         "amenityRefs":  [
 
                         ],
@@ -85409,7 +85409,7 @@
         "rawDescriptionToken":  "@Pyro5e_Fuego_desc",
         "resolvedName":  "Fuego",
         "designation":  "Pyro Ve",
-        "resolvedDescription":  "High amounts of iron-sulfide in Fuego�s soil turn it a livid shade of yellow-black.\\n\\nPotential Ship Mineables:\\nHephaestanite\\nAslarite\\nBorase\\nBexalite\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
+        "resolvedDescription":  "High amounts of iron-sulfide in Fuego’s soil turn it a livid shade of yellow-black.\\n\\nPotential Ship Mineables:\\nHephaestanite\\nAslarite\\nBorase\\nBexalite\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
         "amenityRefs":  [
 
                         ],
@@ -87003,7 +87003,7 @@
         "rawDescriptionToken":  "@Stanton1_Desc",
         "resolvedName":  "Hurston",
         "designation":  "Stanton I",
-        "resolvedDescription":  "A wealth of ore and other resources are mined on Hurston to manufacture the company�s line of munitions and weapons. Heavy industry has resulted in severe pollution across the planet.\\n\\nPotential Ship Mineables:\\nAluminum\\nTin\\nOuratite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nPitambu\\nGolden Medmon\\nDegnous Root\\nCompBoard\\nProta\\nRevenant Pod\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)\\n\\nPotential Creatures:\\nKopion \\nMarok\\nQuasigrazer\\nJuvenile Valakkar",
+        "resolvedDescription":  "A wealth of ore and other resources are mined on Hurston to manufacture the company’s line of munitions and weapons. Heavy industry has resulted in severe pollution across the planet.\\n\\nPotential Ship Mineables:\\nAluminum\\nTin\\nOuratite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nPitambu\\nGolden Medmon\\nDegnous Root\\nCompBoard\\nProta\\nRevenant Pod\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)\\n\\nPotential Creatures:\\nKopion \\nMarok\\nQuasigrazer\\nJuvenile Valakkar",
         "amenityRefs":  [
 
                         ],
@@ -95557,7 +95557,7 @@
         "rawDescriptionToken":  "@Stanton1c_Desc",
         "resolvedName":  "Magda",
         "designation":  "Stanton Ic",
-        "resolvedDescription":  "This moon was named after Hurston Dynamics CEO Magda Hurston who made the decision to purchase Stanton I from the UEE. Magda is the mother of current CEO �Colonel� Gavin E. Hurston.\\n\\nPotential Ship Mineables:\\nAluminum\\nTitanium\\nAslarite\\nQuantainium\\n\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
+        "resolvedDescription":  "This moon was named after Hurston Dynamics CEO Magda Hurston who made the decision to purchase Stanton I from the UEE. Magda is the mother of current CEO “Colonel” Gavin E. Hurston.\\n\\nPotential Ship Mineables:\\nAluminum\\nTitanium\\nAslarite\\nQuantainium\\n\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
         "amenityRefs":  [
 
                         ],
@@ -95916,7 +95916,7 @@
         "rawDescriptionToken":  "@Stanton1d_Desc",
         "resolvedName":  "Ita",
         "designation":  "Stanton Id",
-        "resolvedDescription":  "This moon was named after Ita Hurston, who died during the First Tevarin War, as a reminder of why �the products Hurston Dynamics makes are so important.�\\n\\nPotential Ship Mineables:\\nAlumium\\nTin\\nAslarite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
+        "resolvedDescription":  "This moon was named after Ita Hurston, who died during the First Tevarin War, as a reminder of why “the products Hurston Dynamics makes are so important.”\\n\\nPotential Ship Mineables:\\nAlumium\\nTin\\nAslarite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
         "amenityRefs":  [
 
                         ],
@@ -96011,7 +96011,7 @@
         "rawDescriptionToken":  "@Stanton2_Desc",
         "resolvedName":  "Crusader",
         "designation":  "Stanton II",
-        "resolvedDescription":  "A low mass gas giant that features a breathable atmosphere at high altitudes. This was an ideal situation for ship manufacturer Crusader, who now occupies the planet�s floating platforms to build massive ships like the Starliner.",
+        "resolvedDescription":  "A low mass gas giant that features a breathable atmosphere at high altitudes. This was an ideal situation for ship manufacturer Crusader, who now occupies the planet’s floating platforms to build massive ships like the Starliner.",
         "amenityRefs":  [
 
                         ],
@@ -96418,7 +96418,7 @@
         "rawDescriptionToken":  "@Stanton2_CloudrestRetreatCluster_Desc",
         "resolvedName":  "Cloudrest Retreat",
         "designation":  null,
-        "resolvedDescription":  "Cloudrest Retreat is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location�s unique beauty.",
+        "resolvedDescription":  "Cloudrest Retreat is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location’s unique beauty.",
         "amenityRefs":  [
 
                         ],
@@ -96498,7 +96498,7 @@
         "rawDescriptionToken":  "@Stanton2_ProspectPointCluster_Desc",
         "resolvedName":  "Prospect Point",
         "designation":  null,
-        "resolvedDescription":  "Prospect Point is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location�s unique beauty.",
+        "resolvedDescription":  "Prospect Point is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location’s unique beauty.",
         "amenityRefs":  [
 
                         ],
@@ -96578,7 +96578,7 @@
         "rawDescriptionToken":  "@Stanton2_EmpyreanParkCluster_Desc",
         "resolvedName":  "Empyrean Park",
         "designation":  null,
-        "resolvedDescription":  "Empyrean Park is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location�s unique beauty.",
+        "resolvedDescription":  "Empyrean Park is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location’s unique beauty.",
         "amenityRefs":  [
 
                         ],
@@ -96978,7 +96978,7 @@
         "rawDescriptionToken":  "@Stanton2_ProspectPointCluster_Desc",
         "resolvedName":  "Prospect Point",
         "designation":  null,
-        "resolvedDescription":  "Prospect Point is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location�s unique beauty.",
+        "resolvedDescription":  "Prospect Point is a Crusader platform cluster located outside of Orison. It contains a variety of platforms, including those that provide residential, recreation and resort facilities that capitalize on the location’s unique beauty.",
         "amenityRefs":  [
 
                         ],
@@ -99923,7 +99923,7 @@
         "rawDescriptionToken":  "@Stanton2_Transfer_Seraphim_Desc",
         "resolvedName":  "Seraphim Station",
         "designation":  null,
-        "resolvedDescription":  "Located above Crusader, Seraphim Station offers stunning vistas of the gas giant below and acts as a gateway to Crusader Industries� vast planetary holdings and orbital shipyards. The station offers a wide variety of services including: Refueling, Restocking, Shopping, Habs, a Clinic, and Cargo Services.",
+        "resolvedDescription":  "Located above Crusader, Seraphim Station offers stunning vistas of the gas giant below and acts as a gateway to Crusader Industries’ vast planetary holdings and orbital shipyards. The station offers a wide variety of services including: Refueling, Restocking, Shopping, Habs, a Clinic, and Cargo Services.",
         "amenityRefs":  [
                             "02905cad-b6ef-4e1d-a996-291647200f42",
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
@@ -100099,7 +100099,7 @@
         "rawDescriptionToken":  "@Stanton2a_Desc",
         "resolvedName":  "Cellin",
         "designation":  "Stanton IIa",
-        "resolvedDescription":  "Named after the youngest of the three siblings featured in the 25th century children�s morality tale, \u0027A Gift for Baba,\u0027 this moon features over a hundred currently dormant volcanoes that are said to represent Cellin�s simmering anger.\\n\\nPotential Ship Mineables:\\nQuartz\\nAgricium\\nTarantite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
+        "resolvedDescription":  "Named after the youngest of the three siblings featured in the 25th century children’s morality tale, \u0027A Gift for Baba,\u0027 this moon features over a hundred currently dormant volcanoes that are said to represent Cellin’s simmering anger.\\n\\nPotential Ship Mineables:\\nQuartz\\nAgricium\\nTarantite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
         "amenityRefs":  [
 
                         ],
@@ -102119,7 +102119,7 @@
         "rawDescriptionToken":  "@Stanton2b_Desc",
         "resolvedName":  "Daymar",
         "designation":  "Stanton IIb",
-        "resolvedDescription":  "Named after the middle brother of the three siblings featured in the 25th century children�s morality tale, \u0027A Gift for Baba,\u0027 this is the largest of Crusader�s moons. Daymar�s slightly eccentric orbit is said to represent his ease at getting lost in the story.\\n\\nPotential Ship Mineables:\\nQuartz\\nAgricium\\nSilicon\\nQuantainium\\nTitanium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)\\nStone Bug Shell (Caves)\\n\\nPotential Creatures\\nJuvenile Valakkar",
+        "resolvedDescription":  "Named after the middle brother of the three siblings featured in the 25th century children’s morality tale, \u0027A Gift for Baba,\u0027 this is the largest of Crusader’s moons. Daymar’s slightly eccentric orbit is said to represent his ease at getting lost in the story.\\n\\nPotential Ship Mineables:\\nQuartz\\nAgricium\\nSilicon\\nQuantainium\\nTitanium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite\\nJanalite (Caves only)\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)\\nStone Bug Shell (Caves)\\n\\nPotential Creatures\\nJuvenile Valakkar",
         "amenityRefs":  [
 
                         ],
@@ -104148,7 +104148,7 @@
         "rawDescriptionToken":  "@Stanton2c_Desc",
         "resolvedName":  "Yela",
         "designation":  "Stanton IIc",
-        "resolvedDescription":  "Named after the oldest of the three siblings featured in the 25th century children�s morality tale, \u0027A Gift for Baba,\u0027 this moon has a water-ice crust said to represent Yela�s cool and calculating mannerisms.\\n\\nPotential Ship Mineables:\\nQuartz\\nAgricium\\nTarantite\\nSilicon\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite",
+        "resolvedDescription":  "Named after the oldest of the three siblings featured in the 25th century children’s morality tale, \u0027A Gift for Baba,\u0027 this moon has a water-ice crust said to represent Yela’s cool and calculating mannerisms.\\n\\nPotential Ship Mineables:\\nQuartz\\nAgricium\\nTarantite\\nSilicon\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nHadanite",
         "amenityRefs":  [
 
                         ],
@@ -105907,7 +105907,7 @@
         "rawDescriptionToken":  "@Stanton3_Desc",
         "resolvedName":  "ArcCorp",
         "designation":  "Stanton III",
-        "resolvedDescription":  "Buildings cover a majority of the planet�s surface with residential areas relegated to the poles while ArcCorp�s factories, business headquarters, financial and commercial districts are located in between.",
+        "resolvedDescription":  "Buildings cover a majority of the planet’s surface with residential areas relegated to the poles while ArcCorp’s factories, business headquarters, financial and commercial districts are located in between.",
         "amenityRefs":  [
 
                         ],
@@ -106799,7 +106799,7 @@
         "rawDescriptionToken":  "@ui_pregame_port_Area18_desc",
         "resolvedName":  "Area18",
         "designation":  null,
-        "resolvedDescription":  "Area18 is one of the main commercial ports for interplanetary traffic in the surrounding region of ArcCorp. Travelers can find a variety of goods from trusted names as well as local providers, if they�re not overwhelmed by the sights and sounds of this landing zone.",
+        "resolvedDescription":  "Area18 is one of the main commercial ports for interplanetary traffic in the surrounding region of ArcCorp. Travelers can find a variety of goods from trusted names as well as local providers, if they’re not overwhelmed by the sights and sounds of this landing zone.",
         "amenityRefs":  [
                             "1178cca7-dd66-4b9d-a22f-5515710a5f9e",
                             "4570fbad-2ac8-4c32-bf2d-54fa5de9e43e",
@@ -112221,7 +112221,7 @@
         "rawDescriptionToken":  "@Stanton4_L1_desc",
         "resolvedName":  "MIC L1",
         "designation":  "MIC-L1",
-        "resolvedDescription":  "A Lagrangian gravity well located in the orbit of microTech.�Beside being home to a collection of asteroids, a convenient R\u0026R rest stop is available for refueling and repairs.",
+        "resolvedDescription":  "A Lagrangian gravity well located in the orbit of microTech. Beside being home to a collection of asteroids, a convenient R\u0026R rest stop is available for refueling and repairs.",
         "amenityRefs":  [
 
                         ],
@@ -115877,7 +115877,7 @@
         "rawDescriptionToken":  "@Stanton4a_Desc",
         "resolvedName":  "Calliope",
         "designation":  "Stanton IVa",
-        "resolvedDescription":  "Named after the ancient Greek muse who inspires eloquence to supposedly remind those gazing upon the moon from microTech to �strive for pure expression of thought.�\\n\\nPotential Ship Mineables:\\nIron\\nIce\\nHephaestanite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite",
+        "resolvedDescription":  "Named after the ancient Greek muse who inspires eloquence to supposedly remind those gazing upon the moon from microTech to ‘strive for pure expression of thought.’\\n\\nPotential Ship Mineables:\\nIron\\nIce\\nHephaestanite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite",
         "amenityRefs":  [
 
                         ],
@@ -118835,7 +118835,7 @@
         "rawDescriptionToken":  "@Stanton4b_Desc",
         "resolvedName":  "Clio",
         "designation":  "Stanton IVb",
-        "resolvedDescription":  "Named after the ancient Greek muse of history to supposedly remind those gazing upon the moon from microTech to remember that �their work stands on those who came before them.�\\n\\nPotential Ship Mineables:\\nIce\\nCopper\\nTaranite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite",
+        "resolvedDescription":  "Named after the ancient Greek muse of history to supposedly remind those gazing upon the moon from microTech to remember that ‘their work stands on those who came before them.’\\n\\nPotential Ship Mineables:\\nIce\\nCopper\\nTaranite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite",
         "amenityRefs":  [
 
                         ],
@@ -119280,7 +119280,7 @@
         "rawDescriptionToken":  "@Stanton4c_Desc",
         "resolvedName":  "Euterpe",
         "designation":  "Stanton IVc",
-        "resolvedDescription":  "Named after the ancient Greek muse of music to supposedly remind those gazing upon the moon from microTech to be guided by �the natural rhythm of the universe in their designs.�\\n\\nPotential Ship Mineables:\\nIce\\nCopper\\nTaranite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
+        "resolvedDescription":  "Named after the ancient Greek muse of music to supposedly remind those gazing upon the moon from microTech to be guided by ‘the natural rhythm of the universe in their designs.’\\n\\nPotential Ship Mineables:\\nIce\\nCopper\\nTaranite\\nQuantainium\\n\\nPotential Hand Mineables:\\nAphorite\\nDolivine\\nJanalite\\n\\nPotential Harvestables:\\nRanta Dung (Caves)\\nAmioshi Plague (Caves)\\nBluemoon Fungus (Caves)",
         "amenityRefs":  [
 
                         ],

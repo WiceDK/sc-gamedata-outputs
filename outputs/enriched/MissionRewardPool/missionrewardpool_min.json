@@ -194,12 +194,12 @@
     {
         "ref":  "eca2427d-fc56-460e-9b21-379ee94c78eb",
         "displayNameToken":  null,
-        "displayName":  "Crew Hasn�t Checked In",
+        "displayName":  "Crew Hasn’t Checked In",
         "codeName":  "BP_MISSIONREWARD_Battaglia_RPT1",
         "blueprintCount":  10,
         "missionCount":  7,
         "missionTitles":  [
-                              "Crew Hasn�t Checked In",
+                              "Crew Hasn’t Checked In",
                               "Full Area Scan for Ore",
                               "Missing Mining Team",
                               "Moraine Data Retrieval",
@@ -775,12 +775,12 @@
     {
         "ref":  "ad7ee842-5a39-4f35-a337-91b8e274179f",
         "displayNameToken":  null,
-        "displayName":  "Orange Level Contract: Protect Our Client�s Interests",
+        "displayName":  "Orange Level Contract: Protect Our Client’s Interests",
         "codeName":  "BP_MISSIONREWARD_FoxwellEnforcement_EscortShips",
         "blueprintCount":  6,
         "missionCount":  6,
         "missionTitles":  [
-                              "Orange Level Contract: Protect Our Client�s Interests",
+                              "Orange Level Contract: Protect Our Client’s Interests",
                               "Orange Level Contract: Ship Protection Needed",
                               "Red Level Contract: Save Ships at ~mission(DefendLocationWrapperLocation)",
                               "Red Level Contract: Support VIP Clients",
