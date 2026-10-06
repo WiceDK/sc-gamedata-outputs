@@ -494397,6 +494397,56 @@
                      ]
     },
     {
+        "token":  "@vehicle_NameANVL_Hornet_F7A_Mk2_PYAM_Exec",
+        "ref":  "474444e0-0c7b-50af-0f2f-d702d7ef9cbe",
+        "codeName":  "ANVL_Hornet_F7A_Mk2_Exec_Stealth",
+        "displayNameToken":  "@vehicle_NameANVL_Hornet_F7A_Mk2_PYAM_Exec",
+        "displayName":  "Hornet F7A Mk II PYAM Exec",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Anvil Aerospace\\nFocus: Medium Fighter\\n \\nUshering in a new age of space superiority, Anvil Aerospace has re-engineered the celebrated Hornet for the next generation of fighter combat. Purpose built for the UEE Navy, the F7A Hornet Mk II maintains the spirit of the original while incorporating even more powerful offensive capabilities. This variant features an exclusive livery and loadout for the ship.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "474444e0-0c7b-50af-0f2f-d702d7ef9cbe",
+                             "codeName":  "ANVL_Hornet_F7A_Mk2_Exec_Stealth"
+                         }
+                     ]
+    },
+    {
         "token":  "@vehicle_NameANVL_Hornet_F7C",
         "ref":  "933ca746-3c36-470f-8245-a247a3776455",
         "codeName":  "ANVL_Hornet_F7C",
@@ -495243,6 +495293,56 @@
                              "domain":  "Vehicle",
                              "ref":  "b67123fd-72b3-43e7-bfb3-069d59ba6190",
                              "codeName":  "ANVL_Lightning_F8C_Exec"
+                         }
+                     ]
+    },
+    {
+        "token":  "@vehicle_NameANVL_Lightning_F8C_PYAM_Exec",
+        "ref":  "49e65480-0ab3-bead-8207-2da32c2e00ab",
+        "codeName":  "ANVL_Lightning_F8C_Exec_Stealth",
+        "displayNameToken":  "@vehicle_NameANVL_Lightning_F8C_PYAM_Exec",
+        "displayName":  "F8C Lightning PYAM Exec",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Anvil Aerospace \\nFocus: Heavy Fighter\\n\\nAlways ready to improve upon near-perfection, Anvil has coordinated with the Chairman\u0027s Club to create this stunning work of flying art, the F8C Lighting Executive Edition. The hull has been beautifully accentuated with a unique premium livery, while in the cockpit you\u0027ll find sumptuous gold and metallic detailing, a fitting crown for this king of heavy fighters.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "49e65480-0ab3-bead-8207-2da32c2e00ab",
+                             "codeName":  "ANVL_Lightning_F8C_Exec_Stealth"
                          }
                      ]
     },
@@ -497147,6 +497247,56 @@
                      ]
     },
     {
+        "token":  "@vehicle_NameCRUS_Spirit_C1_Collector_Civilian",
+        "ref":  "8c23e3f9-b2e6-42a6-92ab-e023f1e0c643",
+        "codeName":  "CRUS_Spirit_C1_Civilian",
+        "displayNameToken":  "@vehicle_NameCRUS_Spirit_C1_Collector_Civilian",
+        "displayName":  "Crusader C1 Spirit Wikelo Special",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Crusader Industries\\nFocus: Light Freight\\n\\nCrusader Industries brings its usual commitment to excellence directly to the civilian market with the C1 Spirit, a mid-size multi-purpose starship built for cargo transport and delivery but packing enough versatility to tackle multiple roles and unpredictable jobs.\\n\\nWikelo here. Made useful modifications to make much more impressive.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "8c23e3f9-b2e6-42a6-92ab-e023f1e0c643",
+                             "codeName":  "CRUS_Spirit_C1_Civilian"
+                         }
+                     ]
+    },
+    {
         "token":  "@vehicle_NameCRUS_Star_Runner",
         "ref":  "c8e10f09-38a0-4730-9dd3-eb0a510c9e43",
         "codeName":  "CRUS_Star_Runner",
@@ -498057,6 +498207,56 @@
                      ]
     },
     {
+        "token":  "@vehicle_NameDRAK_Corsair_PYAM_Exec",
+        "ref":  "4da0c1b0-cc77-86e4-93d5-759a2e6f7581",
+        "codeName":  "DRAK_Corsair_Exec_Military",
+        "displayNameToken":  "@vehicle_NameDRAK_Corsair_PYAM_Exec",
+        "displayName":  "Corsair PYAM Exec",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Drake Interplanetary\\nFocus: Expedition\\n\\nHeed the call of uncharted space and harness the spirit of exploration with the Drake Corsair. Utilizing a unique asymmetrical hull design, this versatile explorer can go wherever the winds of adventure may steer you. This variant features an exclusive livery and loadout for the ship.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "4da0c1b0-cc77-86e4-93d5-759a2e6f7581",
+                             "codeName":  "DRAK_Corsair_Exec_Military"
+                         }
+                     ]
+    },
+    {
         "token":  "@vehicle_NameDRAK_Cutlass_Black",
         "ref":  "b58f7735-9454-4a0a-b724-2bc8d61961d7",
         "codeName":  "DRAK_Cutlass_Black",
@@ -498103,6 +498303,56 @@
                              "domain":  "Vehicle",
                              "ref":  "b58f7735-9454-4a0a-b724-2bc8d61961d7",
                              "codeName":  "DRAK_Cutlass_Black"
+                         }
+                     ]
+    },
+    {
+        "token":  "@vehicle_NameDRAK_Cutlass_Black_PYAM_Exec",
+        "ref":  "4484a044-bbd5-e716-736a-2dda30a3efa4",
+        "codeName":  "DRAK_Cutlass_Black_Exec_Stealth",
+        "displayNameToken":  "@vehicle_NameDRAK_Cutlass_Black_PYAM_Exec",
+        "displayName":  "Cutlass Black PYAM Exec",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Drake Interplanetary\\nFocus: Light Freight / Medium Fighter\\n\\nDrake Interplanetary claims that the Cutlass Black is a low-cost, easy-to-maintain solution for local in-system militia units. The larger-than-average cargo hold, RIO seat and dedicated tractor mount are, the company literature insists, for facilitating search and rescue operations. This variant features an exclusive livery and loadout for the ship.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "4484a044-bbd5-e716-736a-2dda30a3efa4",
+                             "codeName":  "DRAK_Cutlass_Black_Exec_Stealth"
                          }
                      ]
     },
@@ -499658,6 +499908,56 @@
                              "domain":  "Vehicle",
                              "ref":  "11ebc47d-4763-4faa-9020-171cf6c2651f",
                              "codeName":  "GAMA_Syulen"
+                         }
+                     ]
+    },
+    {
+        "token":  "@vehicle_NameGAMA_Syulen_PYAM_Exec",
+        "ref":  "40e7a0a7-4a31-a952-fd27-5eadd534a2ae",
+        "codeName":  "GAMA_Syulen_Exec_Stealth",
+        "displayNameToken":  "@vehicle_NameGAMA_Syulen_PYAM_Exec",
+        "displayName":  "Syulen PYAM Exec",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Gatac Manufacture\\nFocus: Starter / Pathfinder\\n\\nThe Syulen cargo vessel has been artfully crafted by the renowned House Gatac to be well suited for both Human and Xi’an pilots. With a refined agile frame, the Syulen lends itself to ferrying important deliveries across the universe. This special variant features an exclusive livery and loadout for the ship.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "40e7a0a7-4a31-a952-fd27-5eadd534a2ae",
+                             "codeName":  "GAMA_Syulen_Exec_Stealth"
                          }
                      ]
     },
@@ -502312,6 +502612,56 @@
                      ]
     },
     {
+        "token":  "@vehicle_NameMRAI_Guardian_QI",
+        "ref":  "e98521b6-ea2f-4c10-9050-abc29d89d0e8",
+        "codeName":  "MRAI_Guardian_QI",
+        "displayNameToken":  "@vehicle_NameMRAI_Guardian_QI",
+        "displayName":  "Mirai Guardian QI",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Mirai\\nFocus: Heavy Fighter\\n\\nTaking the adage that the best defense is a good offense, Mirai engineers have brought their expertise in performance and maneuverability to the Guardian long range fighter.  Fly circles around your opponents with the Mirai Guardian while establishing your space superiority. ",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "e98521b6-ea2f-4c10-9050-abc29d89d0e8",
+                             "codeName":  "MRAI_Guardian_QI"
+                         }
+                     ]
+    },
+    {
         "token":  "@vehicle_NameMRAI_Pulse",
         "ref":  "48415834-ac12-4c28-ad01-7c210f30c2da",
         "codeName":  "MRAI_Pulse",
@@ -503467,6 +503817,56 @@
                      ]
     },
     {
+        "token":  "@vehicle_NameRSI_Apollo_Triage_Collector_Stealth",
+        "ref":  "752f2ea8-159a-4a58-b4af-fd79054b3e2f",
+        "codeName":  "RSI_Apollo_Triage_Collector_Stealth",
+        "displayNameToken":  "@vehicle_NameRSI_Apollo_Triage_Collector_Stealth",
+        "displayName":  "RSI Apollo Triage Wikelo Sneak Special",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: RSI\\nFocus: Medical\\n\\nThe legendary Apollo Triage from Roberts Space Industries is the gold standard in medevac and rapid emergency response vehicles. Updated to support regeneration technology, the Apollo has a long history providing critical aid to the Empire and beyond for well over two centuries.\\n\\nWikelo here. Made useful modifications to make ship much tougher to see. Sneaky.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "752f2ea8-159a-4a58-b4af-fd79054b3e2f",
+                             "codeName":  "RSI_Apollo_Triage_Collector_Stealth"
+                         }
+                     ]
+    },
+    {
         "token":  "@vehicle_NameRSI_Aurora_CL",
         "ref":  "c984fac2-06c0-4776-8f93-07ebd2c26ad3",
         "codeName":  "RSI_Aurora_GS_CL",
@@ -504067,6 +504467,56 @@
                      ]
     },
     {
+        "token":  "@vehicle_NameRSI_Constellation_Phoenix_Emerald",
+        "ref":  "daf936a1-689f-4edb-980a-96947e2727c4",
+        "codeName":  "RSI_Constellation_Phoenix_Emerald",
+        "displayNameToken":  "@vehicle_NameRSI_Constellation_Phoenix_Emerald",
+        "displayName":  "RSI Constellation Phoenix Emerald",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: RSI \\nFocus: Luxury Touring\\n\\nWhether you are a discerning socialite or a freewheeling party animal, the Constellation Phoenix Emerald is your personal passport to entertainment. With a swank interior cabin designed specifically for revelry, and a limited edition \"lucky\" paint job, the Emerald is the perfect venue to sip a glass of Radegast Gold or throw back a green Sleeping Tiger Malt while hurtling luxuriously through the stars. Just be sure to bring a designated pilot.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "daf936a1-689f-4edb-980a-96947e2727c4",
+                             "codeName":  "RSI_Constellation_Phoenix_Emerald"
+                         }
+                     ]
+    },
+    {
         "token":  "@vehicle_NameRSI_Constellation_Taurus",
         "ref":  "d1c3fa10-b2d9-421e-8301-97dbf4d0c115",
         "codeName":  "RSI_Constellation_Taurus",
@@ -504563,6 +505013,56 @@
                              "domain":  "Vehicle",
                              "ref":  "a5a5b055-c5d7-4384-9951-f15d47b88789",
                              "codeName":  "RSI_Polaris"
+                         }
+                     ]
+    },
+    {
+        "token":  "@vehicle_NameRSI_Polaris_Collector_Military",
+        "ref":  "bc4aa5c5-2e9b-40d6-aa95-0757a763efff",
+        "codeName":  "RSI_Polaris_Collector_Military",
+        "displayNameToken":  "@vehicle_NameRSI_Polaris_Collector_Military",
+        "displayName":  "RSI Polaris Wikelo Special",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Roberts Space Industries\\nFocus: Corvette\\n\\nThe Polaris is a nimble corvette-class capital ship that packs a powerful punch with a full armament of turrets and torpedoes. Intended for use as both a naval patrol ship and to serve as the flagship of militia operations, Polaris has the capacity to perform search and rescue operations, light strike missions and general security patrols. The Polaris includes the facilities to repair, rearm and refuel a single fighter, light bomber or support ship.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "bc4aa5c5-2e9b-40d6-aa95-0757a763efff",
+                             "codeName":  "RSI_Polaris_Collector_Military"
                          }
                      ]
     },
@@ -505613,6 +506113,56 @@
                              "domain":  "Vehicle",
                              "ref":  "28f22bb8-9f1c-4a46-9a39-20bcb1e5000e",
                              "codeName":  "VNCL_Scythe"
+                         }
+                     ]
+    },
+    {
+        "token":  "@vehicle_NameVNCL_Stinger",
+        "ref":  "57ed2a9b-adbf-4042-a0fd-de26ca6c8ea3",
+        "codeName":  "VNCL_Stinger_PU_AI_VAN",
+        "displayNameToken":  "@vehicle_NameVNCL_Stinger",
+        "displayName":  "Vanduul Stinger",
+        "primaryDomain":  "Vehicle",
+        "description":  "Manufacturer: Vanduul Clans\\nFocus: Light Fighter\\n\\nThese light fighters, designation \u0027Blade\u0027, are often used by Vanduul as scouts and first wave assault crafts. They have also served well as skirmisher units due to their speed allowing them to chase down any ships attempting to flee the area. For some decades, United Empire of Earth aggressor squadrons have operated replica Blade fighters produced under exclusive contract by Esperia, Inc.",
+        "commodityTypeKey":  null,
+        "commodityType":  null,
+        "isRaw":  false,
+        "isPure":  false,
+        "isMineable":  false,
+        "isHarvestable":  false,
+        "isSalvageable":  false,
+        "isExplosive":  false,
+        "isVolatileInQuantum":  false,
+        "isRefinable":  false,
+        "refinedVersionRef":  null,
+        "refinesIntoRef":  null,
+        "refinesIntoName":  null,
+        "salvageRefinesIntoRef":  null,
+        "salvageRefinesIntoName":  null,
+        "miningType":  null,
+        "miningElementResourceRef":  null,
+        "illegalInJurisdictionRefs":  [
+
+                                      ],
+        "illegalInJurisdictions":  [
+
+                                   ],
+        "densityGcm3":  null,
+        "leafGroupRef":  null,
+        "leafGroupCodeName":  null,
+        "leafGroupName":  null,
+        "topLevelGroupRef":  null,
+        "topLevelGroupCodeName":  null,
+        "topLevelGroupName":  null,
+        "availableCargoSizes":  [
+
+                                ],
+        "defaultCargoContainerRefs":  null,
+        "entities":  [
+                         {
+                             "domain":  "Vehicle",
+                             "ref":  "57ed2a9b-adbf-4042-a0fd-de26ca6c8ea3",
+                             "codeName":  "VNCL_Stinger_PU_AI_VAN"
                          }
                      ]
     },
