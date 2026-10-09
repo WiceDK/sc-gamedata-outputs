@@ -45,12 +45,12 @@
         "materialQualityRarity":  null,
         "materialQualityDefaultQuality":  null,
         "materialQualityTemplateBands":  false,
-        "materialQualityBands":  {
+        "materialQualityBands":  [
 
-                                 },
-        "materialQualityDistributions":  {
+                                 ],
+        "materialQualityDistributions":  [
 
-                                         }
+                                         ]
     },
     {
         "ref":  "d61d6c33-e428-4014-9326-0b06034de16a",
@@ -1031,14 +1031,16 @@
                                          "value":  1000
                                      }
                                  ],
-        "materialQualityDistributions":  {
-                                             "context":  "default",
-                                             "locationRef":  null,
-                                             "min":  501,
-                                             "max":  1000,
-                                             "mean":  500,
-                                             "stddev":  143
-                                         }
+        "materialQualityDistributions":  [
+                                             {
+                                                 "context":  "default",
+                                                 "locationRef":  null,
+                                                 "min":  501,
+                                                 "max":  1000,
+                                                 "mean":  500,
+                                                 "stddev":  143
+                                             }
+                                         ]
     },
     {
         "ref":  "07f6158a-6494-4b7c-9dd0-bbaab7362137",
@@ -1267,14 +1269,16 @@
                                          "value":  1000
                                      }
                                  ],
-        "materialQualityDistributions":  {
-                                             "context":  "default",
-                                             "locationRef":  null,
-                                             "min":  501,
-                                             "max":  1000,
-                                             "mean":  203,
-                                             "stddev":  270
-                                         }
+        "materialQualityDistributions":  [
+                                             {
+                                                 "context":  "default",
+                                                 "locationRef":  null,
+                                                 "min":  501,
+                                                 "max":  1000,
+                                                 "mean":  203,
+                                                 "stddev":  270
+                                             }
+                                         ]
     },
     {
         "ref":  "c793af1c-7dab-457e-a74d-88c435c9708b",
@@ -1372,14 +1376,16 @@
                                          "value":  1000
                                      }
                                  ],
-        "materialQualityDistributions":  {
-                                             "context":  "default",
-                                             "locationRef":  null,
-                                             "min":  501,
-                                             "max":  1000,
-                                             "mean":  203,
-                                             "stddev":  270
-                                         }
+        "materialQualityDistributions":  [
+                                             {
+                                                 "context":  "default",
+                                                 "locationRef":  null,
+                                                 "min":  501,
+                                                 "max":  1000,
+                                                 "mean":  203,
+                                                 "stddev":  270
+                                             }
+                                         ]
     },
     {
         "ref":  "60d46a41-5930-4a13-9c72-bd988192d3a1",
@@ -1477,14 +1483,16 @@
                                          "value":  1000
                                      }
                                  ],
-        "materialQualityDistributions":  {
-                                             "context":  "default",
-                                             "locationRef":  null,
-                                             "min":  501,
-                                             "max":  1000,
-                                             "mean":  203,
-                                             "stddev":  270
-                                         }
+        "materialQualityDistributions":  [
+                                             {
+                                                 "context":  "default",
+                                                 "locationRef":  null,
+                                                 "min":  501,
+                                                 "max":  1000,
+                                                 "mean":  203,
+                                                 "stddev":  270
+                                             }
+                                         ]
     },
     {
         "ref":  "ee12edc1-a2c3-4202-909d-9b729a050a3f",
@@ -1831,14 +1839,16 @@
                                          "value":  1000
                                      }
                                  ],
-        "materialQualityDistributions":  {
-                                             "context":  "default",
-                                             "locationRef":  null,
-                                             "min":  501,
-                                             "max":  1000,
-                                             "mean":  500,
-                                             "stddev":  143
-                                         }
+        "materialQualityDistributions":  [
+                                             {
+                                                 "context":  "default",
+                                                 "locationRef":  null,
+                                                 "min":  501,
+                                                 "max":  1000,
+                                                 "mean":  500,
+                                                 "stddev":  143
+                                             }
+                                         ]
     },
     {
         "ref":  "c2a1ab26-6b2a-4258-8bae-b32cf08818bc",
@@ -4043,14 +4053,16 @@
                                          "value":  1000
                                      }
                                  ],
-        "materialQualityDistributions":  {
-                                             "context":  "default",
-                                             "locationRef":  null,
-                                             "min":  201,
-                                             "max":  1000,
-                                             "mean":  201,
-                                             "stddev":  298
-                                         }
+        "materialQualityDistributions":  [
+                                             {
+                                                 "context":  "default",
+                                                 "locationRef":  null,
+                                                 "min":  201,
+                                                 "max":  1000,
+                                                 "mean":  201,
+                                                 "stddev":  298
+                                             }
+                                         ]
     },
     {
         "ref":  "8bb75cd2-f59d-40a5-9077-55089c1626c4",
