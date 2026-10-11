@@ -1039,6 +1039,14 @@
                                                  "max":  1000,
                                                  "mean":  500,
                                                  "stddev":  143
+                                             },
+                                             {
+                                                 "context":  "pyro",
+                                                 "locationRef":  "286cb603-b4ae-4279-80a1-d4505fee1916",
+                                                 "min":  501,
+                                                 "max":  1000,
+                                                 "mean":  500,
+                                                 "stddev":  214
                                              }
                                          ]
     },
