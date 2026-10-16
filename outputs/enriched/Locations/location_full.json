@@ -24450,23 +24450,33 @@
         "isScannable":  false,
         "blockTravel":  false,
         "missionSelectable":  null,
-        "pathTypeHint":  null,
+        "pathTypeHint":  "asteroidbelt",
         "rawNameToken":  "@generic_locations_blank",
         "rawDescriptionToken":  "@asteroidfield_desc_Shared",
-        "resolvedName":  "",
+        "resolvedName":  "Glaciem Ring",
         "designation":  null,
         "resolvedDescription":  "A registered asteroid cluster. All rights reserved. Unless otherwise indicated, all mined materials found here are the property of the claim holder.",
         "amenityRefs":  [
 
                         ],
-        "parent":  null,
-        "parent_id":  null,
-        "parent_name":  null,
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
         "childRefs":  [
 
                       ],
         "ancestors":  [
-
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
                       ],
         "resolvedReferences":  [
                                    {
@@ -24477,14 +24487,30 @@
                                        "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
                                        "targetNameToken":  "Asteroid",
                                        "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "ObjectContainerChild",
+                                       "sourceAttribute":  "ancestorStarMapRecord",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
                                    }
                                ],
         "quantumTravel":  null,
         "jurisdictionRef":  null,
-        "systemRef":  null,
-        "systemName":  null,
-        "system_id":  null,
-        "system_name":  null
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx",
+        "nameSource":  "owner-approved-exception:starmap-record-and-folder:GlaciemRing",
+        "beltObjectContainerPaths":  [
+                                         "Data/objectcontainers/pu/system/nyx/glaciemring/glaciem_gascloud_gen.socpak",
+                                         "Data/ObjectContainers/PU/system/nyx/glaciemRing/glaciemring_segment_delemar.socpak",
+                                         "Data/ObjectContainers/PU/system/nyx/glaciemRing/glaciemring_segment_rckcrk_001.socpak",
+                                         "Data/objectcontainers/pu/system/nyx/glaciemring/glaciemring_segment_wtn_001.socpak"
+                                     ]
     },
     {
         "ref":  "71a74381-0078-493a-84bb-03eb82e88a12",
@@ -26038,23 +26064,33 @@
         "isScannable":  false,
         "blockTravel":  false,
         "missionSelectable":  null,
-        "pathTypeHint":  null,
+        "pathTypeHint":  "asteroidbelt",
         "rawNameToken":  "@generic_locations_blank",
         "rawDescriptionToken":  "@asteroidfield_desc_Shared",
-        "resolvedName":  "",
+        "resolvedName":  "Keeger Belt",
         "designation":  null,
         "resolvedDescription":  "A registered asteroid cluster. All rights reserved. Unless otherwise indicated, all mined materials found here are the property of the claim holder.",
         "amenityRefs":  [
 
                         ],
-        "parent":  null,
-        "parent_id":  null,
-        "parent_name":  null,
+        "parent":  {
+                       "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                       "rawNameToken":  "@Nyx_Star",
+                       "resolvedName":  "Nyx",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                   },
+        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "parent_name":  "Nyx",
         "childRefs":  [
 
                       ],
         "ancestors":  [
-
+                          {
+                              "ref":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                              "rawNameToken":  "@Nyx_Star",
+                              "resolvedName":  "Nyx",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml"
+                          }
                       ],
         "resolvedReferences":  [
                                    {
@@ -26065,14 +26101,30 @@
                                        "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\starmapobjecttypes\\starmapobjecttype.e60452a5-b85c-4ab1-97e7-9cefb466f87b.xml",
                                        "targetNameToken":  "Asteroid",
                                        "targetName":  null
+                                   },
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "ObjectContainerChild",
+                                       "sourceAttribute":  "ancestorStarMapRecord",
+                                       "targetRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\nyx\\nyxstar.xml",
+                                       "targetNameToken":  "@Nyx_Star",
+                                       "targetName":  "Nyx"
                                    }
                                ],
         "quantumTravel":  null,
         "jurisdictionRef":  null,
-        "systemRef":  null,
-        "systemName":  null,
-        "system_id":  null,
-        "system_name":  null
+        "systemRef":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "systemName":  "Nyx",
+        "system_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
+        "system_name":  "Nyx",
+        "nameSource":  "owner-approved-exception:starmap-record-and-folder:KeegerBelt",
+        "beltObjectContainerPaths":  [
+                                         "Data/ObjectContainers/PU/system/nyx/keegerbelt/keeger_gascloud_gen.socpak",
+                                         "Data/objectcontainers/pu/system/nyx/keegerbelt/keeger_segment_mission_genrl_002.socpak",
+                                         "Data/objectcontainers/pu/system/nyx/keegerbelt/keeger_segment_rckcrk_001.socpak",
+                                         "Data/objectcontainers/pu/system/nyx/keegerbelt/keeger_segment_rckcrk_003.socpak"
+                                     ]
     },
     {
         "ref":  "57cbf576-4f78-401b-881d-7ff52f2666a8",
@@ -75204,6 +75256,7 @@
                           "1522ada7-820d-4eb3-a4e4-beca4ef28e5d",
                           "1535a9ec-4489-4077-a86a-c8ea95cc19cd",
                           "158f9aa2-1473-4969-849d-ddfbb2263ac3",
+                          "15be8bc1-cb5b-4a94-ba1c-742baf7c1f0b",
                           "15ef11f9-068e-4a18-9afe-74bd39bef926",
                           "1662aba5-c68d-4b28-ab39-045bb0748c8d",
                           "179a180c-f3ee-43c6-b137-a7a7e2983950",
@@ -75571,6 +75624,7 @@
                           "da02b79e-e497-4381-8cc8-a79893ae151f",
                           "dafcee2b-c264-4dd6-ae06-09965e232ad6",
                           "db12be2a-9953-44ae-ac66-23adc361665e",
+                          "db2883b7-5d6e-4eb2-9e00-4f86e8e49447",
                           "db2ebbe5-c942-498d-946c-b9b7fac3148f",
                           "dbb86831-ca9a-4f63-9dfc-b47c143586a0",
                           "dbda433c-82dc-4ba8-b2c2-ac673091e1c3",
@@ -131672,6 +131726,7 @@
                           "456abfb7-4fa0-4251-a6a9-1ccc44170b57",
                           "45b909df-7b0c-40c9-ab83-a7cd7d3a980f",
                           "4644d97d-9eb6-4cb5-9f44-ca52872e8aec",
+                          "495625f2-8a2c-e796-b2f9-31fb9d5d809b",
                           "54ab7b59-e808-43c4-9e5b-fbfaa03eb3d5",
                           "551af60b-7727-4936-acc7-763d25d7a1de",
                           "5905eecd-258a-4046-ad08-90571c41b03c",
@@ -131782,5 +131837,70 @@
         "systemName":  "Stanton",
         "system_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
         "system_name":  "Stanton"
+    },
+    {
+        "ref":  "495625f2-8a2c-e796-b2f9-31fb9d5d809b",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\ObjectContainers\\HarvestableProviders\\harvestable_provider_placements.json",
+        "sourceDataPath":  "Data/objectcontainers/pu/system/stanton/aaronhalo.socpak",
+        "rootElement":  null,
+        "sourceType":  "ObjectContainer",
+        "navIcon":  null,
+        "objectType":  null,
+        "markerIcon":  null,
+        "locationClass":  "unknown",
+        "respawnLocationType":  null,
+        "hideInStarmap":  null,
+        "isScannable":  null,
+        "blockTravel":  null,
+        "missionSelectable":  null,
+        "pathTypeHint":  "asteroidbelt",
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Aaron Halo",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+                       "rawNameToken":  "@StantonStar",
+                       "resolvedName":  "Stanton",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stantonstar\\starmapobject.stantonstar.xml"
+                   },
+        "parent_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+        "parent_name":  "Stanton",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+                              "rawNameToken":  "@StantonStar",
+                              "resolvedName":  "Stanton",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stantonstar\\starmapobject.stantonstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "ObjectContainerChild",
+                                       "sourceAttribute":  "ancestorStarMapRecord",
+                                       "targetRef":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stantonstar\\starmapobject.stantonstar.xml",
+                                       "targetNameToken":  "@StantonStar",
+                                       "targetName":  "Stanton"
+                                   }
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+        "systemName":  "Stanton",
+        "system_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+        "system_name":  "Stanton",
+        "nameSource":  "owner-approved-exception:container-entity-name:OOC_AaronHalo->AaronHalo",
+        "beltObjectContainerPaths":  [
+                                         "Data/objectcontainers/pu/system/stanton/aaronhalo.socpak"
+                                     ]
     }
 ]
