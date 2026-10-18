@@ -176,7 +176,7 @@
         "displayName":  "Efficiency",
         "unitFormat":  null,
         "unitLabel":  null,
-        "targetStat":  null,
+        "targetStat":  "salvage_modifier.extraction_efficiency",
         "higherIsBetter":  true
     },
     {
@@ -186,7 +186,7 @@
         "displayName":  "Radius",
         "unitFormat":  null,
         "unitLabel":  null,
-        "targetStat":  null,
+        "targetStat":  "salvage_modifier.radius_multiplier",
         "higherIsBetter":  true
     },
     {
@@ -196,7 +196,7 @@
         "displayName":  "Speed",
         "unitFormat":  null,
         "unitLabel":  null,
-        "targetStat":  null,
+        "targetStat":  "salvage_modifier.speed_multiplier",
         "higherIsBetter":  true
     },
     {
@@ -286,7 +286,7 @@
         "displayName":  "Max. Volume",
         "unitFormat":  "Rating",
         "unitLabel":  "Rating",
-        "targetStat":  null,
+        "targetStat":  "tractor.max_volume",
         "higherIsBetter":  true
     }
 ]
