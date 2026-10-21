@@ -25628,6 +25628,49 @@
         "system_name":  null
     },
     {
+        "ref":  "6d27f495-3891-4605-a21b-7c50abebdeba",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\events\\iasi_platform.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/events/iasi_platform.xml",
+        "rootElement":  "MissionLocationTemplate.IASI_Platform",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "objectType":  null,
+        "markerIcon":  null,
+        "locationClass":  "unknown",
+        "respawnLocationType":  null,
+        "hideInStarmap":  null,
+        "isScannable":  null,
+        "blockTravel":  null,
+        "missionSelectable":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Iasi_Location_Name",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "RSI Event Platform",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "fcce50e1-cc29-42ab-a060-584abbbd9717",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\floatingcluster\\stanton2\\floatingcluster_001_stanton2.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/floatingcluster/stanton2/floatingcluster_001_stanton2.xml",

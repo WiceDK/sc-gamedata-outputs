@@ -1,13 +1,13 @@
 ﻿{
-    "generatedAt":  "2026-10-19T17:50:46",
+    "generatedAt":  "2026-10-21T17:26:51",
     "mode":  "raw-first",
     "sourceRoots":  [
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap",
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations"
                     ],
     "rulesPath":  "src\\contracts\\normalization-rules-v2.json",
-    "records":  1581,
-    "missionRecords":  2088,
+    "records":  1644,
+    "missionRecords":  2089,
     "recordsWithPosition":  678,
     "positionsWithheldAmbiguous":  9,
     "beltGeometries":  [

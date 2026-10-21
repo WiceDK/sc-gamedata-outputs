@@ -128,6 +128,14 @@
         "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_delivery.svg"
     },
     {
+        "ref":  "43e9d858-82ce-495a-8f1f-8daaba9f4022",
+        "codeName":  "IASI",
+        "localizedName":  "RSI Discovery Event",
+        "nameSource":  "localization",
+        "rawToken":  "@iasi_Journal_Title",
+        "svgIconPath":  "UI/Textures/Vector/MobiGlas/App_ContractsManager/PU_mobiapp_icon_mission_priority.svg"
+    },
+    {
         "ref":  "0505e20d-d7d9-482e-ba79-875d3c3a03b2",
         "codeName":  "Investigation",
         "localizedName":  "Investigation",

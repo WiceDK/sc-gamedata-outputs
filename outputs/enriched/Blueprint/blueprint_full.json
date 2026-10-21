@@ -1,5 +1,113 @@
 ﻿[
     {
+        "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
+        "codeName":  "cool_aegs_s04_javelin_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
+        "outputItemRef":  "1f5be5de-b5ea-42c7-879f-289c4bf64f19",
+        "outputItemName":  null,
+        "outputItemType":  "Cooler",
+        "craftTimeMinutes":  19,
+        "inputs":  [
+                       {
+                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                           "resourceName":  "Stileron",
+                           "slotName":  "Shell",
+                           "slotIndex":  0,
+                           "quantitySCU":  5.25,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
+                                                        "propertyKey":  "health_maxhealth",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
+                           "resourceName":  "Pressurized Ice",
+                           "slotName":  "Coolant",
+                           "slotIndex":  1,
+                           "quantitySCU":  5.25,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "31e2f3b5-7fb3-41c2-b2d9-7a97adf9f7fe",
+                                                        "propertyKey":  "itemresource_coolantgeneration",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.85,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.15
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
+                           "resourceName":  "Borase",
+                           "slotName":  "Pump Impeller",
+                           "slotIndex":  2,
+                           "quantitySCU":  3.15,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "31e2f3b5-7fb3-41c2-b2d9-7a97adf9f7fe",
+                                                        "propertyKey":  "itemresource_coolantgeneration",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.95,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.05
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
         "ref":  "c0226b4d-3829-487c-8bf0-7d47f36ae867",
         "codeName":  "radr_rsi_s04_polaris",
         "blueprintType":  "crafting",
@@ -108,19 +216,19 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "3c10e4f9-a125-4171-acfc-b9b51c5b19e1",
-        "codeName":  "cool_aegs_s04_javelin_scitem",
+        "ref":  "d7f3ad24-fca7-4393-b026-f55675cfe820",
+        "codeName":  "cool_s04_cnou_pioneer",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "1f5be5de-b5ea-42c7-879f-289c4bf64f19",
+        "outputItemRef":  "3cf6753c-d69c-4980-a45e-724151407096",
         "outputItemName":  null,
-        "outputItemType":  "Cooler",
-        "craftTimeMinutes":  19,
+        "outputItemType":  null,
+        "craftTimeMinutes":  17,
         "inputs":  [
                        {
-                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                           "resourceName":  "Stileron",
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
                            "slotName":  "Shell",
                            "slotIndex":  0,
                            "quantitySCU":  5.25,
@@ -179,8 +287,8 @@
                                                 ]
                        },
                        {
-                           "resourceRef":  "33bff393-42f1-4f70-85a1-71e695ed2a5a",
-                           "resourceName":  "Borase",
+                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
+                           "resourceName":  "Agricium",
                            "slotName":  "Pump Impeller",
                            "slotIndex":  2,
                            "quantitySCU":  3.15,
@@ -324,164 +432,6 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "f4e2e342-a389-47c9-82be-f35824c570de",
-        "codeName":  "globalgenericdismantle",
-        "blueprintType":  "dismantle",
-        "category":  "globalgenericdismantle.xml",
-        "categoryRef":  null,
-        "outputItemRef":  null,
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  0.25,
-        "inputs":  [
-
-                   ],
-        "dismantleEfficiency":  0.5,
-        "dismantleBlacklist":  [
-                                   {
-                                       "ref":  "bde5a2c8-2ef4-46ac-9403-2fcb79e4016c",
-                                       "name":  "Quantainium"
-                                   },
-                                   {
-                                       "ref":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                                       "name":  "Stileron"
-                                   },
-                                   {
-                                       "ref":  "4a47cad8-0271-4048-b19b-d9b52521fc20",
-                                       "name":  "Savrilium"
-                                   },
-                                   {
-                                       "ref":  "392b4dca-449a-4d4d-8fef-beab024d9ee7",
-                                       "name":  "Lindinium"
-                                   },
-                                   {
-                                       "ref":  "86d00bd8-08f7-4231-b375-a609803fc46d",
-                                       "name":  "Riccite"
-                                   },
-                                   {
-                                       "ref":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
-                                       "name":  "Ouratite"
-                                   },
-                                   {
-                                       "ref":  "e954d75e-fb1e-487e-90a8-170f0284b502",
-                                       "name":  "Janalite"
-                                   },
-                                   {
-                                       "ref":  "ee704f52-8794-434d-bcd7-47fec365ffbd",
-                                       "name":  "Saldynium (Ore)"
-                                   }
-                               ],
-        "defaultCompositionQuality":  500
-    },
-    {
-        "ref":  "d7f3ad24-fca7-4393-b026-f55675cfe820",
-        "codeName":  "cool_s04_cnou_pioneer",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "3cf6753c-d69c-4980-a45e-724151407096",
-        "outputItemName":  null,
-        "outputItemType":  null,
-        "craftTimeMinutes":  17,
-        "inputs":  [
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Shell",
-                           "slotIndex":  0,
-                           "quantitySCU":  5.25,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
-                                                        "propertyKey":  "health_maxhealth",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "f9f3251a-8e48-408a-b957-f1e3d5d3e213",
-                           "resourceName":  "Pressurized Ice",
-                           "slotName":  "Coolant",
-                           "slotIndex":  1,
-                           "quantitySCU":  5.25,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "31e2f3b5-7fb3-41c2-b2d9-7a97adf9f7fe",
-                                                        "propertyKey":  "itemresource_coolantgeneration",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.85,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.15
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "dc6fbcbb-5990-4ed5-82ee-93152dab7845",
-                           "resourceName":  "Agricium",
-                           "slotName":  "Pump Impeller",
-                           "slotIndex":  2,
-                           "quantitySCU":  3.15,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "31e2f3b5-7fb3-41c2-b2d9-7a97adf9f7fe",
-                                                        "propertyKey":  "itemresource_coolantgeneration",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.95,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.05
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ],
-        "defaultCompositionQuality":  null
-    },
-    {
         "ref":  "8a4f43a8-5f3d-4557-9756-01e1e77fbc2c",
         "codeName":  "radr_gnrp_s03_idris_temp",
         "blueprintType":  "crafting",
@@ -588,6 +538,56 @@
 
                                ],
         "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "f4e2e342-a389-47c9-82be-f35824c570de",
+        "codeName":  "globalgenericdismantle",
+        "blueprintType":  "dismantle",
+        "category":  "globalgenericdismantle.xml",
+        "categoryRef":  null,
+        "outputItemRef":  null,
+        "outputItemName":  null,
+        "outputItemType":  null,
+        "craftTimeMinutes":  0.25,
+        "inputs":  [
+
+                   ],
+        "dismantleEfficiency":  0.5,
+        "dismantleBlacklist":  [
+                                   {
+                                       "ref":  "bde5a2c8-2ef4-46ac-9403-2fcb79e4016c",
+                                       "name":  "Quantainium"
+                                   },
+                                   {
+                                       "ref":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                                       "name":  "Stileron"
+                                   },
+                                   {
+                                       "ref":  "4a47cad8-0271-4048-b19b-d9b52521fc20",
+                                       "name":  "Savrilium"
+                                   },
+                                   {
+                                       "ref":  "392b4dca-449a-4d4d-8fef-beab024d9ee7",
+                                       "name":  "Lindinium"
+                                   },
+                                   {
+                                       "ref":  "86d00bd8-08f7-4231-b375-a609803fc46d",
+                                       "name":  "Riccite"
+                                   },
+                                   {
+                                       "ref":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                                       "name":  "Ouratite"
+                                   },
+                                   {
+                                       "ref":  "e954d75e-fb1e-487e-90a8-170f0284b502",
+                                       "name":  "Janalite"
+                                   },
+                                   {
+                                       "ref":  "ee704f52-8794-434d-bcd7-47fec365ffbd",
+                                       "name":  "Saldynium (Ore)"
+                                   }
+                               ],
+        "defaultCompositionQuality":  500
     },
     {
         "ref":  "b04aff42-d892-4ca9-991e-101c869a7caa",
@@ -10329,97 +10329,6 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "cdd236fa-56b9-4913-90cf-be7f4e6ca5a7",
-        "codeName":  "qrt_specialist_heavy_arms_01_01_13",
-        "blueprintType":  "crafting",
-        "category":  "fpsgear",
-        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "572a21b6-4c39-4311-89af-93bbfefbef6a",
-        "outputItemName":  "Antium Arms Maroon",
-        "outputItemType":  "Char_Armor_Arms",
-        "craftTimeMinutes":  4.5,
-        "inputs":  [
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Protective Sheathing",
-                           "slotIndex":  0,
-                           "quantitySCU":  0.06,
-                           "quantityUnit":  "scu",
-                           "minQuality":  0,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
-                                                        "propertyKey":  "armor_damagemitigation",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  0.9,
-                                                                           "valueAtEnd":  1.1
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
-                           "resourceName":  "Aslarite",
-                           "slotName":  "Insulative Liner",
-                           "slotIndex":  1,
-                           "quantitySCU":  0.02,
-                           "quantityUnit":  "scu",
-                           "minQuality":  0,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
-                                                        "propertyKey":  "armor_temperaturemax",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    },
-                                                    {
-                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
-                                                        "propertyKey":  "armor_temperaturemin",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
-                           "resourceName":  "Stileron",
-                           "slotName":  "Sheathing Coating",
-                           "slotIndex":  2,
-                           "quantitySCU":  0.06,
-                           "quantityUnit":  "scu",
-                           "minQuality":  0,
-                           "qualityModifiers":  [
-
-                                                ]
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ],
-        "defaultCompositionQuality":  null
-    },
-    {
         "ref":  "f087d95a-0dcd-4c37-ac70-4d4d8c866dca",
         "codeName":  "qrt_specialist_heavy_arms_01_03_01",
         "blueprintType":  "crafting",
@@ -10952,6 +10861,97 @@
                            "slotName":  "Sheathing Coating",
                            "slotIndex":  2,
                            "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
+        "codeName":  "qrt_specialist_heavy_helmet_01_01_12",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "4ddd8283-1b5c-422b-825d-5dee1e776fcf",
+        "outputItemName":  "Antium Core Jet",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMinutes":  4.5,
+        "inputs":  [
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Protective Sheathing",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.05,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.01,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "8cd317a3-df9b-4315-8ac3-0f1fca42dfd4",
+                           "resourceName":  "Stileron",
+                           "slotName":  "Sheathing Coating",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.05,
                            "quantityUnit":  "scu",
                            "minQuality":  0,
                            "qualityModifiers":  [
@@ -11512,14 +11512,14 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "2487dc3a-6a2e-4071-a165-f140d0c8b20d",
-        "codeName":  "qrt_specialist_heavy_helmet_01_01_12",
+        "ref":  "cdd236fa-56b9-4913-90cf-be7f4e6ca5a7",
+        "codeName":  "qrt_specialist_heavy_arms_01_01_13",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "4ddd8283-1b5c-422b-825d-5dee1e776fcf",
+        "outputItemRef":  "572a21b6-4c39-4311-89af-93bbfefbef6a",
         "outputItemName":  "Antium Helmet Jet",
-        "outputItemType":  "Char_Armor_Helmet",
+        "outputItemType":  "Char_Armor_Arms",
         "craftTimeMinutes":  4.5,
         "inputs":  [
                        {
@@ -11527,7 +11527,7 @@
                            "resourceName":  "Tungsten",
                            "slotName":  "Protective Sheathing",
                            "slotIndex":  0,
-                           "quantitySCU":  0.05,
+                           "quantitySCU":  0.06,
                            "quantityUnit":  "scu",
                            "minQuality":  0,
                            "qualityModifiers":  [
@@ -11551,7 +11551,7 @@
                            "resourceName":  "Aslarite",
                            "slotName":  "Insulative Liner",
                            "slotIndex":  1,
-                           "quantitySCU":  0.01,
+                           "quantitySCU":  0.02,
                            "quantityUnit":  "scu",
                            "minQuality":  0,
                            "qualityModifiers":  [
@@ -11588,7 +11588,7 @@
                            "resourceName":  "Stileron",
                            "slotName":  "Sheathing Coating",
                            "slotIndex":  2,
-                           "quantitySCU":  0.05,
+                           "quantitySCU":  0.06,
                            "quantityUnit":  "scu",
                            "minQuality":  0,
                            "qualityModifiers":  [
@@ -44453,6 +44453,138 @@
         "defaultCompositionQuality":  null
     },
     {
+        "ref":  "fa5951a5-5063-49c8-8f4c-a6b341801aea",
+        "codeName":  "powr_sasu_s02_daybreak_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
+        "outputItemRef":  "fda65886-0ccb-4a80-a5ee-528b186d4584",
+        "outputItemName":  "DayBreak",
+        "outputItemType":  "PowerPlant",
+        "craftTimeMinutes":  18,
+        "inputs":  [
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Shell",
+                           "slotIndex":  0,
+                           "quantitySCU":  1.22,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
+                                                        "propertyKey":  "health_maxhealth",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
+                           "resourceName":  "Silicon",
+                           "slotName":  "Voltage Regulator",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.5,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
+                                                        "propertyKey":  "itemresource_powergeneration",
+                                                        "kind":  "linear_integer_additive",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  249,
+                                                                           "valueAtStart":  -2,
+                                                                           "valueAtEnd":  -2
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  250,
+                                                                           "endQuality":  499,
+                                                                           "valueAtStart":  -1,
+                                                                           "valueAtEnd":  -1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  500,
+                                                                           "endQuality":  699,
+                                                                           "valueAtStart":  0,
+                                                                           "valueAtEnd":  0
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  700,
+                                                                           "endQuality":  899,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  900,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  2,
+                                                                           "valueAtEnd":  2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
+                           "resourceName":  "Silicon",
+                           "slotName":  "Stator Cores",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.85,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
+                                                        "propertyKey":  "itemresource_powergeneration",
+                                                        "kind":  "linear_integer_additive",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  399,
+                                                                           "valueAtStart":  -1,
+                                                                           "valueAtEnd":  -1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  400,
+                                                                           "endQuality":  899,
+                                                                           "valueAtStart":  0,
+                                                                           "valueAtEnd":  0
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  900,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
         "ref":  "fca087e5-c043-4638-99e8-3c0bd668ab89",
         "codeName":  "espr_ballisticcannon_s1",
         "blueprintType":  "crafting",
@@ -52030,12 +52162,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "e12a7921-95ad-493b-b972-e36198611d7e",
-        "codeName":  "slaver_armor_medium_legs_01_01_15",
+        "ref":  "6380ece6-3393-4900-b65c-dbb5404e63d2",
+        "codeName":  "slaver_armor_medium_legs_01_01_13",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "8a83964b-e892-41a5-be76-d362e06581d5",
+        "outputItemRef":  "aa61c64c-d016-4830-9b19-5e5e834bf543",
         "outputItemName":  "DustUp Legs Desert",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  3,
@@ -52109,12 +52241,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "6380ece6-3393-4900-b65c-dbb5404e63d2",
-        "codeName":  "slaver_armor_medium_legs_01_01_13",
+        "ref":  "e12a7921-95ad-493b-b972-e36198611d7e",
+        "codeName":  "slaver_armor_medium_legs_01_01_15",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "aa61c64c-d016-4830-9b19-5e5e834bf543",
+        "outputItemRef":  "8a83964b-e892-41a5-be76-d362e06581d5",
         "outputItemName":  "DustUp Legs Desert",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  3,
@@ -54175,6 +54307,161 @@
         "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
         "outputItemRef":  "4a98ac2d-1bd6-42c9-a2a4-e617a9ec120f",
         "outputItemName":  "F55 \"Scorched\" LMG",
+        "outputItemType":  "WeaponPersonal",
+        "craftTimeMinutes":  4,
+        "inputs":  [
+                       {
+                           "resourceRef":  "392b4dca-449a-4d4d-8fef-beab024d9ee7",
+                           "resourceName":  "Lindinium",
+                           "slotName":  "Frame",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "1156716c-b01e-4228-8136-7430be5bb9b8",
+                                                        "propertyKey":  "weapon_recoil_smoothness",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "037ea34c-e564-492e-b575-3e5aac5895e4",
+                                                        "propertyKey":  "weapon_recoil_handling",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "f68f87d6-1981-4c22-bed6-ce352922cb34",
+                                                        "propertyKey":  "weapon_recoil_kick",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "61189578-ed7a-4491-9774-37ae2f82b8b0",
+                           "resourceName":  "Hephaestanite",
+                           "slotName":  "Stock",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.04,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "1156716c-b01e-4228-8136-7430be5bb9b8",
+                                                        "propertyKey":  "weapon_recoil_smoothness",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "037ea34c-e564-492e-b575-3e5aac5895e4",
+                                                        "propertyKey":  "weapon_recoil_handling",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "f68f87d6-1981-4c22-bed6-ce352922cb34",
+                                                        "propertyKey":  "weapon_recoil_kick",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
+                           "resourceName":  "Iron",
+                           "slotName":  "Barrel",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.03,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "cfc129ce-488a-46f2-92f7-9272cd0cfdfb",
+                                                        "propertyKey":  "weapon_damage",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.925,
+                                                                           "valueAtEnd":  1.075
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "551b651c-8a34-438f-9d19-93fdffe56246",
+                                                        "propertyKey":  "weapon_firerate",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.88,
+                                                                           "valueAtEnd":  1.12
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "d5e951bf-f079-4dfb-9b95-39676059fdf1",
+        "codeName":  "gmni_lmg_ballistic_01_collector02",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "f9ccf95d-ad0e-4c33-97e0-e56c847a7e37",
+        "outputItemRef":  "ddb8eb6e-a55d-4846-90f3-5adda9ea8e9d",
+        "outputItemName":  "F55 \"Shadowflux\" LMG",
         "outputItemType":  "WeaponPersonal",
         "craftTimeMinutes":  4,
         "inputs":  [
@@ -57297,114 +57584,6 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "d0d47aec-82ae-4a0b-866c-df86f5fba6d3",
-        "codeName":  "qdrv_just_s01_goliath_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
-        "outputItemRef":  "dadc9318-d0f2-48c2-aad4-f2dd0c5f7fd3",
-        "outputItemName":  "FoxFire",
-        "outputItemType":  "QuantumDrive",
-        "craftTimeMinutes":  13,
-        "inputs":  [
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Case",
-                           "slotIndex":  0,
-                           "quantitySCU":  0.35,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
-                                                        "propertyKey":  "health_maxhealth",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
-                           "resourceName":  "Tungsten",
-                           "slotName":  "Injector Nozzles",
-                           "slotIndex":  1,
-                           "quantitySCU":  0.14,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "7ab22dc9-6687-41ab-aebd-4dd5486be458",
-                                                        "propertyKey":  "quantum_speed",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
-                           "resourceName":  "Laranite",
-                           "slotName":  "Containment Matrix",
-                           "slotIndex":  2,
-                           "quantitySCU":  0.14,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "de5beef5-91cb-49f1-b4f5-82f957dcd569",
-                                                        "propertyKey":  "quantum_fuelrequirement",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  1.2,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  0.8
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ],
-        "defaultCompositionQuality":  null
-    },
-    {
         "ref":  "db3f4c97-8d40-4b36-b397-452dea1594fc",
         "codeName":  "shld_godi_s01_fr66_scitem",
         "blueprintType":  "crafting",
@@ -60015,138 +60194,6 @@
     {
         "ref":  "8fe934b5-ac5a-448e-bc3c-cb22bd9cb3ab",
         "codeName":  "powr_lplt_s02_fullforce_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
-        "outputItemRef":  "dabd2d8d-c06c-4ebf-8791-192ace67ac33",
-        "outputItemName":  "FullForce",
-        "outputItemType":  "PowerPlant",
-        "craftTimeMinutes":  18,
-        "inputs":  [
-                       {
-                           "resourceRef":  "f386a33c-ac9a-400a-a7b8-fe1fc7c8d270",
-                           "resourceName":  "Iron",
-                           "slotName":  "Shell",
-                           "slotIndex":  0,
-                           "quantitySCU":  1.22,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
-                                                        "propertyKey":  "health_maxhealth",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
-                           "resourceName":  "Silicon",
-                           "slotName":  "Voltage Regulator",
-                           "slotIndex":  1,
-                           "quantitySCU":  0.5,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
-                                                        "propertyKey":  "itemresource_powergeneration",
-                                                        "kind":  "linear_integer_additive",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  249,
-                                                                           "valueAtStart":  -2,
-                                                                           "valueAtEnd":  -2
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  250,
-                                                                           "endQuality":  499,
-                                                                           "valueAtStart":  -1,
-                                                                           "valueAtEnd":  -1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  500,
-                                                                           "endQuality":  699,
-                                                                           "valueAtStart":  0,
-                                                                           "valueAtEnd":  0
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  700,
-                                                                           "endQuality":  899,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  900,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  2,
-                                                                           "valueAtEnd":  2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "7bbd3197-a6e1-49b3-a495-0b7ef4f8ce40",
-                           "resourceName":  "Silicon",
-                           "slotName":  "Stator Cores",
-                           "slotIndex":  2,
-                           "quantitySCU":  0.85,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
-                                                        "propertyKey":  "itemresource_powergeneration",
-                                                        "kind":  "linear_integer_additive",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  399,
-                                                                           "valueAtStart":  -1,
-                                                                           "valueAtEnd":  -1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  400,
-                                                                           "endQuality":  899,
-                                                                           "valueAtStart":  0,
-                                                                           "valueAtEnd":  0
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  900,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ],
-        "defaultCompositionQuality":  null
-    },
-    {
-        "ref":  "fa5951a5-5063-49c8-8f4c-a6b341801aea",
-        "codeName":  "powr_sasu_s02_daybreak_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "43307205-e01b-4f70-a4d9-cec271b04498",
@@ -67119,8 +67166,8 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
-        "codeName":  "shld_rsi_s04_polaris_scitem",
+        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
+        "codeName":  "shld_orig_s04_890j_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
@@ -67227,8 +67274,8 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "5219ca75-c7e1-4c33-88ec-ab547cbc3613",
-        "codeName":  "shld_orig_s04_890j_scitem",
+        "ref":  "bb511044-6590-4e19-b077-a347cad104fa",
+        "codeName":  "shld_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
@@ -67355,6 +67402,114 @@
                            "minQuality":  800,
                            "qualityModifiers":  [
 
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "d0d47aec-82ae-4a0b-866c-df86f5fba6d3",
+        "codeName":  "qdrv_just_s01_goliath_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "7648457f-7f20-4f71-a10f-045ddcb65a31",
+        "outputItemRef":  "fc3fadaa-cd29-4ac5-a2f5-51d4988d3def",
+        "outputItemName":  "Goliath",
+        "outputItemType":  "QuantumDrive",
+        "craftTimeMinutes":  13,
+        "inputs":  [
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Case",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.35,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
+                                                        "propertyKey":  "health_maxhealth",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "60f116f4-c02a-45b2-9ded-333747795124",
+                           "resourceName":  "Tungsten",
+                           "slotName":  "Injector Nozzles",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.14,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "7ab22dc9-6687-41ab-aebd-4dd5486be458",
+                                                        "propertyKey":  "quantum_speed",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                           "resourceName":  "Laranite",
+                           "slotName":  "Containment Matrix",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.14,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "de5beef5-91cb-49f1-b4f5-82f957dcd569",
+                                                        "propertyKey":  "quantum_fuelrequirement",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  1.2,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  0.8
+                                                                       }
+                                                                   ]
+                                                    }
                                                 ]
                        }
                    ],
@@ -73675,12 +73830,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "9b7f9fc2-b766-44ff-861b-6fb1d7c6f63c",
-        "codeName":  "outlaw_legacy_armor_medium_core_01_01_21",
+        "ref":  "ad77c4ef-57da-469d-88f8-c4dcd5ed7e47",
+        "codeName":  "outlaw_legacy_armor_medium_core_01_01_20",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "9302d7d7-f9c0-469a-ac31-f2339b8f991a",
+        "outputItemRef":  "167623eb-929c-44a0-9005-2942fc69de7c",
         "outputItemName":  "Inquisitor Core Olive",
         "outputItemType":  "Char_Armor_Torso",
         "craftTimeMinutes":  3.17,
@@ -73766,12 +73921,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "ad77c4ef-57da-469d-88f8-c4dcd5ed7e47",
-        "codeName":  "outlaw_legacy_armor_medium_core_01_01_20",
+        "ref":  "9b7f9fc2-b766-44ff-861b-6fb1d7c6f63c",
+        "codeName":  "outlaw_legacy_armor_medium_core_01_01_21",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "167623eb-929c-44a0-9005-2942fc69de7c",
+        "outputItemRef":  "9302d7d7-f9c0-469a-ac31-f2339b8f991a",
         "outputItemName":  "Inquisitor Core Olive",
         "outputItemType":  "Char_Armor_Torso",
         "craftTimeMinutes":  3.17,
@@ -84711,126 +84866,6 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "61e2127b-3c60-4811-b1fb-0346c59e1f05",
-        "codeName":  "powr_aegs_s04_reclaimer_scitem",
-        "blueprintType":  "crafting",
-        "category":  "vehiclegear",
-        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "ae9cec5a-0917-441d-802b-3d96d79478cc",
-        "outputItemName":  "Main Powerplant",
-        "outputItemType":  "PowerPlant",
-        "craftTimeMinutes":  42,
-        "inputs":  [
-                       {
-                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
-                           "resourceName":  "Riccite",
-                           "slotName":  "Shell",
-                           "slotIndex":  0,
-                           "quantitySCU":  15,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
-                                                        "propertyKey":  "health_maxhealth",
-                                                        "kind":  "linear",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  500,
-                                                                           "valueAtStart":  0.8,
-                                                                           "valueAtEnd":  1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  501,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1.2
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
-                           "resourceName":  "Laranite",
-                           "slotName":  "Voltage Regulator",
-                           "slotIndex":  1,
-                           "quantitySCU":  6,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
-                                                        "propertyKey":  "itemresource_powergeneration",
-                                                        "kind":  "linear_integer_additive",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  399,
-                                                                           "valueAtStart":  -1,
-                                                                           "valueAtEnd":  -1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  400,
-                                                                           "endQuality":  899,
-                                                                           "valueAtStart":  0,
-                                                                           "valueAtEnd":  0
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  900,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       },
-                       {
-                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
-                           "resourceName":  "Riccite",
-                           "slotName":  "Stator Cores",
-                           "slotIndex":  2,
-                           "quantitySCU":  10.5,
-                           "quantityUnit":  "scu",
-                           "minQuality":  1,
-                           "qualityModifiers":  [
-                                                    {
-                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
-                                                        "propertyKey":  "itemresource_powergeneration",
-                                                        "kind":  "linear_integer_additive",
-                                                        "ranges":  [
-                                                                       {
-                                                                           "startQuality":  0,
-                                                                           "endQuality":  399,
-                                                                           "valueAtStart":  -1,
-                                                                           "valueAtEnd":  -1
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  400,
-                                                                           "endQuality":  899,
-                                                                           "valueAtStart":  0,
-                                                                           "valueAtEnd":  0
-                                                                       },
-                                                                       {
-                                                                           "startQuality":  900,
-                                                                           "endQuality":  1000,
-                                                                           "valueAtStart":  1,
-                                                                           "valueAtEnd":  1
-                                                                       }
-                                                                   ]
-                                                    }
-                                                ]
-                       }
-                   ],
-        "dismantleEfficiency":  null,
-        "dismantleBlacklist":  [
-
-                               ],
-        "defaultCompositionQuality":  null
-    },
-    {
         "ref":  "d5d935b0-4c87-4555-a171-382ff6a0b6ad",
         "codeName":  "powr_aegs_s04_idris_scitem",
         "blueprintType":  "crafting",
@@ -84910,6 +84945,126 @@
                        {
                            "resourceRef":  "4a47cad8-0271-4048-b19b-d9b52521fc20",
                            "resourceName":  "Savrilium",
+                           "slotName":  "Stator Cores",
+                           "slotIndex":  2,
+                           "quantitySCU":  10.5,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
+                                                        "propertyKey":  "itemresource_powergeneration",
+                                                        "kind":  "linear_integer_additive",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  399,
+                                                                           "valueAtStart":  -1,
+                                                                           "valueAtEnd":  -1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  400,
+                                                                           "endQuality":  899,
+                                                                           "valueAtStart":  0,
+                                                                           "valueAtEnd":  0
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  900,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "61e2127b-3c60-4811-b1fb-0346c59e1f05",
+        "codeName":  "powr_aegs_s04_reclaimer_scitem",
+        "blueprintType":  "crafting",
+        "category":  "vehiclegear",
+        "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
+        "outputItemRef":  "ae9cec5a-0917-441d-802b-3d96d79478cc",
+        "outputItemName":  "Main Powerplant",
+        "outputItemType":  "PowerPlant",
+        "craftTimeMinutes":  42,
+        "inputs":  [
+                       {
+                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
+                           "resourceName":  "Riccite",
+                           "slotName":  "Shell",
+                           "slotIndex":  0,
+                           "quantitySCU":  15,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "93a49e68-01cf-4d7e-b995-8224466a9982",
+                                                        "propertyKey":  "health_maxhealth",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  500,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  501,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "7f4599b0-a2b2-4178-8c7e-13292054ab20",
+                           "resourceName":  "Laranite",
+                           "slotName":  "Voltage Regulator",
+                           "slotIndex":  1,
+                           "quantitySCU":  6,
+                           "quantityUnit":  "scu",
+                           "minQuality":  1,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "d01a2751-f605-42a7-97b2-ce0b8322e172",
+                                                        "propertyKey":  "itemresource_powergeneration",
+                                                        "kind":  "linear_integer_additive",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  399,
+                                                                           "valueAtStart":  -1,
+                                                                           "valueAtEnd":  -1
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  400,
+                                                                           "endQuality":  899,
+                                                                           "valueAtStart":  0,
+                                                                           "valueAtEnd":  0
+                                                                       },
+                                                                       {
+                                                                           "startQuality":  900,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "86d00bd8-08f7-4231-b375-a609803fc46d",
+                           "resourceName":  "Riccite",
                            "slotName":  "Stator Cores",
                            "slotIndex":  2,
                            "quantitySCU":  10.5,
@@ -88709,6 +88864,770 @@
                            "slotName":  "Support Structure",
                            "slotIndex":  2,
                            "quantitySCU":  0.04,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "e0583206-e742-482e-9f11-da869ae2ac06",
+        "codeName":  "kap_combat_heavy_arms_01_01_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "cece6caa-9885-411a-a0df-da06ced8bb90",
+        "outputItemName":  "Monolith Armor Arms",
+        "outputItemType":  "Char_Armor_Arms",
+        "craftTimeMinutes":  4,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.85,
+                                                                           "valueAtEnd":  1.15
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.02,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "7985ff3c-ab96-4bed-8358-9de570b2c7cf",
+        "codeName":  "kap_combat_heavy_arms_01_04_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "b930194d-391e-48db-aa08-3b0e089e7273",
+        "outputItemName":  "Monolith Armor Arms Shadowflux",
+        "outputItemType":  "Char_Armor_Arms",
+        "craftTimeMinutes":  4,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.85,
+                                                                           "valueAtEnd":  1.15
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.02,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "09816997-514c-4dce-afb0-f663a1e5d922",
+        "codeName":  "kap_combat_heavy_core_01_01_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "b00197b9-3179-4bf7-8067-49f3199d8e3d",
+        "outputItemName":  "Monolith Armor Core",
+        "outputItemType":  "Char_Armor_Torso",
+        "craftTimeMinutes":  4.17,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.07,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.02,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  500,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  500,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.07,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "4d28a0a6-4626-457e-b4f6-171dab12cdac",
+        "codeName":  "kap_combat_heavy_core_01_04_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "3c7c48f2-0c4c-4b1f-9a6c-4f340dee6017",
+        "outputItemName":  "Monolith Armor Core Shadowflux",
+        "outputItemType":  "Char_Armor_Torso",
+        "craftTimeMinutes":  4.17,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.07,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.02,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  500,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  500,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  1,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.07,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "eee81318-049f-4c08-912d-ef940b7e3ca9",
+        "codeName":  "kap_combat_heavy_legs_01_01_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "ba065183-57e1-451e-a2c1-dcc248be6293",
+        "outputItemName":  "Monolith Armor Legs",
+        "outputItemType":  "Char_Armor_Legs",
+        "craftTimeMinutes":  4.17,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.02,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "b0183159-9bf0-4b53-8bc0-643a258a7032",
+        "codeName":  "kap_combat_heavy_legs_01_04_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "736a7125-d45d-4c54-8daf-aacad83fb021",
+        "outputItemName":  "Monolith Armor Legs Shadowflux",
+        "outputItemType":  "Char_Armor_Legs",
+        "craftTimeMinutes":  4.17,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.02,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "12c76130-5690-4a84-8e75-e8938e482e55",
+        "codeName":  "kap_combat_heavy_backpack_01_01_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "5a57e015-d77c-4741-b364-d2488d190fc3",
+        "outputItemName":  "Monolith Backpack",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMinutes":  1.75,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Frame",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "16c6b960-827d-45e9-9967-ad07982d7ad4",
+        "codeName":  "kap_combat_heavy_backpack_01_04_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "20656be4-506f-4e4c-8db7-a813a9fd757d",
+        "outputItemName":  "Monolith Backpack Shadowflux",
+        "outputItemType":  "Char_Armor_Backpack",
+        "craftTimeMinutes":  1.75,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Frame",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.06,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "108b503e-8b7a-4994-98fe-fd2d65e46e3c",
+        "codeName":  "kap_combat_heavy_helmet_01_01_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "d9071899-894f-4515-b439-d7dad8e1777a",
+        "outputItemName":  "Monolith Helmet",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMinutes":  4.17,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.05,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.01,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.05,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+
+                                                ]
+                       }
+                   ],
+        "dismantleEfficiency":  null,
+        "dismantleBlacklist":  [
+
+                               ],
+        "defaultCompositionQuality":  null
+    },
+    {
+        "ref":  "129eaa5c-b5a5-4ce6-809f-c90949178625",
+        "codeName":  "kap_combat_heavy_helmet_01_04_01",
+        "blueprintType":  "crafting",
+        "category":  "fpsgear",
+        "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
+        "outputItemRef":  "9d2f06d6-44c7-49d9-a4d6-ee74bfcd299f",
+        "outputItemName":  "Monolith Helmet Shadowflux",
+        "outputItemType":  "Char_Armor_Helmet",
+        "craftTimeMinutes":  4.17,
+        "inputs":  [
+                       {
+                           "resourceRef":  "989f9b73-f636-4f35-a81d-579dcbe3f0ab",
+                           "resourceName":  "Ouratite",
+                           "slotName":  "Armored Carapace",
+                           "slotIndex":  0,
+                           "quantitySCU":  0.05,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "804e9acc-c3a5-4787-b2b1-c898e5198f92",
+                                                        "propertyKey":  "armor_damagemitigation",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.9,
+                                                                           "valueAtEnd":  1.1
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "fde0cd65-8827-4b23-804d-cc8845dfa7ac",
+                           "resourceName":  "Aslarite",
+                           "slotName":  "Insulative Liner",
+                           "slotIndex":  1,
+                           "quantitySCU":  0.01,
+                           "quantityUnit":  "scu",
+                           "minQuality":  0,
+                           "qualityModifiers":  [
+                                                    {
+                                                        "ref":  "69143912-ee80-43e9-8862-e1745f0f0b9f",
+                                                        "propertyKey":  "armor_temperaturemin",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    },
+                                                    {
+                                                        "ref":  "6c186289-6db8-4820-a367-5292f4ea1c61",
+                                                        "propertyKey":  "armor_temperaturemax",
+                                                        "kind":  "linear",
+                                                        "ranges":  [
+                                                                       {
+                                                                           "startQuality":  0,
+                                                                           "endQuality":  1000,
+                                                                           "valueAtStart":  0.8,
+                                                                           "valueAtEnd":  1.2
+                                                                       }
+                                                                   ]
+                                                    }
+                                                ]
+                       },
+                       {
+                           "resourceRef":  "07570c9f-fdf6-4bca-a56b-c42809ec0e01",
+                           "resourceName":  "Titanium",
+                           "slotName":  "Support Structure",
+                           "slotIndex":  2,
+                           "quantitySCU":  0.05,
                            "quantityUnit":  "scu",
                            "minQuality":  0,
                            "qualityModifiers":  [
@@ -124910,12 +125829,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "93d6786c-83fa-4d42-8c7b-87c87adb2b13",
-        "codeName":  "cool_orig_s04_890j_scitem",
+        "ref":  "fd3b2ad5-e25f-4a51-b9c3-aaa4da9db252",
+        "codeName":  "cool_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "18600693-df8b-4898-a9a6-e91291e69dd4",
+        "outputItemRef":  "d0b4ce5b-c8ba-4a9f-90b1-c9567a6c90e9",
         "outputItemName":  "Serac",
         "outputItemType":  "Cooler",
         "craftTimeMinutes":  17,
@@ -125018,12 +125937,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "fd3b2ad5-e25f-4a51-b9c3-aaa4da9db252",
-        "codeName":  "cool_rsi_s04_polaris_scitem",
+        "ref":  "93d6786c-83fa-4d42-8c7b-87c87adb2b13",
+        "codeName":  "cool_orig_s04_890j_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "d0b4ce5b-c8ba-4a9f-90b1-c9567a6c90e9",
+        "outputItemRef":  "18600693-df8b-4898-a9a6-e91291e69dd4",
         "outputItemName":  "Serac",
         "outputItemType":  "Cooler",
         "craftTimeMinutes":  17,
@@ -129124,12 +130043,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "093d67a2-c4d2-4141-9b9e-8dd9978e96b2",
-        "codeName":  "powr_orig_s04_890j_scitem",
+        "ref":  "e87c8612-28ed-45b1-a03a-7941984c93fe",
+        "codeName":  "powr_rsi_s04_polaris_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "70019264-f2b2-4741-b50f-bdce41cf0825",
+        "outputItemRef":  "796642bf-92fa-48ee-92aa-bf9ba38487a6",
         "outputItemName":  "Stellate",
         "outputItemType":  "PowerPlant",
         "craftTimeMinutes":  41,
@@ -129244,12 +130163,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "e87c8612-28ed-45b1-a03a-7941984c93fe",
-        "codeName":  "powr_rsi_s04_polaris_scitem",
+        "ref":  "093d67a2-c4d2-4141-9b9e-8dd9978e96b2",
+        "codeName":  "powr_orig_s04_890j_scitem",
         "blueprintType":  "crafting",
         "category":  "vehiclegear",
         "categoryRef":  "0c11afd4-2287-43fb-8da9-1b6673ac8e1b",
-        "outputItemRef":  "796642bf-92fa-48ee-92aa-bf9ba38487a6",
+        "outputItemRef":  "70019264-f2b2-4741-b50f-bdce41cf0825",
         "outputItemName":  "Stellate",
         "outputItemType":  "PowerPlant",
         "craftTimeMinutes":  41,
@@ -141724,12 +142643,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "4ae02769-a60a-41ee-96eb-f6cff99b30ef",
-        "codeName":  "vgl_armor_light_arms_01_01_11",
+        "ref":  "29815dc0-d7d1-4385-8181-32ddbb6d2188",
+        "codeName":  "vgl_armor_light_arms_01_01_15",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "0871980a-5ee0-400a-a228-ec370e3bc229",
+        "outputItemRef":  "cc98f2a9-5fb5-4c5f-834e-efcba92e45a6",
         "outputItemName":  "TrueDef-Pro Arms Black/Silver",
         "outputItemType":  "Char_Armor_Arms",
         "craftTimeMinutes":  2,
@@ -141803,12 +142722,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "29815dc0-d7d1-4385-8181-32ddbb6d2188",
-        "codeName":  "vgl_armor_light_arms_01_01_15",
+        "ref":  "4ae02769-a60a-41ee-96eb-f6cff99b30ef",
+        "codeName":  "vgl_armor_light_arms_01_01_11",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "cc98f2a9-5fb5-4c5f-834e-efcba92e45a6",
+        "outputItemRef":  "0871980a-5ee0-400a-a228-ec370e3bc229",
         "outputItemName":  "TrueDef-Pro Arms Black/Silver",
         "outputItemType":  "Char_Armor_Arms",
         "craftTimeMinutes":  2,
@@ -144805,12 +145724,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "f45ce9b6-c78c-4812-b0c4-0024d1b1e62d",
-        "codeName":  "vgl_armor_light_legs_01_01_15",
+        "ref":  "bcbca976-b370-4fd9-8277-aafcfd38fd46",
+        "codeName":  "vgl_armor_light_legs_01_01_11",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "8e38d63c-a639-4976-abe6-0dc2b260ad06",
+        "outputItemRef":  "a9d685fe-785d-4de7-985b-0a5073bc78b7",
         "outputItemName":  "TrueDef-Pro Legs Black/Silver",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  2,
@@ -144884,12 +145803,12 @@
         "defaultCompositionQuality":  null
     },
     {
-        "ref":  "bcbca976-b370-4fd9-8277-aafcfd38fd46",
-        "codeName":  "vgl_armor_light_legs_01_01_11",
+        "ref":  "f45ce9b6-c78c-4812-b0c4-0024d1b1e62d",
+        "codeName":  "vgl_armor_light_legs_01_01_15",
         "blueprintType":  "crafting",
         "category":  "fpsgear",
         "categoryRef":  "35b0267e-cce0-46cc-a3ec-250271fe2ef3",
-        "outputItemRef":  "a9d685fe-785d-4de7-985b-0a5073bc78b7",
+        "outputItemRef":  "8e38d63c-a639-4976-abe6-0dc2b260ad06",
         "outputItemName":  "TrueDef-Pro Legs Black/Silver",
         "outputItemType":  "Char_Armor_Legs",
         "craftTimeMinutes":  2,

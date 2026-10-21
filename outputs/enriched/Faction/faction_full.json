@@ -1,34 +1,5 @@
 ﻿[
     {
-        "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
-        "geid":  null,
-        "slug":  "faction_creature_hostile_generic_vlk_asd_align",
-        "sourceRecordType":  "faction",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic_vlk_asd_align.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic_vlk_asd_align.xml",
-        "rootElement":  "Faction.Faction_Creature_Hostile_Generic_vlk_asd_align",
-        "rawNameToken":  "@LOC_UNINITIALIZED",
-        "resolvedName":  null,
-        "nameStatus":  "unresolved",
-        "rawDescriptionToken":  "@LOC_EMPTY",
-        "resolvedDescription":  null,
-        "factionType":  "Unlawful",
-        "defaultReaction":  "Hostile",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  true,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-                                  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
-                                  "7535609a-6616-4992-9550-f8d2fd60f0d4"
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
         "geid":  null,
         "slug":  "faction_creature_hostile_generic",
@@ -57,13 +28,13 @@
         "reputation":  null
     },
     {
-        "ref":  "acb798bc-a3c6-462f-8535-4bda90386f71",
+        "ref":  "7535609a-6616-4992-9550-f8d2fd60f0d4",
         "geid":  null,
-        "slug":  "faction_creature_hostile_kopion_ninetails",
+        "slug":  "faction_creature_hostile_generic_vlk_asd_align",
         "sourceRecordType":  "faction",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion_ninetails.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion_ninetails.xml",
-        "rootElement":  "Faction.Faction_Creature_Hostile_Kopion_Ninetails",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_generic_vlk_asd_align.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_generic_vlk_asd_align.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Generic_vlk_asd_align",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  null,
         "nameStatus":  "unresolved",
@@ -77,7 +48,8 @@
         "noLegalRights":  true,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
-                                  "3ea7569e-c92f-4874-8ffa-12f0338e58b7"
+                                  "c1abb5fa-54a5-47a1-b69b-b951254a9a66",
+                                  "7535609a-6616-4992-9550-f8d2fd60f0d4"
                               ],
         "enemyFactionRefs":  [
 
@@ -114,27 +86,27 @@
         "reputation":  null
     },
     {
-        "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
+        "ref":  "acb798bc-a3c6-462f-8535-4bda90386f71",
         "geid":  null,
-        "slug":  "faction_creature_neutral_generic",
+        "slug":  "faction_creature_hostile_kopion_ninetails",
         "sourceRecordType":  "faction",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_neutral_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_neutral_generic.xml",
-        "rootElement":  "Faction.Faction_Creature_Neutral_Generic",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_hostile_kopion_ninetails.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_hostile_kopion_ninetails.xml",
+        "rootElement":  "Faction.Faction_Creature_Hostile_Kopion_Ninetails",
         "rawNameToken":  "@LOC_UNINITIALIZED",
         "resolvedName":  null,
         "nameStatus":  "unresolved",
         "rawDescriptionToken":  "@LOC_EMPTY",
         "resolvedDescription":  null,
         "factionType":  "Unlawful",
-        "defaultReaction":  "Neutral",
+        "defaultReaction":  "Hostile",
         "ableToArrest":  false,
         "policesLawfulTrespass":  false,
         "policesCriminality":  false,
         "noLegalRights":  true,
         "factionReputationRef":  null,
         "alliedFactionRefs":  [
-
+                                  "3ea7569e-c92f-4874-8ffa-12f0338e58b7"
                               ],
         "enemyFactionRefs":  [
 
@@ -169,6 +141,34 @@
                                  "c6e4d5da-9004-45db-a90f-d0fd1f3ddb45",
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
                                  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "473ee0b2-d2f5-4fdf-b4d3-3a402942eb0b",
+        "geid":  null,
+        "slug":  "faction_creature_neutral_generic",
+        "sourceRecordType":  "faction",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_creature_neutral_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_creature_neutral_generic.xml",
+        "rootElement":  "Faction.Faction_Creature_Neutral_Generic",
+        "rawNameToken":  "@LOC_UNINITIALIZED",
+        "resolvedName":  null,
+        "nameStatus":  "unresolved",
+        "rawDescriptionToken":  "@LOC_EMPTY",
+        "resolvedDescription":  null,
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  true,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
                              ],
         "reputation":  null
     },
@@ -610,34 +610,6 @@
                        }
     },
     {
-        "ref":  "52883600-6021-4407-8130-febb7dd42c63",
-        "geid":  null,
-        "slug":  "faction_unlawful_civilian",
-        "sourceRecordType":  "faction",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_civilian.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_civilian.xml",
-        "rootElement":  "Faction.Faction_Unlawful_Civilian",
-        "rawNameToken":  "@Civilian_RepUI_Name",
-        "resolvedName":  "Civilian",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@Civilian_RepUI_Description",
-        "resolvedDescription":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
-        "factionType":  "Unlawful",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-
-                             ],
-        "reputation":  null
-    },
-    {
         "ref":  "dfb4d61e-65c1-4185-a204-e9583052d503",
         "geid":  null,
         "slug":  "faction_lawful_civilian",
@@ -662,6 +634,34 @@
                               ],
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
+        "ref":  "52883600-6021-4407-8130-febb7dd42c63",
+        "geid":  null,
+        "slug":  "faction_unlawful_civilian",
+        "sourceRecordType":  "faction",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawful_civilian.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawful_civilian.xml",
+        "rootElement":  "Faction.Faction_Unlawful_Civilian",
+        "rawNameToken":  "@Civilian_RepUI_Name",
+        "resolvedName":  "Civilian",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@Civilian_RepUI_Description",
+        "resolvedDescription":  "A member of the general population, civilians can be found living in almost every star system visited by Humanity.",
+        "factionType":  "Unlawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
                              ],
         "reputation":  null
     },
@@ -1711,6 +1711,44 @@
                        }
     },
     {
+        "ref":  "4a2485d7-6e01-4791-b394-776186a71ce1",
+        "geid":  "199999007081",
+        "slug":  "faction_iasi",
+        "sourceRecordType":  "faction",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_iasi.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_iasi.xml",
+        "rootElement":  "Faction.Faction_Iasi",
+        "rawNameToken":  "@iasi_faction_name",
+        "resolvedName":  "Roberts Space Industries",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@LOC_UNINITIALIZED",
+        "resolvedDescription":  null,
+        "factionType":  "Lawful",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  "33e7f581-52d1-4609-8b86-5b5f7c7838be",
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+
+                             ],
+        "reputation":  {
+                           "logoPath":  "UI/SharedAssets/ManufacturerLogos/rsi_logo_a.tif",
+                           "isNpc":  false,
+                           "hideInApp":  false,
+                           "isLawful":  null,
+                           "resolvedHeadquarters":  null,
+                           "resolvedFounded":  null,
+                           "resolvedLeadership":  null,
+                           "resolvedArea":  null,
+                           "resolvedFocus":  null
+                       }
+    },
+    {
         "ref":  "3c9a42a9-a986-494f-b724-4d74415f6016",
         "geid":  null,
         "slug":  "faction_unlawful_roughandready",
@@ -1777,6 +1815,34 @@
                        }
     },
     {
+        "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
+        "geid":  null,
+        "slug":  "faction_unlawfulsecurity_generic",
+        "sourceRecordType":  "faction",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawfulsecurity_generic.xml",
+        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawfulsecurity_generic.xml",
+        "rootElement":  "Faction.Faction_UnlawfulSecurity_Generic",
+        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
+        "resolvedName":  "Security",
+        "nameStatus":  "resolved",
+        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
+        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
+        "factionType":  "PrivateSecurity",
+        "defaultReaction":  "Neutral",
+        "ableToArrest":  false,
+        "policesLawfulTrespass":  false,
+        "policesCriminality":  false,
+        "noLegalRights":  false,
+        "factionReputationRef":  null,
+        "alliedFactionRefs":  [
+
+                              ],
+        "enemyFactionRefs":  [
+                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
+                             ],
+        "reputation":  null
+    },
+    {
         "ref":  "5e2005cb-eee8-4ca7-b1e6-79415eab6684",
         "geid":  null,
         "slug":  "faction_lawfulsecurity_generic",
@@ -1829,34 +1895,6 @@
                               ],
         "enemyFactionRefs":  [
 
-                             ],
-        "reputation":  null
-    },
-    {
-        "ref":  "b3cd03ce-33ae-4965-a12e-9dd44fd89110",
-        "geid":  null,
-        "slug":  "faction_unlawfulsecurity_generic",
-        "sourceRecordType":  "faction",
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\factions\\faction_unlawfulsecurity_generic.xml",
-        "sourceDataPath":  "libs/foundry/records/factions/faction_unlawfulsecurity_generic.xml",
-        "rootElement":  "Faction.Faction_UnlawfulSecurity_Generic",
-        "rawNameToken":  "@PrivateSecurity_RepUI_Name",
-        "resolvedName":  "Security",
-        "nameStatus":  "resolved",
-        "rawDescriptionToken":  "@PrivateSecurity_RepUI_Description",
-        "resolvedDescription":  "Contracted by various businesses and local authorities to protect their interests and stop criminal activity.",
-        "factionType":  "PrivateSecurity",
-        "defaultReaction":  "Neutral",
-        "ableToArrest":  false,
-        "policesLawfulTrespass":  false,
-        "policesCriminality":  false,
-        "noLegalRights":  false,
-        "factionReputationRef":  null,
-        "alliedFactionRefs":  [
-
-                              ],
-        "enemyFactionRefs":  [
-                                 "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
         "reputation":  null
     },

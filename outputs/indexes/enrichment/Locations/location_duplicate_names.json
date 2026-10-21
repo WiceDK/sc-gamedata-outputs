@@ -1015,5 +1015,572 @@
         "parent_id":  "a375ef83-65fc-42f0-bb31-5539a67444fb",
         "parent_name":  "Bevic Convention Center",
         "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "d6af9afe-6ab2-4cd7-92ca-c6fae1ae713f",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "78c6d5fe-899d-4da1-8d9f-8793d8e65766",
+        "type":  "Default",
+        "parent_id":  "551af60b-7727-4936-acc7-763d25d7a1de",
+        "parent_name":  "Hurston",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "ad9d5e93-0bef-4905-b8bd-97283f0ba110",
+        "type":  "Default",
+        "parent_id":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+        "parent_name":  "Arial",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "fe3950f6-0244-4c83-a50f-9a329877ffe1",
+        "type":  "Default",
+        "parent_id":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+        "parent_name":  "Arial",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "ea2e87f5-8c81-4975-9d37-60538a04e973",
+        "type":  "Default",
+        "parent_id":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+        "parent_name":  "Arial",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "f81954c0-8d17-40b5-8c41-d3c38b1e1894",
+        "type":  "Default",
+        "parent_id":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+        "parent_name":  "Arial",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "2d3044be-6670-4d2f-bd60-3302ef4b2da3",
+        "type":  "Default",
+        "parent_id":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+        "parent_name":  "Arial",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "2c80f568-7408-4a68-bb42-acf286eac204",
+        "type":  "Default",
+        "parent_id":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+        "parent_name":  "Arial",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "85ef0977-d65e-4481-85a4-b4bfae906865",
+        "type":  "Default",
+        "parent_id":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+        "parent_name":  "Aberdeen",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "02a373c1-566a-475f-9534-113d3d742d6a",
+        "type":  "Default",
+        "parent_id":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+        "parent_name":  "Aberdeen",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "b374f34d-60f5-4e72-9068-dd4951489056",
+        "type":  "Default",
+        "parent_id":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+        "parent_name":  "Aberdeen",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "3dff9502-c1f7-4612-b4c9-d161fdb7642f",
+        "type":  "Default",
+        "parent_id":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+        "parent_name":  "Aberdeen",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "45f2ab03-e9a8-492e-994a-24373dd166c3",
+        "type":  "Default",
+        "parent_id":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+        "parent_name":  "Aberdeen",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "8308ecc9-76ae-4ec5-9c47-55ea1c5a9b22",
+        "type":  "Default",
+        "parent_id":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+        "parent_name":  "Magda",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "5d966ec0-49b6-4bd0-9634-62883757fa8e",
+        "type":  "Default",
+        "parent_id":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+        "parent_name":  "Magda",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "51207d0f-a361-4f84-ba59-faacd6c8618c",
+        "type":  "Default",
+        "parent_id":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+        "parent_name":  "Magda",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "bb3751f4-c194-4597-8294-95db19ffd771",
+        "type":  "Default",
+        "parent_id":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+        "parent_name":  "Magda",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "90ebaa2b-a8da-47b5-9a2f-ae2d9373f650",
+        "type":  "Default",
+        "parent_id":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+        "parent_name":  "Magda",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "bdbc57f9-0aa8-445e-81fc-a4dd54f96396",
+        "type":  "Default",
+        "parent_id":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+        "parent_name":  "Ita",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "7fbdf13c-307f-4917-9053-6e2ed10c975a",
+        "type":  "Default",
+        "parent_id":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+        "parent_name":  "Ita",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "8308cafb-3018-466c-9566-2130dc002ffa",
+        "type":  "Default",
+        "parent_id":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+        "parent_name":  "Ita",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "a818883e-1d83-4ee0-9032-67fe2b35692c",
+        "type":  "Default",
+        "parent_id":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+        "parent_name":  "Ita",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "14e90a7a-78b5-438a-b71a-0d6f1a7dc5b1",
+        "type":  "Default",
+        "parent_id":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+        "parent_name":  "Ita",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "3a32ad75-197f-4ef0-a555-0330f4a5175a",
+        "type":  "Default",
+        "parent_id":  "551af60b-7727-4936-acc7-763d25d7a1de",
+        "parent_name":  "Hurston",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "6e1132cc-8abd-429a-8008-2bd1278d4656",
+        "type":  "Default",
+        "parent_id":  "551af60b-7727-4936-acc7-763d25d7a1de",
+        "parent_name":  "Hurston",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "2e6bd23f-2c90-4398-aba9-2827ad62b6f2",
+        "type":  "Default",
+        "parent_id":  "551af60b-7727-4936-acc7-763d25d7a1de",
+        "parent_name":  "Hurston",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "74dbf4cb-5e47-4348-b431-cbff17a364b0",
+        "type":  "Default",
+        "parent_id":  "551af60b-7727-4936-acc7-763d25d7a1de",
+        "parent_name":  "Hurston",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "dfa1d3c8-005c-4c14-b149-a34e3277c95c",
+        "type":  "Default",
+        "parent_id":  "551af60b-7727-4936-acc7-763d25d7a1de",
+        "parent_name":  "Hurston",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "6eebbc56-f730-40e3-96a2-af7ee448dcbb",
+        "type":  "Default",
+        "parent_id":  "35a9f8f5-8f80-4796-83db-7d7362baeb9a",
+        "parent_name":  "ArcCorp",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "a5b0dae4-a50a-4f5a-b28f-e9977545cbc3",
+        "type":  "Default",
+        "parent_id":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+        "parent_name":  "Lyria",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "639d7adf-860b-4c0c-b0bf-10e16d5dad88",
+        "type":  "Default",
+        "parent_id":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+        "parent_name":  "Lyria",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "2f1c0110-6340-4332-b804-f7848cfeb022",
+        "type":  "Default",
+        "parent_id":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+        "parent_name":  "Lyria",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "380db38a-adbd-42b8-8234-b95a6864d313",
+        "type":  "Default",
+        "parent_id":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+        "parent_name":  "Lyria",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "647d4ee7-f5a0-4a56-bc62-922b1b9031ee",
+        "type":  "Default",
+        "parent_id":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+        "parent_name":  "Lyria",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "b25b53ea-a3a1-43c3-aa4d-2777a01eb667",
+        "type":  "Default",
+        "parent_id":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+        "parent_name":  "Lyria",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "a881b282-66a6-4bbc-81d8-3983628b0853",
+        "type":  "Default",
+        "parent_id":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+        "parent_name":  "Wala",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "a5204b4c-34e1-42ae-a043-297ae70126fb",
+        "type":  "Default",
+        "parent_id":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+        "parent_name":  "Wala",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "04ed3779-3103-44e7-9cd2-e546b86980f3",
+        "type":  "Default",
+        "parent_id":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+        "parent_name":  "Wala",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "87355510-d265-4438-8f8e-f24e94ddb872",
+        "type":  "Default",
+        "parent_id":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+        "parent_name":  "Wala",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "7ce20eb9-9720-41ae-a7de-1b6d167108e4",
+        "type":  "Default",
+        "parent_id":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+        "parent_name":  "Wala",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "90952bc0-39db-4a1c-a63e-5622fe796cb4",
+        "type":  "Default",
+        "parent_id":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+        "parent_name":  "Wala",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "5ae1fe7e-6f0b-4097-9c20-c2619451d2f9",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "fc3653e6-fa9a-4dc5-8021-f8c927330f12",
+        "type":  "Default",
+        "parent_id":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+        "parent_name":  "Calliope",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "f4e3c68e-d5bd-44c3-b94a-34e4964e1d59",
+        "type":  "Default",
+        "parent_id":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+        "parent_name":  "Calliope",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "e3006016-96b4-4739-a2a4-531556dd23bc",
+        "type":  "Default",
+        "parent_id":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+        "parent_name":  "Calliope",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "d68e500c-386b-4d06-9d88-57f90460220f",
+        "type":  "Default",
+        "parent_id":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+        "parent_name":  "Calliope",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "23acf075-46f1-4bc3-810f-2b18fe53e3cd",
+        "type":  "Default",
+        "parent_id":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+        "parent_name":  "Calliope",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "ba7fc12c-60ad-4149-990f-2d31d61bdfdb",
+        "type":  "Default",
+        "parent_id":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+        "parent_name":  "Clio",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "2e22f64a-3f01-41b7-bc21-04b25e91090d",
+        "type":  "Default",
+        "parent_id":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+        "parent_name":  "Clio",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "9e5dea5c-f389-48e1-a8bd-f416176bd606",
+        "type":  "Default",
+        "parent_id":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+        "parent_name":  "Clio",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "f063a522-876f-4f21-bd72-7cba335d84e7",
+        "type":  "Default",
+        "parent_id":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+        "parent_name":  "Clio",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "c77c3bfb-2bc3-4cd0-b5b1-571f7927fb7e",
+        "type":  "Default",
+        "parent_id":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+        "parent_name":  "Clio",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "ecd038ff-139f-4862-a103-3ef7c427c0ab",
+        "type":  "Default",
+        "parent_id":  "732dedf3-9530-4972-98ab-2fcae64669db",
+        "parent_name":  "Euterpe",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "94af4aae-6c8d-483f-9142-1f3a7ef15e2d",
+        "type":  "Default",
+        "parent_id":  "732dedf3-9530-4972-98ab-2fcae64669db",
+        "parent_name":  "Euterpe",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "18f212c9-6c79-4b8a-a6ac-ea501bade318",
+        "type":  "Default",
+        "parent_id":  "732dedf3-9530-4972-98ab-2fcae64669db",
+        "parent_name":  "Euterpe",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "adfed0c9-2184-4f11-ab92-0f0cc96b6fa3",
+        "type":  "Default",
+        "parent_id":  "732dedf3-9530-4972-98ab-2fcae64669db",
+        "parent_name":  "Euterpe",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "5c4d4202-00e1-4909-9482-685eca657687",
+        "type":  "Default",
+        "parent_id":  "732dedf3-9530-4972-98ab-2fcae64669db",
+        "parent_name":  "Euterpe",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "4a0e8de6-a067-4275-956c-05866d1b38db",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "e1fc6660-cf55-4db0-b477-d7c8c05fbe82",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "3f7f974e-cbf4-422c-a856-e6efde9e7512",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "876c8a56-fdb0-4fcf-9e84-0387e0655611",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "2c3a5644-3f2e-465d-8f13-3de08b776e60",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
+    },
+    {
+        "duplicate_name":  "RSI Event Platform",
+        "duplicate_count":  63,
+        "ref":  "4f42ced7-7ecc-4acc-b8c5-fbdd337ea052",
+        "type":  "Default",
+        "parent_id":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+        "parent_name":  "microTech",
+        "source_path":  null
     }
 ]
