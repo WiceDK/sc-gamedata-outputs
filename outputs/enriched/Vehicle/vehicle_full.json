@@ -271188,10 +271188,6 @@
                                              {
                                                  "type":  "MissileLauncher",
                                                  "subTypes":  "MissileRack"
-                                             },
-                                             {
-                                                 "type":  "MissileLauncher",
-                                                 "subTypes":  "MissileRack"
                                              }
                                          ],
                                "defaultComponentRef":  "901e4ecb-0649-4c78-8e46-0247d84fb084",
@@ -271429,10 +271425,6 @@
                                "maxSize":  null,
                                "userReplaceable":  true,
                                "types":  [
-                                             {
-                                                 "type":  "MissileLauncher",
-                                                 "subTypes":  "MissileRack"
-                                             },
                                              {
                                                  "type":  "MissileLauncher",
                                                  "subTypes":  "MissileRack"
@@ -271676,10 +271668,6 @@
                                              {
                                                  "type":  "MissileLauncher",
                                                  "subTypes":  "MissileRack"
-                                             },
-                                             {
-                                                 "type":  "MissileLauncher",
-                                                 "subTypes":  "MissileRack"
                                              }
                                          ],
                                "defaultComponentRef":  "901e4ecb-0649-4c78-8e46-0247d84fb084",
@@ -271917,10 +271905,6 @@
                                "maxSize":  null,
                                "userReplaceable":  true,
                                "types":  [
-                                             {
-                                                 "type":  "MissileLauncher",
-                                                 "subTypes":  "MissileRack"
-                                             },
                                              {
                                                  "type":  "MissileLauncher",
                                                  "subTypes":  "MissileRack"
