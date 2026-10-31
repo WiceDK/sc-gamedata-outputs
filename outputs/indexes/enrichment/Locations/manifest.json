@@ -1,14 +1,14 @@
 ﻿{
-    "generatedAt":  "2026-10-24T13:55:44",
+    "generatedAt":  "2026-10-31T21:22:28",
     "mode":  "raw-first",
     "sourceRoots":  [
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap",
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations"
                     ],
     "rulesPath":  "src\\contracts\\normalization-rules-v2.json",
-    "records":  1644,
+    "records":  1705,
     "missionRecords":  2089,
-    "recordsWithPosition":  678,
+    "recordsWithPosition":  708,
     "positionsWithheldAmbiguous":  9,
     "beltGeometries":  [
                            "Glaciem Ring (segmented)",
