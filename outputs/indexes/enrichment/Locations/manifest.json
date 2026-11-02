@@ -1,21 +1,21 @@
 ﻿{
-    "generatedAt":  "2026-11-01T20:41:38",
+    "generatedAt":  "2026-11-02T23:48:59",
     "mode":  "raw-first",
     "sourceRoots":  [
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap",
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations"
                     ],
     "rulesPath":  "src\\contracts\\normalization-rules-v2.json",
-    "records":  1705,
+    "records":  1707,
     "missionRecords":  2089,
     "recordsWithPosition":  708,
     "positionsWithheldAmbiguous":  9,
     "beltGeometries":  [
                            "Glaciem Ring (segmented)",
                            "Keeger Belt (segmented)",
-                           "Terminus (ring)",
-                           "Yela (ring)",
-                           "Aaron Halo (ring)"
+                           "Aaron Halo (ring)",
+                           "Terminus Ring (ring)",
+                           "Yela Ring (ring)"
                        ],
     "unplacedRingContainers":  [
                                    "Data/ObjectContainers/PU/station/motel/stanton_2c_yela_planetonly.socpak"

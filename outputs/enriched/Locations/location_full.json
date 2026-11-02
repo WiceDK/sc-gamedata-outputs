@@ -106063,6 +106063,7 @@
                           "1333f125-97ac-4905-99fa-eae6a21587c6",
                           "1c585a2e-73c4-4bc5-8922-e0b434b8c8ea",
                           "256e7587-7c08-41de-8786-2338e51be039",
+                          "4c01c566-5254-e470-1520-19a7c1c2cd83",
                           "6816ae44-f83a-4264-a364-12b8faeb6294",
                           "7a6a0f08-83bf-4e2b-be93-a0fd5fd705f1",
                           "a02e0cb7-4a76-4481-b74a-0c3a0972bca9",
@@ -106120,33 +106121,7 @@
                          "x":  -48118274188.843,
                          "y":  48503131057.296,
                          "z":  0
-                     },
-        "beltGeometry":  {
-                             "shape":  "ring",
-                             "sourcePath":  "Data/ObjectContainers/PU/system/pyro/pyro6.socpak!/pyro6.soc",
-                             "entityName":  "Yela_AsteroidRing",
-                             "composition":  "AsteroidField_Yela",
-                             "centre":  {
-                                            "x":  -48118274188.843,
-                                            "y":  48503131057.296,
-                                            "z":  0
-                                        },
-                             "rotation":  {
-                                              "w":  0.73592025,
-                                              "x":  0,
-                                              "y":  0,
-                                              "z":  -0.67706823
-                                          },
-                             "innerRadiusM":  385000,
-                             "outerRadiusM":  700000,
-                             "depthM":  20000,
-                             "densityScale":  null,
-                             "noiseAmplitude":  null,
-                             "noiseGranularity":  null,
-                             "noiseRoughness":  null,
-                             "noiseFrequencyRadial":  null,
-                             "rngSeed":  null
-                         }
+                     }
     },
     {
         "ref":  "cdbcaba9-9d33-414c-a71b-e8e621fb1312",
@@ -126238,6 +126213,7 @@
                           "2254bf96-3ccc-49e7-b45e-9d9baf2830dc",
                           "3797fd7c-5121-4cd1-9685-2a9c36a95060",
                           "4055face-6586-4451-bb25-d52748c973b3",
+                          "40b88927-08fd-5d93-6947-216b09ce68b4",
                           "43a9b3df-8f4e-495c-99bb-e0250aeaec54",
                           "443703c2-9701-4e7d-b3f6-7aaf3132ed39",
                           "458d5f25-d74f-461f-ae8f-ea7358f9fc78",
@@ -126320,33 +126296,7 @@
                          "x":  -19022916798.927,
                          "y":  -2613996151.998,
                          "z":  0
-                     },
-        "beltGeometry":  {
-                             "shape":  "ring",
-                             "sourcePath":  "Data/ObjectContainers/PU/system/stanton/stanton2c.socpak!/stanton2c.soc",
-                             "entityName":  "Yela_AsteroidRing",
-                             "composition":  "AsteroidField_Yela",
-                             "centre":  {
-                                            "x":  -19022916798.927,
-                                            "y":  -2613996151.998,
-                                            "z":  0
-                                        },
-                             "rotation":  {
-                                              "w":  1,
-                                              "x":  0,
-                                              "y":  0,
-                                              "z":  0
-                                          },
-                             "innerRadiusM":  482000,
-                             "outerRadiusM":  782000,
-                             "depthM":  20000,
-                             "densityScale":  null,
-                             "noiseAmplitude":  null,
-                             "noiseGranularity":  null,
-                             "noiseRoughness":  null,
-                             "noiseFrequencyRadial":  null,
-                             "rngSeed":  null
-                         }
+                     }
     },
     {
         "ref":  "458d5f25-d74f-461f-ae8f-ea7358f9fc78",
@@ -148234,6 +148184,206 @@
                              "noiseRoughness":  1,
                              "noiseFrequencyRadial":  8,
                              "rngSeed":  "2"
+                         }
+    },
+    {
+        "ref":  "4c01c566-5254-e470-1520-19a7c1c2cd83",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\ObjectContainers\\Placements\\asteroid_rings.json",
+        "sourceDataPath":  "Data/ObjectContainers/PU/system/pyro/pyro6.socpak",
+        "rootElement":  null,
+        "sourceType":  "ObjectContainer",
+        "navIcon":  null,
+        "objectType":  null,
+        "markerIcon":  null,
+        "locationClass":  "asteroid_field",
+        "respawnLocationType":  null,
+        "hideInStarmap":  null,
+        "isScannable":  null,
+        "blockTravel":  null,
+        "missionSelectable":  null,
+        "pathTypeHint":  "asteroidbelt",
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Terminus Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
+                       "rawNameToken":  "@Pyro6",
+                       "resolvedName":  "Terminus",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\pyro\\pyro6\\pyro6.xml"
+                   },
+        "parent_id":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
+        "parent_name":  "Terminus",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
+                              "rawNameToken":  "@Pyro6",
+                              "resolvedName":  "Terminus",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\pyro\\pyro6\\pyro6.xml"
+                          },
+                          {
+                              "ref":  "a14bec87-5801-4440-8ca8-35597487ac9a",
+                              "rawNameToken":  "@PyroStar",
+                              "resolvedName":  "Pyro",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\pyro\\pyrostar\\pyrostar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "ObjectContainerChild",
+                                       "sourceAttribute":  "starMapRecord",
+                                       "targetRef":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\pyro\\pyro6\\pyro6.xml",
+                                       "targetNameToken":  "@Pyro6",
+                                       "targetName":  "Terminus"
+                                   }
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  "a14bec87-5801-4440-8ca8-35597487ac9a",
+        "systemName":  "Pyro",
+        "system_id":  "a14bec87-5801-4440-8ca8-35597487ac9a",
+        "system_name":  "Pyro",
+        "nameSource":  "owner-approved-exception:ring-entity-in-body-container:Yela_AsteroidRing->Terminus",
+        "beltObjectContainerPaths":  [
+
+                                     ],
+        "beltGeometry":  {
+                             "shape":  "ring",
+                             "sourcePath":  "Data/ObjectContainers/PU/system/pyro/pyro6.socpak!/pyro6.soc",
+                             "entityName":  "Yela_AsteroidRing",
+                             "composition":  "AsteroidField_Yela",
+                             "centre":  {
+                                            "x":  -48118274188.843,
+                                            "y":  48503131057.296,
+                                            "z":  0
+                                        },
+                             "rotation":  {
+                                              "w":  0.73592025,
+                                              "x":  0,
+                                              "y":  0,
+                                              "z":  -0.67706823
+                                          },
+                             "innerRadiusM":  385000,
+                             "outerRadiusM":  700000,
+                             "depthM":  20000,
+                             "densityScale":  null,
+                             "noiseAmplitude":  null,
+                             "noiseGranularity":  null,
+                             "noiseRoughness":  null,
+                             "noiseFrequencyRadial":  null,
+                             "rngSeed":  null
+                         }
+    },
+    {
+        "ref":  "40b88927-08fd-5d93-6947-216b09ce68b4",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\ObjectContainers\\Placements\\asteroid_rings.json",
+        "sourceDataPath":  "Data/ObjectContainers/PU/system/stanton/stanton2c.socpak",
+        "rootElement":  null,
+        "sourceType":  "ObjectContainer",
+        "navIcon":  null,
+        "objectType":  null,
+        "markerIcon":  null,
+        "locationClass":  "asteroid_field",
+        "respawnLocationType":  null,
+        "hideInStarmap":  null,
+        "isScannable":  null,
+        "blockTravel":  null,
+        "missionSelectable":  null,
+        "pathTypeHint":  "asteroidbelt",
+        "rawNameToken":  null,
+        "rawDescriptionToken":  null,
+        "resolvedName":  "Yela Ring",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  {
+                       "ref":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
+                       "rawNameToken":  "@Stanton2c",
+                       "resolvedName":  "Yela",
+                       "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stanton2c\\starmapobject.stanton2c.xml"
+                   },
+        "parent_id":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
+        "parent_name":  "Yela",
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+                          {
+                              "ref":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
+                              "rawNameToken":  "@Stanton2c",
+                              "resolvedName":  "Yela",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stanton2c\\starmapobject.stanton2c.xml"
+                          },
+                          {
+                              "ref":  "c15033ab-2eb3-4d6d-b882-0cb336e67ed8",
+                              "rawNameToken":  "@Stanton2",
+                              "resolvedName":  "Crusader",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stanton2\\starmapobject.stanton2.xml"
+                          },
+                          {
+                              "ref":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+                              "rawNameToken":  "@StantonStar",
+                              "resolvedName":  "Stanton",
+                              "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stantonstar\\starmapobject.stantonstar.xml"
+                          }
+                      ],
+        "resolvedReferences":  [
+                                   {
+                                       "relationHint":  "parent",
+                                       "sourceNode":  "ObjectContainerChild",
+                                       "sourceAttribute":  "starMapRecord",
+                                       "targetRef":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
+                                       "targetPath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap\\pu\\system\\stanton\\stanton2c\\starmapobject.stanton2c.xml",
+                                       "targetNameToken":  "@Stanton2c",
+                                       "targetName":  "Yela"
+                                   }
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+        "systemName":  "Stanton",
+        "system_id":  "34ff378f-faee-47bb-b5fe-f505e665c5ca",
+        "system_name":  "Stanton",
+        "nameSource":  "owner-approved-exception:ring-entity-in-body-container:Yela_AsteroidRing->Yela",
+        "beltObjectContainerPaths":  [
+
+                                     ],
+        "beltGeometry":  {
+                             "shape":  "ring",
+                             "sourcePath":  "Data/ObjectContainers/PU/system/stanton/stanton2c.socpak!/stanton2c.soc",
+                             "entityName":  "Yela_AsteroidRing",
+                             "composition":  "AsteroidField_Yela",
+                             "centre":  {
+                                            "x":  -19022916798.927,
+                                            "y":  -2613996151.998,
+                                            "z":  0
+                                        },
+                             "rotation":  {
+                                              "w":  1,
+                                              "x":  0,
+                                              "y":  0,
+                                              "z":  0
+                                          },
+                             "innerRadiusM":  482000,
+                             "outerRadiusM":  782000,
+                             "depthM":  20000,
+                             "densityScale":  null,
+                             "noiseAmplitude":  null,
+                             "noiseGranularity":  null,
+                             "noiseRoughness":  null,
+                             "noiseFrequencyRadial":  null,
+                             "rngSeed":  null
                          }
     }
 ]

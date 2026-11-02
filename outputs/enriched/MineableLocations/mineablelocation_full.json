@@ -98335,12 +98335,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/pyro/pyro3/lagrange/pyro3_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/clusters_modular/clusters_mod_asteroid/ast_cluster_med_roundrough_a.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/pyro/lagrangepoints/pyro3_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/pyro/pyrosystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/clusters_modular/clusters_mod_asteroid/ast_cluster_med_roundrough_a.socpak!/ast_cluster_med_roundrough_a.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/clusters_modular/clusters_mod_set/cluster_modular_warm_003.socpak!/cluster_modular_warm_003.xml",
                                      "Data/ObjectContainers/PU/loc/mod/pyro/asteroid_base/ext/ab_final_set/ab_pyro_final_set_dungeon-001.socpak!/ab_pyro_final_set_dungeon-001.xml",
-                                     "Data/ObjectContainers/PU/system/pyro/lagrangepoints/pyro3_l4.socpak!/pyro3_l4.xml"
+                                     "Data/ObjectContainers/PU/system/pyro/lagrangepoints/pyro3_l4.socpak!/pyro3_l4.xml",
+                                     "Data/ObjectContainers/PU/system/pyro/pyrosystem.socpak!/pyrosystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\pyro\\asteroidfield\\hpp_pyro_deepspaceasteroids.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/pyro/asteroidfield/hpp_pyro_deepspaceasteroids.xml",
@@ -98847,12 +98848,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/pyro/pyro3/lagrange/pyro3_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/clusters_modular/clusters_mod_asteroid/ast_cluster_med_roundrough_a.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/pyro/lagrangepoints/pyro3_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/pyro/pyrosystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/clusters_modular/clusters_mod_asteroid/ast_cluster_med_roundrough_a.socpak!/ast_cluster_med_roundrough_a.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/clusters_modular/clusters_mod_set/cluster_modular_warm_003.socpak!/cluster_modular_warm_003.xml",
                                      "Data/ObjectContainers/PU/loc/mod/pyro/asteroid_base/ext/ab_final_set/ab_pyro_final_set_dungeon-001.socpak!/ab_pyro_final_set_dungeon-001.xml",
-                                     "Data/ObjectContainers/PU/system/pyro/lagrangepoints/pyro3_l5.socpak!/pyro3_l5.xml"
+                                     "Data/ObjectContainers/PU/system/pyro/lagrangepoints/pyro3_l5.socpak!/pyro3_l5.xml",
+                                     "Data/ObjectContainers/PU/system/pyro/pyrosystem.socpak!/pyrosystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\pyro\\asteroidfield\\hpp_pyro_deepspaceasteroids.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/pyro/asteroidfield/hpp_pyro_deepspaceasteroids.xml",
@@ -145615,516 +145617,6 @@
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak!/childcloud_s2_l5_01.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml"
-                                 ],
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
-        "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
-        "system":  "stanton",
-        "bodyName":  "asteroidcluster_low_yield",
-        "fileName":  "asteroidcluster_low_yield.xml",
-        "groups":  [
-                       {
-                           "groupName":  "Salvage_FreshDerelicts",
-                           "groupProbability":  0.25,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  "c1e8c6a9-a4be-4bd4-b917-075db0d02054",
-                                                "clusteringRef":  "ea8562fe-4d9f-4366-a5c2-114d18a2f7c3",
-                                                "relativeProbability":  600,
-                                                "entityClassRef":  "d6ed474d-aea8-4fc1-9052-7f6404fbb149",
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  "a5fd8ab3-c3ba-4be0-b66a-8c3e598d05f4",
-                                                "clusteringRef":  null,
-                                                "relativeProbability":  3,
-                                                "entityClassRef":  "5b888034-677f-48e9-ad35-5cb582a26961",
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "SpaceShip_Mineables",
-                           "groupProbability":  0.023438,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  "0e437c69-8bfe-42ae-baf0-9a80f0fe8a53",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  19.6,
-                                                "entityClassRef":  "3aee138f-553f-44e7-bd62-4ba34e22361f",
-                                                "compositionRef":  "3fc54018-acc4-4b34-aac1-bb97aa2bbece",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Raw Ice",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "f0a75a01-6eaa-41bd-87bc-164084cb8219",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  19.6,
-                                                "entityClassRef":  "565948ac-8d01-42fd-994a-92898988a536",
-                                                "compositionRef":  "836eb20c-3a2e-422d-a797-27c2f0ed755d",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Raw Silicon",
-                                                "secondaryOreResource":  "Hephaestanite (R)",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "32e10884-1191-474b-9e6c-46579c830f18",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  19.6,
-                                                "entityClassRef":  "1c949ce0-c99b-485b-b783-2ea3b49162c0",
-                                                "compositionRef":  "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Aluminum (Ore)",
-                                                "secondaryOreResource":  "Corundum (Raw)",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "f2efbeac-f393-4ff1-bbeb-a232b2fddd94",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  19.6,
-                                                "entityClassRef":  "35f663f2-a499-4da3-a3ac-a1d834667931",
-                                                "compositionRef":  "ece23c39-ebb8-4a72-871b-5413e70619bf",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Iron (Ore)",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "f1170c23-318d-4952-85f0-eb8c5d0aca46",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  19.6,
-                                                "entityClassRef":  "139a292f-037d-45ed-8f08-644b649863b2",
-                                                "compositionRef":  "f5bcbf37-d613-4b51-897f-a11572d5f575",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Copper (Ore)",
-                                                "secondaryOreResource":  "Tin (Ore)",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "a7951ddf-499e-454b-b5a0-3e9ff3d90dc8",
-                                                "clusteringRef":  "3638ea41-8218-4f04-948c-40beaa3e9ee9",
-                                                "relativeProbability":  2,
-                                                "entityClassRef":  "c8a3ce5c-9145-4a55-a58f-a8b8b2b8e348",
-                                                "compositionRef":  "f08cf919-8503-430e-9fe6-06e44f0fae31",
-                                                "compositionRarity":  "legendary",
-                                                "primaryOreResource":  "Quantainium (Raw)",
-                                                "secondaryOreResource":  "Beryl (Raw)",
-                                                "clusteringRarity":  "legendary",
-                                                "expectedClusterSize":  2,
-                                                "probabilityOfClustering":  25
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Poor",
-                           "groupProbability":  3,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Normal",
-                           "groupProbability":  1.7,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Elite",
-                           "groupProbability":  0.1,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       }
-                   ],
-        "caveTiers":  null
-    },
-    {
-        "ref":  "394e2dbc-f768-cc50-94c2-b9ed666a87e8",
-        "providerRef":  "d69da463-ee6d-48fb-89c1-d13aa9954181",
-        "displayNameToken":  null,
-        "locationRef":  "0c39de63-bb45-496e-8029-0ed91580c84a",
-        "locationName":  "Delamar",
-        "locationDesignation":  null,
-        "locationNavIcon":  "Moon",
-        "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/nyx/delamar/starmapobject.delamar.xml",
-        "resolutionSource":  "provider-placement",
-        "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/nyx/delamar/delamar.socpak",
-        "placementSourcePaths":  [
-                                     "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
-                                     "Data/ObjectContainers/PU/system/nyx/delamar/delamar.socpak!/delamar.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -219573,11 +219065,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l1_01.socpak!/childcloud_s3_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak!/stanton3_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak!/stanton3_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -220084,11 +219577,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l2_01.socpak!/childcloud_s3_l2_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak!/stanton3_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak!/stanton3_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -220595,11 +220089,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l3_01.socpak!/childcloud_s3_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak!/stanton3_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak!/stanton3_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -221106,11 +220601,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l4_01.socpak!/childcloud_s3_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak!/stanton3_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak!/stanton3_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -221617,11 +221113,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l5_01.socpak!/childcloud_s3_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak!/stanton3_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak!/stanton3_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -222128,11 +221625,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l1_01.socpak!/childcloud_s2_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -222639,11 +222137,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l2_02.socpak!/childcloud_s2_l2_02.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak!/stanton2_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak!/stanton2_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -223150,11 +222649,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l3_01.socpak!/childcloud_s2_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak!/stanton2_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak!/stanton2_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -223661,11 +223161,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l4_01.socpak!/childcloud_s2_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak!/stanton2_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak!/stanton2_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -224172,11 +223673,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak!/childcloud_s2_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -224683,11 +224185,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l1_01.socpak!/childcloud_s1_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -225194,11 +224697,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l2_01.socpak!/childcloud_s1_l2_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -225705,11 +225209,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l3_01.socpak!/childcloud_s1_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -226216,11 +225721,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l4_01.socpak!/childcloud_s1_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -226727,11 +226233,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l5_01.socpak!/childcloud_s1_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak!/stanton1_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak!/stanton1_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -227241,7 +226748,7 @@
         "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l1.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l1_01.socpak!/childcloud_s4_l1_01.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l1_02.socpak!/childcloud_s4_l1_02.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l1.socpak!/stanton4_l1.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
@@ -227749,11 +227256,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l2_03.socpak!/childcloud_s4_l2_03.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l2.socpak!/stanton4_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l2.socpak!/stanton4_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -228260,11 +227768,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l3_01.socpak!/childcloud_s4_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak!/stanton4_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak!/stanton4_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -228771,11 +228280,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l4_01.socpak!/childcloud_s4_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak!/stanton4_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak!/stanton4_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_low_yield.xml",
@@ -229285,7 +228795,7 @@
         "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l5.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l5_01.socpak!/childcloud_s4_l5_01.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l5_02.socpak!/childcloud_s4_l5_02.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l5.socpak!/stanton4_l5.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_low_yield.xml",
@@ -251731,11 +251241,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l1_01.socpak!/childcloud_s2_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -252242,11 +251753,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l3_01.socpak!/childcloud_s2_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak!/stanton2_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak!/stanton2_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -252753,11 +252265,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak!/childcloud_s2_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -253264,11 +252777,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l1_01.socpak!/childcloud_s1_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -253775,11 +253289,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l2_01.socpak!/childcloud_s1_l2_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -254286,11 +253801,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l3_01.socpak!/childcloud_s1_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -254797,11 +254313,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l4_01.socpak!/childcloud_s1_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -255308,11 +254825,12 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.soc",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l5_01.socpak!/childcloud_s1_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak!/stanton1_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak!/stanton1_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\asteroidcluster_medium_yield.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/asteroidcluster_medium_yield.xml",
@@ -256787,10 +256305,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l1_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l1_01.socpak!/childcloud_s1_l1_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_a.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_a.xml",
@@ -257271,10 +256790,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l4_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l4_01.socpak!/childcloud_s1_l4_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_a.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_a.xml",
@@ -259246,10 +258766,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l5_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l5_01.socpak!/childcloud_s3_l5_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak!/stanton3_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak!/stanton3_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_b.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_b.xml",
@@ -259743,10 +259264,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l4_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l4_01.socpak!/childcloud_s2_l4_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak!/stanton2_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak!/stanton2_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_b.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_b.xml",
@@ -260240,10 +259762,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l3_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l3_01.socpak!/childcloud_s4_l3_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak!/stanton4_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak!/stanton4_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_b.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_b.xml",
@@ -266089,491 +265612,6 @@
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak!/childcloud_s2_l5_01.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml"
-                                 ],
-        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
-        "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
-        "system":  "stanton",
-        "bodyName":  "lagrange_c",
-        "fileName":  "hpp_lagrange_c.xml",
-        "groups":  [
-                       {
-                           "groupName":  "SpaceShip_Mineables",
-                           "groupProbability":  0.075,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  "32e10884-1191-474b-9e6c-46579c830f18",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  23.9,
-                                                "entityClassRef":  "1c949ce0-c99b-485b-b783-2ea3b49162c0",
-                                                "compositionRef":  "d8e3343e-b79a-4734-8c96-dfe5b0272e94",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Aluminum (Ore)",
-                                                "secondaryOreResource":  "Corundum (Raw)",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "bf9c3e58-c00e-4ad5-a3bd-64897009ff7a",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  23.9,
-                                                "entityClassRef":  "b8c75d71-52f1-44bb-9d27-61075591d91a",
-                                                "compositionRef":  "f7959de5-2bd2-43ab-aae3-4d057d624852",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Corundum (Raw)",
-                                                "secondaryOreResource":  "Aluminum (Ore)",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "bc98dc45-9990-485e-8ba0-21fa5b0f5163",
-                                                "clusteringRef":  "1f5f80cc-1b4d-41df-8481-5d07d00441a7",
-                                                "relativeProbability":  23.9,
-                                                "entityClassRef":  "42b45ec5-c3d7-4075-a3ec-12d0775f69c6",
-                                                "compositionRef":  "44035494-974e-47f5-98a2-79a1616b62a6",
-                                                "compositionRarity":  "common",
-                                                "primaryOreResource":  "Hephaestanite (R)",
-                                                "secondaryOreResource":  "Quartz (Raw)",
-                                                "clusteringRarity":  "common",
-                                                "expectedClusterSize":  4.5,
-                                                "probabilityOfClustering":  100
-                                            },
-                                            {
-                                                "harvestableRef":  "95669108-231c-46ff-8adb-ffbab36b2445",
-                                                "clusteringRef":  "cf2ebacb-255a-40e6-b300-7414c949ce76",
-                                                "relativeProbability":  28.5,
-                                                "entityClassRef":  "5d6549ec-e809-4290-95a6-62b7d2ab4681",
-                                                "compositionRef":  "ed5af002-dbbc-41aa-b5b3-44e686a83b36",
-                                                "compositionRarity":  "uncommon",
-                                                "primaryOreResource":  "Torite (Ore)",
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  "uncommon",
-                                                "expectedClusterSize":  3.5,
-                                                "probabilityOfClustering":  100
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_FreshDerelicts",
-                           "groupProbability":  0.1,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  "16bb2292-7c05-4f9d-868b-5651d3b0b17e",
-                                                "clusteringRef":  null,
-                                                "relativeProbability":  5,
-                                                "entityClassRef":  "33c6feaa-fa47-4971-b075-8a9e783d15fc",
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  "c1e8c6a9-a4be-4bd4-b917-075db0d02054",
-                                                "clusteringRef":  "ea8562fe-4d9f-4366-a5c2-114d18a2f7c3",
-                                                "relativeProbability":  700,
-                                                "entityClassRef":  "d6ed474d-aea8-4fc1-9052-7f6404fbb149",
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Poor",
-                           "groupProbability":  0.01,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2fabb75c-c641-483e-a353-96dc83093132",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "f0dc276e-dd23-4b03-a3e8-faee717ea276",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2f064233-7070-4992-b62e-1c4f5dccd7eb",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Normal",
-                           "groupProbability":  0.0057,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "47b073fa-4c40-4eeb-a19f-eda0ac00ba89",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "394e415c-d177-4b5e-97ef-8eba9eb54bbc",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "d822672a-2b30-4ad3-84c5-949047b978f0",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       },
-                       {
-                           "groupName":  "Salvage_BrokenShips_Elite",
-                           "groupProbability":  0.00033,
-                           "elements":  [
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2c2fd5fb-7e69-487c-a89b-aa7f0f81dc72",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "2239d6ba-ac77-4db4-9ac3-c16ce78f7779",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            },
-                                            {
-                                                "harvestableRef":  null,
-                                                "clusteringRef":  "4ea7cc50-5077-41ea-875b-4df58330a0b9",
-                                                "relativeProbability":  1,
-                                                "entityClassRef":  null,
-                                                "compositionRef":  null,
-                                                "compositionRarity":  null,
-                                                "primaryOreResource":  null,
-                                                "secondaryOreResource":  null,
-                                                "clusteringRarity":  null,
-                                                "expectedClusterSize":  null,
-                                                "probabilityOfClustering":  null
-                                            }
-                                        ]
-                       }
-                   ],
-        "caveTiers":  null
-    },
-    {
-        "ref":  "740d262b-cb73-7f5e-a4b9-b5617a5ada8a",
-        "providerRef":  "71dad029-1d32-406a-bd76-a66028c06e63",
-        "displayNameToken":  null,
-        "locationRef":  "0c39de63-bb45-496e-8029-0ed91580c84a",
-        "locationName":  "Delamar",
-        "locationDesignation":  null,
-        "locationNavIcon":  "Moon",
-        "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/nyx/delamar/starmapobject.delamar.xml",
-        "resolutionSource":  "provider-placement",
-        "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/nyx/delamar/delamar.socpak",
-        "placementSourcePaths":  [
-                                     "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
-                                     "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
-                                     "Data/ObjectContainers/PU/system/nyx/delamar/delamar.socpak!/delamar.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -353396,12 +352434,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l1_01.socpak!/childcloud_s3_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak!/stanton3_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak!/stanton3_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -353882,12 +352921,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l2_01.socpak!/childcloud_s3_l2_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak!/stanton3_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak!/stanton3_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -354368,12 +353408,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l3_01.socpak!/childcloud_s3_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak!/stanton3_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak!/stanton3_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -354854,12 +353895,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l4_01.socpak!/childcloud_s3_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak!/stanton3_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak!/stanton3_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -355340,12 +354382,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l5_01.socpak!/childcloud_s3_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak!/stanton3_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l5.socpak!/stanton3_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -355826,12 +354869,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l1_01.socpak!/childcloud_s2_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -356312,12 +355356,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l2_02.socpak!/childcloud_s2_l2_02.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak!/stanton2_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak!/stanton2_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -356798,12 +355843,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l3_01.socpak!/childcloud_s2_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak!/stanton2_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l3.socpak!/stanton2_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -357284,12 +356330,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l4_01.socpak!/childcloud_s2_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak!/stanton2_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l4.socpak!/stanton2_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -357770,12 +356817,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak!/childcloud_s2_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -358256,12 +357304,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l1_01.socpak!/childcloud_s1_l1_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l1.socpak!/stanton1_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -358742,12 +357791,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l2_01.socpak!/childcloud_s1_l2_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -359228,12 +358278,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l3_01.socpak!/childcloud_s1_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -359714,12 +358765,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l4_01.socpak!/childcloud_s1_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l4.socpak!/stanton1_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -360200,12 +359252,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_005.socpak!/miningasteroid_005.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l5_01.socpak!/childcloud_s1_l5_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak!/stanton1_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l5.socpak!/stanton1_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -360690,7 +359743,7 @@
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l1_01.socpak!/childcloud_s4_l1_01.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l1_02.socpak!/childcloud_s4_l1_02.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l1.socpak!/stanton4_l1.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
@@ -361172,12 +360225,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l2_03.socpak!/childcloud_s4_l2_03.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l2.socpak!/stanton4_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l2.socpak!/stanton4_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -361658,12 +360712,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l3_01.socpak!/childcloud_s4_l3_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak!/stanton4_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l3.socpak!/stanton4_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -362144,12 +361199,13 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l4_01.socpak!/childcloud_s4_l4_01.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak!/stanton4_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak!/stanton4_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_c.xml",
@@ -362634,7 +361690,7 @@
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/asteroidCluster/miningprobefield-002.socpak!/miningprobefield-002.soc",
                                      "Data/ObjectContainers/PU/asteroidCluster/miningasteroid_003.socpak!/miningasteroid_003.xml",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l5_01.socpak!/childcloud_s4_l5_01.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l5_02.socpak!/childcloud_s4_l5_02.xml",
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l5.socpak!/stanton4_l5.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_c.xml",
@@ -364607,10 +363663,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l3_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l3_01.socpak!/childcloud_s3_l3_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak!/stanton3_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l3.socpak!/stanton3_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_d.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_d.xml",
@@ -365104,10 +364161,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l5.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l5_01.socpak!/childcloud_s2_l5_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l5.socpak!/stanton2_l5.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_d.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_d.xml",
@@ -365601,10 +364659,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton4/lagrange/stanton4_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l4_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s4_l4_01.socpak!/childcloud_s4_l4_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak!/stanton4_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton4_l4.socpak!/stanton4_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_d.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_d.xml",
@@ -368583,10 +367642,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l1_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l1_01.socpak!/childcloud_s2_l1_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l1.socpak!/stanton2_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_e.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_e.xml",
@@ -369080,10 +368140,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2/lagrange/stanton2_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l2_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s2_l2_01.socpak!/childcloud_s2_l2_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak!/stanton2_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton2_l2.socpak!/stanton2_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_e.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_e.xml",
@@ -369577,10 +368638,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l3.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l3_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l3_01.socpak!/childcloud_s1_l3_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l3.socpak!/stanton1_l3.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_e.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_e.xml",
@@ -372062,10 +371124,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l1.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l1_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l1_01.socpak!/childcloud_s3_l1_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak!/stanton3_l1.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l1.socpak!/stanton3_l1.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_f.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_f.xml",
@@ -372559,10 +371622,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l2_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l2_01.socpak!/childcloud_s3_l2_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak!/stanton3_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l2.socpak!/stanton3_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_f.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_f.xml",
@@ -373056,10 +372120,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton3/lagrange/stanton3_l4.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l4_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s3_l4_01.socpak!/childcloud_s3_l4_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak!/stanton3_l4.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton3_l4.socpak!/stanton3_l4.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_f.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_f.xml",
@@ -373553,10 +372618,11 @@
         "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton1/lagrange/stanton1_l2.xml",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l2_01.socpak",
-        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak",
+        "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
         "placementSourcePaths":  [
                                      "Data/ObjectContainers/PU/system/stanton/lagrangepoints/childclouds/childcloud_s1_l2_01.socpak!/childcloud_s1_l2_01.soc",
-                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml"
+                                     "Data/ObjectContainers/PU/system/stanton/lagrangepoints/stanton1_l2.socpak!/stanton1_l2.xml",
+                                     "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak!/stantonsystem.xml"
                                  ],
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\harvestable\\providerpresets\\system\\stanton\\asteroidfield\\hpp_lagrange_f.xml",
         "sourceDataPath":  "libs/foundry/records/harvestable/providerpresets/system/stanton/asteroidfield/hpp_lagrange_f.xml",
@@ -383207,14 +382273,14 @@
         "caveTiers":  null
     },
     {
-        "ref":  "81c7e140-34bd-dc58-ba76-ee9b3a4b9bdb",
+        "ref":  "3322483a-e6f3-3c51-8759-f146fba25192",
         "providerRef":  "67d7df21-dd57-436f-97ae-2b7f72271950",
         "displayNameToken":  null,
-        "locationRef":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
-        "locationName":  "Terminus",
-        "locationDesignation":  "Pyro VI",
-        "locationNavIcon":  "Planet",
-        "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/pyro/pyro6/pyro6.xml",
+        "locationRef":  "4c01c566-5254-e470-1520-19a7c1c2cd83",
+        "locationName":  "Terminus Ring",
+        "locationDesignation":  null,
+        "locationNavIcon":  null,
+        "locationSourceDataPath":  "Data/ObjectContainers/PU/system/pyro/pyro6.socpak",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/pyro/pyro6.socpak",
         "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/pyro/pyrosystem.socpak",
@@ -383717,14 +382783,14 @@
         "caveTiers":  null
     },
     {
-        "ref":  "02f995c4-68c8-6155-84b8-b9b95050c9e6",
+        "ref":  "911010cf-585d-d85e-82d6-98a2d24aeb94",
         "providerRef":  "67d7df21-dd57-436f-97ae-2b7f72271950",
         "displayNameToken":  null,
-        "locationRef":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
-        "locationName":  "Yela",
-        "locationDesignation":  "Stanton IIc",
-        "locationNavIcon":  "Moon",
-        "locationSourceDataPath":  "libs/foundry/records/starmap/pu/system/stanton/stanton2c/starmapobject.stanton2c.xml",
+        "locationRef":  "40b88927-08fd-5d93-6947-216b09ce68b4",
+        "locationName":  "Yela Ring",
+        "locationDesignation":  null,
+        "locationNavIcon":  null,
+        "locationSourceDataPath":  "Data/ObjectContainers/PU/system/stanton/stanton2c.socpak",
         "resolutionSource":  "provider-placement",
         "objectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stanton2c.socpak",
         "parentObjectContainerPath":  "Data/ObjectContainers/PU/system/stanton/stantonsystem.socpak",
