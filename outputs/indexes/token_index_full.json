@@ -464722,56 +464722,6 @@
                      ]
     },
     {
-        "token":  "@manufacturer_NameGENF",
-        "ref":  "1b6be99e-f430-459f-ab2a-a912fd6722f8",
-        "codeName":  null,
-        "displayNameToken":  "@manufacturer_NameGENF",
-        "displayName":  "Consumable",
-        "primaryDomain":  "Manufacturer",
-        "description":  "PH Generic Food Description",
-        "commodityTypeKey":  null,
-        "commodityType":  null,
-        "isRaw":  false,
-        "isPure":  false,
-        "isMineable":  false,
-        "isHarvestable":  false,
-        "isSalvageable":  false,
-        "isExplosive":  false,
-        "isVolatileInQuantum":  false,
-        "isRefinable":  false,
-        "refinedVersionRef":  null,
-        "refinesIntoRef":  null,
-        "refinesIntoName":  null,
-        "salvageRefinesIntoRef":  null,
-        "salvageRefinesIntoName":  null,
-        "miningType":  null,
-        "miningElementResourceRef":  null,
-        "illegalInJurisdictionRefs":  [
-
-                                      ],
-        "illegalInJurisdictions":  [
-
-                                   ],
-        "densityGcm3":  null,
-        "leafGroupRef":  null,
-        "leafGroupCodeName":  null,
-        "leafGroupName":  null,
-        "topLevelGroupRef":  null,
-        "topLevelGroupCodeName":  null,
-        "topLevelGroupName":  null,
-        "availableCargoSizes":  [
-
-                                ],
-        "defaultCargoContainerRefs":  null,
-        "entities":  [
-                         {
-                             "domain":  "Manufacturer",
-                             "ref":  "1b6be99e-f430-459f-ab2a-a912fd6722f8",
-                             "codeName":  null
-                         }
-                     ]
-    },
-    {
         "token":  "@manufacturer_NameGMNI",
         "ref":  "b33050cd-6ca9-4c57-baf8-f4114eb85237",
         "codeName":  null,

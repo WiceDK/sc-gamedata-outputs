@@ -53,16 +53,16 @@
     },
     {
         "ref":  "5f81335d-44e6-4104-841e-c5af9df06829",
-        "code":  "FSKI",
+        "code":  "AEG",
         "displayName":  "Aegis Dynamics",
         "displayNameToken":  "@manufacturer_NameAEGS",
         "shortName":  null,
         "shortNameToken":  null,
         "description":  "Aegis grew to prominence as a manufacturer of military spacecraft during the First Tevarin War. Favored by Ivar Messer, their orbital bombers grew to public prominence after his infamous victory on Idris IV and became synonymous with the ruthless Messer regime that followed. After the Fall of the Imperator, Aegis' contracts were stripped, their ships fell out of favor with the public, and the company went into a tailspin. They downsized their craft production and turned to manufacturing parts. However, time heals all wounds and today Aegis has risen once again to be a top military contractor of ships and components.",
         "descriptionToken":  "@manufacturer_DescAEGS",
-        "logo":  "UI/SharedAssets/ManufacturerLogos/FirestormKinetics_256.tif",
-        "logoFullColor":  null,
-        "logoSimplifiedWhite":  null
+        "logo":  "UI/SharedAssets/ManufacturerLogos/Aegis_256.tif",
+        "logoFullColor":  "ui/textures/logos/logo_corp_aegs_square_color.tif",
+        "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_aegs_square_white.tif"
     },
     {
         "ref":  "dd14fd7f-eead-4f7d-8057-2d95405a0183",
@@ -349,19 +349,6 @@
         "logo":  "UI/SharedAssets/ManufacturerLogos/Consolidated_256.tif",
         "logoFullColor":  "ui/textures/logos/logo_corp_cnou_square_color.tif",
         "logoSimplifiedWhite":  "ui/textures/logos/logo_corp_cnou_square_white.tif"
-    },
-    {
-        "ref":  "1b6be99e-f430-459f-ab2a-a912fd6722f8",
-        "code":  "GENF",
-        "displayName":  "Consumable",
-        "displayNameToken":  "@manufacturer_NameGENF",
-        "shortName":  null,
-        "shortNameToken":  null,
-        "description":  "PH Generic Food Description",
-        "descriptionToken":  "@manufacturer_DescGENF",
-        "logo":  "UI/SharedAssets/ManufacturerLogos/GenericFood_256.tif",
-        "logoFullColor":  null,
-        "logoSimplifiedWhite":  null
     },
     {
         "ref":  "63685f47-b0cc-4ebe-8f16-72793a5cd6e0",
@@ -815,6 +802,19 @@
         "description":  "Kruger Intergalactic started as a custom machined parts manufacturer on Borea in the Magnus system, eventually expanded into weapon development and finally as a manufacturer of short-range ships like the P-52.",
         "descriptionToken":  "@manufacturer_DescKRIG",
         "logo":  "UI/SharedAssets/ManufacturerLogos/Kruger_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
+        "ref":  "98bb2e9e-fcc7-46e5-9ba6-d34c42c414e0",
+        "code":  "LBCO",
+        "displayName":  "Lightning Bolt Co.",
+        "displayNameToken":  null,
+        "shortName":  null,
+        "shortNameToken":  null,
+        "description":  null,
+        "descriptionToken":  null,
+        "logo":  "UI/SharedAssets/ManufacturerLogos/LightningBoltCompany_256.tif",
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },
@@ -1361,6 +1361,19 @@
         "description":  "PH - Vaporwear Description",
         "descriptionToken":  "@manufacturer_DescVPW",
         "logo":  "UI/SharedAssets/ManufacturerLogos/UnknownManufacturer_256.tif",
+        "logoFullColor":  null,
+        "logoSimplifiedWhite":  null
+    },
+    {
+        "ref":  "e2787f3b-b892-4276-bb2e-eb2b4dc9666b",
+        "code":  "VOLT",
+        "displayName":  "Verified Offworld Laser Technologies",
+        "displayNameToken":  null,
+        "shortName":  "VOLT",
+        "shortNameToken":  null,
+        "description":  null,
+        "descriptionToken":  null,
+        "logo":  null,
         "logoFullColor":  null,
         "logoSimplifiedWhite":  null
     },
