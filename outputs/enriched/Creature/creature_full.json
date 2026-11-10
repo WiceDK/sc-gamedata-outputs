@@ -5,6 +5,8 @@
         "family":  "Aloprat",
         "name":  "Aloprat",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Aloprat",
         "health":  100,
         "massKg":  110,
         "drops":  [
@@ -22,6 +24,8 @@
         "family":  "Aloprat",
         "name":  "Aloprat (Roaming group)",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Aloprat (Roaming group)",
         "health":  1,
         "massKg":  10,
         "drops":  [
@@ -626,6 +630,8 @@
         "family":  "Aloprat",
         "name":  "Aloprat (Variant 2)",
         "nameSource":  "label",
+        "variantOf":  "0dd472bb-db4f-40e9-add3-516abecae573",
+        "variantName":  "Aloprat (Variant 2)",
         "health":  100,
         "massKg":  110,
         "drops":  [
@@ -643,6 +649,8 @@
         "family":  "Kopion",
         "name":  "Cave Kopion",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Cave Kopion",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -650,10 +658,41 @@
                           "itemRef":  "9a906fca-8116-4334-9ac7-7b2fce486d8c",
                           "itemName":  "Cave Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
+                           "locationName":  "Bloom",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ee842006-2374-4fe9-939d-8f02ac8cd4f3",
+                           "locationName":  "Monox",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ac826dfb-7142-4a15-bcdd-8e15d337ad1f",
+                           "locationName":  "Pyro IV",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "8c462714-a82e-4d91-8d13-33b325a8efa5",
+                           "locationName":  "Terminus",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
                            "locationName":  "Hurston",
@@ -769,6 +808,8 @@
         "family":  "Kopion",
         "name":  "Forest Kopion",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Forest Kopion",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -776,10 +817,20 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
                            "locationName":  "Hurston",
@@ -895,6 +946,8 @@
         "family":  "Kopion",
         "name":  "Irradiated Kopion",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Irradiated Kopion",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -902,7 +955,10 @@
                           "itemRef":  "43b02152-357d-4ec6-ac98-5191bcd2d238",
                           "itemName":  "Irradiated Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1063,6 +1119,8 @@
         "family":  "Kopion",
         "name":  "Kopion",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Kopion",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1070,10 +1128,27 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
+                           "locationName":  "Hurston",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
                            "locationName":  "Hurston",
@@ -1189,6 +1264,8 @@
         "family":  "Kopion",
         "name":  "Kopion (Caged)",
         "nameSource":  "label",
+        "variantOf":  "6a9c6fc8-6763-4c22-9539-2f4faaa90ddc",
+        "variantName":  "Kopion (Caged)",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1196,7 +1273,10 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1208,8 +1288,22 @@
                            "detail":  ""
                        },
                        {
+                           "locationRef":  "142f694d-6d72-4915-bfa1-ead77af036ce",
+                           "locationName":  "Farro Data Center IX",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
                            "locationRef":  "586018a7-0b89-47d3-afc7-a21aba34e7ae",
                            "locationName":  "PYR2 L4",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ac826dfb-7142-4a15-bcdd-8e15d337ad1f",
+                           "locationName":  "Pyro IV",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  ""
@@ -1224,6 +1318,8 @@
         "family":  "Kopion",
         "name":  "Kopion (Combat pet)",
         "nameSource":  "label",
+        "variantOf":  "6a9c6fc8-6763-4c22-9539-2f4faaa90ddc",
+        "variantName":  "Kopion (Combat pet)",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1231,7 +1327,10 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1246,6 +1345,8 @@
         "family":  "Kopion",
         "name":  "Kopion (Frontier Fighters combat pet)",
         "nameSource":  "label",
+        "variantOf":  "6a9c6fc8-6763-4c22-9539-2f4faaa90ddc",
+        "variantName":  "Kopion (Frontier Fighters combat pet)",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1253,7 +1354,10 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1268,6 +1372,8 @@
         "family":  "Kopion",
         "name":  "Kopion (Frontier Fighters pet)",
         "nameSource":  "label",
+        "variantOf":  "6a9c6fc8-6763-4c22-9539-2f4faaa90ddc",
+        "variantName":  "Kopion (Frontier Fighters pet)",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1275,7 +1381,10 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1290,6 +1399,8 @@
         "family":  "Kopion",
         "name":  "Kopion (Headhunter pet)",
         "nameSource":  "label",
+        "variantOf":  "6a9c6fc8-6763-4c22-9539-2f4faaa90ddc",
+        "variantName":  "Kopion (Headhunter pet)",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1297,7 +1408,10 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1312,6 +1426,8 @@
         "family":  "Kopion",
         "name":  "Kopion (Nine Tails combat pet)",
         "nameSource":  "label",
+        "variantOf":  "6a9c6fc8-6763-4c22-9539-2f4faaa90ddc",
+        "variantName":  "Kopion (Nine Tails combat pet)",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1319,7 +1435,10 @@
                           "itemRef":  "2c1e3183-28ee-4ab9-af4c-938ccec94754",
                           "itemName":  "Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1334,6 +1453,8 @@
         "family":  "Kopion",
         "name":  "Savannah Kopion",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Savannah Kopion",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1341,7 +1462,10 @@
                           "itemRef":  "b9141d18-a8c4-4ac1-a2af-6bf91f441950",
                           "itemName":  "Savannah Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1460,6 +1584,8 @@
         "family":  "Kopion",
         "name":  "Tundra Kopion",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Tundra Kopion",
         "health":  75,
         "massKg":  42,
         "drops":  [
@@ -1467,10 +1593,20 @@
                           "itemRef":  "31033547-e451-44d2-85df-ab16b9d083d9",
                           "itemName":  "Tundra Kopion Horn",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
                            "locationName":  "Hurston",
@@ -1586,6 +1722,8 @@
         "family":  "Marok",
         "name":  "Marok",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Marok",
         "health":  1,
         "massKg":  10,
         "drops":  [
@@ -1593,10 +1731,20 @@
                           "itemRef":  "680352e9-5541-44b9-983a-a1a2802223f4",
                           "itemName":  "Marok Gem",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "d8935d2e-1b10-4b50-b188-80e35dd0876a",
                            "locationName":  "Adir",
@@ -1633,6 +1781,13 @@
                            "detail":  ""
                        },
                        {
+                           "locationRef":  "37169606-93f7-48ee-9d14-33d13c6faaad",
+                           "locationName":  "Derelict Outpost",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
                            "locationRef":  "67b26f30-bc36-4c3f-b143-d5beda464d7e",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
@@ -1647,7 +1802,7 @@
                            "detail":  ""
                        },
                        {
-                           "locationRef":  "b7c99c15-54be-418e-bd06-e6e524b767c6",
+                           "locationRef":  "0af37acd-99ab-476c-a383-44e5638de224",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
                            "scope":  "variant",
@@ -1661,14 +1816,7 @@
                            "detail":  ""
                        },
                        {
-                           "locationRef":  "37169606-93f7-48ee-9d14-33d13c6faaad",
-                           "locationName":  "Derelict Outpost",
-                           "source":  "level_placement",
-                           "scope":  "variant",
-                           "detail":  ""
-                       },
-                       {
-                           "locationRef":  "0af37acd-99ab-476c-a383-44e5638de224",
+                           "locationRef":  "b7c99c15-54be-418e-bd06-e6e524b767c6",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
                            "scope":  "variant",
@@ -1873,6 +2021,8 @@
         "family":  "Marok",
         "name":  "Marok (Cave)",
         "nameSource":  "label",
+        "variantOf":  "76f67336-3425-44ce-8e90-636b6bd40909",
+        "variantName":  "Marok (Cave)",
         "health":  1,
         "massKg":  10,
         "drops":  [
@@ -1880,7 +2030,10 @@
                           "itemRef":  "680352e9-5541-44b9-983a-a1a2802223f4",
                           "itemName":  "Marok Gem",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1908,6 +2061,8 @@
         "family":  "Marok",
         "name":  "Marok (Forest)",
         "nameSource":  "label",
+        "variantOf":  "76f67336-3425-44ce-8e90-636b6bd40909",
+        "variantName":  "Marok (Forest)",
         "health":  1,
         "massKg":  10,
         "drops":  [
@@ -1915,7 +2070,10 @@
                           "itemRef":  "680352e9-5541-44b9-983a-a1a2802223f4",
                           "itemName":  "Marok Gem",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -1943,6 +2101,8 @@
         "family":  "Marok",
         "name":  "Marok (Savannah)",
         "nameSource":  "label",
+        "variantOf":  "76f67336-3425-44ce-8e90-636b6bd40909",
+        "variantName":  "Marok (Savannah)",
         "health":  1,
         "massKg":  10,
         "drops":  [
@@ -1950,10 +2110,20 @@
                           "itemRef":  "680352e9-5541-44b9-983a-a1a2802223f4",
                           "itemName":  "Marok Gem",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
+                           "locationName":  "Hurston",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
                            "locationName":  "Hurston",
@@ -1978,6 +2148,8 @@
         "family":  "Marok",
         "name":  "Marok (Tundra)",
         "nameSource":  "label",
+        "variantOf":  "76f67336-3425-44ce-8e90-636b6bd40909",
+        "variantName":  "Marok (Tundra)",
         "health":  1,
         "massKg":  10,
         "drops":  [
@@ -1985,7 +2157,10 @@
                           "itemRef":  "680352e9-5541-44b9-983a-a1a2802223f4",
                           "itemName":  "Marok Gem",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2013,6 +2188,8 @@
         "family":  "Quasi Grazer",
         "name":  "Boreal Quasi Grazer",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Boreal Quasi Grazer",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2020,10 +2197,20 @@
                           "itemRef":  "752524b3-2e18-4046-87f5-bff3f6877b87",
                           "itemName":  "Boreal Quasi Grazer Egg",
                           "quantityMin":  8,
-                          "quantityMax":  11
+                          "quantityMax":  11,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
                            "locationName":  "Bloom",
@@ -2069,6 +2256,8 @@
         "family":  "Quasi Grazer",
         "name":  "Desert Quasi Grazer",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Desert Quasi Grazer",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2076,10 +2265,62 @@
                           "itemRef":  "b3f97a24-b941-4551-ba4b-161b5af139e8",
                           "itemName":  "Desert Quasi Grazer Egg",
                           "quantityMin":  8,
-                          "quantityMax":  11
+                          "quantityMax":  11,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
+                           "locationName":  "Bloom",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "73733370-d920-4056-9326-8c1f8b5a8a04",
+                           "locationName":  "Fairo",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
+                           "locationName":  "Hurston",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "88c11b95-0d17-4d48-ad6f-2bbaad4a472f",
+                           "locationName":  "Ignis",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ee842006-2374-4fe9-939d-8f02ac8cd4f3",
+                           "locationName":  "Monox",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ac826dfb-7142-4a15-bcdd-8e15d337ad1f",
+                           "locationName":  "Pyro IV",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
                            "locationName":  "Bloom",
@@ -2125,6 +2366,8 @@
         "family":  "Quasi Grazer",
         "name":  "Grassland Quasi Grazer",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Grassland Quasi Grazer",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2132,10 +2375,202 @@
                           "itemRef":  "c685ec4c-a44b-4283-a713-4c8c1485a60f",
                           "itemName":  "Grassland Quasi Grazer Egg",
                           "quantityMin":  8,
-                          "quantityMax":  11
+                          "quantityMax":  11,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
+                           "locationName":  "Bloom",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ac826dfb-7142-4a15-bcdd-8e15d337ad1f",
+                           "locationName":  "Pyro IV",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+                           "locationName":  "Aberdeen",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+                           "locationName":  "Arial",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+                           "locationName":  "Calliope",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "b41a1bc9-5bca-489b-8273-de90f18ec60d",
+                           "locationName":  "Cellin",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+                           "locationName":  "Clio",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "e658b2b1-fae7-4945-89b8-b332f235d59b",
+                           "locationName":  "Daymar",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "732dedf3-9530-4972-98ab-2fcae64669db",
+                           "locationName":  "Euterpe",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+                           "locationName":  "Ita",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+                           "locationName":  "Lyria",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+                           "locationName":  "Magda",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "e5e4bf0d-3c05-457c-8b6a-9b7470642167",
+                           "locationName":  "Onyx Facility S1A7",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "af138034-7769-4269-b3b4-68455f73737a",
+                           "locationName":  "Onyx Facility S1B2",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "0acbb3f7-9c73-4df4-8ff4-71e08d87d2fc",
+                           "locationName":  "Onyx Facility S1C5",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "2a15c2ab-c9bd-424f-b251-f2a1d1e8adee",
+                           "locationName":  "Onyx Facility S1D4",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "7818b5c5-987d-454b-8fd7-2a0d0cb2efc4",
+                           "locationName":  "Onyx Facility S2A5",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "bdda0b3b-ee7e-42ce-8898-a4c616244191",
+                           "locationName":  "Onyx Facility S2B8",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "a254d53e-acee-4191-bcb2-b43e3606dfa0",
+                           "locationName":  "Onyx Facility S2C10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "c7e23987-5b0e-4492-ad11-dd35c90012f6",
+                           "locationName":  "Onyx Facility S3A10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "96a83d7c-d3ab-4bcd-8d4c-80cf4bfe3190",
+                           "locationName":  "Onyx Facility S3B10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "18c4058a-d9f5-4975-9329-13c7297f41cb",
+                           "locationName":  "Onyx Facility S4A2",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "b3b89a31-fb76-413e-b9ea-4a6963d59788",
+                           "locationName":  "Onyx Facility S4B5",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "9dde9d01-23b0-4a49-a837-90d24cd1b41f",
+                           "locationName":  "Onyx Facility S4C10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+                           "locationName":  "Wala",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
+                           "locationName":  "Yela",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
                            "locationName":  "Bloom",
@@ -2181,6 +2616,8 @@
         "family":  "Quasi Grazer",
         "name":  "Jungle Quasi Grazer",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Jungle Quasi Grazer",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2188,7 +2625,10 @@
                           "itemRef":  "3a74229d-4654-43f7-8148-8c135f62b82b",
                           "itemName":  "Jungle Quasi Grazer Egg",
                           "quantityMin":  8,
-                          "quantityMax":  11
+                          "quantityMax":  11,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2237,6 +2677,8 @@
         "family":  "Quasi Grazer",
         "name":  "Tundra Quasi Grazer",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Tundra Quasi Grazer",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2244,13 +2686,19 @@
                           "itemRef":  "06b503b8-01c8-4447-80d5-843d61a5d2b6",
                           "itemName":  "Quasi Grazer Tongue",
                           "quantityMin":  0,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       },
                       {
                           "itemRef":  "9bb33649-430c-45e5-b210-958e33af2c89",
                           "itemName":  "Tundra Quasi Grazer Egg",
                           "quantityMin":  0,
-                          "quantityMax":  20
+                          "quantityMax":  20,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2299,6 +2747,8 @@
         "family":  "Quasi Grazer",
         "name":  "Tundra Quasi Grazer (Variant 2)",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Tundra Quasi Grazer (Variant 2)",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2306,10 +2756,27 @@
                           "itemRef":  "06b503b8-01c8-4447-80d5-843d61a5d2b6",
                           "itemName":  "Quasi Grazer Tongue",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
+                           "locationName":  "Bloom",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "5a529db7-1a4e-45b0-bdcb-a5a0c7a7fc57",
+                           "locationName":  "microTech",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "59637d5a-c67a-47eb-96dc-b648298f0023",
                            "locationName":  "Bloom",
@@ -2355,6 +2822,8 @@
         "family":  "Small animals",
         "name":  "Leyland's Tortoise",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Leyland's Tortoise",
         "health":  null,
         "massKg":  null,
         "drops":  [
@@ -2362,13 +2831,19 @@
                           "itemRef":  "a0a4e1f8-8c68-486f-b828-5b241d02337a",
                           "itemName":  "Leyland's Tortoise",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       },
                       {
                           "itemRef":  "0e19caaa-44b9-4708-a86e-e4301ecdd0f8",
                           "itemName":  "Leyland's Tortoise",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2383,6 +2858,8 @@
         "family":  "Small animals",
         "name":  "Stone Bug",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Stone Bug",
         "health":  null,
         "massKg":  null,
         "drops":  [
@@ -2390,7 +2867,10 @@
                           "itemRef":  "63cd8bfe-1b58-45aa-9e92-93271ecdbdee",
                           "itemName":  "Stone Bug Shell",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2411,6 +2891,8 @@
         "family":  "Small animals",
         "name":  "Vent Slug",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Vent Slug",
         "health":  null,
         "massKg":  null,
         "drops":  [
@@ -2418,7 +2900,10 @@
                           "itemRef":  "bfa3fb80-fd27-4c56-a51e-f068798b530e",
                           "itemName":  "Vent Slug",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2433,6 +2918,8 @@
         "family":  "Stormwal",
         "name":  "Stormwal",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Stormwal",
         "health":  null,
         "massKg":  null,
         "drops":  [
@@ -2448,8 +2935,10 @@
         "ref":  "d30c4fa4-dba4-4915-a21a-ed727e4196bb",
         "kind":  "actor",
         "family":  "Tauroch",
-        "name":  "Tauroch (Arctic)",
+        "name":  "Tauroch",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Tauroch (Arctic)",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2467,6 +2956,8 @@
         "family":  "Tauroch",
         "name":  "Tauroch (Desert)",
         "nameSource":  "label",
+        "variantOf":  "d30c4fa4-dba4-4915-a21a-ed727e4196bb",
+        "variantName":  "Tauroch (Desert)",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2484,6 +2975,8 @@
         "family":  "Tauroch",
         "name":  "Tauroch (Forest)",
         "nameSource":  "label",
+        "variantOf":  "d30c4fa4-dba4-4915-a21a-ed727e4196bb",
+        "variantName":  "Tauroch (Forest)",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2501,6 +2994,8 @@
         "family":  "Tauroch",
         "name":  "Tauroch (Grassland)",
         "nameSource":  "label",
+        "variantOf":  "d30c4fa4-dba4-4915-a21a-ed727e4196bb",
+        "variantName":  "Tauroch (Grassland)",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2518,6 +3013,8 @@
         "family":  "Tauroch",
         "name":  "Tauroch (Jungle)",
         "nameSource":  "label",
+        "variantOf":  "d30c4fa4-dba4-4915-a21a-ed727e4196bb",
+        "variantName":  "Tauroch (Jungle)",
         "health":  75,
         "massKg":  510,
         "drops":  [
@@ -2535,6 +3032,8 @@
         "family":  "Valakkar",
         "name":  "Irradiated Valakkar (Adult)",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Irradiated Valakkar (Adult)",
         "health":  475,
         "massKg":  18000,
         "drops":  [
@@ -2542,7 +3041,10 @@
                           "itemRef":  "80caa9bb-b375-40ce-b218-34b0fd63cf87",
                           "itemName":  "Valakkar Fang (Adult)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2563,6 +3065,8 @@
         "family":  "Valakkar",
         "name":  "Irradiated Valakkar (Apex)",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Irradiated Valakkar (Apex)",
         "health":  27000,
         "massKg":  12000000,
         "drops":  [
@@ -2570,7 +3074,28 @@
                           "itemRef":  "f8cb1253-585f-40fe-8359-6b5de284c47e",
                           "itemName":  "Irradiated Valakkar Fang (Apex)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
+                      },
+                      {
+                          "itemRef":  "e738c605-8ef7-4238-8170-5db0c4c9c15d",
+                          "itemName":  "Irradiated Valakkar Pearl (Grade AA)",
+                          "quantityMin":  0,
+                          "quantityMax":  15,
+                          "method":  "mined",
+                          "nodeCount":  15,
+                          "chancePercent":  80
+                      },
+                      {
+                          "itemRef":  "e738c105-8ef7-4238-8170-5db0c4f9c15d",
+                          "itemName":  "Irradiated Valakkar Pearl (Grade AAA)",
+                          "quantityMin":  0,
+                          "quantityMax":  15,
+                          "method":  "mined",
+                          "nodeCount":  15,
+                          "chancePercent":  20
                       }
                   ],
         "spawns":  [
@@ -2591,6 +3116,8 @@
         "family":  "Valakkar",
         "name":  "Irradiated Valakkar (Juvenile)",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Irradiated Valakkar (Juvenile)",
         "health":  90,
         "massKg":  650,
         "drops":  [
@@ -2598,10 +3125,181 @@
                           "itemRef":  "72eca4eb-23b8-43b0-94b0-72d31b6ba358",
                           "itemName":  "Irradiated Valakkar Fang (Juvenile)",
                           "quantityMin":  3,
-                          "quantityMax":  3
+                          "quantityMax":  3,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+                           "locationName":  "Aberdeen",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "f3fa9d13-3fdc-41f3-b5e5-25f0b74c0728",
+                           "locationName":  "Arial",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "3304263b-f133-41f8-85e7-79693e5bb2de",
+                           "locationName":  "Calliope",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "b41a1bc9-5bca-489b-8273-de90f18ec60d",
+                           "locationName":  "Cellin",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "2a21d86f-ebf0-4052-a134-c414c9998592",
+                           "locationName":  "Clio",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "e658b2b1-fae7-4945-89b8-b332f235d59b",
+                           "locationName":  "Daymar",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "732dedf3-9530-4972-98ab-2fcae64669db",
+                           "locationName":  "Euterpe",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "11368ee6-a2de-4948-a9b0-608ce565f3e3",
+                           "locationName":  "Ita",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "452de0e6-e31d-4e2c-b249-1c4244cb713b",
+                           "locationName":  "Lyria",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+                           "locationName":  "Magda",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "e5e4bf0d-3c05-457c-8b6a-9b7470642167",
+                           "locationName":  "Onyx Facility S1A7",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "af138034-7769-4269-b3b4-68455f73737a",
+                           "locationName":  "Onyx Facility S1B2",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "0acbb3f7-9c73-4df4-8ff4-71e08d87d2fc",
+                           "locationName":  "Onyx Facility S1C5",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "2a15c2ab-c9bd-424f-b251-f2a1d1e8adee",
+                           "locationName":  "Onyx Facility S1D4",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "7818b5c5-987d-454b-8fd7-2a0d0cb2efc4",
+                           "locationName":  "Onyx Facility S2A5",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "bdda0b3b-ee7e-42ce-8898-a4c616244191",
+                           "locationName":  "Onyx Facility S2B8",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "a254d53e-acee-4191-bcb2-b43e3606dfa0",
+                           "locationName":  "Onyx Facility S2C10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "c7e23987-5b0e-4492-ad11-dd35c90012f6",
+                           "locationName":  "Onyx Facility S3A10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "96a83d7c-d3ab-4bcd-8d4c-80cf4bfe3190",
+                           "locationName":  "Onyx Facility S3B10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "18c4058a-d9f5-4975-9329-13c7297f41cb",
+                           "locationName":  "Onyx Facility S4A2",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "b3b89a31-fb76-413e-b9ea-4a6963d59788",
+                           "locationName":  "Onyx Facility S4B5",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "9dde9d01-23b0-4a49-a837-90d24cd1b41f",
+                           "locationName":  "Onyx Facility S4C10",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "d6f1ccd9-fbfb-4086-9608-8466ef2c1c93",
+                           "locationName":  "Wala",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ee63a520-43df-4e1c-8af7-8b8df06b3dd2",
+                           "locationName":  "Yela",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "0b7b5935-2d44-4a37-bb5d-c054a94cbe4e",
                            "locationName":  "QV Breaker Station",
@@ -2619,6 +3317,8 @@
         "family":  "Valakkar",
         "name":  "Irradiated Valakkar (Juvenile, Sentry)",
         "nameSource":  "label",
+        "variantOf":  "10e5042f-7695-4b79-bf2c-88251584a547",
+        "variantName":  "Irradiated Valakkar (Juvenile, Sentry)",
         "health":  90,
         "massKg":  650,
         "drops":  [
@@ -2626,7 +3326,10 @@
                           "itemRef":  "72eca4eb-23b8-43b0-94b0-72d31b6ba358",
                           "itemName":  "Irradiated Valakkar Fang (Juvenile)",
                           "quantityMin":  3,
-                          "quantityMax":  3
+                          "quantityMax":  3,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2641,6 +3344,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Adult)",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Valakkar (Adult)",
         "health":  550,
         "massKg":  18000,
         "drops":  [
@@ -2648,7 +3353,10 @@
                           "itemRef":  "80caa9bb-b375-40ce-b218-34b0fd63cf87",
                           "itemName":  "Valakkar Fang (Adult)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2669,6 +3377,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Adult, Ice)",
         "nameSource":  "label",
+        "variantOf":  "90f91eb0-0665-40ac-bca1-2c8ba9a739cb",
+        "variantName":  "Valakkar (Adult, Ice)",
         "health":  550,
         "massKg":  18000,
         "drops":  [
@@ -2676,7 +3386,10 @@
                           "itemRef":  "80caa9bb-b375-40ce-b218-34b0fd63cf87",
                           "itemName":  "Valakkar Fang (Adult)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2691,6 +3404,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Adult, Ice, Sentry)",
         "nameSource":  "label",
+        "variantOf":  "90f91eb0-0665-40ac-bca1-2c8ba9a739cb",
+        "variantName":  "Valakkar (Adult, Ice, Sentry)",
         "health":  550,
         "massKg":  18000,
         "drops":  [
@@ -2698,7 +3413,10 @@
                           "itemRef":  "80caa9bb-b375-40ce-b218-34b0fd63cf87",
                           "itemName":  "Valakkar Fang (Adult)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2713,6 +3431,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Adult, Sentry)",
         "nameSource":  "label",
+        "variantOf":  "90f91eb0-0665-40ac-bca1-2c8ba9a739cb",
+        "variantName":  "Valakkar (Adult, Sentry)",
         "health":  550,
         "massKg":  18000,
         "drops":  [
@@ -2720,7 +3440,10 @@
                           "itemRef":  "80caa9bb-b375-40ce-b218-34b0fd63cf87",
                           "itemName":  "Valakkar Fang (Adult)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2735,6 +3458,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Apex)",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Valakkar (Apex)",
         "health":  400000,
         "massKg":  12000000,
         "drops":  [
@@ -2742,7 +3467,10 @@
                           "itemRef":  "68ccd2a1-6c7f-4373-af4f-501e7a7db99e",
                           "itemName":  "Valakkar Fang (Apex)",
                           "quantityMin":  6,
-                          "quantityMax":  6
+                          "quantityMax":  6,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2763,6 +3491,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Juvenile)",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Valakkar (Juvenile)",
         "health":  110,
         "massKg":  650,
         "drops":  [
@@ -2770,10 +3500,83 @@
                           "itemRef":  "e3522bd2-4420-4b3a-8679-7fc929411e85",
                           "itemName":  "Valakkar Fang (Juvenile)",
                           "quantityMin":  3,
-                          "quantityMax":  3
+                          "quantityMax":  3,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
+                       {
+                           "locationRef":  "f8f07f5b-1c0e-47c9-aa50-46963065bf18",
+                           "locationName":  "Aberdeen",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "d8935d2e-1b10-4b50-b188-80e35dd0876a",
+                           "locationName":  "Adir",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "e658b2b1-fae7-4945-89b8-b332f235d59b",
+                           "locationName":  "Daymar",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "73733370-d920-4056-9326-8c1f8b5a8a04",
+                           "locationName":  "Fairo",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "551af60b-7727-4936-acc7-763d25d7a1de",
+                           "locationName":  "Hurston",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "88c11b95-0d17-4d48-ad6f-2bbaad4a472f",
+                           "locationName":  "Ignis",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "6f22b292-38d6-4429-b504-99b39514a2f8",
+                           "locationName":  "Magda",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "ee842006-2374-4fe9-939d-8f02ac8cd4f3",
+                           "locationName":  "Monox",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "baccdeb5-1960-487e-beab-d7b51f1871d1",
+                           "locationName":  "Vatra",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
+                       {
+                           "locationRef":  "b5240b3a-ee0e-4c3f-b93c-f7aaadc81b2e",
+                           "locationName":  "Vuur",
+                           "source":  "biome",
+                           "scope":  "variant",
+                           "detail":  ""
+                       },
                        {
                            "locationRef":  "e658b2b1-fae7-4945-89b8-b332f235d59b",
                            "locationName":  "Daymar",
@@ -2805,6 +3608,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Juvenile, Ice)",
         "nameSource":  "label",
+        "variantOf":  "ffb995c0-733f-4c8b-a83c-d606fb7037e7",
+        "variantName":  "Valakkar (Juvenile, Ice)",
         "health":  110,
         "massKg":  650,
         "drops":  [
@@ -2812,7 +3617,10 @@
                           "itemRef":  "e3522bd2-4420-4b3a-8679-7fc929411e85",
                           "itemName":  "Valakkar Fang (Juvenile)",
                           "quantityMin":  3,
-                          "quantityMax":  3
+                          "quantityMax":  3,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2827,6 +3635,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Juvenile, Ice, Sentry)",
         "nameSource":  "label",
+        "variantOf":  "ffb995c0-733f-4c8b-a83c-d606fb7037e7",
+        "variantName":  "Valakkar (Juvenile, Ice, Sentry)",
         "health":  110,
         "massKg":  650,
         "drops":  [
@@ -2834,7 +3644,10 @@
                           "itemRef":  "e3522bd2-4420-4b3a-8679-7fc929411e85",
                           "itemName":  "Valakkar Fang (Juvenile)",
                           "quantityMin":  3,
-                          "quantityMax":  3
+                          "quantityMax":  3,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2849,6 +3662,8 @@
         "family":  "Valakkar",
         "name":  "Valakkar (Juvenile, Sentry)",
         "nameSource":  "label",
+        "variantOf":  "ffb995c0-733f-4c8b-a83c-d606fb7037e7",
+        "variantName":  "Valakkar (Juvenile, Sentry)",
         "health":  110,
         "massKg":  650,
         "drops":  [
@@ -2856,7 +3671,10 @@
                           "itemRef":  "e3522bd2-4420-4b3a-8679-7fc929411e85",
                           "itemName":  "Valakkar Fang (Juvenile)",
                           "quantityMin":  3,
-                          "quantityMax":  3
+                          "quantityMax":  3,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -2871,6 +3689,8 @@
         "family":  "Vindel",
         "name":  "Vindel",
         "nameSource":  "label",
+        "variantOf":  null,
+        "variantName":  "Vindel",
         "health":  1,
         "massKg":  null,
         "drops":  [
@@ -3055,6 +3875,8 @@
         "family":  "Yormandi",
         "name":  "Yormandi",
         "nameSource":  "game",
+        "variantOf":  null,
+        "variantName":  "Yormandi",
         "health":  3355,
         "massKg":  1500,
         "drops":  [
@@ -3062,13 +3884,19 @@
                           "itemRef":  "124da32f-de8f-45f6-a2f1-81fd47752b2d",
                           "itemName":  "Yormandi Eye",
                           "quantityMin":  2,
-                          "quantityMax":  2
+                          "quantityMax":  2,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       },
                       {
                           "itemRef":  "2845e7ee-2f52-471b-a0a7-05ca11908fe6",
                           "itemName":  "Yormandi Tongue",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
@@ -3083,6 +3911,8 @@
         "family":  "Yormandi",
         "name":  "Yormandi (Second spawn)",
         "nameSource":  "label",
+        "variantOf":  "8a3ecd8f-31c0-47cb-8433-c8dfa9ec78fe",
+        "variantName":  "Yormandi (Second spawn)",
         "health":  3355,
         "massKg":  1500,
         "drops":  [
@@ -3090,13 +3920,19 @@
                           "itemRef":  "124da32f-de8f-45f6-a2f1-81fd47752b2d",
                           "itemName":  "Yormandi Eye",
                           "quantityMin":  2,
-                          "quantityMax":  2
+                          "quantityMax":  2,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       },
                       {
                           "itemRef":  "2845e7ee-2f52-471b-a0a7-05ca11908fe6",
                           "itemName":  "Yormandi Tongue",
                           "quantityMin":  1,
-                          "quantityMax":  1
+                          "quantityMax":  1,
+                          "method":  "taken",
+                          "nodeCount":  null,
+                          "chancePercent":  null
                       }
                   ],
         "spawns":  [
