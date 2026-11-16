@@ -784,7 +784,7 @@
     },
     {
         "duplicate_name":  "Asteroid Cluster",
-        "duplicate_count":  3,
+        "duplicate_count":  2,
         "ref":  "0a5d7fba-89e8-4558-9ea7-09497b3046ea",
         "type":  "Default",
         "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
@@ -793,17 +793,8 @@
     },
     {
         "duplicate_name":  "Asteroid Cluster",
-        "duplicate_count":  3,
+        "duplicate_count":  2,
         "ref":  "f0551966-135c-41bd-a1b2-b79d30503c95",
-        "type":  "Default",
-        "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
-        "parent_name":  "Nyx",
-        "source_path":  null
-    },
-    {
-        "duplicate_name":  "Asteroid Cluster",
-        "duplicate_count":  3,
-        "ref":  "d9fed388-6aaa-40a5-837f-51a54fd9f0d3",
         "type":  "Default",
         "parent_id":  "77ed5653-bd14-4952-b904-afd79faeef60",
         "parent_name":  "Nyx",
@@ -1507,8 +1498,8 @@
         "duplicate_count":  2,
         "ref":  "23098c21-935e-425a-a2bd-6e25b6e3d6b3",
         "type":  "Default",
-        "parent_id":  "2fab7ac2-17e6-496b-bd90-75353c9f5c11",
-        "parent_name":  "Vision Center",
+        "parent_id":  "122e8057-831d-4517-a23b-0eb8382b90a2",
+        "parent_name":  "New Babbage",
         "source_path":  null
     },
     {

@@ -113,6 +113,14 @@
                            "missionRef":  null
                        },
                        {
+                           "locationRef":  "2f3f79cc-3364-474e-98b0-5db28dc0ec6a",
+                           "locationName":  "Derelict Outpost",
+                           "source":  "level_placement",
+                           "scope":  "variant",
+                           "detail":  "",
+                           "missionRef":  null
+                       },
+                       {
                            "locationRef":  "b7c99c15-54be-418e-bd06-e6e524b767c6",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
@@ -121,7 +129,7 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "026dec28-05b5-435f-8a2b-c723e44e3ffb",
+                           "locationRef":  "67b26f30-bc36-4c3f-b143-d5beda464d7e",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
                            "scope":  "variant",
@@ -137,7 +145,7 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "2f3f79cc-3364-474e-98b0-5db28dc0ec6a",
+                           "locationRef":  "026dec28-05b5-435f-8a2b-c723e44e3ffb",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
                            "scope":  "variant",
@@ -154,14 +162,6 @@
                        },
                        {
                            "locationRef":  "37169606-93f7-48ee-9d14-33d13c6faaad",
-                           "locationName":  "Derelict Outpost",
-                           "source":  "level_placement",
-                           "scope":  "variant",
-                           "detail":  "",
-                           "missionRef":  null
-                       },
-                       {
-                           "locationRef":  "67b26f30-bc36-4c3f-b143-d5beda464d7e",
                            "locationName":  "Derelict Outpost",
                            "source":  "level_placement",
                            "scope":  "variant",
@@ -217,32 +217,32 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "e5e4bf0d-3c05-457c-8b6a-9b7470642167",
-                           "locationName":  "Onyx Facility S1A7",
+                           "locationRef":  "0215cb1c-0baa-4930-877b-5d6d446fe9da",
+                           "locationName":  "Onyx Facility S1A10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "af138034-7769-4269-b3b4-68455f73737a",
-                           "locationName":  "Onyx Facility S1B2",
+                           "locationRef":  "ce4763f2-ce9d-4dbf-a4ba-47f651384130",
+                           "locationName":  "Onyx Facility S1B10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "0acbb3f7-9c73-4df4-8ff4-71e08d87d2fc",
-                           "locationName":  "Onyx Facility S1C5",
+                           "locationRef":  "94accbaa-a0a7-420a-a249-f5a4b94cd193",
+                           "locationName":  "Onyx Facility S1C7",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "2a15c2ab-c9bd-424f-b251-f2a1d1e8adee",
-                           "locationName":  "Onyx Facility S1D4",
+                           "locationRef":  "df7f17da-1018-43db-b494-0d5092673a9b",
+                           "locationName":  "Onyx Facility S1D10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -273,16 +273,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "c7e23987-5b0e-4492-ad11-dd35c90012f6",
-                           "locationName":  "Onyx Facility S3A10",
+                           "locationRef":  "5e302473-4f46-47ac-8876-65aacda327bc",
+                           "locationName":  "Onyx Facility S3A2",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "96a83d7c-d3ab-4bcd-8d4c-80cf4bfe3190",
-                           "locationName":  "Onyx Facility S3B10",
+                           "locationRef":  "4b8a930f-719d-49eb-b134-356b2ff70040",
+                           "locationName":  "Onyx Facility S3B8",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -297,16 +297,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "b3b89a31-fb76-413e-b9ea-4a6963d59788",
-                           "locationName":  "Onyx Facility S4B5",
+                           "locationRef":  "426de01d-6d56-4f73-8d1d-4cf020e6d35b",
+                           "locationName":  "Onyx Facility S4B4",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "9dde9d01-23b0-4a49-a837-90d24cd1b41f",
-                           "locationName":  "Onyx Facility S4C10",
+                           "locationRef":  "e2e3c600-166e-4106-bd7c-22b10a6974c5",
+                           "locationName":  "Onyx Facility S4C6",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -2588,32 +2588,32 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "e5e4bf0d-3c05-457c-8b6a-9b7470642167",
-                           "locationName":  "Onyx Facility S1A7",
+                           "locationRef":  "0215cb1c-0baa-4930-877b-5d6d446fe9da",
+                           "locationName":  "Onyx Facility S1A10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "af138034-7769-4269-b3b4-68455f73737a",
-                           "locationName":  "Onyx Facility S1B2",
+                           "locationRef":  "ce4763f2-ce9d-4dbf-a4ba-47f651384130",
+                           "locationName":  "Onyx Facility S1B10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "0acbb3f7-9c73-4df4-8ff4-71e08d87d2fc",
-                           "locationName":  "Onyx Facility S1C5",
+                           "locationRef":  "94accbaa-a0a7-420a-a249-f5a4b94cd193",
+                           "locationName":  "Onyx Facility S1C7",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "2a15c2ab-c9bd-424f-b251-f2a1d1e8adee",
-                           "locationName":  "Onyx Facility S1D4",
+                           "locationRef":  "df7f17da-1018-43db-b494-0d5092673a9b",
+                           "locationName":  "Onyx Facility S1D10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -2644,16 +2644,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "c7e23987-5b0e-4492-ad11-dd35c90012f6",
-                           "locationName":  "Onyx Facility S3A10",
+                           "locationRef":  "5e302473-4f46-47ac-8876-65aacda327bc",
+                           "locationName":  "Onyx Facility S3A2",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "96a83d7c-d3ab-4bcd-8d4c-80cf4bfe3190",
-                           "locationName":  "Onyx Facility S3B10",
+                           "locationRef":  "4b8a930f-719d-49eb-b134-356b2ff70040",
+                           "locationName":  "Onyx Facility S3B8",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -2668,16 +2668,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "b3b89a31-fb76-413e-b9ea-4a6963d59788",
-                           "locationName":  "Onyx Facility S4B5",
+                           "locationRef":  "426de01d-6d56-4f73-8d1d-4cf020e6d35b",
+                           "locationName":  "Onyx Facility S4B4",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "9dde9d01-23b0-4a49-a837-90d24cd1b41f",
-                           "locationName":  "Onyx Facility S4C10",
+                           "locationRef":  "e2e3c600-166e-4106-bd7c-22b10a6974c5",
+                           "locationName":  "Onyx Facility S4C6",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -3201,32 +3201,32 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "e5e4bf0d-3c05-457c-8b6a-9b7470642167",
-                           "locationName":  "Onyx Facility S1A7",
+                           "locationRef":  "0215cb1c-0baa-4930-877b-5d6d446fe9da",
+                           "locationName":  "Onyx Facility S1A10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "af138034-7769-4269-b3b4-68455f73737a",
-                           "locationName":  "Onyx Facility S1B2",
+                           "locationRef":  "ce4763f2-ce9d-4dbf-a4ba-47f651384130",
+                           "locationName":  "Onyx Facility S1B10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "0acbb3f7-9c73-4df4-8ff4-71e08d87d2fc",
-                           "locationName":  "Onyx Facility S1C5",
+                           "locationRef":  "94accbaa-a0a7-420a-a249-f5a4b94cd193",
+                           "locationName":  "Onyx Facility S1C7",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "2a15c2ab-c9bd-424f-b251-f2a1d1e8adee",
-                           "locationName":  "Onyx Facility S1D4",
+                           "locationRef":  "df7f17da-1018-43db-b494-0d5092673a9b",
+                           "locationName":  "Onyx Facility S1D10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -3257,16 +3257,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "c7e23987-5b0e-4492-ad11-dd35c90012f6",
-                           "locationName":  "Onyx Facility S3A10",
+                           "locationRef":  "5e302473-4f46-47ac-8876-65aacda327bc",
+                           "locationName":  "Onyx Facility S3A2",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "96a83d7c-d3ab-4bcd-8d4c-80cf4bfe3190",
-                           "locationName":  "Onyx Facility S3B10",
+                           "locationRef":  "4b8a930f-719d-49eb-b134-356b2ff70040",
+                           "locationName":  "Onyx Facility S3B8",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -3281,16 +3281,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "b3b89a31-fb76-413e-b9ea-4a6963d59788",
-                           "locationName":  "Onyx Facility S4B5",
+                           "locationRef":  "426de01d-6d56-4f73-8d1d-4cf020e6d35b",
+                           "locationName":  "Onyx Facility S4B4",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "9dde9d01-23b0-4a49-a837-90d24cd1b41f",
-                           "locationName":  "Onyx Facility S4C10",
+                           "locationRef":  "e2e3c600-166e-4106-bd7c-22b10a6974c5",
+                           "locationName":  "Onyx Facility S4C6",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -3790,32 +3790,32 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "e5e4bf0d-3c05-457c-8b6a-9b7470642167",
-                           "locationName":  "Onyx Facility S1A7",
+                           "locationRef":  "0215cb1c-0baa-4930-877b-5d6d446fe9da",
+                           "locationName":  "Onyx Facility S1A10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "af138034-7769-4269-b3b4-68455f73737a",
-                           "locationName":  "Onyx Facility S1B2",
+                           "locationRef":  "ce4763f2-ce9d-4dbf-a4ba-47f651384130",
+                           "locationName":  "Onyx Facility S1B10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "0acbb3f7-9c73-4df4-8ff4-71e08d87d2fc",
-                           "locationName":  "Onyx Facility S1C5",
+                           "locationRef":  "94accbaa-a0a7-420a-a249-f5a4b94cd193",
+                           "locationName":  "Onyx Facility S1C7",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "2a15c2ab-c9bd-424f-b251-f2a1d1e8adee",
-                           "locationName":  "Onyx Facility S1D4",
+                           "locationRef":  "df7f17da-1018-43db-b494-0d5092673a9b",
+                           "locationName":  "Onyx Facility S1D10",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -3846,16 +3846,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "c7e23987-5b0e-4492-ad11-dd35c90012f6",
-                           "locationName":  "Onyx Facility S3A10",
+                           "locationRef":  "5e302473-4f46-47ac-8876-65aacda327bc",
+                           "locationName":  "Onyx Facility S3A2",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "96a83d7c-d3ab-4bcd-8d4c-80cf4bfe3190",
-                           "locationName":  "Onyx Facility S3B10",
+                           "locationRef":  "4b8a930f-719d-49eb-b134-356b2ff70040",
+                           "locationName":  "Onyx Facility S3B8",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
@@ -3870,16 +3870,16 @@
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "b3b89a31-fb76-413e-b9ea-4a6963d59788",
-                           "locationName":  "Onyx Facility S4B5",
+                           "locationRef":  "426de01d-6d56-4f73-8d1d-4cf020e6d35b",
+                           "locationName":  "Onyx Facility S4B4",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",
                            "missionRef":  null
                        },
                        {
-                           "locationRef":  "9dde9d01-23b0-4a49-a837-90d24cd1b41f",
-                           "locationName":  "Onyx Facility S4C10",
+                           "locationRef":  "e2e3c600-166e-4106-bd7c-22b10a6974c5",
+                           "locationName":  "Onyx Facility S4C6",
                            "source":  "level_placement",
                            "scope":  "variant",
                            "detail":  "",

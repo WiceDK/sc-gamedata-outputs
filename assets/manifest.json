@@ -1,5 +1,5 @@
 ﻿{
-    "totalFiles":  3737,
+    "totalFiles":  3765,
     "files":  [
                   {
                       "path":  "icons/aciedo/f_aciedo_header.svg",
@@ -4097,6 +4097,20 @@
                       "sha256":  "d1c2dd2dbae7621aa85cd7de3788a18e1a0de3fa88072b160eb6070f16f04ac3"
                   },
                   {
+                      "path":  "icons/general/brandlogos/icon_brand_anvil_outlined.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "icon_brand_anvil_outlined",
+                      "format":  "svg",
+                      "sha256":  "12bbbda99c27cde6523710dbf8d2f8a71f33d6d854a081a658f797835c45b42e"
+                  },
+                  {
+                      "path":  "icons/general/brandlogos/icon_brand_anvil_wordmark.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "icon_brand_anvil_wordmark",
+                      "format":  "svg",
+                      "sha256":  "99879c030b90375afa48a3e7b8fcb56618dee9608f470e8239963833c9feaa3d"
+                  },
+                  {
                       "path":  "icons/general/brandlogos/icon_brand_aopoa.svg",
                       "category":  "icons/general/brandlogos",
                       "name":  "icon_brand_aopoa",
@@ -4179,6 +4193,13 @@
                       "name":  "icon_brand_klescher",
                       "format":  "svg",
                       "sha256":  "ac391ee80ce556e96fda00b77b543069807680af975df323ea2ef7db9afcfc1d"
+                  },
+                  {
+                      "path":  "icons/general/brandlogos/icon_brand_kruger.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "icon_brand_kruger",
+                      "format":  "svg",
+                      "sha256":  "0b1cbfbff5e5f13e6ca03215f8be7b2b0ae800f7e3342e2a144acc679c57ad05"
                   },
                   {
                       "path":  "icons/general/brandlogos/icon_brand_makau.svg",
@@ -4272,6 +4293,13 @@
                       "sha256":  "807a42a1885137cd0a039b57afb0269900e8f1f32a72df29e535322663c738e5"
                   },
                   {
+                      "path":  "icons/general/brandlogos/icon_tobin_expocenter.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "icon_tobin_expocenter",
+                      "format":  "svg",
+                      "sha256":  "87b59f711abf4c5061d5594ab680dfcded03fbcdfb241fcb1717ccd669f2a4a8"
+                  },
+                  {
                       "path":  "icons/general/brandlogos/logo_aciedo_a.svg",
                       "category":  "icons/general/brandlogos",
                       "name":  "logo_aciedo_a",
@@ -4293,6 +4321,20 @@
                       "sha256":  "a2bb3b88b4ba79fc765ad6bf7a99c8de34f4f32c3d3ae1633f26b50ff539290a"
                   },
                   {
+                      "path":  "icons/general/brandlogos/logo_anvil_alt_stacked.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "logo_anvil_alt_stacked",
+                      "format":  "svg",
+                      "sha256":  "14a12c031ff7a15dd5175e87900ec138c3e911eb36a34b67c7f9599b1cca8fd5"
+                  },
+                  {
+                      "path":  "icons/general/brandlogos/logo_anvil_alt_stacked_outlined.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "logo_anvil_alt_stacked_outlined",
+                      "format":  "svg",
+                      "sha256":  "eaba6db06462e1f7d02e9e0a7f2d7a13f6564c77522094d90d88028674fa5649"
+                  },
+                  {
                       "path":  "icons/general/brandlogos/logo_aopoa_a.svg",
                       "category":  "icons/general/brandlogos",
                       "name":  "logo_aopoa_a",
@@ -4305,6 +4347,13 @@
                       "name":  "logo_argo_astronautics_a",
                       "format":  "svg",
                       "sha256":  "c57b31fd524258d91af270da897fd7862f647207061a4ba62527d2e7e4acc657"
+                  },
+                  {
+                      "path":  "icons/general/brandlogos/logo_asd_alt_light.svg",
+                      "category":  "icons/general/brandlogos",
+                      "name":  "logo_asd_alt_light",
+                      "format":  "svg",
+                      "sha256":  "3d3188ed8695cdd318088d48e1585340b1d81386e33cb136084eab288c31a45a"
                   },
                   {
                       "path":  "icons/general/brandlogos/logo_banu_a.svg",
@@ -7065,6 +7114,97 @@
                       "sha256":  "a7bb4adaf24a4840ffed8bcc9f20880cb5a5eaaa38ba041d7d62375f4f28f408"
                   },
                   {
+                      "path":  "icons/general/guildlogos/logo_guild_aos_dark.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_aos_dark",
+                      "format":  "svg",
+                      "sha256":  "022daa30a5b124ce4b54e21ab482ffbea35300f3b33bf1236a7e8d6348f499cb"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_aos_light.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_aos_light",
+                      "format":  "svg",
+                      "sha256":  "9789c68dec072eddeff2ba20367ff36d02697423f257298b138bf24390318303"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_itg.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_itg",
+                      "format":  "svg",
+                      "sha256":  "9069bfd498c986d6ef4ed89274f5bdb8a92d85b5a9e7931fd7d8f0949802b6a0"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_itg_alt.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_itg_alt",
+                      "format":  "svg",
+                      "sha256":  "659f780cacdaf2ebee807ff0db0f2ca593cc76ce49422c491f6e0cb9888d4155"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_itg_alt_mono.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_itg_alt_mono",
+                      "format":  "svg",
+                      "sha256":  "779c0aa06ed3d120102673b625586c368c1f54af1f7467bf13dbfda2949aa0d1"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_itg_grey.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_itg_grey",
+                      "format":  "svg",
+                      "sha256":  "db0f809b62d4cf364fbf5f804ceea0e471210dfb1554d576883f7b3837e8e65f"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_itg_mono.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_itg_mono",
+                      "format":  "svg",
+                      "sha256":  "f8ac7bab1d47bf9232c5e844225ff920f18d10ea7ae291b252c2f6b8802b5302"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_mercenary.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_mercenary",
+                      "format":  "svg",
+                      "sha256":  "8348f8f0b2d41d1c87ce0bc9b3e261cfccdd1c6e5dd02ef4cc4c8f572915acd8"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_mercenary_crest.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_mercenary_crest",
+                      "format":  "svg",
+                      "sha256":  "7047ca7a19823f529b41b2e794696ea3a88e66dac58f8a8e721f3b78ed456845"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_mercenary_crest_light.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_mercenary_crest_light",
+                      "format":  "svg",
+                      "sha256":  "c17cd40abdf6b6bfd6142f5d815f09e5dfa5d8b9f40ad833091b91a4aef947d2"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_mercenary_horizontal.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_mercenary_horizontal",
+                      "format":  "svg",
+                      "sha256":  "357284437e3f88ea426851f7f7f65f5cc8b9b7b591acf5939bcf7a38bdbf45ea"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_urw.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_urw",
+                      "format":  "svg",
+                      "sha256":  "66b23db10409d73fbc7ced5a0cbb57f4afe4d85fe5c72edfc13f91cd17b59f0f"
+                  },
+                  {
+                      "path":  "icons/general/guildlogos/logo_guild_urw_light.svg",
+                      "category":  "icons/general/guildlogos",
+                      "name":  "logo_guild_urw_light",
+                      "format":  "svg",
+                      "sha256":  "88126d281c157f3cf9841af0e6f94e941f67b6e55fa54bf6ca73c55b38c0b1f9"
+                  },
+                  {
                       "path":  "icons/general/interactionpromptborder.svg",
                       "category":  "icons/general",
                       "name":  "interactionpromptborder",
@@ -9548,6 +9688,13 @@
                       "name":  "icon_common_minimap_eva",
                       "format":  "svg",
                       "sha256":  "56c8e7ce8c885726e852f168db3f7d05ec02935dc57b0ed98268e35e4d7d6198"
+                  },
+                  {
+                      "path":  "icons/i_interactivescreens/i_door/rsi_2025/rsi_2025_doorpanel_greeble1.svg",
+                      "category":  "icons/i_interactivescreens/i_door/rsi_2025",
+                      "name":  "rsi_2025_doorpanel_greeble1",
+                      "format":  "svg",
+                      "sha256":  "31631bb328aef2fffaa71f92ded7993febe9abe5825bcf9c07b7f7c5cafc7d53"
                   },
                   {
                       "path":  "icons/i_interactivescreens/i_door/uilo_c/i_door_basic_framegreeble.svg",
@@ -20722,6 +20869,13 @@
                       "sha256":  "2908a77e2778975b81a52305dded00614b3441bf3c90c65a6377b246e31b04f9"
                   },
                   {
+                      "path":  "icons/ships/anvl/hawk/hawkhudborder_2.svg",
+                      "category":  "icons/ships/anvl/hawk",
+                      "name":  "hawkhudborder_2",
+                      "format":  "svg",
+                      "sha256":  "a41fc81f9f79d573ce996380202de4e34065af1582daeefc14fb13fc08d35e28"
+                  },
+                  {
                       "path":  "icons/ships/argo/aim/argo_visor_pt_bracket_1.svg",
                       "category":  "icons/ships/argo/aim",
                       "name":  "argo_visor_pt_bracket_1",
@@ -24766,6 +24920,48 @@
                       "name":  "vvi_forwards",
                       "format":  "svg",
                       "sha256":  "f7d4440708ed805e929903ecb048532f0840f5789e2f1864a481855523d3a84d"
+                  },
+                  {
+                      "path":  "icons/weapons/asad/asad_flame_icon.svg",
+                      "category":  "icons/weapons/asad",
+                      "name":  "asad_flame_icon",
+                      "format":  "svg",
+                      "sha256":  "679565bb8b009337e4a892c2d718f3518ba5b047340e69d57ebe525359f96e76"
+                  },
+                  {
+                      "path":  "icons/weapons/asad/asad_greeble_playhead_01.svg",
+                      "category":  "icons/weapons/asad",
+                      "name":  "asad_greeble_playhead_01",
+                      "format":  "svg",
+                      "sha256":  "e725dae76e07fa61b9ab0705f1a7fc0c28182208fe176863d6f4ef95187d1761"
+                  },
+                  {
+                      "path":  "icons/weapons/asad/asad_greeble_playhead_02.svg",
+                      "category":  "icons/weapons/asad",
+                      "name":  "asad_greeble_playhead_02",
+                      "format":  "svg",
+                      "sha256":  "ceb16b749b5c08b0da0129f64f76ada044f0db3f9ebcc5c5c9dfaa422fb800f2"
+                  },
+                  {
+                      "path":  "icons/weapons/asad/asad_heat_playhead_02.svg",
+                      "category":  "icons/weapons/asad",
+                      "name":  "asad_heat_playhead_02",
+                      "format":  "svg",
+                      "sha256":  "820d949b1cf73ff238b9976cd3a9be84b630304f65b1f51d6997d0f363ec2a8d"
+                  },
+                  {
+                      "path":  "icons/weapons/asad/asad_heat_playhead_02_bg.svg",
+                      "category":  "icons/weapons/asad",
+                      "name":  "asad_heat_playhead_02_bg",
+                      "format":  "svg",
+                      "sha256":  "c35371ed8860e3702079b00d92a1adbcc7d2bece1c35929cb3db55f48b243462"
+                  },
+                  {
+                      "path":  "icons/weapons/asad/asad_power_shot_icon.svg",
+                      "category":  "icons/weapons/asad",
+                      "name":  "asad_power_shot_icon",
+                      "format":  "svg",
+                      "sha256":  "756267c0f5b6458810b7d3971745fa01987f14957a96278a520516a26a6fefd4"
                   },
                   {
                       "path":  "icons/weapons/behr/behr_reticle.svg",

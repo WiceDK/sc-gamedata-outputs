@@ -9,6 +9,10 @@
         "refinedVersionName":  null,
         "salvageShips":  [
                              {
+                                 "controllerRef":  "ed111594-aa97-45fc-aae1-3df09c5da461",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_gama_hyun.xml"
+                             },
+                             {
                                  "controllerRef":  "b9b21470-d973-4b8a-aa55-3b5a42506e88",
                                  "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_toolarm.xml"
                              }
@@ -62,28 +66,32 @@
         "refinedVersionName":  null,
         "salvageShips":  [
                              {
-                                 "controllerRef":  "56157788-054f-4994-b840-062c638023f9",
-                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_drak_vulture.xml"
+                                 "controllerRef":  "ed111594-aa97-45fc-aae1-3df09c5da461",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_gama_hyun.xml"
                              },
                              {
-                                 "controllerRef":  "eb314b77-43f2-4075-8947-a444be046726",
-                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_misc_fortune.xml"
+                                 "controllerRef":  "56157788-054f-4994-b840-062c638023f9",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_drak_vulture.xml"
                              },
                              {
                                  "controllerRef":  "774ee326-7264-49da-9ddc-b324360f739d",
                                  "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_rsi_salvation.xml"
                              },
                              {
-                                 "controllerRef":  "8e922d42-1013-4cbf-841a-df057908df2b",
-                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_right.xml"
+                                 "controllerRef":  "eb314b77-43f2-4075-8947-a444be046726",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_misc_fortune.xml"
+                             },
+                             {
+                                 "controllerRef":  "c492c204-b7fa-4489-8db7-f5f1b6e8fdac",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_frontcab.xml"
                              },
                              {
                                  "controllerRef":  "b16c9a55-8f9e-4fed-acee-52c8248cd9cd",
                                  "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_aegs_reclaimer_turret.xml"
                              },
                              {
-                                 "controllerRef":  "c492c204-b7fa-4489-8db7-f5f1b6e8fdac",
-                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_frontcab.xml"
+                                 "controllerRef":  "8e922d42-1013-4cbf-841a-df057908df2b",
+                                 "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\entities\\scitem\\ships\\controller\\controller_salvage_argo_moth_right.xml"
                              },
                              {
                                  "controllerRef":  "ba2a5625-c6ed-4bf1-bb39-20d0a08efb7a",

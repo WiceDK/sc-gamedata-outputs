@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-11T07:09:16",
+    "generatedAt":  "2026-11-16T19:19:24",
     "mode":  "raw-first",
     "sourceRoots":  [
                         "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\starmap",
@@ -7,9 +7,9 @@
                     ],
     "rulesPath":  "src\\contracts\\normalization-rules-v2.json",
     "records":  1707,
-    "missionRecords":  2089,
-    "recordsWithPosition":  708,
-    "positionsWithheldAmbiguous":  9,
+    "missionRecords":  2090,
+    "recordsWithPosition":  1144,
+    "positionsWithheldAmbiguous":  11,
     "beltGeometries":  [
                            "Glaciem Ring (segmented)",
                            "Keeger Belt (segmented)",
@@ -20,6 +20,10 @@
     "unplacedRingContainers":  [
                                    "Data/ObjectContainers/PU/station/motel/stanton_2c_yela_planetonly.socpak"
                                ],
+    "jumpPointsWithDestination":  6,
+    "unresolvedJumpPoints":  [
+
+                             ],
     "parseErrors":  0,
     "output":  {
                    "missionIndex":  "outputs\\enriched\\MissionLocations\\mission_location_full.json",

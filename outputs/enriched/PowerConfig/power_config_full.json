@@ -18,8 +18,8 @@
                                 "poolDefaultEngines":  0.5,
                                 "poolDefaultShields":  0.5,
                                 "powerDistPoolsFillMin":  1,
-                                "powerDistCoolerMin":  1,
-                                "powerDistPoolsProportion":  1
+                                "powerDistCoolerMin":  0.5,
+                                "powerDistPoolsProportion":  0.5
                             },
     "powerModifierLevels":  [
                                 0,

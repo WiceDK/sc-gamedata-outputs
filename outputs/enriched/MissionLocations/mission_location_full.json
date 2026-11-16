@@ -66607,6 +66607,49 @@
         "system_name":  null
     },
     {
+        "ref":  "c4dc587b-4636-4456-8387-28fb834683b9",
+        "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidbase\\miningasteroidbase_nyx_keeger_vanduulinc.xml",
+        "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidbase/miningasteroidbase_nyx_keeger_vanduulinc.xml",
+        "rootElement":  "MissionLocationTemplate.MiningAsteroidBase_Nyx_Keeger_VanduulInc",
+        "sourceType":  "MissionLocationTemplate",
+        "navIcon":  null,
+        "objectType":  null,
+        "markerIcon":  null,
+        "locationClass":  "unknown",
+        "respawnLocationType":  null,
+        "hideInStarmap":  null,
+        "isScannable":  null,
+        "blockTravel":  null,
+        "missionSelectable":  null,
+        "pathTypeHint":  null,
+        "rawNameToken":  "@Kaboos_Starmap_Name",
+        "rawDescriptionToken":  null,
+        "resolvedName":  "QV Logistics Station",
+        "designation":  null,
+        "resolvedDescription":  null,
+        "amenityRefs":  [
+
+                        ],
+        "parent":  null,
+        "parent_id":  null,
+        "parent_name":  null,
+        "childRefs":  [
+
+                      ],
+        "ancestors":  [
+
+                      ],
+        "resolvedReferences":  [
+
+                               ],
+        "quantumTravel":  null,
+        "jurisdictionRef":  null,
+        "systemRef":  null,
+        "systemName":  null,
+        "system_id":  null,
+        "system_name":  null
+    },
+    {
         "ref":  "9fcae396-3c67-4c89-bc44-cf796764ba05",
         "sourcePath":  "outputs\\raw-extracted\\Data\\libs\\foundry\\records\\missiondata\\pu_locations\\templates\\system\\asteroidbase\\miningasteroidbase_pyro.xml",
         "sourceDataPath":  "libs/foundry/records/missiondata/pu_locations/templates/system/asteroidbase/miningasteroidbase_pyro.xml",
@@ -83177,9 +83220,9 @@
         "blockTravel":  null,
         "missionSelectable":  null,
         "pathTypeHint":  null,
-        "rawNameToken":  "@mission_location_stanton_611",
+        "rawNameToken":  "@mission_location_stanton1100",
         "rawDescriptionToken":  null,
-        "resolvedName":  "a derelict outpost",
+        "resolvedName":  "Abandoned Facility",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -83220,9 +83263,9 @@
         "blockTravel":  null,
         "missionSelectable":  null,
         "pathTypeHint":  null,
-        "rawNameToken":  "@mission_location_stanton_611",
+        "rawNameToken":  "@mission_location_stanton1100",
         "rawDescriptionToken":  null,
-        "resolvedName":  "a derelict outpost",
+        "resolvedName":  "Abandoned Facility",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -83263,9 +83306,9 @@
         "blockTravel":  null,
         "missionSelectable":  null,
         "pathTypeHint":  null,
-        "rawNameToken":  "@mission_location_stanton_611",
+        "rawNameToken":  "@mission_location_stanton1100",
         "rawDescriptionToken":  null,
-        "resolvedName":  "a derelict outpost",
+        "resolvedName":  "Abandoned Facility",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -86918,9 +86961,9 @@
         "blockTravel":  null,
         "missionSelectable":  null,
         "pathTypeHint":  null,
-        "rawNameToken":  "@mission_location_stanton_611",
+        "rawNameToken":  "@mission_location_stanton1100",
         "rawDescriptionToken":  null,
-        "resolvedName":  "a derelict outpost",
+        "resolvedName":  "Abandoned Facility",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -87821,9 +87864,9 @@
         "blockTravel":  null,
         "missionSelectable":  null,
         "pathTypeHint":  null,
-        "rawNameToken":  "@mission_location_stanton_611",
+        "rawNameToken":  "@mission_location_stanton1100",
         "rawDescriptionToken":  null,
-        "resolvedName":  "a derelict outpost",
+        "resolvedName":  "Abandoned Facility",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
@@ -88681,9 +88724,9 @@
         "blockTravel":  null,
         "missionSelectable":  null,
         "pathTypeHint":  null,
-        "rawNameToken":  "@mission_location_stanton_611",
+        "rawNameToken":  "@mission_location_stanton1100",
         "rawDescriptionToken":  null,
-        "resolvedName":  "a derelict outpost",
+        "resolvedName":  "Abandoned Facility",
         "designation":  null,
         "resolvedDescription":  null,
         "amenityRefs":  [
