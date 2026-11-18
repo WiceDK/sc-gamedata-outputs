@@ -25,6 +25,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -54,6 +57,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -83,6 +89,9 @@
                                  "8f791865-9252-41d6-afd1-31783fd22674",
                                  "6e3b98f1-4eb2-4128-958f-c550e418c5a6"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -111,6 +120,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -142,6 +154,9 @@
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4",
                                  "1b2bc98f-092d-4c6e-85a3-0b159ba8e57b"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -170,6 +185,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -198,6 +216,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -227,6 +248,9 @@
         "enemyFactionRefs":  [
                                  "14789370-bf3a-42b9-ac55-a49ee406e1f1"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -255,6 +279,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -281,6 +308,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -321,6 +351,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/Aciedo_256.tif",
                            "isNpc":  false,
@@ -359,6 +392,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_adagioholdings.tif",
                            "isNpc":  false,
@@ -397,6 +433,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -425,6 +464,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_arccorp.tif",
                            "isNpc":  false,
@@ -464,6 +506,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -492,6 +537,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_BitZeros_logo.tif",
                            "isNpc":  false,
@@ -530,6 +578,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -558,6 +609,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_bountyhunterguild.tif",
                            "isNpc":  false,
@@ -597,6 +651,48 @@
                                  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
                                  "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
                              ],
+        "conductPenalties":  [
+                                 {
+                                     "trigger":  "KillActor",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -500,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 },
+                                 {
+                                     "trigger":  "Manslaughter",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -500,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 },
+                                 {
+                                     "trigger":  "KnockoutActor",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -100,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 },
+                                 {
+                                     "trigger":  "HighBDL",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -100,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 }
+                             ],
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/org_cfp_icon_main_cream.tif",
                            "isNpc":  false,
@@ -635,6 +731,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -663,6 +762,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -689,6 +791,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -729,6 +834,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_clovusdarneely.tif",
                            "isNpc":  false,
@@ -767,6 +875,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_covalex.tif",
                            "isNpc":  false,
@@ -805,6 +916,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/mfr_crusader_icon_white-blue.tif",
                            "isNpc":  false,
@@ -843,6 +957,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -869,6 +986,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -909,6 +1029,9 @@
         "enemyFactionRefs":  [
                                  "3ea7569e-c92f-4874-8ffa-12f0338e58b7"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -937,6 +1060,9 @@
         "enemyFactionRefs":  [
                                  "53c09a46-8238-4cf8-8a20-c4abd54c0b7b"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -965,6 +1091,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_foxwellenforcement.tif",
                            "isNpc":  false,
@@ -1006,6 +1135,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1032,6 +1164,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -1073,6 +1208,48 @@
                                  "14789370-bf3a-42b9-ac55-a49ee406e1f1",
                                  "cd2b32d1-0362-41fb-8cfd-d29781daf789"
                              ],
+        "conductPenalties":  [
+                                 {
+                                     "trigger":  "KillActor",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -500,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 },
+                                 {
+                                     "trigger":  "Manslaughter",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -500,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 },
+                                 {
+                                     "trigger":  "KnockoutActor",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -100,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 },
+                                 {
+                                     "trigger":  "HighBDL",
+                                     "infractionDefinitionRef":  null,
+                                     "innocentsOnly":  false,
+                                     "amount":  -100,
+                                     "scopeRef":  "d31bd373-35ab-4ea4-b0a7-0ccc867ef082",
+                                     "scopeName":  "FactionReputation",
+                                     "triggerRecordRef":  "5439c0de-f891-458b-859c-3407653d21a1",
+                                     "triggerRecordName":  "GrievousHarm_AI_Pyro"
+                                 }
+                             ],
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_Headhunters_Icon_1x1.tif",
                            "isNpc":  false,
@@ -1109,6 +1286,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -1149,6 +1329,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  [
+
+                             ],
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_hockrow.tif",
                            "isNpc":  false,
@@ -1187,6 +1370,9 @@
         "enemyFactionRefs":  [
                                  "e2382ebf-f6cf-4603-b32d-e110b873c9bb"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1215,6 +1401,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_hurstondynamics.tif",
                            "isNpc":  false,
@@ -1253,6 +1442,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1279,6 +1471,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -1319,6 +1514,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_klesherrehabfacility.tif",
                            "isNpc":  false,
@@ -1357,6 +1555,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_lingfamily.tif",
                            "isNpc":  false,
@@ -1395,6 +1596,9 @@
         "enemyFactionRefs":  [
                                  "b46d74e1-44c3-479a-ba0f-ba3f07d66529"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_microtech.tif",
                            "isNpc":  false,
@@ -1433,6 +1637,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_eckhart_a_diff.tif",
                            "isNpc":  false,
@@ -1471,6 +1678,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1499,6 +1709,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1528,6 +1741,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1554,6 +1770,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -1594,6 +1813,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1622,6 +1844,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_rayari_diff.tif",
                            "isNpc":  false,
@@ -1658,6 +1883,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -1698,6 +1926,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  [
+
+                             ],
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_redwind.tif",
                            "isNpc":  false,
@@ -1736,6 +1967,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rsi_logo_a.tif",
                            "isNpc":  false,
@@ -1774,6 +2008,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1802,6 +2039,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_ruto.tif",
                            "isNpc":  false,
@@ -1840,6 +2080,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1868,6 +2111,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1896,6 +2142,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1926,6 +2175,9 @@
                                  "aef097ed-6b30-45a2-b5c1-d7fce4f24acc",
                                  "b2ee3a3c-5ca1-4179-b709-3ad9d2fb5fcd"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -1954,6 +2206,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_shubininterstellar.tif",
                            "isNpc":  false,
@@ -1992,6 +2247,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_tarpits.tif",
                            "isNpc":  false,
@@ -2028,6 +2286,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -2068,6 +2329,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -2096,6 +2360,9 @@
         "enemyFactionRefs":  [
                                  "06f294ce-5a79-49c3-88b9-e6ba023887a4"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -2122,6 +2389,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -2162,6 +2432,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_uwc_diff.tif",
                            "isNpc":  false,
@@ -2200,6 +2473,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  null
     },
     {
@@ -2228,6 +2504,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_vaughn.tif",
                            "isNpc":  false,
@@ -2266,6 +2545,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_NPC_wallaceklim.tif",
                            "isNpc":  false,
@@ -2302,6 +2584,9 @@
 
                               ],
         "enemyFactionRefs":  [
+
+                             ],
+        "conductPenalties":  [
 
                              ],
         "reputation":  {
@@ -2342,6 +2627,9 @@
         "enemyFactionRefs":  [
 
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/rep_ui_icon_logo_wildstarracing.tif",
                            "isNpc":  false,
@@ -2381,6 +2669,9 @@
                                  "cd2b32d1-0362-41fb-8cfd-d29781daf789",
                                  "9f89edc0-441b-4f40-a502-df12ebf3f1eb"
                              ],
+        "conductPenalties":  {
+
+                             },
         "reputation":  {
                            "logoPath":  "UI/SharedAssets/ManufacturerLogos/Branding_XenoThreat_Icon_1x1.tif",
                            "isNpc":  false,
