@@ -23,6 +23,32 @@
                                    "1d33767e-d9af-449c-a717-7e4de02f00b3",
                                    "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f"
                                ],
+        "prohibitedGoods":  [
+                                {
+                                    "ref":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                    "resourceRef":  "c93a256a-66eb-41ef-a4eb-f14972976694"
+                                },
+                                {
+                                    "ref":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                    "resourceRef":  "3871740a-f82f-445d-a2e5-8163d1405733"
+                                },
+                                {
+                                    "ref":  "6007e444-0a50-483b-b787-59047e6b0121",
+                                    "resourceRef":  "03a947b5-8cb9-412e-908e-19ff41df4504"
+                                },
+                                {
+                                    "ref":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                    "resourceRef":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b"
+                                },
+                                {
+                                    "ref":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                    "resourceRef":  "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                },
+                                {
+                                    "ref":  "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f",
+                                    "resourceRef":  "ea78052a-11b2-484e-a7ee-d19ed906a037"
+                                }
+                            ],
         "prohibitedResourceRefs":  [
                                        "c93a256a-66eb-41ef-a4eb-f14972976694",
                                        "3871740a-f82f-445d-a2e5-8163d1405733",
@@ -41,6 +67,28 @@
                                                                      "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
                                                                      "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                       "resourceRef":  "a69c19f9-f33e-4c87-bfd2-09663585d158"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                       "resourceRef":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
                                                                     "a69c19f9-f33e-4c87-bfd2-09663585d158",
@@ -54,6 +102,16 @@
                                                                      "20155793-a24c-48fc-a986-26b442145858",
                                                                      "c106984b-73fe-4e6b-aa72-65c14443e171"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                       "resourceRef":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                       "resourceRef":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
                                                                     "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5"
@@ -65,6 +123,16 @@
                                                                      "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
                                                                      "ab0b493c-9faf-401e-a27b-a81998bf07a5"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                       "resourceRef":  "6fc6df10-0267-4097-8233-67983e594669"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ab0b493c-9faf-401e-a27b-a81998bf07a5",
+                                                                       "resourceRef":  "ba11589f-a278-44e9-9bd9-79552832fc94"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "6fc6df10-0267-4097-8233-67983e594669",
                                                                     "ba11589f-a278-44e9-9bd9-79552832fc94"
@@ -91,6 +159,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -124,6 +195,40 @@
                                    "1d33767e-d9af-449c-a717-7e4de02f00b3",
                                    "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f"
                                ],
+        "prohibitedGoods":  [
+                                {
+                                    "ref":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                    "resourceRef":  "c93a256a-66eb-41ef-a4eb-f14972976694"
+                                },
+                                {
+                                    "ref":  "2d70b5eb-0691-4270-b173-f91b7f59ee88",
+                                    "resourceRef":  "2ed08e8e-7d46-4056-b877-42809af9905b"
+                                },
+                                {
+                                    "ref":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                    "resourceRef":  "3871740a-f82f-445d-a2e5-8163d1405733"
+                                },
+                                {
+                                    "ref":  "b294c88b-b988-4413-94bc-70f71f9401f6",
+                                    "resourceRef":  "460e7516-8162-4d02-bcbb-09deec89df1f"
+                                },
+                                {
+                                    "ref":  "6007e444-0a50-483b-b787-59047e6b0121",
+                                    "resourceRef":  "03a947b5-8cb9-412e-908e-19ff41df4504"
+                                },
+                                {
+                                    "ref":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                    "resourceRef":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b"
+                                },
+                                {
+                                    "ref":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                    "resourceRef":  "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                },
+                                {
+                                    "ref":  "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f",
+                                    "resourceRef":  "ea78052a-11b2-484e-a7ee-d19ed906a037"
+                                }
+                            ],
         "prohibitedResourceRefs":  [
                                        "c93a256a-66eb-41ef-a4eb-f14972976694",
                                        "2ed08e8e-7d46-4056-b877-42809af9905b",
@@ -144,6 +249,28 @@
                                                                      "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
                                                                      "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                       "resourceRef":  "a69c19f9-f33e-4c87-bfd2-09663585d158"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                       "resourceRef":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
                                                                     "a69c19f9-f33e-4c87-bfd2-09663585d158",
@@ -156,6 +283,12 @@
                                                "commodityRefs":  [
                                                                      "20155793-a24c-48fc-a986-26b442145858"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                       "resourceRef":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "ca8dcc9f-35d9-4652-b270-7db91ccd25a8"
                                                                 ]
@@ -167,6 +300,20 @@
                                                                      "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
                                                                      "ab0b493c-9faf-401e-a27b-a81998bf07a5"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                       "resourceRef":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                       "resourceRef":  "6fc6df10-0267-4097-8233-67983e594669"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ab0b493c-9faf-401e-a27b-a81998bf07a5",
+                                                                       "resourceRef":  "ba11589f-a278-44e9-9bd9-79552832fc94"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
                                                                     "6fc6df10-0267-4097-8233-67983e594669",
@@ -194,6 +341,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -220,6 +370,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -249,6 +402,24 @@
                                    "0df1df2d-6b65-4331-9394-3908953cd279",
                                    "1d33767e-d9af-449c-a717-7e4de02f00b3"
                                ],
+        "prohibitedGoods":  [
+                                {
+                                    "ref":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                    "resourceRef":  "c93a256a-66eb-41ef-a4eb-f14972976694"
+                                },
+                                {
+                                    "ref":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                    "resourceRef":  "3871740a-f82f-445d-a2e5-8163d1405733"
+                                },
+                                {
+                                    "ref":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                    "resourceRef":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b"
+                                },
+                                {
+                                    "ref":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                    "resourceRef":  "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                }
+                            ],
         "prohibitedResourceRefs":  [
                                        "c93a256a-66eb-41ef-a4eb-f14972976694",
                                        "3871740a-f82f-445d-a2e5-8163d1405733",
@@ -265,6 +436,28 @@
                                                                      "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
                                                                      "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                       "resourceRef":  "a69c19f9-f33e-4c87-bfd2-09663585d158"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                       "resourceRef":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
                                                                     "a69c19f9-f33e-4c87-bfd2-09663585d158",
@@ -279,6 +472,20 @@
                                                                      "c106984b-73fe-4e6b-aa72-65c14443e171",
                                                                      "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                       "resourceRef":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                       "resourceRef":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                       "resourceRef":  "6fc6df10-0267-4097-8233-67983e594669"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
                                                                     "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
@@ -290,6 +497,12 @@
                                                "commodityRefs":  [
                                                                      "ab0b493c-9faf-401e-a27b-a81998bf07a5"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "ab0b493c-9faf-401e-a27b-a81998bf07a5",
+                                                                       "resourceRef":  "ba11589f-a278-44e9-9bd9-79552832fc94"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "ba11589f-a278-44e9-9bd9-79552832fc94"
                                                                 ]
@@ -315,6 +528,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -349,6 +565,44 @@
                                    "1da71ac6-b728-4a16-81ee-b5cedc465431",
                                    "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f"
                                ],
+        "prohibitedGoods":  [
+                                {
+                                    "ref":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                    "resourceRef":  "c93a256a-66eb-41ef-a4eb-f14972976694"
+                                },
+                                {
+                                    "ref":  "2d70b5eb-0691-4270-b173-f91b7f59ee88",
+                                    "resourceRef":  "2ed08e8e-7d46-4056-b877-42809af9905b"
+                                },
+                                {
+                                    "ref":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                    "resourceRef":  "3871740a-f82f-445d-a2e5-8163d1405733"
+                                },
+                                {
+                                    "ref":  "b294c88b-b988-4413-94bc-70f71f9401f6",
+                                    "resourceRef":  "460e7516-8162-4d02-bcbb-09deec89df1f"
+                                },
+                                {
+                                    "ref":  "6007e444-0a50-483b-b787-59047e6b0121",
+                                    "resourceRef":  "03a947b5-8cb9-412e-908e-19ff41df4504"
+                                },
+                                {
+                                    "ref":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                    "resourceRef":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b"
+                                },
+                                {
+                                    "ref":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                    "resourceRef":  "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                },
+                                {
+                                    "ref":  "1da71ac6-b728-4a16-81ee-b5cedc465431",
+                                    "resourceRef":  "5e079d07-630a-41d5-a314-16381f07e2c3"
+                                },
+                                {
+                                    "ref":  "a468aa6f-f2fa-46a4-b0e9-3e6f60e9e90f",
+                                    "resourceRef":  "ea78052a-11b2-484e-a7ee-d19ed906a037"
+                                }
+                            ],
         "prohibitedResourceRefs":  [
                                        "c93a256a-66eb-41ef-a4eb-f14972976694",
                                        "2ed08e8e-7d46-4056-b877-42809af9905b",
@@ -370,6 +624,28 @@
                                                                      "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
                                                                      "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                       "resourceRef":  "a69c19f9-f33e-4c87-bfd2-09663585d158"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                       "resourceRef":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
                                                                     "a69c19f9-f33e-4c87-bfd2-09663585d158",
@@ -384,6 +660,20 @@
                                                                      "c106984b-73fe-4e6b-aa72-65c14443e171",
                                                                      "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "20155793-a24c-48fc-a986-26b442145858",
+                                                                       "resourceRef":  "ca8dcc9f-35d9-4652-b270-7db91ccd25a8"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c106984b-73fe-4e6b-aa72-65c14443e171",
+                                                                       "resourceRef":  "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f9bb228a-d3d3-4756-a0f1-65bfeca71a1d",
+                                                                       "resourceRef":  "6fc6df10-0267-4097-8233-67983e594669"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "ca8dcc9f-35d9-4652-b270-7db91ccd25a8",
                                                                     "d3c3ec68-b4ac-4504-85b3-e860a70eb9a5",
@@ -411,6 +701,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -437,6 +730,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -466,6 +762,24 @@
                                    "0df1df2d-6b65-4331-9394-3908953cd279",
                                    "1d33767e-d9af-449c-a717-7e4de02f00b3"
                                ],
+        "prohibitedGoods":  [
+                                {
+                                    "ref":  "d1120c0f-2060-429a-b120-34825a16e3e0",
+                                    "resourceRef":  "c93a256a-66eb-41ef-a4eb-f14972976694"
+                                },
+                                {
+                                    "ref":  "c9529853-42a5-4924-bfe8-0a016a1f9218",
+                                    "resourceRef":  "3871740a-f82f-445d-a2e5-8163d1405733"
+                                },
+                                {
+                                    "ref":  "0df1df2d-6b65-4331-9394-3908953cd279",
+                                    "resourceRef":  "4ad4350f-d61a-47c0-809b-78ecba2e4f6b"
+                                },
+                                {
+                                    "ref":  "1d33767e-d9af-449c-a717-7e4de02f00b3",
+                                    "resourceRef":  "a1aac2a9-048d-43da-ba8e-5b090901e845"
+                                }
+                            ],
         "prohibitedResourceRefs":  [
                                        "c93a256a-66eb-41ef-a4eb-f14972976694",
                                        "3871740a-f82f-445d-a2e5-8163d1405733",
@@ -482,6 +796,28 @@
                                                                      "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
                                                                      "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7"
                                                                  ],
+                                               "commodities":  [
+                                                                   {
+                                                                       "ref":  "77fc71bd-e2c2-42d2-8924-b5fae46caf58",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "f73f3601-8edd-4b3b-a5f3-f3bb67f24771",
+                                                                       "resourceRef":  "a69c19f9-f33e-4c87-bfd2-09663585d158"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "61f442d3-ec14-48d1-af2e-bcb50b894d58",
+                                                                       "resourceRef":  "9890f3ac-8b41-4821-a1bd-2d64ab507c2b"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "c76f87fa-4d7d-41a6-adea-ad00b9707b6f",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   },
+                                                                   {
+                                                                       "ref":  "ade7d1f1-bcc6-4335-aca2-a685a5ab9bf7",
+                                                                       "resourceRef":  "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c"
+                                                                   }
+                                                               ],
                                                "resourceRefs":  [
                                                                     "8950d9c5-8a54-4e2c-87a2-c56c1b9edd3c",
                                                                     "a69c19f9-f33e-4c87-bfd2-09663585d158",
@@ -510,6 +846,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
@@ -536,6 +875,9 @@
         "prohibitedGoodRefs":  [
 
                                ],
+        "prohibitedGoods":  [
+
+                            ],
         "prohibitedResourceRefs":  [
 
                                    ],
